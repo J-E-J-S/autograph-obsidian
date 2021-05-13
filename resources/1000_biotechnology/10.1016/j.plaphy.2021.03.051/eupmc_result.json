@@ -1,0 +1,305 @@
+{
+  "id": [
+    "33862500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33862500"
+  ],
+  "doi": [
+    "10.1016/j.plaphy.2021.03.051"
+  ],
+  "title": [
+    "Effect of different copper oxide particles on cell division and related genes of soybean roots."
+  ],
+  "authorString": [
+    "Liu C, Yu Y, Liu H, Xin H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Cai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University Key Laboratory of Plant Biotechnology in Shandong Province, College of Life Sciences, Qingdao Agricultural University, Qingdao, 266109, China. Electronic address: 1398472722@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Y"
+          ],
+          "firstName": [
+            "Yanchong"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University Key Laboratory of Plant Biotechnology in Shandong Province, College of Life Sciences, Qingdao Agricultural University, Qingdao, 266109, China. Electronic address: fuhuodeyihui@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hanzhu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University Key Laboratory of Plant Biotechnology in Shandong Province, College of Life Sciences, Qingdao Agricultural University, Qingdao, 266109, China. Electronic address: bgslhz@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xin H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Xin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University Key Laboratory of Plant Biotechnology in Shandong Province, College of Life Sciences, Qingdao Agricultural University, Qingdao, 266109, China. Electronic address: 198701026@qau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "163"
+      ],
+      "journalIssueId": [
+        "3168317"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant physiology and biochemistry : PPB"
+          ],
+          "ISOAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "NLMid": [
+            "9882449"
+          ],
+          "ISSN": [
+            "0981-9428"
+          ],
+          "ESSN": [
+            "1873-2690"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "205-214"
+  ],
+  "abstractText": [
+    "In this study, soybean (Glycine max) seeds were cultured in distilled water. When the roots were about 2 cm, they were separately treated with copper oxide bulk particles (CuO BPs) suspensions and copper oxide nanoparticle (CuO NPs) suspensions in different concentrations (2, 5 and 10 mg L<sup>-1</sup>) for 24 h and 48 h. Results showed that different concentrations of CuO BPs suspensions had little effect on the structure and cell division of meristematic zone. After CuO NPs treatment, Cu content increased in the roots, accompanied by high reactive oxygen species, malondialdehyde and relative electrical conductivity. CuO NPs significantly inhibited the growth of soybean roots over exposure time and the concentration. The destruction of CuO NPs occurred first in the promeristem, and then in the primary meristem of the meristematic zone. The meristematic cells of roots showed vacuolization, the nuclei swelled and deformed. After 10 mg L<sup>-1</sup> CuO NPs treatment for 48 h, the mitotic index of root cells decreased by 14.28%, and the micronucleus rate increased by 14.33‰. Some cell division genes, such as GmCYCB1; 2, GmCYCU4; 1, GmCYCA1; 1, GmCYCP3; 1, GmCYCD3; 1 and CDC20; 1 were up-regulated or down-regulated with CuO NPs treatments."
+  ],
+  "affiliation": [
+    "University Key Laboratory of Plant Biotechnology in Shandong Province, College of Life Sciences, Qingdao Agricultural University, Qingdao, 266109, China. Electronic address: 1398472722@qq.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Soybeans Roots Copper Oxide Particles Cell Division Micronucleus Cell Cycle-related Genes"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.plaphy.2021.03.051"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-16"
+  ],
+  "firstIndexDate": [
+    "2021-04-18"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-05"
+  ],
+  "firstPublicationDate": [
+    "2021-04-05"
+  ]
+}

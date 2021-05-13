@@ -1,0 +1,477 @@
+{
+  "id": [
+    "33948844"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33948844"
+  ],
+  "doi": [
+    "10.1007/s11356-021-14259-w"
+  ],
+  "title": [
+    "Various strategies applied for the removal of emerging micropollutant sulfamethazine: a systematic review."
+  ],
+  "authorString": [
+    "Mulla SI, Bagewadi ZK, Faniband B, Bilal M, Chae JC, Bankole PO, Saratale GD, Bhargava RN, Gurumurthy DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mulla SI"
+          ],
+          "firstName": [
+            "Sikandar I"
+          ],
+          "lastName": [
+            "Mulla"
+          ],
+          "initials": [
+            "SI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3435-6457",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, School of Applied Sciences, REVA University, Bangalore, 560064, India. sikandar.mulla7@yahoo.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Biotechnology, Jeonbuk National University, Iksan, 54596, Republic of Korea. sikandar.mulla7@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bagewadi ZK"
+          ],
+          "firstName": [
+            "Zabin K"
+          ],
+          "lastName": [
+            "Bagewadi"
+          ],
+          "initials": [
+            "ZK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, KLE Technological University, Hubballi, Karnataka, 580031, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Faniband B"
+          ],
+          "firstName": [
+            "Basheerabegum"
+          ],
+          "lastName": [
+            "Faniband"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, School of Applied Sciences, REVA University, Bangalore, 560064, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bilal M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Bilal"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Science and Food Engineering, Huaiyin Institute of Technology, Huaian, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chae JC"
+          ],
+          "firstName": [
+            "Jong-Chan"
+          ],
+          "lastName": [
+            "Chae"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Biotechnology, Jeonbuk National University, Iksan, 54596, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bankole PO"
+          ],
+          "firstName": [
+            "Paul Olusegun"
+          ],
+          "lastName": [
+            "Bankole"
+          ],
+          "initials": [
+            "PO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pure and Applied Botany, College of Biosciences, Federal University of Agriculture Abeokuta, Ogun State, Abeokuta, 234039, Nigeria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saratale GD"
+          ],
+          "firstName": [
+            "Ganesh Dattatraya"
+          ],
+          "lastName": [
+            "Saratale"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Dongguk University-Seoul, Ilsandong-gu, Goyang-si, Gyeonggi-do 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhargava RN"
+          ],
+          "firstName": [
+            "Ram Naresh"
+          ],
+          "lastName": [
+            "Bhargava"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Environmental Microbiology (DEM), School for Environmental Sciences (SES), Babasaheb Bhimrao Ambedkar University (A Central University), Vidya Vihar, Raebareli Road, Uttar Pradesh, , Lucknow 226 025, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gurumurthy DM"
+          ],
+          "firstName": [
+            "Dummi Mahadevan"
+          ],
+          "lastName": [
+            "Gurumurthy"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, GM Institute of Technology, Davangere, KA, 577006, India. drgurumurthydm@gmit.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3435-6457",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161660"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental science and pollution research international"
+          ],
+          "ISOAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "NLMid": [
+            "9441769"
+          ],
+          "ISSN": [
+            "0944-1344"
+          ],
+          "ESSN": [
+            "1614-7499"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Pharmaceutical active drug(s) especially sulfamethazine (SMZ) is considered as one of the major emerging microcontaminants due its long-term existence in the environmental system and that can influence on the developmental of antibacterial resistance genes. Because of this region it has a great concern in the aquatic system. Moreover, the vast utilization of SMZ, excretion of undigested portion by animals and also through dumping or mishandling, SMZ is frequently detected in various samples (including water) of different places and its surroundings. Additionally, reports shown it has toxic effect against microalgae and mice. Thus, that can lead to several investigators, focusing on removal of SMZ alone or in combination of other drugs in wastewater treatment plants (WWTPs) either by abiotic and/or biotic treatment methods. The present review provides an overview of the toxic effect of SMZ and SMZ degradation/removal in abiotic and biotic processes. Finally, reveals the need of further implication of integrated treatments (including engineered biological mediators) to understand ideal biological approaches for the mineralization of SMZ."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, School of Applied Sciences, REVA University, Bangalore, 560064, India. sikandar.mulla7@yahoo.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016001350005"
+          ],
+          "agency": [
+            "Korea Ministry of Environment (MOE) as The Environmental Health Action Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wastewater",
+        "Sulfamethazine (Smz)",
+        "Abiotic Treatment",
+        "Biotic Treatment"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11356-021-14259-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-06"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-04"
+  ],
+  "firstPublicationDate": [
+    "2021-05-04"
+  ]
+}

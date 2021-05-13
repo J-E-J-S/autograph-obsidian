@@ -1,0 +1,306 @@
+{
+  "id": [
+    "33818232"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33818232"
+  ],
+  "doi": [
+    "10.1080/07388551.2021.1895053"
+  ],
+  "title": [
+    "Advances in laccase-triggered anabolism for biotechnology applications."
+  ],
+  "authorString": [
+    "Sun K, Li S, Si Y, Huang Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sun K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Anhui Province Key Laboratory of Farmland Ecological Conservation and Pollution Prevention, School of Resources and Environment, Anhui Agricultural University, Hefei, Anhui, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shunyao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Resources and Environmental Sciences, Nanjing Agricultural University, Nanjing, Jiangsu, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Si Y"
+          ],
+          "firstName": [
+            "Youbin"
+          ],
+          "lastName": [
+            "Si"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Anhui Province Key Laboratory of Farmland Ecological Conservation and Pollution Prevention, School of Resources and Environment, Anhui Agricultural University, Hefei, Anhui, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Q"
+          ],
+          "firstName": [
+            "Qingguo"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agricultural and Environmental Sciences, Department of Crop and Soil Sciences, University of Georgia, Griffin, GA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146468"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Critical reviews in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "NLMid": [
+            "8505177"
+          ],
+          "ISSN": [
+            "0738-8551"
+          ],
+          "ESSN": [
+            "1549-7801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1-25"
+  ],
+  "abstractText": [
+    "This is the first comprehensive overview of laccase-triggered anabolism from fundamental theory to biotechnology applications. Laccase is a typical biological oxidordeuctase that induces the one-electronic transfer of diverse substrates for engendering four phenoxy radicals with concomitant reduction of O<sub>2</sub> into 2H<sub>2</sub>O. <i>In vivo</i>, laccase can participate in anabolic processes to create multifarious functional biopolymers such as fungal pigments, plant lignins, and insect cuticles, using mono/polyphenols and their derivatives as enzymatic substrates, and is thus conducive to biological tissue morphogenesis and global carbon storage. Exhilaratingly, fungal laccase has high redox potential (<i>E</i>° = 500-800 mV) and thermodynamic efficiency, making it a remarkable candidate for utilization as a versatile catalyst in the green and circular economy. This review elaborates the anabolic mechanisms of laccase in initiating the polymerization of natural phenolic compounds and their derivatives <i>in vivo via</i> radical-based self/cross-coupling. Information is also presented on laccase immobilization engineering that expands the practical application ranges of laccase in biotechnology by improving the enzymatic catalytic activity, stability, and reuse rate. Particularly, advances in biotechnology applications <i>in vitro</i> through fungal laccase-triggered macromolecular biosynthesis may provide a key research direction beneficial to the rational design of green chemistry."
+  ],
+  "affiliation": [
+    "Anhui Province Key Laboratory of Farmland Ecological Conservation and Pollution Prevention, School of Resources and Environment, Anhui Agricultural University, Hefei, Anhui, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immobilization",
+        "Laccase",
+        "Anabolism",
+        "Green Chemistry",
+        "Biotechnology Applications"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/07388551.2021.1895053"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-05"
+  ],
+  "firstIndexDate": [
+    "2021-04-06"
+  ],
+  "dateOfRevision": [
+    "2021-04-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-04"
+  ],
+  "firstPublicationDate": [
+    "2021-04-04"
+  ]
+}

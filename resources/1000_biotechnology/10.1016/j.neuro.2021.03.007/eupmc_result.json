@@ -1,0 +1,366 @@
+{
+  "id": [
+    "33774064"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33774064"
+  ],
+  "doi": [
+    "10.1016/j.neuro.2021.03.007"
+  ],
+  "title": [
+    "Superoxide dismutase 1 (SOD1) and cadmium: A three models approach to the comprehension of its neurotoxic effects."
+  ],
+  "authorString": [
+    "Bovio F, Sciandrone B, Urani C, Fusi P, Forcella M, Regonesi ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bovio F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Bovio"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sciandrone B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Sciandrone"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Urani C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Urani"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Earth and Environmental Sciences, University of Milano-Bicocca, Piazza della Scienza 1, 20126, Milan, Italy; Integrated Models for Prevention and Protection in Environmental and Occupational Health, (MISTRAL), Interuniversity Research Center, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fusi P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Fusi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy; Integrated Models for Prevention and Protection in Environmental and Occupational Health, (MISTRAL), Interuniversity Research Center, Italy. Electronic address: paola.fusi@unimib.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Forcella M"
+          ],
+          "firstName": [
+            "Matilde"
+          ],
+          "lastName": [
+            "Forcella"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy. Electronic address: matilde.forcella@unimib.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Regonesi ME"
+          ],
+          "firstName": [
+            "Maria Elena"
+          ],
+          "lastName": [
+            "Regonesi"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy; Milan Center of Neuroscience (NeuroMI), 20126, Milan, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "84"
+      ],
+      "journalIssueId": [
+        "3168716"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurotoxicology"
+          ],
+          "ISOAbbreviation": [
+            "Neurotoxicology"
+          ],
+          "medlineAbbreviation": [
+            "Neurotoxicology"
+          ],
+          "NLMid": [
+            "7905589"
+          ],
+          "ISSN": [
+            "0161-813X"
+          ],
+          "ESSN": [
+            "1872-9711"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "125-135"
+  ],
+  "abstractText": [
+    "Cadmium (Cd) is a widespread toxic environmental contaminant, released by anthropogenic activities. It interferes with essential metal ions homeostasis and affects protein structures and functions by substituting zinc, copper and iron. In this study, the effect of cadmium on SOD1, a CuZn metalloenzyme catalyzing superoxide conversion into hydrogen peroxide, has been investigated in three different biological models. We first evaluated the effects of cadmium combined with copper and/or zinc on the recombinant GST-SOD1, expressed in E. coli BL21. The enzyme activity and expression were investigated in the presence of fixed copper and/or zinc doses with different cadmium concentrations, in the cellular medium. Cadmium caused a dose-dependent reduction in SOD1 activity, while the expression remains constant. Similar results were obtained in the cellular model represented by the human SH-SY5Y neuronal cell line. After cadmium treatment for 24 and 48 h, SOD1 enzymatic activity decreased in a dose- and time-dependent way, while the protein expression remained constant. Finally, a 16 h cadmium treatment caused a 25 % reduction of CuZn-SOD activity without affecting the protein expression in the Caenorhabditis elegans model. Taken together our results show an inhibitory effect of cadmium on SOD1 enzymatic activity, without affecting the protein expression, in all the biological models used, suggesting that cadmium can displace zinc from the enzyme catalytic site."
+  ],
+  "affiliation": [
+    "Department of Biotechnology and Biosciences, University of Milano-Bicocca, Piazza della Scienza, 2, 20126, Milan, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cadmium",
+        "E. coli",
+        "Caenorhabditis elegans",
+        "Sod1",
+        "Sh-sy5y Neuronal Cells"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.neuro.2021.03.007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-28"
+  ],
+  "firstIndexDate": [
+    "2021-03-30"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-24"
+  ],
+  "firstPublicationDate": [
+    "2021-03-24"
+  ]
+}

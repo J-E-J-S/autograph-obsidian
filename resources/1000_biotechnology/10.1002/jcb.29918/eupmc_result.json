@@ -1,0 +1,540 @@
+{
+  "id": [
+    "33847009"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33847009"
+  ],
+  "doi": [
+    "10.1002/jcb.29918"
+  ],
+  "title": [
+    "Optogenetic control of neural differentiation in Opto-mGluR6 engineered retinal pigment epithelial cell line and mesenchymal stem cells."
+  ],
+  "authorString": [
+    "Shams Najafabadi H, Sadeghi M, Zibaii MI, Soheili ZS, Samiee S, Ghasemi P, Hosseini M, Gholami Pourbadie H, Ahmadieh H, Taghizadeh S, Ranaei Pirmardan E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shams Najafabadi H"
+          ],
+          "firstName": [
+            "Hoda"
+          ],
+          "lastName": [
+            "Shams Najafabadi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7872-0791",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Medicine, Institute of Medical Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sadeghi M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Sadeghi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Genetics, Institute of Medical Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zibaii MI"
+          ],
+          "firstName": [
+            "Mohammad I"
+          ],
+          "lastName": [
+            "Zibaii"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laser & Plasma Research Institute, Shahid Beheshti University, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Soheili ZS"
+          ],
+          "firstName": [
+            "Zahra-Soheila"
+          ],
+          "lastName": [
+            "Soheili"
+          ],
+          "initials": [
+            "ZS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1292-465X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Medicine, Institute of Medical Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Samiee S"
+          ],
+          "firstName": [
+            "Shahram"
+          ],
+          "lastName": [
+            "Samiee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Blood Transfusion Research Center, High Institute for Research and Education in Transfusion Medicine, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ghasemi P"
+          ],
+          "firstName": [
+            "Pouria"
+          ],
+          "lastName": [
+            "Ghasemi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laser & Plasma Research Institute, Shahid Beheshti University, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hosseini M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Hosseini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laser & Plasma Research Institute, Shahid Beheshti University, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gholami Pourbadie H"
+          ],
+          "firstName": [
+            "Hamid"
+          ],
+          "lastName": [
+            "Gholami Pourbadie"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Pharmacology, Pasteur Institute of Iran (IPI), Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmadieh H"
+          ],
+          "firstName": [
+            "Hamid"
+          ],
+          "lastName": [
+            "Ahmadieh"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ophthalmic Research Center, Research Institute for Ophthalmology and Vision Science, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taghizadeh S"
+          ],
+          "firstName": [
+            "Sepideh"
+          ],
+          "lastName": [
+            "Taghizadeh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Medicine, Institute of Medical Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ranaei Pirmardan E"
+          ],
+          "firstName": [
+            "Ehsan"
+          ],
+          "lastName": [
+            "Ranaei Pirmardan"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biomarkers Nano-imaging Laboratory, Brigham & Women's Hospital, Department of Radiology, Harvard Medical School, Boston, MA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7872-0791",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1292-465X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146391"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of cellular biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Cell Biochem"
+          ],
+          "medlineAbbreviation": [
+            "J Cell Biochem"
+          ],
+          "NLMid": [
+            "8205768"
+          ],
+          "ISSN": [
+            "0730-2312"
+          ],
+          "ESSN": [
+            "1097-4644"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "In retinal degenerative disorders, when neural retinal cells are damaged, cell transplantation is one of the most promising therapeutic approaches. Optogenetic technology plays an essential role in the neural differentiation of stem cells via membrane depolarization. This study explored the efficacy of blue light stimulation in neuroretinal differentiation of Opto-mGluR6-engineered mouse retinal pigment epithelium (mRPE) and bone marrow mesenchymal stem cells (BMSCs). mRPE and BMSCs were selected for optogenetic study due to their capability to differentiate into retinal-specific neurons. BMSCs were isolated and phenotypically characterized by the expression of mesenchymal stem cell-specific markers, CD44 (99%) and CD105 (98.8%). mRPE culture identity was confirmed by expression of RPE-specific marker, RPE65, and epithelial cell marker, ZO-1. mRPE cells and BMSCs were transduced with AAV-MCS-IRES-EGFP-Opto-mGluR6 viral vector and stimulated for 5 days with blue light (470 nm). RNA and protein expression of Opto-mGluR6 were verified. Optogenetic stimulation-induced elevated intracellular Ca<sup>2+</sup> levels in mRPE- and BMS-treated cells. Significant increase in cell growth rate and G1/S phase transition were detected in mRPE- and BMSCs-treated cultures. Pou4f1, Dlx2, Eomes, Barlh2, Neurod2, Neurod6, Rorb, Rxrg, Nr2f2, Ascl1, Hes5, and Sox8 were overexpressed in treated BMSCs and Barlh2, Rorb, and Sox8 were overexpressed in treated mRPE cells. Expression of Rho, Thy1, OPN1MW, Recoverin, and CRABP, as retinal-specific neuron markers, in mRPE and BMS cell cultures were demonstrated. Differentiation of ganglion, amacrine, photoreceptor cells, and bipolar and Muller precursors were determined in BMSCs-treated culture and were compared with mRPE. mRPE cells represented more abundant terminal Muller glial differentiation compared with BMSCs. Our results also demonstrated that optical stimulation increased the intracellular Ca<sup>2+</sup> level and proliferation and differentiation of Opto-mGluR6-engineered BMSCs. It seems that optogenetic stimulation of mRPE- and BMSCs-engineered cells would be a potential therapeutic approach for retinal degenerative disorders."
+  ],
+  "affiliation": [
+    "Department of Molecular Medicine, Institute of Medical Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "659"
+          ],
+          "agency": [
+            "National Institute of Genetic Engineering and Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "97009298"
+          ],
+          "agency": [
+            "Iran National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Retinal pigment epithelial cells",
+        "Mesenchymal Stem Cells",
+        "Optogenetic Stimulation",
+        "Retinal Differentiation",
+        "Retinal Degenerative Disorders"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jcb.29918"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-13"
+  ],
+  "firstIndexDate": [
+    "2021-04-14"
+  ],
+  "dateOfRevision": [
+    "2021-04-13"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-13"
+  ],
+  "firstPublicationDate": [
+    "2021-04-13"
+  ]
+}

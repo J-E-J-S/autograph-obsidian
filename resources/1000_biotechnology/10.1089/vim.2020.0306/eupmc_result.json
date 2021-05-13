@@ -1,0 +1,483 @@
+{
+  "id": [
+    "33973819"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33973819"
+  ],
+  "doi": [
+    "10.1089/vim.2020.0306"
+  ],
+  "title": [
+    "Computational Modeling of Immune Response Triggering Immunogenic Peptide Vaccine Against the Human Papillomaviruses to Induce Immunity Against Cervical Cancer."
+  ],
+  "authorString": [
+    "Ahmad N, Ali SS, Ahmad S, Hussain Z, Qasim M, Suleman M, Ali S, Nizam-Uddin N, Khan A, Wei DQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ahmad N"
+          ],
+          "firstName": [
+            "Namra"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ali SS"
+          ],
+          "firstName": [
+            "Syed Shujait"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmad S"
+          ],
+          "firstName": [
+            "Sajjad"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological and Health Sciences, Abasyn University, Khyber Pakhtunkhwa, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hussain Z"
+          ],
+          "firstName": [
+            "Zahid"
+          ],
+          "lastName": [
+            "Hussain"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qasim M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Qasim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Environmental and Conservation Sciences, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suleman M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Suleman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ali S"
+          ],
+          "firstName": [
+            "Shahid"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nizam-Uddin N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Nizam-Uddin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical Engineering, HITEC University, Taxila, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan A"
+          ],
+          "firstName": [
+            "Abbas"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4288-7602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bioinformatics and Biological Statistics, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, P.R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei DQ"
+          ],
+          "firstName": [
+            "Dong-Qing"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "DQ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bioinformatics and Biological Statistics, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, P.R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Microbial Metabolism, Shanghai-Islamabad-Belgrade Joint Innovation Center on Antibacterial Resistances, Joint International Research Laboratory of Metabolic & Developmental Sciences and School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, P.R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Peng Cheng Laboratory, Shenzhen, P.R China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4288-7602",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3164688"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Viral immunology"
+          ],
+          "ISOAbbreviation": [
+            "Viral Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Viral Immunol"
+          ],
+          "NLMid": [
+            "8801552"
+          ],
+          "ISSN": [
+            "0882-8245"
+          ],
+          "ESSN": [
+            "1557-8976"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Papillomaviruses are placed within the family Papillomaviride, and the members of this family have a double-stranded circular DNA genome. Every year, ∼30% of cancers are reported to be human papillomavirus (HPV) related, which represents 63,000 cancers of all infectious agent-induced cancers. HPV16 and HPV18 are reported to be associated with 70% of cervical cancers. The quest for an effective drug or vaccine candidate still continues. In this study, we aim to design B cell and T cell epitope-based vaccine using the two structural major capsid protein L1 and L2 as well as other three important proteins (E1, E2, and E6) against HPV strain 16 (HPV16). We used a computational pipeline to design a multiepitope subunit vaccine and tested its efficacy using <i>in silico</i> computational modeling approaches. Our analysis revealed that the multiepitope subunit vaccine possesses antigenic properties, and using <i>in silico</i> cloning method revealed proper expression and downstream processing of the vaccine construct. Besides this, we also performed <i>in silico</i> immune simulation to check the immune response upon the injection. Our results strongly suggest that this vaccine candidate should be tested immediately for the immune response against the cervical cancer-causing agent. The safety, efficacy, expression, and immune response profiling makes it the first choice for experimental and <i>in vivo</i> setup."
+  ],
+  "affiliation": [
+    "Center for Biotechnology and Microbiology, University of Swat, Swat, Pakistan."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccine",
+        "Docking",
+        "in silico cloning",
+        "HPV",
+        "Immune Simulation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1089/vim.2020.0306"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-11"
+  ],
+  "firstIndexDate": [
+    "2021-05-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

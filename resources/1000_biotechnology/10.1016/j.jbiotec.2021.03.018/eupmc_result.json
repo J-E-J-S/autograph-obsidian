@@ -1,0 +1,340 @@
+{
+  "id": [
+    "33785372"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33785372"
+  ],
+  "doi": [
+    "10.1016/j.jbiotec.2021.03.018"
+  ],
+  "title": [
+    "Facile biosynthesis of synthetic crystalline cellulose nanoribbon from maltodextrin through a minimized two-enzyme phosphorylase cascade and its application in emulsion."
+  ],
+  "authorString": [
+    "Li Q, Ma Z, Meng D, Sui X, You C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qiangzi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Chinese Academy of Sciences 19A Yuquan Road, Shijingshan District, Beijing 100049, P.R. China; Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences 32 West 7th Avenue, Tianjin Airport Economic Area, Tianjin 300308, P.R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Z"
+          ],
+          "firstName": [
+            "Zhongsheng"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Science and Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, P.R. China; Innovation Center for Textile Science and Technology of DHU, Donghua University, Shanghai, 201620, P.R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meng D"
+          ],
+          "firstName": [
+            "Dongdong"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences 32 West 7th Avenue, Tianjin Airport Economic Area, Tianjin 300308, P.R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sui X"
+          ],
+          "firstName": [
+            "Xiaofeng"
+          ],
+          "lastName": [
+            "Sui"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Science and Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, P.R. China; Innovation Center for Textile Science and Technology of DHU, Donghua University, Shanghai, 201620, P.R. China. Electronic address: suixf@dhu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "You C"
+          ],
+          "firstName": [
+            "Chun"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Chinese Academy of Sciences 19A Yuquan Road, Shijingshan District, Beijing 100049, P.R. China; Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences 32 West 7th Avenue, Tianjin Airport Economic Area, Tianjin 300308, P.R. China; National Technology Innovation Center of Synthetic Biology, Tianjin 300308, P.R. China. Electronic address: you_c@tib.cas.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "332"
+      ],
+      "journalIssueId": [
+        "3168310"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Biotechnol"
+          ],
+          "NLMid": [
+            "8411927"
+          ],
+          "ISSN": [
+            "0168-1656"
+          ],
+          "ESSN": [
+            "1873-4863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "54-60"
+  ],
+  "abstractText": [
+    "Nanocellulose has many promising applications such as a green ingredient for Pickering emulsion. Traditional strategies to produce nanocellulose, which are acid or enzymatic hydrolysis and mechanical methods on natural complicated cellulose, are hard to control and can result in significant pollutants during the processes. Herein, we demonstrated a facile and sustainable method for the biocatalytic production of insoluble synthetic crystalline cellulose nanoribbon (CCNR) from cheap maltodextrin by coupling α-glucan phosphorylase (αGP) and cellodextrin phosphorylase (CDP) using cellobiose as a primer. And by optimizing the combination of different αGP and CDP, it turned out that the optimal enzyme combination is αGP from Thermotoga maritime and CDP from Clostridium thermocellum, in which CDP was attached to a family 9 cellulose-binding module. The product yield and degree of polymerization (DP) of insoluble synthetic CCNR was affected by the primer concentration at a fixed concentration of maltodextrin. After optimization of reaction conditions, the highest product yield of insoluble synthetic CCNR was 44.92 % and the highest DP of the insoluble synthetic CCNR was 24 from 50 g 1<sup>-1</sup> maltodextrin. This insoluble synthetic CCNR can be used as a Pickering emulsions stabilizer, showing excellent emulsifiability. This study provides a promising alternative for cost-efficient production of insoluble synthetic CCNR which was used as a green emulsion stabilizer."
+  ],
+  "affiliation": [
+    "University of Chinese Academy of Sciences 19A Yuquan Road, Shijingshan District, Beijing 100049, P.R. China; Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences 32 West 7th Avenue, Tianjin Airport Economic Area, Tianjin 300308, P.R. China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Maltodextrin",
+        "Pickering Emulsion",
+        "Enzymes Cascade",
+        "Synthetic Ccnr"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbiotec.2021.03.018"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-31"
+  ],
+  "firstIndexDate": [
+    "2021-04-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-27"
+  ],
+  "firstPublicationDate": [
+    "2021-03-27"
+  ]
+}

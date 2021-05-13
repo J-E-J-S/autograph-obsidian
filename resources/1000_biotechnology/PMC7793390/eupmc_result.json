@@ -1,0 +1,291 @@
+{
+  "id": [
+    "33420496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33420496"
+  ],
+  "pmcid": [
+    "PMC7793390"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7793390"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1038/s41587-021-00813-x"
+  ],
+  "title": [
+    "Publisher Correction: COVID-19 antibodies on trial."
+  ],
+  "authorString": [
+    "DeFrancesco L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "DeFrancesco L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "DeFrancesco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Senior Editor, Nature Biotechnology, . l.defrancesco@us.nature.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "3111509"
+      ],
+      "dateOfPublication": [
+        "2021 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Nat Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Nat Biotechnol"
+          ],
+          "NLMid": [
+            "9604648"
+          ],
+          "ISSN": [
+            "1087-0156"
+          ],
+          "ESSN": [
+            "1546-1696"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "246"
+  ],
+  "affiliation": [
+    "Senior Editor, Nature Biotechnology, . l.defrancesco@us.nature.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41587-021-00813-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7793390"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7793390?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "33087898"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Biotechnol. 2020 Nov;38(11):1242-1252"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-09"
+  ],
+  "firstIndexDate": [
+    "2021-01-10"
+  ],
+  "fullTextReceivedDate": [
+    "2021-01-13"
+  ],
+  "dateOfRevision": [
+    "2021-02-11"
+  ],
+  "firstPublicationDate": [
+    "2021-02-01"
+  ]
+}

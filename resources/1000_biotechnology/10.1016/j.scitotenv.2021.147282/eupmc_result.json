@@ -1,0 +1,391 @@
+{
+  "id": [
+    "33933761"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33933761"
+  ],
+  "doi": [
+    "10.1016/j.scitotenv.2021.147282"
+  ],
+  "title": [
+    "Effects of root exudates on rhizosphere bacteria and nutrient removal in pond-ditch circulation systems (PDCSs) for rural wastewater treatment."
+  ],
+  "authorString": [
+    "Ma L, Yang L, Liu W, Zhang Y, Zhou Q, Wu Z, He F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "CAS Key Laboratory of Aquatic Botany and Watershed Ecology, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China; State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China; Hubei Key Laboratory of Wetland Evolution & Ecological Restoration, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lingli"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Q"
+          ],
+          "firstName": [
+            "Qiaohong"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhenbin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China. Electronic address: hefeng@ihb.ac.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "785"
+      ],
+      "journalIssueId": [
+        "3161388"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Science of the total environment"
+          ],
+          "ISOAbbreviation": [
+            "Sci Total Environ"
+          ],
+          "medlineAbbreviation": [
+            "Sci Total Environ"
+          ],
+          "NLMid": [
+            "0330500"
+          ],
+          "ISSN": [
+            "0048-9697"
+          ],
+          "ESSN": [
+            "1879-1026"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "147282"
+  ],
+  "abstractText": [
+    "Pond-ditch circulation system (PDCS) is a promising remediation strategy for rural wastewater treatment. Aquatic plants play nonnegligible roles in the nutrient removal of the PDCS. However, mechanisms of root exudates regulating nutrient removal in PDCSs remained unclear. In our study, the PDCS achieved higher total nitrogen (TN) and phosphorus (TP) removal rates (72.7-97.4%) compared to the static system. Protein contents in root exudates of the PDCS ranged from 0.041 to 1.332 mg L<sup>-1</sup>, showing negative associations with Simpson index. Lactic acid and tartaric acid in the PDCS varied from 0.045 to 0.380 mg L<sup>-1</sup> and 0.024 to 5.446 mg L<sup>-1</sup>, which were tightly linked with TN, TP, and TP removal rates and most sediment properties, especially sediment total nitrogen (STN) and total organic carbon (TOC), and sediment inorganic phosphorus (SIP). Moreover, the top 3 relative dominant genus were Bacillus (0.11%-17.90%), Geobacter (0.35%-12.04%), and Clostridium sensu stricto 1 (0.14%-12.05%), which might be the predominant groups in nutrient removal of PDCSs. RDA results indicated that lactic acid, protein, and amino acids were positively correlated with Geobacter; while Bacillus was significantly affected by water content. Path analysis further demonstrated that the indirect effect of secretion from plant roots on nutrient removal rates was mainly through modulating bacteria diversity and relative abundance. Taken together, root exudates, especially protein, amino acids, and lactic acid, altered rhizosphere microbial relative abundance and diversity, where the impacts were bacterial species-dependent."
+  ],
+  "affiliation": [
+    "CAS Key Laboratory of Aquatic Botany and Watershed Ecology, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China; State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China; Hubei Key Laboratory of Wetland Evolution & Ecological Restoration, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan 430074, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Path analyses",
+        "Root exudates",
+        "Rhizosphere bacteria",
+        "Nutrient Removal",
+        "Pond-ditch Circulation System (Pdcs)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.scitotenv.2021.147282"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-02"
+  ],
+  "firstIndexDate": [
+    "2021-05-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-23"
+  ],
+  "firstPublicationDate": [
+    "2021-04-23"
+  ]
+}

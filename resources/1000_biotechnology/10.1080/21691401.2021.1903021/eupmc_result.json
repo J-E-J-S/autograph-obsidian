@@ -1,0 +1,437 @@
+{
+  "id": [
+    "33783274"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33783274"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1903021"
+  ],
+  "title": [
+    "Prioritization and characterization of validated biofilm blockers targeting glucosyltransferase C of <i>Streptococcus mutans</i>."
+  ],
+  "authorString": [
+    "Alhobeira HA, Al Mogbel M, Khan S, Khan M, Haque S, Somvanshi P, Wahid M, Mandal RK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alhobeira HA"
+          ],
+          "firstName": [
+            "Hazza A"
+          ],
+          "lastName": [
+            "Alhobeira"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Restorative Dentistry, College of Dentistry, University of Ha'il, Ha'il, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al Mogbel M"
+          ],
+          "firstName": [
+            "Mohammed"
+          ],
+          "lastName": [
+            "Al Mogbel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Laboratory Science, College of Applied Medical Science, Hail University, Hail, Kingdom of Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan S"
+          ],
+          "firstName": [
+            "Saif"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Basic Dental and Medical Sciences, College of Dentistry, University of Ha'il, Ha'il, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan M"
+          ],
+          "firstName": [
+            "Mahvish"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, College of Science, University of Ha'il, Ha'il, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haque S"
+          ],
+          "firstName": [
+            "Shafiul"
+          ],
+          "lastName": [
+            "Haque"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2989-121X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Research and Scientific Studies Unit, College of Nursing & Allied Health Sciences, Jazan University, Jazan, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Somvanshi P"
+          ],
+          "firstName": [
+            "Pallavi"
+          ],
+          "lastName": [
+            "Somvanshi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, TERI School of Advanced Studies, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wahid M"
+          ],
+          "firstName": [
+            "Mohd"
+          ],
+          "lastName": [
+            "Wahid"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Research and Scientific Studies Unit, College of Nursing & Allied Health Sciences, Jazan University, Jazan, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mandal RK"
+          ],
+          "firstName": [
+            "Raju K"
+          ],
+          "lastName": [
+            "Mandal"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Research and Scientific Studies Unit, College of Nursing & Allied Health Sciences, Jazan University, Jazan, Saudi Arabia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2989-121X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "335-344"
+  ],
+  "abstractText": [
+    "To date, several Glucosyltransferase C (GtfC) inhibitors have been identified and experimentally validated. All these inhibitors have been validated at different experimental conditions like degree of purity, animal models, kinetic conditions, experimental environment etc.; and most of these inhibitors (ligands) proved to be quite effective in their respective validation environment. However, due to varied experimental validation conditions, and absence of molecular interaction data, there is no way to prioritize these validated ligands for their inhibition potential against GtfC. The present study is a novel attempt of comparative evaluation of the interaction of the validated ligands on a single platform and under similar conditions with a dual objective, i.e. ligand prioritization for their respective inhibitory potential and elucidation of the involved unknown molecular interactions. Carbohydrate derivatives (6-Deoxy sucrose and Trichloro-galactosucrose) were identified as the most promising GtfC inhibitors. In addition, Asp588, Trp517, and Asn481 amino acid residues of the domain A1 proved vital for the inhibitory effect. The study highlights the importance of the comparative analysis of the validated ligands in order to identify the most promising leads for drug discovery against dental caries."
+  ],
+  "affiliation": [
+    "Department of Restorative Dentistry, College of Dentistry, University of Ha'il, Ha'il, Saudi Arabia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Streptococcus mutans",
+        "Biofilm",
+        "Prioritization",
+        "Quantum Mechanical",
+        "D-acarbose",
+        "Glycosyltransferase C"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1903021"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-30"
+  ],
+  "firstIndexDate": [
+    "2021-03-31"
+  ],
+  "dateOfRevision": [
+    "2021-04-01"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

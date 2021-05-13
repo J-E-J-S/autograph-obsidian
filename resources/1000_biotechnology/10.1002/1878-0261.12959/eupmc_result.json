@@ -1,0 +1,416 @@
+{
+  "id": [
+    "33794068"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33794068"
+  ],
+  "doi": [
+    "10.1002/1878-0261.12959"
+  ],
+  "title": [
+    "SMAC/Diablo controls proliferation of cancer cells by regulating phosphatidylethanolamine synthesis."
+  ],
+  "authorString": [
+    "Pandey SK, Paul A, Shteinfer-Kuzmine A, Zalk R, Bunz U, Shoshan-Barmatz V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pandey SK"
+          ],
+          "firstName": [
+            "Swaroop Kumar"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Institute for Biotechnology in the Negev, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paul A"
+          ],
+          "firstName": [
+            "Avijit"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Institute for Biotechnology in the Negev, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shteinfer-Kuzmine A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Shteinfer-Kuzmine"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Institute for Biotechnology in the Negev, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zalk R"
+          ],
+          "firstName": [
+            "Ran"
+          ],
+          "lastName": [
+            "Zalk"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ilse Katz Institute for Nanoscale Science & Technology, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bunz U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Bunz"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Organisch-Chemisches Institut, Ruprecht-Karls-Universität Heidelberg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shoshan-Barmatz V"
+          ],
+          "firstName": [
+            "Varda"
+          ],
+          "lastName": [
+            "Shoshan-Barmatz"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6756-4340",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Institute for Biotechnology in the Negev, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6756-4340",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "recommended_reviews",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143378"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular oncology"
+          ],
+          "ISOAbbreviation": [
+            "Mol Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Mol Oncol"
+          ],
+          "NLMid": [
+            "101308230"
+          ],
+          "ISSN": [
+            "1574-7891"
+          ],
+          "ESSN": [
+            "1878-0261"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "SMAC/Diablo, a pro-apoptotic protein, yet it is overexpressed in several cancer types. We have described a noncanonical function for SMAC/Diablo as a regulator of lipid synthesis during cancer cell proliferation and development. Here, we explore the molecular mechanism through which SMAC/Diablo regulates phospholipid synthesis. We showed that SMAC/Diablo directly interacts with mitochondrial phosphatidylserine decarboxylase (PSD) and inhibits its catalytic activity during synthesis of phosphatidylethanolamine (PE) from phosphatidylserine (PS). Unlike other phospholipids (PLs), PE is synthesized not only in the endoplasmic reticulum but also in mitochondria. As a result, PSD activity and mitochondrial PE levels were increased in the mitochondria of SMAC/Diablo-deficient cancer cells, with the total amount of cellular PLs and phosphatidylcholine (PC) being lower as compared to SMAC-expressing cancer cells. Moreover, in the absence of SMAC/Diablo, PSD inhibited cancer cell proliferation by catalysing the overproduction of mitochondrial PE and depleting the cellular levels of PC, PE and PS. Additionally, we demonstrated that both SMAC/Diablo and PSD colocalization in the nucleus resulted in increased levels of nuclear PE, that acts as a signalling molecule in regulating several nuclear activities. By using a peptide array composed of 768-peptides derived from 11 SMAC-interacting proteins, we identified six nuclear proteins ARNT, BIRC2, MAML2, NR4A1, BIRC5 and HTRA2 Five of them also interacted with PSD through motifs that are not involved in SMAC binding. Synthetic peptides carrying the PSD-interacting motifs of these proteins could bind purified PSD and inhibit the PSD catalytic activity. When targeted specifically to the mitochondria or the nucleus, these synthetic peptides inhibited cancer cell proliferation. To our knowledge, these are the first reported inhibitors of PSD acting also as inhibitors of cancer cell proliferation. Altogether, we demonstrated that phospholipid metabolism and PE synthesis regulated by the SMAC-PSD interaction are essential for cancer cell proliferation and may be potentially targeted for treating cancer."
+  ],
+  "affiliation": [
+    "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "The National institute for biotechnology in the Negev"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mitochondria",
+        "Phospholipids",
+        "Cancer",
+        "Smac/DIABLO",
+        "PSD",
+        "Phosphatidylethanolamine Synthesis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/1878-0261.12959"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-01"
+  ],
+  "firstIndexDate": [
+    "2021-04-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-01"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

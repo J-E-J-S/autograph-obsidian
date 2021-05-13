@@ -1,0 +1,491 @@
+{
+  "id": [
+    "33910001"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33910001"
+  ],
+  "doi": [
+    "10.1016/j.celrep.2021.109031"
+  ],
+  "title": [
+    "Leucine-sensing mechanism of leucyl-tRNA synthetase 1 for mTORC1 activation."
+  ],
+  "authorString": [
+    "Kim S, Yoon I, Son J, Park J, Kim K, Lee JH, Park SY, Kang BS, Han JM, Hwang KY, Kim S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Sulhee"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yoon I"
+          ],
+          "firstName": [
+            "Ina"
+          ],
+          "lastName": [
+            "Yoon"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medicinal Bioconvergence Research Center, Institute for Artificial Intelligence and Biomedical Research, College of Pharmacy & College of Medicine, Gangnam Severance Hospital, Yonsei University, Incheon 21983, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Son J"
+          ],
+          "firstName": [
+            "Jonghyeon"
+          ],
+          "lastName": [
+            "Son"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park J"
+          ],
+          "firstName": [
+            "Junga"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim K"
+          ],
+          "firstName": [
+            "Kibum"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Yonsei Institute of Pharmaceutical Sciences, College of Pharmacy, Yonsei University, Incheon 21983, Republic of Korea; Interdisciplinary Program of Integrated OMICS for Biomedical Science, Graduate School, Yonsei University, Seoul 03722, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JH"
+          ],
+          "firstName": [
+            "Ji-Ho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park SY"
+          ],
+          "firstName": [
+            "Sam-Yong"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Drug Design Laboratory, Graduate School of Medical Life Science, Yokohama City University, Yokohama 230-0045, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kang BS"
+          ],
+          "firstName": [
+            "Beom Sik"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Science and Biotechnology, KNU Creative BioResearch Group, Kyungpook National University, Daegu 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han JM"
+          ],
+          "firstName": [
+            "Jung Min"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Yonsei Institute of Pharmaceutical Sciences, College of Pharmacy, Yonsei University, Incheon 21983, Republic of Korea; Interdisciplinary Program of Integrated OMICS for Biomedical Science, Graduate School, Yonsei University, Seoul 03722, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hwang KY"
+          ],
+          "firstName": [
+            "Kwang Yeon"
+          ],
+          "lastName": [
+            "Hwang"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea. Electronic address: chahong@korea.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Sunghoon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medicinal Bioconvergence Research Center, Institute for Artificial Intelligence and Biomedical Research, College of Pharmacy & College of Medicine, Gangnam Severance Hospital, Yonsei University, Incheon 21983, Republic of Korea. Electronic address: sunghoonkim@yonsei.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "3160431"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell reports"
+          ],
+          "ISOAbbreviation": [
+            "Cell Rep"
+          ],
+          "medlineAbbreviation": [
+            "Cell Rep"
+          ],
+          "NLMid": [
+            "101573691"
+          ],
+          "ISSN": [
+            "2211-1247"
+          ],
+          "ESSN": [
+            "2211-1247"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "109031"
+  ],
+  "abstractText": [
+    "Leucyl-tRNA synthetase 1 (LARS1) mediates activation of leucine-dependent mechanistic target of rapamycin complex 1 (mTORC1) as well as ligation of leucine to its cognate tRNAs, yet its mechanism of leucine sensing is poorly understood. Here we describe leucine binding-induced conformational changes of LARS1. We determine different crystal structures of LARS1 complexed with leucine, ATP, and a reaction intermediate analog, leucyl-sulfamoyl-adenylate (Leu-AMS), and find two distinct functional states of LARS1 for mTORC1 activation. Upon leucine binding to the synthetic site, H251 and R517 in the connective polypeptide and <sup>50</sup>FPYPY<sup>54</sup> in the catalytic domain change the hydrogen bond network, leading to conformational change in the C-terminal domain, correlating with RagD association. Leucine binding to LARS1 is increased in the presence of ATP, further augmenting leucine-dependent interaction of LARS1 and RagD. Thus, this work unveils the structural basis for leucine-dependent long-range communication between the catalytic and RagD-binding domains of LARS1 for mTORC1 activation."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Conformational change",
+        "X-ray crystallography",
+        "Mechanistic Target Of Rapamycin Complex 1",
+        "Leucine Sensing",
+        "Leucyl-trna Synthetase 1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.celrep.2021.109031"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-28"
+  ],
+  "firstIndexDate": [
+    "2021-04-29"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

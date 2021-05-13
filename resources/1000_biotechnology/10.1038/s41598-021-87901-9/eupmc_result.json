@@ -1,0 +1,328 @@
+{
+  "id": [
+    "33963217"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33963217"
+  ],
+  "doi": [
+    "10.1038/s41598-021-87901-9"
+  ],
+  "title": [
+    "Bioprocess development for enhanced endoglucanase production by newly isolated bacteria, purification, characterization and in-vitro efficacy as anti-biofilm of Pseudomonas aeruginosa."
+  ],
+  "authorString": [
+    "Ibrahim AM, Hamouda RA, El-Naggar NE, Al-Shakankery FM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ibrahim AM"
+          ],
+          "firstName": [
+            "Atef M"
+          ],
+          "lastName": [
+            "Ibrahim"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Biotechnology Department, Genetic Engineering and Biotechnology Research Institute, University of Sadat City, Menoufia Governorate, 22857, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hamouda RA"
+          ],
+          "firstName": [
+            "Ragaa A"
+          ],
+          "lastName": [
+            "Hamouda"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Biotechnology Department, Genetic Engineering and Biotechnology Research Institute, University of Sadat City, Menoufia Governorate, 22857, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "El-Naggar NE"
+          ],
+          "firstName": [
+            "Noura El-Ahmady"
+          ],
+          "lastName": [
+            "El-Naggar"
+          ],
+          "initials": [
+            "NE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8493-9194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bioprocess Development, Genetic Engineering and Biotechnology Research Institute, City of Scientific Research and Technological Applications (SRTA-City), New Borg El-Arab City, 21934, Alexandria, Egypt. nouraalahmady@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Shakankery FM"
+          ],
+          "firstName": [
+            "Fatma M"
+          ],
+          "lastName": [
+            "Al-Shakankery"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Biotechnology Department, Genetic Engineering and Biotechnology Research Institute, University of Sadat City, Menoufia Governorate, 22857, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8493-9194",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3164098"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "9754"
+  ],
+  "abstractText": [
+    "Endoglucanase producing bacteria were isolated from Egyptian soils and the most active bacterial strain was identified as Bacillus subtilis strain Fatma/1. Plackett-Burman statistical design was carried out to assess the effect of seven process variables on endoglucanase production. Carboxymethyl cellulose (CMC), yeast extract and peptone were the most significant variables that enhanced the endoglucanase production and thus were selected for further optimization using face-centered central composite design. The highest yield of endoglucanase (32.37 U/mL) was obtained in run no. 9, using 18 g/L CMC, 8 g/L peptone, 7 g/L yeast extract and 0.1 g/L FeSO<sub>4</sub>.7H<sub>2</sub>O. The optimized medium showed about eightfold increase in endoglucanase production compared to the unoptimized medium. The produced crude enzyme was further purified by ammonium sulfate precipitation, then DEAE-Sepharose CL6B column. The purified enzyme was shown to have a molecular weight of 37 kDa. The enzyme showed maximum activity at pH 8.0, temperature of 50 °C, incubation time of 60 min. The half-life time (T<sub>1/2</sub>) was 139.53 min at 50 °C, while being 82.67 min at 60 °C. Endoglucanase at concentration of 12 U/mL effectively removed 84.61% of biofilm matrix of Pseudomonas aeruginosa with marked reduction in carbohydrate content of the biofilm from 63.4 to 7.9 μg."
+  ],
+  "affiliation": [
+    "Microbial Biotechnology Department, Genetic Engineering and Biotechnology Research Institute, University of Sadat City, Menoufia Governorate, 22857, Egypt."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-021-87901-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-08"
+  ],
+  "firstIndexDate": [
+    "2021-05-09"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-05-07"
+  ]
+}

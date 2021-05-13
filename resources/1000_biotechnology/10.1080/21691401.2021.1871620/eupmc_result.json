@@ -1,0 +1,315 @@
+{
+  "id": [
+    "33438446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33438446"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1871620"
+  ],
+  "title": [
+    "Selenium nanoparticles coated with pH responsive silk fibroin complex for fingolimod release and enhanced targeting in thyroid cancer."
+  ],
+  "authorString": [
+    "Zou X, Jiang Z, Li L, Huang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zou X"
+          ],
+          "firstName": [
+            "Xiangcai"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Surgery, Zhujiang Hospital, Southern Medical University/The Second School of Clinical Medicine, Southern Medical University, Guangzhou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of General Surgery, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Z"
+          ],
+          "firstName": [
+            "Zhipeng"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Gastrointestinal Surgery, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Digestive Medicine Center, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Z"
+          ],
+          "firstName": [
+            "Zonghai"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Surgery, Zhujiang Hospital, Southern Medical University/The Second School of Clinical Medicine, Southern Medical University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "83-95"
+  ],
+  "abstractText": [
+    "Cancer-targeted drug delivery systems based on nanoparticles (NPs) have been considered promising therapies. In this study, we developed a pH-responsive smart NPs drug delivery system using silk fibroin (SF), selenium nanoparticles (Se NPs), fingolimod (FTY720), and heptapeptide (T7). The prepared FTY720@T7-SF-Se NPs were spheres with an average diameter of 120 nm, which would contribute to the enhanced permeability and retention effects in tumour regions. The encapsulation efficiency (EE) of the FTY720@T7-SF-Se NPs was 71.95 ± 3.81%. The release of FTY720 from the nanocarriers was pH-dependent, and the release of FTY720 was accelerated in an acidic environment. Both <i>in vitro</i> and <i>in vivo</i> studies showed that FTY720@T7-SF-Se NPs had an enhanced cellular uptake selectivity and antitumor activity for thyroid cancer. The bio-distribution study <i>in vivo</i> further demonstrated that FTY720@T7-SF-Se NPs could effectively accumulate in the tumour region, thereby enhancing the ability to kill cancer cells <i>in vivo</i>. In addition, studies of histology and immunohistochemistry showed that FTY720@T7-SF-Se NPs had low toxicity to the major organs of tumour-bearing mice, indicating the prepared NPs has good biocompatibility <i>in vivo</i>. These results suggest that the tumour-targeted NPs delivery system (FTY720@T7-SF-Se NPs) has great potential as a new tool for thyroid cancer therapy."
+  ],
+  "affiliation": [
+    "Department of General Surgery, Zhujiang Hospital, Southern Medical University/The Second School of Clinical Medicine, Southern Medical University, Guangzhou, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "silk fibroin",
+        "Thyroid cancer",
+        "Fingolimod",
+        "Active Targeting",
+        "Selenium Nanoparticles",
+        "T7 Peptide"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1871620"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-13"
+  ],
+  "firstIndexDate": [
+    "2021-01-15"
+  ],
+  "dateOfRevision": [
+    "2021-01-13"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

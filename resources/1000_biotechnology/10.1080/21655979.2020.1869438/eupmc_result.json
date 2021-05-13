@@ -1,0 +1,329 @@
+{
+  "id": [
+    "33356788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33356788"
+  ],
+  "doi": [
+    "10.1080/21655979.2020.1869438"
+  ],
+  "title": [
+    "Increasing chitosanase production in <i>Bacillus cereus</i> by a novel mutagenesis and screen method."
+  ],
+  "authorString": [
+    "Zhang C, Li Y, Zhang T, Zhao H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chaozheng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Ministry of Education Industrial Fermentation Microbiology, Tianjin Key Laboratory of Industrial Microbiology, Tianjin Engineering Research Center of Microbial Metabolism and Fermentation Process Control, College of Biotechnology, Tianjin University of Science and Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2758-6016",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Ministry of Education Industrial Fermentation Microbiology, Tianjin Key Laboratory of Industrial Microbiology, Tianjin Engineering Research Center of Microbial Metabolism and Fermentation Process Control, College of Biotechnology, Tianjin University of Science and Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang T"
+          ],
+          "firstName": [
+            "Tianshuang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Ministry of Education Industrial Fermentation Microbiology, Tianjin Key Laboratory of Industrial Microbiology, Tianjin Engineering Research Center of Microbial Metabolism and Fermentation Process Control, College of Biotechnology, Tianjin University of Science and Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Ministry of Education Industrial Fermentation Microbiology, Tianjin Key Laboratory of Industrial Microbiology, Tianjin Engineering Research Center of Microbial Metabolism and Fermentation Process Control, College of Biotechnology, Tianjin University of Science and Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2758-6016",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "266-277"
+  ],
+  "abstractText": [
+    "Chitosan hydrolysis by chitosanase is one of the most effective methods to produce chitosan oligosaccharides. One of the prerequisites of enzyme fermentation production is to select and breed enzyme-producing cells with good performance. So in the process of fermentation production, the low yield of chitosanase cannot meet the current requirement. In this paper, a strain producing chitosanase was screened and identified, and a novel mutagenesis system (Atmospheric and Room Temperature Plasma (ARTP)) was selected to increase the yield of chitosanase. Then, the fermentation medium was optimized to further improve the enzyme activity of the strain. A strain of <i>Bacillus cereus</i> capable of producing chitosanase was screened and identified from soil samples. A mutant strain of <i>B.cereus</i> was obtained by Atmospheric and Room Temperature Plasma mutagenesis and bioscreening method, and chitosanase activity was 2.49 folds that of the original bacterium. After an optimized fermentation medium, the enzyme activity of the mutant strain was 1.47 folds that of the original bacterium. Combined with all the above optimization experiments, the enzyme activity of mutant strain increased by 3.66 times. The results showed that the Atmospheric and Room Temperature Plasma mutagenesis and bioscreening method could significantly increase the yield of chitosanase in <i>B.cereus</i>, and had little effect on the properties of the enzyme. These findings have potential applications in the mutagenesis of other enzyme-producing microorganisms."
+  ],
+  "affiliation": [
+    "Key Laboratory of Ministry of Education Industrial Fermentation Microbiology, Tianjin Key Laboratory of Industrial Microbiology, Tianjin Engineering Research Center of Microbial Metabolism and Fermentation Process Control, College of Biotechnology, Tianjin University of Science and Technology , Tianjin, P. R. China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacillus cereus",
+        "Identification",
+        "Screening",
+        "Chitosanase",
+        "Atmospheric And Room Temperature Plasma Mutagenesis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2020.1869438"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-12-28"
+  ],
+  "firstIndexDate": [
+    "2020-12-29"
+  ],
+  "dateOfRevision": [
+    "2021-01-08"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

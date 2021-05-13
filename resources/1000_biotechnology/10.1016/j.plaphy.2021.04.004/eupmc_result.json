@@ -1,0 +1,359 @@
+{
+  "id": [
+    "33872832"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33872832"
+  ],
+  "doi": [
+    "10.1016/j.plaphy.2021.04.004"
+  ],
+  "title": [
+    "Ectopic expression of GhIQD14 (cotton IQ67 domain-containing protein 14) causes twisted organ and modulates secondary wall formation in Arabidopsis."
+  ],
+  "authorString": [
+    "Wang L, Liu Y, Liu C, Ge C, Xu F, Luo M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhengzhou Research Base, State Key Laboratory of Cotton Biology, Zhengzhou University, Zhengzhou, China; State Key Laboratory of Cotton Biology, Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yujie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhengzhou Research Base, State Key Laboratory of Cotton Biology, Zhengzhou University, Zhengzhou, China; State Key Laboratory of Cotton Biology, Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhengzhou Research Base, State Key Laboratory of Cotton Biology, Zhengzhou University, Zhengzhou, China; State Key Laboratory of Cotton Biology, Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ge C"
+          ],
+          "firstName": [
+            "Changwei"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Cotton Biology, Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu F"
+          ],
+          "firstName": [
+            "Fan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Biotechnology and Crop Quality Improvement of Ministry of Agriculture, Biotechnology Research Center, Southwest University, Chongqing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luo M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhengzhou Research Base, State Key Laboratory of Cotton Biology, Zhengzhou University, Zhengzhou, China; Key Laboratory of Biotechnology and Crop Quality Improvement of Ministry of Agriculture, Biotechnology Research Center, Southwest University, Chongqing, China. Electronic address: luo0424@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "163"
+      ],
+      "journalIssueId": [
+        "3168317"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant physiology and biochemistry : PPB"
+          ],
+          "ISOAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "NLMid": [
+            "9882449"
+          ],
+          "ISSN": [
+            "0981-9428"
+          ],
+          "ESSN": [
+            "1873-2690"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "276-284"
+  ],
+  "abstractText": [
+    "In plants, although KNOX genes are known to regulate secondary cell wall (SCW) formation, their protein-regulating mechanisms remain largely unknown. Here, we showed that GhKNL1, which regulates SCW formation and fiber development in cotton, could interact with an IQ67 domain containing protein (GhIQD14) in yeast. Confocal observation showed that GhIQD14 was localized to the microtubules. In Arabidopsis, ectopic expression of GhIQD14 caused hypocotyls to be sensitive to microtubule depolymerization agent, organ twisting of seedlings, trichomes, rosette leaves, and capsules, as well as severely irregular xylem vessels and thicker interfascicular fiber cell walls in the inflorescence stem. Furthermore, we found that GhIQD14 interacted with AtKNAT7 in vivo, and instantaneous co-expression of GhIQD14 and AtKNAT7 in tobacco showed that GhIQD14 weakened the distribution of AtKNAT7 in the nucleus, bringing it into the microtubules, thus affecting the SCW formation related genes expression. Our results suggested that GhIQD14 might be involved in the morphological development and SCW formation in cotton."
+  ],
+  "affiliation": [
+    "Zhengzhou Research Base, State Key Laboratory of Cotton Biology, Zhengzhou University, Zhengzhou, China; State Key Laboratory of Cotton Biology, Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cotton",
+        "Secondary wall formation",
+        "Microtubule Binding Protein",
+        "Iqd",
+        "Twisted Organ"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.plaphy.2021.04.004"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-19"
+  ],
+  "firstIndexDate": [
+    "2021-04-20"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-05"
+  ],
+  "firstPublicationDate": [
+    "2021-04-05"
+  ]
+}

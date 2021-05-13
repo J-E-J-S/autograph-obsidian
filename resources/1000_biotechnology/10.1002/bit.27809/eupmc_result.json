@@ -1,0 +1,419 @@
+{
+  "id": [
+    "33934328"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33934328"
+  ],
+  "doi": [
+    "10.1002/bit.27809"
+  ],
+  "title": [
+    "Omics analysis reveals mechanism underlying metabolic oscillation during continuous very-high-gravity ethanol fermentation by Saccharomyces cerevisiae."
+  ],
+  "authorString": [
+    "Zhang X, Wang L, Li Q, den Haan R, Li F, Liu CG, Bai FW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xue"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biological Engineering, Dalian Polytechnic University, Dalian, 116034, Liaoning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Science and Biotechnology, Dalian University, Dalian, 116622, Liaoning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "den Haan R"
+          ],
+          "firstName": [
+            "Riaan"
+          ],
+          "lastName": [
+            "den Haan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, University of the Western Cape, Bellville, 7530, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "COFCO Nutrition & Health Research Institute, Beijing, 102209, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CG"
+          ],
+          "firstName": [
+            "Chen-Guang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0343-6304",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bai FW"
+          ],
+          "firstName": [
+            "Feng-Wu"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "FW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1431-4839",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0343-6304",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1431-4839",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162204"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and bioengineering"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "NLMid": [
+            "7502021"
+          ],
+          "ISSN": [
+            "0006-3592"
+          ],
+          "ESSN": [
+            "1097-0290"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "During continuous very-high-gravity (VHG) ethanol fermentation with Saccharomyces cerevisiae, the process exhibits sustained oscillation in residual glucose, ethanol and biomass, raising a question: how do yeast cells respond to this phenomenon? In this work, the oscillatory behavior of yeast cells was characterized through transcriptome and metabolome analysis for one complete oscillatory period. By analyzing the accumulation of 26 intracellular metabolites and the expression of 90 genes related to central carbon metabolism and stress response, we confirmed that the process oscillation was attributed to intracellular metabolic oscillation with phase difference, and the expression of HXK1, HXT1,2,4 and PFK1 was significantly different from other genes in the Embden-Meyerhof-Parnas pathway, indicating that glucose transport and phosphorylation could be key nodes for regulating the intracellular metabolism under oscillatory conditions. Moreover, the expression of stress response genes was triggered and affected predominately by ethanol inhibition in yeast cells. This progress not only contributes to the understanding of mechanisms underlying the process oscillation observed for continuous VHG ethanol fermentation, but also provides insights for understanding unsteady state that might develop in other continuous fermentation processes operated under VHG conditions to increase product titers for robust production. This article is protected by copyright. All rights reserved."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Continuous ethanol fermentation",
+        "Oscillation",
+        "Metabolomics",
+        "Transcriptomics",
+        "Very-high-gravity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bit.27809"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-02"
+  ],
+  "firstIndexDate": [
+    "2021-05-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-02"
+  ],
+  "firstPublicationDate": [
+    "2021-05-02"
+  ]
+}

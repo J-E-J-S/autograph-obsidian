@@ -1,0 +1,359 @@
+{
+  "id": [
+    "33706053"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33706053"
+  ],
+  "doi": [
+    "10.1016/j.intimp.2021.107523"
+  ],
+  "title": [
+    "HMOC, a chrysin derivative, induces tolerogenic properties in lipopolysaccharide-stimulated dendritic cells."
+  ],
+  "authorString": [
+    "Song HY, Sik Kim W, Moo Han J, Yong Park W, Lim ST, Byun EB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Song HY"
+          ],
+          "firstName": [
+            "Ha-Yeon"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 56212, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sik Kim W"
+          ],
+          "firstName": [
+            "Woo"
+          ],
+          "lastName": [
+            "Sik Kim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Functional Biomaterial Research Center, Korea Research Institute of Bioscience and Biotechnology, Jeongeup 56212, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moo Han J"
+          ],
+          "firstName": [
+            "Jeong"
+          ],
+          "lastName": [
+            "Moo Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 56212, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yong Park W"
+          ],
+          "firstName": [
+            "Woo"
+          ],
+          "lastName": [
+            "Yong Park"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, College of Korean Medicine, Kyung Hee University, Seoul 02447, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim ST"
+          ],
+          "firstName": [
+            "Seung-Taik"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byun EB"
+          ],
+          "firstName": [
+            "Eui-Baek"
+          ],
+          "lastName": [
+            "Byun"
+          ],
+          "initials": [
+            "EB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 56212, Republic of Korea. Electronic address: ebbyun80@kaeri.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "95"
+      ],
+      "journalIssueId": [
+        "3168735"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International immunopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Int Immunopharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Int Immunopharmacol"
+          ],
+          "NLMid": [
+            "100965259"
+          ],
+          "ISSN": [
+            "1567-5769"
+          ],
+          "ESSN": [
+            "1878-1705"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107523"
+  ],
+  "abstractText": [
+    "Although we previously identified a new hydroxymethoxyl chrysin derivative (HMOC) using ionizing radiation, the anti-inflammatory mechanism of HMOC in dendritic cells remains unclear. In this study, we investigate the effects of HMOC on phenotypic and functional changes in activated bone marrow-derived dendritic cells (BMDCs). In lipopolysaccharide (LPS)-stimulated BMDCs, HMOC treatment inhibited pro-inflammatory cytokines (TNF-α, IL-12p70, and IL-1β), surface molecules (CD80, CD86, MHC-I, and MHC-II), and antigen-presentation to MHC-I and II without a decrease in IL-10. Furthermore, HMOC increased indoleamine 2,3-dioxygenase-1 (IDO1) activity via activation of JNK and p38 signaling in the presence of LPS. Interestingly, LPS-stimulated DCs treated with HMOC inhibited the proliferation and activation of CD4<sup>+</sup> and CD8<sup>+</sup> T cells, as well as differentiation of CD4<sup>+</sup> T cells into Th1-, Th2- and Th17 cells. In addition, LPS-stimulated DCs treated with HMOC induced an increase in CD4<sup>+</sup>CD25<sup>+</sup>Foxp3<sup>+</sup> regulatory T cells (Tregs). Collectively, our results suggest that HMOC confers tolerogenic properties in BMDCs, which are responsible for inducing Th cell differentiation to Tregs. Our findings provide a better understanding of the anti-inflammatory mechanism of HMOC in DCs and may contribute to development of a valuable therapeutic candidate for atopic dermatitis."
+  ],
+  "affiliation": [
+    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 56212, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Regulatory T cells",
+        "Indoleamine 2",
+        "3-dioxygenase",
+        "Tolerogenic Dendritic Cells",
+        "Chrysin Derivative"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.intimp.2021.107523"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-11"
+  ],
+  "firstIndexDate": [
+    "2021-03-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-08"
+  ],
+  "firstPublicationDate": [
+    "2021-03-08"
+  ]
+}

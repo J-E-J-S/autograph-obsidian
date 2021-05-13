@@ -1,0 +1,332 @@
+{
+  "id": [
+    "33739901"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33739901"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1879103"
+  ],
+  "title": [
+    "Injectable oxygenation therapeutics: evaluating the oxygen delivery efficacy of artificial oxygen carriers and kosmotropes <i>in vitro</i>."
+  ],
+  "authorString": [
+    "Jayaraman MS, Graham K, Unger EC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jayaraman MS"
+          ],
+          "firstName": [
+            "Meghna S"
+          ],
+          "lastName": [
+            "Jayaraman"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2729-9060",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "NuvOx Pharma, LLC, Tucson, AZ, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Graham K"
+          ],
+          "firstName": [
+            "Kaitlin"
+          ],
+          "lastName": [
+            "Graham"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7200-4620",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "NuvOx Pharma, LLC, Tucson, AZ, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Unger EC"
+          ],
+          "firstName": [
+            "Evan C"
+          ],
+          "lastName": [
+            "Unger"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8327-7731",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "NuvOx Pharma, LLC, Tucson, AZ, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8327-7731",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2729-9060",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7200-4620",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "317-324"
+  ],
+  "abstractText": [
+    "The aim of this paper was to utilise an existing <i>in vitro</i> setup to quantify the oxygen offloading capabilities of two different subsets of injectable oxygenation therapeutics: (1) artificial oxygen carriers (AOCs), which bind or dissolve oxygen and act as transport vectors, and (2) kosmotropes, which increase water hydrogen bonding and thereby decrease the resistance to oxygen movement caused by the blood plasma. Dodecafluoropentane emulsion (DDFPe) was chosen to represent the AOC subset while trans sodium crocetinate (TSC) was selected to represent the kosmotrope subset. PEG-Telomer-B (PTB), the surfactant utilised to encapsulate DDFP in emulsion form, was also tested to determine whether it affected the oxygen transport ability of DDFPe. The <i>in vitro</i> set-up was used to simulate a semi closed-loop circulatory system, in which oxygen could be delivered from the lungs to hypoxic tissues. Results of this study showed that (1) 0.5 ml of a PFC outperformed 6.25 ml of a kosmotrope in a controlled, <i>in vitro</i> setting and (2) that PTB and sucrose do not contribute to the overall oxygen transportation efficacy of DDFPe. These results could be therapeutically beneficial to ongoing and future pre-clinical and clinical studies involving various oxygenation agents."
+  ],
+  "affiliation": [
+    "NuvOx Pharma, LLC, Tucson, AZ, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Perfluorocarbon",
+        "Pre-oxygenation",
+        "In vitro Model",
+        "Oxygen Therapeutic",
+        "Dodecafluoropentane"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1879103"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-19"
+  ],
+  "firstIndexDate": [
+    "2021-03-20"
+  ],
+  "dateOfRevision": [
+    "2021-03-22"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

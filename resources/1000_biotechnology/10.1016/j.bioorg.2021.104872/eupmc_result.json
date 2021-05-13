@@ -1,0 +1,566 @@
+{
+  "id": [
+    "33838560"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33838560"
+  ],
+  "doi": [
+    "10.1016/j.bioorg.2021.104872"
+  ],
+  "title": [
+    "Design, synthesis and biological evaluation of anilide (dicarboxylic acid) shikonin esters as antitumor agents through targeting PI3K/Akt/mTOR signaling pathway."
+  ],
+  "authorString": [
+    "Ma Y, Yang X, Han H, Wen Z, Yang M, Zhang Y, Fu J, Wang X, Yin T, Lu G, Qi J, Lin H, Wang X, Yang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yingying"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaorong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biology and Geography Science, Yili Normal University, Yining 835000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han H"
+          ],
+          "firstName": [
+            "Hongwei"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wen Z"
+          ],
+          "firstName": [
+            "Zhongling"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang M"
+          ],
+          "firstName": [
+            "Minkai"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yahan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu J"
+          ],
+          "firstName": [
+            "Jiangyan"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin T"
+          ],
+          "firstName": [
+            "Tongming"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu G"
+          ],
+          "firstName": [
+            "Guihua"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qi J"
+          ],
+          "firstName": [
+            "Jinliang"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin H"
+          ],
+          "firstName": [
+            "Hongyan"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China. Electronic address: linhy@nju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China. Electronic address: wangxm07@nju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Yonghua"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China; Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry University, Nanjing 210037, China. Electronic address: yangyh@nju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "111"
+      ],
+      "journalIssueId": [
+        "3141269"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioorganic chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Bioorg Chem"
+          ],
+          "medlineAbbreviation": [
+            "Bioorg Chem"
+          ],
+          "NLMid": [
+            "1303703"
+          ],
+          "ISSN": [
+            "0045-2068"
+          ],
+          "ESSN": [
+            "1090-2120"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "104872"
+  ],
+  "abstractText": [
+    "Triple-negative breast cancer (TNBC) has an unfavorable prognosis attribute to its low differentiation, rapid proliferation and high distant metastasis rate. PI3K/Akt/mTOR as an intracellular signaling pathway plays a key role in the cell proliferation, migration, invasion, metabolism and regeneration. In this work, we designed and synthesized a series of anilide (dicarboxylic acid) shikonin esters targeting PI3K/Akt/mTOR signaling pathway, and assessed their antitumor effects. Through three rounds of screening by computer-aided drug design method (CADD), we preliminarily obtained sixteen novel anilide (dicarboxylic acid) shikonin esters and identified them as excellent compounds. CCK-8 assay results demonstrated that compound M9 exhibited better antiproliferative activities against MDA-MB-231, A549 and HeLa cell lines than shikonin (SK), especially for MDA-MB-231 (M9: IC<sub>50</sub> = 4.52 ± 0.28 μM; SK: IC<sub>50</sub> = 7.62 ± 0.26 μM). Moreover, the antiproliferative activity of M9 was better than that of paclitaxel. Further pharmacological studies showed that M9 could induce apoptosis of MDA-MB-231 cells and arrest the cell cycle in G2/M phase. M9 also inhibited the migration of MDA-MB-231 cells by inhibiting Wnt/β-catenin signaling pathway. In addition, western blot results showed that M9 could inhibit cell proliferation and migration by down-regulating PI3K/Akt/mTOR signaling pathway. Finally, a three-dimensional quantitative structure-activity relationship (3D-QSAR) model was also constructed to provide a basis for further development of shikonin derivatives as potential antitumor drugs through structure-activity relationship analysis. To sum up, M9 could be a potential candidate for TNBC therapy."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Pharmaceutical Biotechnology, Institute of Plant Molecular Biology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antitumor",
+        "3D-QSAR",
+        "Pi3k/akt/mtor",
+        "Tnbc",
+        "Anilide (Dicarboxylic Acid) Shikonin Esters"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bioorg.2021.104872"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-10"
+  ],
+  "firstIndexDate": [
+    "2021-04-11"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-29"
+  ],
+  "firstPublicationDate": [
+    "2021-03-29"
+  ]
+}

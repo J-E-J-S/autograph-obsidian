@@ -1,0 +1,397 @@
+{
+  "id": [
+    "32728855"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32728855"
+  ],
+  "doi": [
+    "10.1007/s12602-020-09690-3"
+  ],
+  "title": [
+    "In Vitro Evaluation of Potential Probiotic Strain Lactococcus lactis Gh1 and Its Bacteriocin-Like Inhibitory Substances for Potential Use in the Food Industry."
+  ],
+  "authorString": [
+    "Jawan R, Abbasiliasi S, Mustafa S, Kapri MR, Halim M, Ariff AB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jawan R"
+          ],
+          "firstName": [
+            "Roslina"
+          ],
+          "lastName": [
+            "Jawan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biotechnology Programme, Faculty of Science and Natural Resources, Universiti Malaysia Sabah, Jalan UMS, 88400, Kota Kinabalu, Sabah, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abbasiliasi S"
+          ],
+          "firstName": [
+            "Sahar"
+          ],
+          "lastName": [
+            "Abbasiliasi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Halal Products Research Institute, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mustafa S"
+          ],
+          "firstName": [
+            "Shuhaimi"
+          ],
+          "lastName": [
+            "Mustafa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Halal Products Research Institute, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kapri MR"
+          ],
+          "firstName": [
+            "Mohammad Rizal"
+          ],
+          "lastName": [
+            "Kapri"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Halim M"
+          ],
+          "firstName": [
+            "Murni"
+          ],
+          "lastName": [
+            "Halim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ariff AB"
+          ],
+          "firstName": [
+            "Arbakariya B"
+          ],
+          "lastName": [
+            "Ariff"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia. arbarif@upm.edu.my."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia. arbarif@upm.edu.my."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "3148471"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Probiotics and antimicrobial proteins"
+          ],
+          "ISOAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "medlineAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "NLMid": [
+            "101484100"
+          ],
+          "ISSN": [
+            "1867-1306"
+          ],
+          "ESSN": [
+            "1867-1314"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "422-440"
+  ],
+  "abstractText": [
+    "Determination of a microbial strain for the joining into sustenance items requires both in vitro and in vivo assessment. A newly isolated bacteriocin-like inhibitory substance (BLIS) producing lactic acid bacterium, Lactococcus lactis Gh1, was isolated from a traditional flavour enhancer and evaluated in vitro for its potential applications in the food industry. Results from this study showed that L. lactis was tolerant to NaCl (≤ 4.0%, w/v), phenol (≤ 0.4%, w/v), 0.3% (w/v) bile salt, and pH 3. BLIS from L. lactis showed antimicrobial activity against Listeria monocytogenes ATCC 15313 and was susceptible to 10 types of antibiotics. The absence of haemolytic activity and the presence of acid phosphatase and naphthol-AS-BI-phosphohydrolase were observed in L. lactis. L. lactis could coagulate milk and showed a negative response to amylolytic and proteolytic activities and did not secrete β-galactosidase. The antimicrobial activity of BLIS was completely abolished at 121 °C. The BLIS was conserved at 4 °C in BHI and MRS medium up to 6-4 months, respectively. BLIS activity was more stable in BHI as compared to MRS after four freeze-thaw cycles and was not affected by a wide range of pH (pH 4-8). BLIS was sensitive to proteinase k and resistant to catalase and trypsin. The antimicrobial activity was slightly reduced by acetone, ethanol, methanol, and acetonitrile at 10% (v/v) and also towards Tween-80, urea, and NaCl 1% (v/v). Results from this study have demonstrated that L. lactis has a vast potential to be applied in the food industry, such as for the preparation of starter culture, functional foods, and probiotic products."
+  ],
+  "affiliation": [
+    "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FRGS/1/2015/SG05/UPM/01/3"
+          ],
+          "agency": [
+            "Ministry of Education Malaysia"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Characterization",
+        "Lactococcus lactis",
+        "Lactic acid bacteria",
+        "Bacteriocins",
+        "Food Industry",
+        "Cell-free Supernatant"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12602-020-09690-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-07-31"
+  ],
+  "firstIndexDate": [
+    "2020-07-31"
+  ],
+  "dateOfRevision": [
+    "2021-04-09"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

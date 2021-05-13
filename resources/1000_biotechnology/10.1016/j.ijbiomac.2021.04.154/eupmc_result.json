@@ -1,0 +1,458 @@
+{
+  "id": [
+    "33932416"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33932416"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.04.154"
+  ],
+  "title": [
+    "Human skin microbiota-friendly lysostaphin."
+  ],
+  "authorString": [
+    "Bonar E, Bukowski M, Chlebicka K, Madry A, Bereznicka A, Kosecka-Strojek M, Dubin G, Miedzobrodzki J, Mak P, Wladyka B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bonar E"
+          ],
+          "firstName": [
+            "Emilia"
+          ],
+          "lastName": [
+            "Bonar"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bukowski M"
+          ],
+          "firstName": [
+            "Michal"
+          ],
+          "lastName": [
+            "Bukowski"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chlebicka K"
+          ],
+          "firstName": [
+            "Kinga"
+          ],
+          "lastName": [
+            "Chlebicka"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madry A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Madry"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bereznicka A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Bereznicka"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kosecka-Strojek M"
+          ],
+          "firstName": [
+            "Maja"
+          ],
+          "lastName": [
+            "Kosecka-Strojek"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dubin G"
+          ],
+          "firstName": [
+            "Grzegorz"
+          ],
+          "lastName": [
+            "Dubin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miedzobrodzki J"
+          ],
+          "firstName": [
+            "Jacek"
+          ],
+          "lastName": [
+            "Miedzobrodzki"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mak P"
+          ],
+          "firstName": [
+            "Paweł"
+          ],
+          "lastName": [
+            "Mak"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland. Electronic address: pawel.mak@uj.edu.pl."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wladyka B"
+          ],
+          "firstName": [
+            "Benedykt"
+          ],
+          "lastName": [
+            "Wladyka"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland. Electronic address: benedykt.wladyka@uj.edu.pl."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3148230"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Growing antibiotic resistance of bacteria is a burning problem of human and veterinary medicine. Expansion and introduction of novel microbicidal therapeutics is highly desirable. However, antibiotic treatment disturbs the balance of physiological microbiota by changing its qualitative and/or quantitative composition, resulting in a number of adverse effects that include secondary infections. Although such dysbiosis may be reversed by the treatment with probiotics, a more attractive alternative is the use of antibiotics that target only pathogens, while sparing the commensals. Here, we describe lysostaphin LSp222, an enzyme produced naturally by Staphylococcus pseudintermedius 222. LSp222 is highly effective against S. aureus, including its multi-drug resistant strains. Importantly, the inhibitory concentration for S. epidermidis, the predominant commensal in healthy human skin, is at least two orders of magnitude higher compared to S. aureus. Such significant therapeutic window makes LSp222 a microbiota-friendly antibacterial agent with a potential application in the treatment of S. aureus-driven skin infections."
+  ],
+  "affiliation": [
+    "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Staphylococcus aureus",
+        "Bacteriocin",
+        "Lysostaphin"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.04.154"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-01"
+  ],
+  "firstIndexDate": [
+    "2021-05-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

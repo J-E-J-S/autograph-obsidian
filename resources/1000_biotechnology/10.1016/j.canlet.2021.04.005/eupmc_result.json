@@ -1,0 +1,641 @@
+{
+  "id": [
+    "33862151"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33862151"
+  ],
+  "doi": [
+    "10.1016/j.canlet.2021.04.005"
+  ],
+  "title": [
+    "ESDN inhibits melanoma progression by blocking E-selectin expression in endothelial cells via STAT3."
+  ],
+  "authorString": [
+    "Coppo R, Orso F, Virga F, Dalmasso A, Baruffaldi D, Nie L, Clapero F, Dettori D, Quirico L, Grassi E, Defilippi P, Provero P, Valdembri D, Serini G, Sadeghi MM, Mazzone M, Taverna D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Coppo R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Coppo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Orso F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Orso"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Virga F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Virga"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy; VIB Center for Cancer Biology, Department of Oncology, University of Leuven, Leuven, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dalmasso A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Dalmasso"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baruffaldi D"
+          ],
+          "firstName": [
+            "Desirée"
+          ],
+          "lastName": [
+            "Baruffaldi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nie L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Nie"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Section of Cardiovascular Medicine and Cardiovascular Research Center, Yale School of Medicine, New Haven, CT, USA; Veterans Affairs Connecticut Healthcare System, West Haven, CT, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clapero F"
+          ],
+          "firstName": [
+            "Fabiana"
+          ],
+          "lastName": [
+            "Clapero"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Candiolo Cancer Institute, Fondazione del Piemonte per l'Oncologia (FPO) Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), 10060, Candiolo, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dettori D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Dettori"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Quirico L"
+          ],
+          "firstName": [
+            "Lorena"
+          ],
+          "lastName": [
+            "Quirico"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grassi E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Grassi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Defilippi P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Defilippi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Provero P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Provero"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy; Center for Translational Genomics and Bioinformatics, San Raffaele Scientific Institute, Milano, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Valdembri D"
+          ],
+          "firstName": [
+            "Donatella"
+          ],
+          "lastName": [
+            "Valdembri"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Candiolo Cancer Institute, Fondazione del Piemonte per l'Oncologia (FPO) Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), 10060, Candiolo, Torino, Italy; Department of Oncology, University of Torino School of Medicine, 10060, Candiolo, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Serini G"
+          ],
+          "firstName": [
+            "Guido"
+          ],
+          "lastName": [
+            "Serini"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Candiolo Cancer Institute, Fondazione del Piemonte per l'Oncologia (FPO) Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), 10060, Candiolo, Torino, Italy; Department of Oncology, University of Torino School of Medicine, 10060, Candiolo, Torino, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sadeghi MM"
+          ],
+          "firstName": [
+            "Mehran M"
+          ],
+          "lastName": [
+            "Sadeghi"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Section of Cardiovascular Medicine and Cardiovascular Research Center, Yale School of Medicine, New Haven, CT, USA; Veterans Affairs Connecticut Healthcare System, West Haven, CT, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mazzone M"
+          ],
+          "firstName": [
+            "Massimiliano"
+          ],
+          "lastName": [
+            "Mazzone"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy; VIB Center for Cancer Biology, Department of Oncology, University of Leuven, Leuven, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taverna D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Taverna"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy. Electronic address: daniela.taverna@unito.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "510"
+      ],
+      "journalIssueId": [
+        "3154102"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer letters"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Lett"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Lett"
+          ],
+          "NLMid": [
+            "7600053"
+          ],
+          "ISSN": [
+            "0304-3835"
+          ],
+          "ESSN": [
+            "1872-7980"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "13-23"
+  ],
+  "abstractText": [
+    "An interactive crosstalk between tumor and stroma cells is essential for metastatic melanoma progression. We evidenced that ESDN/DCBLD2/CLCP1 plays a crucial role in endothelial cells during the spread of melanoma. Precisely, increased extravasation and metastasis formation were revealed in ESDN-null mice injected with melanoma cells, even if the primary tumor growth, vessel permeability, and angiogenesis were not enhanced. Interestingly, improved adhesion of melanoma cells to ESDN-depleted endothelial cells was observed, due to the presence of higher levels of E-selectin transcripts/proteins in ESDN-defective cells. In accordance with these results, anticorrelation was observed between ESDN and E-selectin in human endothelial cells. Most importantly, our data revealed that cimetidine, an E-selectin inhibitor, was able to block cell adhesion, extravasation, and metastasis formation in ESDN-null mice, underlying a major role of ESDN in E-selectin transcription upregulation, which according to our data, may presumably be linked to STAT3. Based on our results, we propose a protective role for ESDN during the spread of melanoma and reveal its therapeutic potential."
+  ],
+  "affiliation": [
+    "Molecular Biotechnology Center (MBC), University of Torino, Torino, Italy; Dept. Molecular Biotechnology and Health Sciences, University of Torino, Torino, Italy."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cimetidine",
+        "adhesion",
+        "Tumor Microenvironment",
+        "Melanoma Metastasis",
+        "Esdn"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.canlet.2021.04.005"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-16"
+  ],
+  "firstIndexDate": [
+    "2021-04-17"
+  ],
+  "dateOfRevision": [
+    "2021-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-13"
+  ],
+  "firstPublicationDate": [
+    "2021-04-13"
+  ]
+}

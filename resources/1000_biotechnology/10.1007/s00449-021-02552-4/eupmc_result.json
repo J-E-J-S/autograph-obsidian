@@ -1,0 +1,599 @@
+{
+  "id": [
+    "33748869"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33748869"
+  ],
+  "doi": [
+    "10.1007/s00449-021-02552-4"
+  ],
+  "title": [
+    "Analyzing the genetic characteristics of a tryptophan-overproducing Escherichia coli."
+  ],
+  "authorString": [
+    "Ding D, Bai D, Li J, Mao Z, Zhu Y, Liu P, Lin J, Ma H, Zhang D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ding D"
+          ],
+          "firstName": [
+            "Dongqin"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratories of Systems Microbial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bai D"
+          ],
+          "firstName": [
+            "Danyang"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratories of Systems Microbial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jinlong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mao Z"
+          ],
+          "firstName": [
+            "Zhitao"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biodesign Center, Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yaru"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratories of Systems Microbial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu P"
+          ],
+          "firstName": [
+            "Pi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin J"
+          ],
+          "firstName": [
+            "Jianping"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Nankai University, Haihe Education Park, 38 Tongyan Road, Tianjin, 300353, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma H"
+          ],
+          "firstName": [
+            "Hongwu"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biodesign Center, Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dawei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5857-394X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China. zhang_dw@tib.cas.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratories of Systems Microbial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China. zhang_dw@tib.cas.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, People's Republic of China. zhang_dw@tib.cas.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5857-394X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3121046"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioprocess and biosystems engineering"
+          ],
+          "ISOAbbreviation": [
+            "Bioprocess Biosyst Eng"
+          ],
+          "medlineAbbreviation": [
+            "Bioprocess Biosyst Eng"
+          ],
+          "NLMid": [
+            "101088505"
+          ],
+          "ISSN": [
+            "1615-7591"
+          ],
+          "ESSN": [
+            "1615-7605"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "L-tryptophan (L-trp) production in Escherichia coli has been developed by employing random mutagenesis and selection for a long time, but this approach produces an unclear genetic background. Here, we generated the L-trp overproducer TPD5 by combining an intracellular L-trp biosensor and fluorescence-activated cell sorting (FACS) in E. coli, and succeeded in elucidating the genetic basis for L-trp overproduction. The most significant identified positive mutations affected TnaA (deletion), AroG (S211F), TrpE (A63V), and RpoS (nonsense mutation Q33*). The underlying structure-function relationships of the feedback-resistant AroG (S211F) and TrpE (A63V) mutants were uncovered based on protein structure modeling and molecular dynamics simulations, respectively. According to transcriptomic analysis, the global regulator RpoS not only has a great influence on cell growth and morphology, but also on carbon utilization and the direction of carbon flow. Finally, by balancing the concentrations of the L-trp precursors' serine and glutamine based on the above analysis, we further increased the titer of L-trp to 3.18 g/L with a yield of 0.18 g/g. The analysis of the genetic characteristics of an L-trp overproducing E. coli provides valuable information on L-trp synthesis and elucidates the phenotype and complex cellular properties in a high-yielding strain, which opens the possibility to transfer beneficial mutations and reconstruct an overproducer with a clean genetic background."
+  ],
+  "affiliation": [
+    "Tianjin Institutes of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "TSBICIP-KJGG-004-03"
+          ],
+          "agency": [
+            "Tianjin Synthetic Biotechnology Innovation Capacity Improvement Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019YFA0904901"
+          ],
+          "agency": [
+            "National Key R&D Plan Special Project for \"Synthetic biology\""
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018YFA0901402"
+          ],
+          "agency": [
+            "National Key R&D Plan Special Project for \"Synthetic biology\""
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2020YFA0907800"
+          ],
+          "agency": [
+            "National Key R&D Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31800086"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome sequencing",
+        "protein structure",
+        "Transcriptome Analysis",
+        "Transcriptional Regulator",
+        "L-trp"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00449-021-02552-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR250676"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-22"
+  ],
+  "firstIndexDate": [
+    "2021-03-23"
+  ],
+  "dateOfRevision": [
+    "2021-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-22"
+  ],
+  "firstPublicationDate": [
+    "2021-03-22"
+  ]
+}

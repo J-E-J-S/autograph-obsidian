@@ -1,0 +1,574 @@
+{
+  "id": [
+    "33713745"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33713745"
+  ],
+  "doi": [
+    "10.1016/j.biotechadv.2021.107730"
+  ],
+  "title": [
+    "Biodegradation and up-cycling of polyurethanes: Progress, challenges, and prospects."
+  ],
+  "authorString": [
+    "Liu J, He J, Xue R, Xu B, Qian X, Xin F, Blank LM, Zhou J, Wei R, Dong W, Jiang M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiawei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian X"
+          ],
+          "firstName": [
+            "Xiujuan"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xin F"
+          ],
+          "firstName": [
+            "Fengxue"
+          ],
+          "lastName": [
+            "Xin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blank LM"
+          ],
+          "firstName": [
+            "Lars M"
+          ],
+          "lastName": [
+            "Blank"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "iAMB - Institute of Applied Microbiology, ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China. Electronic address: jayzhou@njtech.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei R"
+          ],
+          "firstName": [
+            "Ren"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Junior Research Group Plastic Biodegradation, Department of Biotechnology and Enzyme Catalysis, Institute of Biochemistry, University of Greifswald, Greifswald, Germany. Electronic address: ren.wei@uni-greifswald.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dong W"
+          ],
+          "firstName": [
+            "Weiliang"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China. Electronic address: dwl@njtech.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "48"
+      ],
+      "journalIssueId": [
+        "3150089"
+      ],
+      "dateOfPublication": [
+        "2021 May-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology advances"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "NLMid": [
+            "8403708"
+          ],
+          "ISSN": [
+            "0734-9750"
+          ],
+          "ESSN": [
+            "1873-1899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107730"
+  ],
+  "abstractText": [
+    "Polyurethanes (PUR) are ranked globally as the 6th most abundant synthetic polymer material. Most PUR materials are specifically designed to ensure long-term durability and high resistance to environmental factors. As the demand for diverse PUR materials is increasing annually in many industrial sectors, a large amount of PUR waste is also being generated, which requires proper disposal. In contrast to other mass-produced plastics such as PE, PP, and PET, PUR is a family of synthetic polymers, which differ considerably in their physical properties due to different building blocks (for example, polyester- or polyether-polyol) used in the synthesis. Despite its xenobiotic properties, PUR has been found to be susceptible to biodegradation by different microorganisms, albeit at very low rate under environmental and laboratory conditions. Discovery and characterization of highly efficient PUR-degrading microbes and enzymes capable of disassembling PUR polymer chains into oligo- and monomeric compounds is of fundamental importance for a circular plastic economy. In this review, the main methods used for screening PUR-degrading microbes and enzymes are summarized and compared in terms of their catalytic mechanisms. Furthermore, recycling and upcycling strategies of waste PUR polymers, including microbial conversion of PUR monomers into value added products, are presented."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing 211800, PR China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polyurethanes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plastics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polyesters"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodegradation, Environmental"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recycling"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbial degradation",
+        "Polyurethane",
+        "Enzymatic degradation",
+        "metabolic engineering",
+        "Synthetic Biology",
+        "Biotechnological Upcycling",
+        "Plastic Hydrolysis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plastics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Polyurethanes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Polyesters"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.biotechadv.2021.107730"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-28"
+  ],
+  "dateOfCreation": [
+    "2021-03-13"
+  ],
+  "firstIndexDate": [
+    "2021-03-14"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-10"
+  ],
+  "firstPublicationDate": [
+    "2021-03-10"
+  ]
+}

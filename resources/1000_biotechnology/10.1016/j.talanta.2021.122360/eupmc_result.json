@@ -1,0 +1,441 @@
+{
+  "id": [
+    "33965026"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33965026"
+  ],
+  "doi": [
+    "10.1016/j.talanta.2021.122360"
+  ],
+  "title": [
+    "An electrochemical aptasensor based on AuPt alloy nanoparticles for ultrasensitive detection of amyloid-β oligomers."
+  ],
+  "authorString": [
+    "Liu Y, Xu Q, Zhang Y, Ren B, Huang L, Cai H, Xu T, Liu Q, Zhang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yibiao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China; College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen, Guangdong, 518060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yina"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ren B"
+          ],
+          "firstName": [
+            "Bingyu"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China; Shenzhen Bay Laboratory, Shenzhen, 518055, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang L"
+          ],
+          "firstName": [
+            "Liumei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemistry, Hanshan Normal University, Chaozhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu T"
+          ],
+          "firstName": [
+            "Tailin"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China. Electronic address: xutailin@szu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China; Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, China. Electronic address: liuqiong@szu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xueji"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China. Electronic address: zhangxueji@szu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "231"
+      ],
+      "journalIssueId": [
+        "3167591"
+      ],
+      "dateOfPublication": [
+        "2021 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Talanta"
+          ],
+          "ISOAbbreviation": [
+            "Talanta"
+          ],
+          "medlineAbbreviation": [
+            "Talanta"
+          ],
+          "NLMid": [
+            "2984816R"
+          ],
+          "ISSN": [
+            "0039-9140"
+          ],
+          "ESSN": [
+            "1873-3573"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "122360"
+  ],
+  "abstractText": [
+    "Amyloid-β oligomer is an important biomarker and a potential therapeutic target of Alzheimer's disease in its early stage. Here, we combined superhydrophobic carbon fiber paper (CFP) with AuPt alloy nanoparticles to prepare a CFP/AuPt nanocomposite with larger specific surface area and hydrophobic surface. On this basis, we constructed an electrochemical aptasensor based on CFP/AuPt for the ultrasensitive detection of amyloid-β oligomers. The surface-coated AuPt nanoparticles greatly enhanced the electroactive area, and the hydrophobic surface increased the resisting nonspecific adsorption performance of sensor. A combination of these two features significantly improved the sensitivity and specificity of the sensor. This electrochemical aptasensor based on CFP/AuPt displayed a low detection limit of 0.16 pg/mL. This work shows a promising future in clinical diagnosis of Alzheimer's disease and provides a possible solution to electrochemical biosensors that are susceptible to interference in biological fluids."
+  ],
+  "affiliation": [
+    "Shenzhen Key Laboratory of Marine Biotechnology and Ecology, College of Life Sciences and Oceanography, School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, Guangdong, 518060, China; College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen, Guangdong, 518060, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease (AD)",
+        "Electrochemical Aptasensor",
+        "Amyloid-β Oligomer",
+        "Aupt Alloy Nanoparticles",
+        "Resisting Nonspecific Adsorption"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.talanta.2021.122360"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-09"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-31"
+  ],
+  "firstPublicationDate": [
+    "2021-03-31"
+  ]
+}

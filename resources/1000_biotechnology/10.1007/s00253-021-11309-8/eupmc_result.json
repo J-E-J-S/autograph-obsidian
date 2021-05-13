@@ -1,0 +1,500 @@
+{
+  "id": [
+    "33937930"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33937930"
+  ],
+  "doi": [
+    "10.1007/s00253-021-11309-8"
+  ],
+  "title": [
+    "Exploring the molecular content of CHO exosomes during bioprocessing."
+  ],
+  "authorString": [
+    "Keysberg C, Hertel O, Schelletter L, Busche T, Sochart C, Kalinowski J, Hoffrogge R, Otte K, Noll T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Keysberg C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Keysberg"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3422-5569",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany. keysberg@hochschule-bc.de."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "University of Applied Sciences Biberach, Biberach, Germany. keysberg@hochschule-bc.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hertel O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Hertel"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schelletter L"
+          ],
+          "firstName": [
+            "Louise"
+          ],
+          "lastName": [
+            "Schelletter"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Busche T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Busche"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sochart C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Sochart"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kalinowski J"
+          ],
+          "firstName": [
+            "Jörn"
+          ],
+          "lastName": [
+            "Kalinowski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hoffrogge R"
+          ],
+          "firstName": [
+            "Raimund"
+          ],
+          "lastName": [
+            "Hoffrogge"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Otte K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Otte"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Applied Sciences Biberach, Biberach, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Noll T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Noll"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bielefeld University, Bielefeld, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3422-5569",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "105"
+      ],
+      "journalIssueId": [
+        "3166657"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "8406612"
+          ],
+          "ISSN": [
+            "0175-7598"
+          ],
+          "ESSN": [
+            "1432-0614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "3673-3689"
+  ],
+  "abstractText": [
+    "In biopharmaceutical production, Chinese hamster ovary (CHO) cells derived from Cricetulus griseus remain the most commonly used host cell for recombinant protein production, especially antibodies. Over the last decade, in-depth multi-omics characterization of these CHO cells provided data for extensive cell line engineering and corresponding increases in productivity. However, exosomes, extracellular vesicles containing proteins and nucleic acids, are barely researched at all in CHO cells. Exosomes have been proven to be a ubiquitous mediator of intercellular communication and are proposed as new biopharmaceutical format for drug delivery, indicator reflecting host cell condition and anti-apoptotic factor in spent media. Here we provide a brief overview of different separation techniques and subsequently perform a proteome and regulatory, non-coding RNA analysis of exosomes, derived from lab-scale bioreactor cultivations of a CHO-K1 cell line, to lay out reference data for further research in the field. Applying bottom-up orbitrap shotgun proteomics and next-generation small RNA sequencing, we detected 1395 proteins, 144 micro RNA (miRNA), and 914 PIWI-interacting RNA (piRNA) species differentially across the phases of a batch cultivation process. The exosomal proteome and RNA data are compared with other extracellular fractions and cell lysate, yielding several significantly exosome-enriched species. Graphical Abstract KEY POINTS: • First-time comprehensive protein and miRNA characterization of CHO exosomes. • Isolation protocol and time point of bioprocess strongly affect quality of extracellular vesicles. • CHO-derived exosomes also contain numerous piRNA species of yet unknown function."
+  ],
+  "affiliation": [
+    "Bielefeld University, Bielefeld, Germany. keysberg@hochschule-bc.de."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "34.EFRE-0300095/1703FI04"
+          ],
+          "agency": [
+            "European Regional Development Fund (EFRE)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "CHO",
+        "Proteomics",
+        "miRNA",
+        "Exosomes",
+        "Pirna"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00253-021-11309-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-03"
+  ],
+  "firstIndexDate": [
+    "2021-05-04"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-03"
+  ],
+  "firstPublicationDate": [
+    "2021-05-03"
+  ]
+}

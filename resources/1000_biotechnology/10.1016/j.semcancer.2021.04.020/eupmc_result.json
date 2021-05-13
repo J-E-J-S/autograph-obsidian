@@ -1,0 +1,460 @@
+{
+  "id": [
+    "33971261"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33971261"
+  ],
+  "doi": [
+    "10.1016/j.semcancer.2021.04.020"
+  ],
+  "title": [
+    "Understanding the cross-talk between human microbiota and gastrointestinal cancer for developing potential diagnostic and prognostic biomarkers."
+  ],
+  "authorString": [
+    "Sheetal S, Pal S, Chandan G, Saini V, Chakrabarti S, Saini NK, Mittal A, Thakur VK, Saini AK, Saini RV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sheetal S"
+          ],
+          "firstName": [
+            "Sheetal"
+          ],
+          "lastName": [
+            "Sheetal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, MMEC, Maharishi Markandeshwar (Deemed to be University), Mullana-Ambala, 133207, Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pal S"
+          ],
+          "firstName": [
+            "Soumya"
+          ],
+          "lastName": [
+            "Pal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, MMEC, Maharishi Markandeshwar (Deemed to be University), Mullana-Ambala, 133207, Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chandan G"
+          ],
+          "firstName": [
+            "Gourav"
+          ],
+          "lastName": [
+            "Chandan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Central Research Cell, MM Institute of Medical Sciences & Research Maharishi Markandeshwar (Deemed to be University), Mullana, 133207, Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saini V"
+          ],
+          "firstName": [
+            "Vipin"
+          ],
+          "lastName": [
+            "Saini"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maharishi Markandeshwar University, Solan, 173229, Himachal Pradesh, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chakrabarti S"
+          ],
+          "firstName": [
+            "Sasanka"
+          ],
+          "lastName": [
+            "Chakrabarti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Central Research Cell, MM Institute of Medical Sciences & Research Maharishi Markandeshwar (Deemed to be University), Mullana, 133207, Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saini NK"
+          ],
+          "firstName": [
+            "Neeraj K"
+          ],
+          "lastName": [
+            "Saini"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Jawaharlal Nehru University, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mittal A"
+          ],
+          "firstName": [
+            "Amit"
+          ],
+          "lastName": [
+            "Mittal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Central Research Cell, MM Institute of Medical Sciences & Research Maharishi Markandeshwar (Deemed to be University), Mullana, 133207, Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thakur VK"
+          ],
+          "firstName": [
+            "Vijay Kumar"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "VK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biorefining and Advanced Materials Research Center, Scotland's Rural College (SRUC), Kings Buildings, Edinburgh, EH9 3JG, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saini AK"
+          ],
+          "firstName": [
+            "Adesh K"
+          ],
+          "lastName": [
+            "Saini"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, MMEC, Maharishi Markandeshwar (Deemed to be University), Mullana-Ambala, 133207, Haryana, India. Electronic address: sainiade@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saini RV"
+          ],
+          "firstName": [
+            "Reena V"
+          ],
+          "lastName": [
+            "Saini"
+          ],
+          "initials": [
+            "RV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, MMEC, Maharishi Markandeshwar (Deemed to be University), Mullana-Ambala, 133207, Haryana, India. Electronic address: reenavohra10@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3166995"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Seminars in cancer biology"
+          ],
+          "ISOAbbreviation": [
+            "Semin Cancer Biol"
+          ],
+          "medlineAbbreviation": [
+            "Semin Cancer Biol"
+          ],
+          "NLMid": [
+            "9010218"
+          ],
+          "ISSN": [
+            "1044-579X"
+          ],
+          "ESSN": [
+            "1096-3650"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The interaction between gut microbes and gastrointestinal (GI) tract carcinogenesis has always attracted researchers' attention to identify therapeutic targets or potential prognostic biomarkers. Various studies have suggested that the microbiota do show inflammation and immune dysregulation, which led to carcinogenesis in GI tract. In this review, we have focused on the role of microbes present in gut, intestine, or faeces in GI tract cancers, including esophageal cancer, gastric cancer, and colorectal cancer. Herein, we have discussed the importance of the microbes and their metabolites, which could serve as diagnostic biomarkers for cancer detection, especially in the early stage, and prognostic markers. To maximize the effect of the treatment strategies, an accurate evaluation of the prognosis is imperative for clinicians. There is a vast difference in the microbiota profiles within a population and across the populations depending upon age, diet, lifestyle, genetic makeup, use of antibiotics, and environmental factors. Therefore, the diagnostic efficiency of the microbial markers needs to be further validated. A deeper understanding of the GI cancer and the host microbiota is needed to acquire pivotal information about disease status."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, MMEC, Maharishi Markandeshwar (Deemed to be University), Mullana-Ambala, 133207, Haryana, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolites",
+        "Microbiota",
+        "Biomarker",
+        "Colorectal Cancer",
+        "Gastrointestinal Cancer"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.semcancer.2021.04.020"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-05-07"
+  ]
+}

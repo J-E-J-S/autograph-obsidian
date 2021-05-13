@@ -1,0 +1,541 @@
+{
+  "id": [
+    "33703920"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33703920"
+  ],
+  "doi": [
+    "10.1094/phyto-01-21-0017-r"
+  ],
+  "title": [
+    "Identification of <i>MaWRKY40</i> and <i>MaDLO1</i> as effective marker genes for tracking the salicylic acid-mediated immune response in bananas."
+  ],
+  "authorString": [
+    "Tzean Y, Hou BH, Tsao SM, Chen HM, Cheng AP, Gamboa Chen E, Chou WY, Chao CP, Shen WC, Chen CC, Lee MC, Ashraf I, Yeh HH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tzean Y"
+          ],
+          "firstName": [
+            "Yuh"
+          ],
+          "lastName": [
+            "Tzean"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; miketzean@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hou BH"
+          ],
+          "firstName": [
+            "Bo-Han"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "BH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; tcman@gate.sinica.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tsao SM"
+          ],
+          "firstName": [
+            "Shu-Ming"
+          ],
+          "lastName": [
+            "Tsao"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; tsaosm@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen HM"
+          ],
+          "firstName": [
+            "Ho-Ming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; homing@gate.sinica.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng AP"
+          ],
+          "firstName": [
+            "An-Po"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; petercheng0330@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gamboa Chen E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Gamboa Chen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; D03642007@ntu.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chou WY"
+          ],
+          "firstName": [
+            "Wei-Yi"
+          ],
+          "lastName": [
+            "Chou"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; lagoon0219@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chao CP"
+          ],
+          "firstName": [
+            "Chih-Ping"
+          ],
+          "lastName": [
+            "Chao"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Taiwan Banana Research Institute, Banana Breeding, No.1 Rongquan St. Jiuru,, Pingtung, Taiwan, Pingtung, Taiwan, 90403; cpchao_tbri@yahoo.com.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shen WC"
+          ],
+          "firstName": [
+            "Wei-Chiang"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Taiwan University College of Bioresources and Agriculture, 89243, Plant Pathology and Microbiology, Taipei, Taiwan; wcshen@ntu.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CC"
+          ],
+          "firstName": [
+            "Chyi-Chuann"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; D86226005@ntu.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee MC"
+          ],
+          "firstName": [
+            "Ming-Chi"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; mingchi2013@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ashraf I"
+          ],
+          "firstName": [
+            "Iqra"
+          ],
+          "lastName": [
+            "Ashraf"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; Iqraashraf680@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh HH"
+          ],
+          "firstName": [
+            "Hsin-Hung"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Taiwan University College of Bioresources and Agriculture, 89243, Plant Pathology and Microbiology, Taipei, Taiwan; hyeh@sinica.edu.tw."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3123760"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Phytopathology"
+          ],
+          "ISOAbbreviation": [
+            "Phytopathology"
+          ],
+          "medlineAbbreviation": [
+            "Phytopathology"
+          ],
+          "NLMid": [
+            "9427222"
+          ],
+          "ISSN": [
+            "0031-949X"
+          ],
+          "ESSN": [
+            "1943-7684"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Bananas lie among the world's most important cash and staple crops but are threatened by various devastating pathogens. The phytohormone salicylic acid (SA) plays a key role in the regulation of plant immune response. Tracking the expression of SA-responsive marker genes under pathogen infection is important in pathogenesis elucidation. However, the common SA-responsive marker genes are not consistently induced in different banana cultivars or different organs. Here, we conducted transcriptome analysis for SA response of a banana cultivar, 'Pei-Chiao' (Cavendish, AAA genome), and identified three genes, <i>MaWRKY40</i>, <i>MaWRKY70</i>, and <i>Downy Mildew Resistant 6</i> (<i>DMR6</i>)-<i>Like Oxygenase 1</i> (<i>MaDLO1</i>) that are robustly induced upon SA treatment in both the leaves and roots. Consistent induction of these three genes by SA treatment was also detected in both the leaves and roots of bananas belonging to different genome types such as 'Tai-Chiao No. 7' (Cavendish, AAA genome), 'Pisang Awak' (ABB genome), and 'Lady Finger' (AA genome). Furthermore, the biotrophic pathogen cucumber mosaic virus elicited the expression of <i>MaWRKY40</i> and <i>MaDLO1</i> in infected-leaves of susceptible cultivars. The hemi-biotrophic fungal pathogen <i>Fusarium oxysporum</i> f. sp. <i>cubense</i> tropical race 4 (<i>Foc</i> TR4) also consistently induced the expression of <i>MaWRKY40</i> and <i>MaDLO1</i> in the infected-roots of the <i>Foc</i> TR4-resistant cultivar. These results indicate that <i>MaWRKY40</i> and <i>MaDLO1</i> can serve as reliable SA-responsive marker genes for the study of plant immunity in banana. Revealing SA-responsive marker genes provides a stepping-stone for further studies in banana resistance to pathogens."
+  ],
+  "affiliation": [
+    "Academia Sinica, 38017, Agricultural Biotechnology Research Center, Taipei, Taiwan; miketzean@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Disease resistance",
+        "Molecular",
+        "Virology",
+        "Fungal Pathogens",
+        "Host Parasite Interactions",
+        "Plant Immune Responses"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1094/PHYTO-01-21-0017-R"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-11"
+  ],
+  "firstIndexDate": [
+    "2021-03-12"
+  ],
+  "dateOfRevision": [
+    "2021-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-11"
+  ],
+  "firstPublicationDate": [
+    "2021-03-11"
+  ]
+}

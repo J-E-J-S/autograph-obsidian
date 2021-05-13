@@ -1,0 +1,212 @@
+{
+  "id": [
+    "IND607266744"
+  ],
+  "source": [
+    "AGR"
+  ],
+  "doi": [
+    "10.1016/j.foodqual.2021.104197"
+  ],
+  "title": [
+    "How chemophobia affects public acceptance of pesticide use and biotechnology in agriculture"
+  ],
+  "authorString": [
+    "Saleh R, Bearth A, Siegrist M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saleh R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Saleh"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Bearth A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Bearth"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Siegrist M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Siegrist"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "91"
+      ],
+      "journalIssueId": [
+        "3165831"
+      ],
+      "dateOfPublication": [
+        "2021 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food quality and preference."
+          ],
+          "medlineAbbreviation": [
+            "Food quality and preference."
+          ],
+          "ISSN": [
+            "0950-3293"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "Not Available"
+  ],
+  "abstractText": [
+    "Protecting crops from infestations is critical to ensuring stable, safe food production. However, many consumers are concerned about the use of pesticides and agricultural biotechnology (agri-biotech) applications. A lack of consumer acceptance can prevent potentially beneficial applications from being utilized. This study examines consumer acceptance of pesticide use in conventional and organic agriculture and agri-biotech applications as crop-protection measures. An online between-subject experiment was conducted with participants from the German-speaking part of Switzerland (N = 643). The results revealed that consumers were most willing to accept gene transfers as a protection measure, provided the gene came from a wild variety of the same species as the cultivated plant. Both chemophobia and the importance of naturalness in food influence consumer acceptance of pesticide use and agri-biotech applications. Addressing chemophobia and informing consumers about the role of technologies in pest-management and crop-protection could lead them to trust and accept related agricultural policies."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.foodqual.2021.104197"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-03-22"
+  ],
+  "dateOfCreation": [
+    "2021-03-22"
+  ],
+  "firstIndexDate": [
+    "2021-05-06"
+  ],
+  "firstPublicationDate": [
+    "2021-07-01"
+  ]
+}

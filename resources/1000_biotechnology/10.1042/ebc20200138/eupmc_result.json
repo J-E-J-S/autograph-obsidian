@@ -1,0 +1,350 @@
+{
+  "id": [
+    "33956085"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33956085"
+  ],
+  "doi": [
+    "10.1042/ebc20200138"
+  ],
+  "title": [
+    "Established tools and emerging trends for the production of recombinant proteins and metabolites in Pichia pastoris."
+  ],
+  "authorString": [
+    "De S, Mattanovich D, Ferrer P, Gasser B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "De S"
+          ],
+          "firstName": [
+            "Sonakshi"
+          ],
+          "lastName": [
+            "De"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Microbial Biotechnology, Department of Biotechnology, BOKU University of Natural Resources and Life Sciences Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Austrian Centre of Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mattanovich D"
+          ],
+          "firstName": [
+            "Diethard"
+          ],
+          "lastName": [
+            "Mattanovich"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Microbial Biotechnology, Department of Biotechnology, BOKU University of Natural Resources and Life Sciences Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Austrian Centre of Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrer P"
+          ],
+          "firstName": [
+            "Pau"
+          ],
+          "lastName": [
+            "Ferrer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical, Biological and Environmental Engineering, Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès), Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gasser B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Gasser"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2881-6370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Microbial Biotechnology, Department of Biotechnology, BOKU University of Natural Resources and Life Sciences Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Austrian Centre of Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Christian Doppler Laboratory for growth-decoupled protein production in yeast, BOKU University of Natural Resources and Life Sciences Vienna, Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2881-6370",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3166303"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Essays in biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Essays Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Essays Biochem"
+          ],
+          "NLMid": [
+            "0043306"
+          ],
+          "ISSN": [
+            "0071-1365"
+          ],
+          "ESSN": [
+            "1744-1358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Besides bakers' yeast, the methylotrophic yeast Komagataella phaffii (also known as Pichia pastoris) has been developed into the most popular yeast cell factory for the production of heterologous proteins. Strong promoters, stable genetic constructs and a growing collection of freely available strains, tools and protocols have boosted this development equally as thorough genetic and cell biological characterization. This review provides an overview of state-of-the-art tools and techniques for working with P. pastoris, as well as guidelines for the production of recombinant proteins with a focus on small-scale production for biochemical studies and protein characterization. The growing applications of P. pastoris for in vivo biotransformation and metabolic pathway engineering for the production of bulk and specialty chemicals are highlighted as well."
+  ],
+  "affiliation": [
+    "Institute of Microbiology and Microbial Biotechnology, Department of Biotechnology, BOKU University of Natural Resources and Life Sciences Vienna, Austria."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yeast",
+        "systems biology",
+        "Recombinant Proteins",
+        "metabolic engineering",
+        "Synthetic Biology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1042/EBC20200138"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-06"
+  ],
+  "firstIndexDate": [
+    "2021-05-07"
+  ],
+  "dateOfRevision": [
+    "2021-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-06"
+  ],
+  "firstPublicationDate": [
+    "2021-05-06"
+  ]
+}

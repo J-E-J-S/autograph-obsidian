@@ -1,0 +1,307 @@
+{
+  "id": [
+    "33862097"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33862097"
+  ],
+  "doi": [
+    "10.1016/j.dci.2021.104100"
+  ],
+  "title": [
+    "Identification and expression analysis of sixteen Toll-like receptor genes, TLR1, TLR2a, TLR2b, TLR3, TLR5M, TLR5S, TLR7-9, TLR13a-c, TLR14, TLR21-23 in mandarin fish Siniperca chuatsi."
+  ],
+  "authorString": [
+    "Wang KL, Chen SN, Huo HJ, Nie P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang KL"
+          ],
+          "firstName": [
+            "Kai Lun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, And Key Laboratory of Aquaculture Disease Control, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, Hubei Province, 430072, China; University of Chinese Academy of Sciences, Beijing, 100049, China; The Innovation Academy of Seed Design, Chinese Academy of Sciences, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen SN"
+          ],
+          "firstName": [
+            "Shan Nan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, And Key Laboratory of Aquaculture Disease Control, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, Hubei Province, 430072, China; The Innovation Academy of Seed Design, Chinese Academy of Sciences, Wuhan, China. Electronic address: chenshannan@ihb.ac.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huo HJ"
+          ],
+          "firstName": [
+            "Hui Jun"
+          ],
+          "lastName": [
+            "Huo"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for Marine Science and Technology (Qingdao), Qingdao, Shandong Province, 266237, China; School of Marine Science and Engineering, Qingdao Agricultural University, Qingdao, Shandong Province, 266109, China. Electronic address: huohuijun@qau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nie P"
+          ],
+          "firstName": [
+            "Pin"
+          ],
+          "lastName": [
+            "Nie"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, And Key Laboratory of Aquaculture Disease Control, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, Hubei Province, 430072, China; The Innovation Academy of Seed Design, Chinese Academy of Sciences, Wuhan, China; Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for Marine Science and Technology (Qingdao), Qingdao, Shandong Province, 266237, China; School of Marine Science and Engineering, Qingdao Agricultural University, Qingdao, Shandong Province, 266109, China. Electronic address: pinnie@ihb.ac.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "121"
+      ],
+      "journalIssueId": [
+        "3151315"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Developmental and comparative immunology"
+          ],
+          "ISOAbbreviation": [
+            "Dev Comp Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Dev Comp Immunol"
+          ],
+          "NLMid": [
+            "7708205"
+          ],
+          "ISSN": [
+            "0145-305X"
+          ],
+          "ESSN": [
+            "1879-0089"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "104100"
+  ],
+  "abstractText": [
+    "Toll-like receptors (TLRs), as a family of pattern recognition receptors (PRRs), possess specific pathogen-related molecular pattern (PAMP) recognition spectrum in inducing immune responses. In this study, sixteen TLRs were identified and characterized in mandarin fish (Siniperca chuatsi). All these TLRs consist of leucine-rich repeats (LRRs), a transmembrane domain and a Toll/interleukin-I receptor (TIR) domain, with the exception of TLR5S which lacks TIR domain, and they can be clustered into five branches, i.e. TLR1 subfamily, TLR3 subfamily, TLR5 subfamily, TLR7 subfamily and TLR11 subfamily in phylogenetic tree. These TLR genes were expressed in all tested tissues and had high expression levels in immune-related tissues such as head-kidney and spleen or mucosa-related tissues such as intestine and pyloric caecum. The transcripts of TLR2a, TLR2b, TLR3, TLR13a, TLR14, TLR22 and TLR23 were all significantly up-regulated after stimulation with poly(I:C); TLR1, TLR2a, TLR2b, TLR3, TLR5M, TLR5S, TLR13a and TLR13b transcripts were all significantly up-regulated after stimulation with PGN; and TLR2a, TLR2b, TLR5M, TLR5S, TLR7, TLR8, TLR9, TLR13c, TLR14 and TLR22 transcripts were all significantly up-regulated after stimulation with LPS in isolated head kidney lymphocytes of mandarin fish. The findings in this study may provide a valuable basis for functional study on TLR genes in mandarin fish."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Freshwater Ecology and Biotechnology, And Key Laboratory of Aquaculture Disease Control, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, Hubei Province, 430072, China; University of Chinese Academy of Sciences, Beijing, 100049, China; The Innovation Academy of Seed Design, Chinese Academy of Sciences, Wuhan, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mandarin fish",
+        "Toll-like receptors",
+        "innate immune response"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.dci.2021.104100"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-16"
+  ],
+  "firstIndexDate": [
+    "2021-04-17"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-19"
+  ],
+  "firstPublicationDate": [
+    "2021-04-19"
+  ]
+}

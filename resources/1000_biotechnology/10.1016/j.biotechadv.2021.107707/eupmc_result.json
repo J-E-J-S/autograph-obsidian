@@ -1,0 +1,393 @@
+{
+  "id": [
+    "33631186"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33631186"
+  ],
+  "doi": [
+    "10.1016/j.biotechadv.2021.107707"
+  ],
+  "title": [
+    "Biotechnological production and high potential of furan-based renewable monomers and polymers."
+  ],
+  "authorString": [
+    "Lalanne L, Nyanhongo GS, Guebitz GM, Pellis A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lalanne L"
+          ],
+          "firstName": [
+            "Lucie"
+          ],
+          "lastName": [
+            "Lalanne"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Polytech Clermont-Ferrand, Department of Biological Engineering, Cézeaux University Campus, 2 Avenue Blaise Pascal, 63178 Aubière cedex, France; University of Natural Resources and Life Sciences, Vienna, Department of Agrobiotechnology, Institute of Environmental Biotechnology, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nyanhongo GS"
+          ],
+          "firstName": [
+            "Gibson S"
+          ],
+          "lastName": [
+            "Nyanhongo"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Natural Resources and Life Sciences, Vienna, Department of Agrobiotechnology, Institute of Environmental Biotechnology, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guebitz GM"
+          ],
+          "firstName": [
+            "Georg M"
+          ],
+          "lastName": [
+            "Guebitz"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Natural Resources and Life Sciences, Vienna, Department of Agrobiotechnology, Institute of Environmental Biotechnology, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria; Austrian Centre of Industrial Biotechnology, Division Enzymes & Polymers, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pellis A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Pellis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Natural Resources and Life Sciences, Vienna, Department of Agrobiotechnology, Institute of Environmental Biotechnology, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria. Electronic address: alessandro.pellis@boku.ac.at."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "48"
+      ],
+      "journalIssueId": [
+        "3150089"
+      ],
+      "dateOfPublication": [
+        "2021 May-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology advances"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "NLMid": [
+            "8403708"
+          ],
+          "ISSN": [
+            "0734-9750"
+          ],
+          "ESSN": [
+            "1873-1899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107707"
+  ],
+  "abstractText": [
+    "Of the 25 million tons of plastic waste produced every year in Europe, 40% of these are not reused or recycled, thus contributing to environmental pollution, one of the major challenges of the 21st century. Most of these plastics are made of petrochemical-derived polymers which are very difficult to degrade and as a result, a lot of research efforts have been made on more environmentally friendly alternatives. Bio-based monomers, derived from renewable raw materials, constitute a possible solution for the replacement of oil-derived monomers, with furan derivatives that emerged as platform molecules having a great potential for the synthesis of biobased polyesters, polyamides and their copolymers. This review article summarizes the latest developments in biotechnological production of furan compounds that can be used in polymer chemistry as well as in their conversion into polymers. Moreover, the biodegradability of the resulting materials is discussed."
+  ],
+  "affiliation": [
+    "Polytech Clermont-Ferrand, Department of Biological Engineering, Cézeaux University Campus, 2 Avenue Blaise Pascal, 63178 Aubière cedex, France; University of Natural Resources and Life Sciences, Vienna, Department of Agrobiotechnology, Institute of Environmental Biotechnology, Konrad Lorenz Strasse 20, 3430 Tulln an der Donau, Austria."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Furans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polyesters"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biotechnology"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Enzymatic hydrolysis",
+        "Enzymatic synthesis",
+        "Biodegradation",
+        "Furan Derivatives",
+        "Biotechnological Production",
+        "Polycondensation",
+        "5-Hydroxymethyl Furfural",
+        "2,5-Furandicarboxylic Acid",
+        "Biobased Polyesters",
+        "Poly(ethylene Furanoate)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Polymers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Furans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Polyesters"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.biotechadv.2021.107707"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-28"
+  ],
+  "dateOfCreation": [
+    "2021-02-25"
+  ],
+  "firstIndexDate": [
+    "2021-02-26"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-22"
+  ],
+  "firstPublicationDate": [
+    "2021-02-22"
+  ]
+}

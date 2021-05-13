@@ -1,0 +1,317 @@
+{
+  "id": [
+    "33978921"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33978921"
+  ],
+  "doi": [
+    "10.1007/s10495-021-01678-w"
+  ],
+  "title": [
+    "Heat shock proteins-driven stress granule dynamics: yet another avenue for cell survival."
+  ],
+  "authorString": [
+    "Verma A, Sumi S, Seervi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Verma A"
+          ],
+          "firstName": [
+            "Akanksha"
+          ],
+          "lastName": [
+            "Verma"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, All India Institute of Medical Sciences (AIIMS), New Delhi, 110029, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sumi S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Sumi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cardiovascular Diseases and Diabetes Biology, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram, Kerala, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seervi M"
+          ],
+          "firstName": [
+            "Mahendra"
+          ],
+          "lastName": [
+            "Seervi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0266-2062",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, All India Institute of Medical Sciences (AIIMS), New Delhi, 110029, India. mseervi12@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0266-2062",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3168498"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Apoptosis : an international journal on programmed cell death"
+          ],
+          "ISOAbbreviation": [
+            "Apoptosis"
+          ],
+          "medlineAbbreviation": [
+            "Apoptosis"
+          ],
+          "NLMid": [
+            "9712129"
+          ],
+          "ISSN": [
+            "1360-8185"
+          ],
+          "ESSN": [
+            "1573-675X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Heat shock proteins (HSPs) are evolutionary conserved 'stress-response' proteins that facilitate cell survival against various adverse conditions. HSP-mediated cytoprotection was hitherto reported to occur principally in two ways. Firstly, HSPs interact directly or indirectly with apoptosis signaling components and suppress apoptosis. Secondly, through chaperon activity, HSPs suppress proteotoxicity and maintain protein-homeostasis. Recent studies highlight the interaction of HSPs with cytoplasmic stress granules (SGs). SGs are conserved cytoplasmic mRNPs granules that aid in cell survival under stressful conditions. We primarily aim to describe the distinct cell survival strategy mediated by HSPs as the crucial regulators of SGs assembly and disassembly. Based on the growing evidence, HSPs and associated co-chaperones act as important determinants of SG assembly, composition and dissolution. Under cellular stress, as a 'stress-coping mechanism', the formation of SGs reprograms protein translation machinery and modulates signaling pathways indispensable for cell survival. Besides their role in suppressing apoptosis, HSPs also regulate protein-homeostasis by their chaperone activity as well as by their tight regulation of SG dynamics. The intricate molecular signaling in and around the nexus of HSPs-SGs and its importance in diseases has to be unearthed. These studies have significant implications in the management of chronic diseases such as cancer and neurodegenerative diseases where SGs possess pathological functions."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, All India Institute of Medical Sciences (AIIMS), New Delhi, 110029, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CRG/2020/002009"
+          ],
+          "agency": [
+            "Science and Engineering Research Board"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "HSP70",
+        "Chaperone",
+        "HSP",
+        "Stress Granules",
+        "Cell-survival"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10495-021-01678-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-12"
+  ],
+  "firstIndexDate": [
+    "2021-05-13"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-12"
+  ],
+  "firstPublicationDate": [
+    "2021-05-12"
+  ]
+}

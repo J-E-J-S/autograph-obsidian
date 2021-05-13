@@ -1,0 +1,619 @@
+{
+  "id": [
+    "33919440"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33919440"
+  ],
+  "doi": [
+    "10.3390/plants10050837"
+  ],
+  "title": [
+    "Anti-Obesity Effect of Pine Needle Extract on High-Fat Diet-Induced Obese Mice."
+  ],
+  "authorString": [
+    "Kim EA, Yang JH, Byeon EH, Kim W, Kang D, Han J, Hong SG, Kim DR, Park SJ, Huh JW, Cheong H, Yun SP, Lee DK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim EA"
+          ],
+          "firstName": [
+            "Eun A"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang JH"
+          ],
+          "firstName": [
+            "Ju-Hwan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byeon EH"
+          ],
+          "firstName": [
+            "Eun-Hye"
+          ],
+          "lastName": [
+            "Byeon"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim W"
+          ],
+          "firstName": [
+            "Woong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Integrative Biological Sciences & BK21 FOUR Educational Research Group for Age-Associated Disorder Control Technology, Chosun University, Gwangju 61452, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kang D"
+          ],
+          "firstName": [
+            "Dawon"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7402-7298",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han J"
+          ],
+          "firstName": [
+            "Jaehee"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hong SG"
+          ],
+          "firstName": [
+            "Seong-Geun"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DR"
+          ],
+          "firstName": [
+            "Deok-Ryong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3288-8257",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park SJ"
+          ],
+          "firstName": [
+            "Sang-Je"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Primate Research Center, Korea Research Institute of Bioscience and Biotechnology, Cheongju 28116, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huh JW"
+          ],
+          "firstName": [
+            "Jae-Won"
+          ],
+          "lastName": [
+            "Huh"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5845-939X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Primate Research Center, Korea Research Institute of Bioscience and Biotechnology, Cheongju 28116, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science & Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheong H"
+          ],
+          "firstName": [
+            "Hyeonsook"
+          ],
+          "lastName": [
+            "Cheong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical Science, College of Natural Sciences, Chosun University, Gwangju 61452, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yun SP"
+          ],
+          "firstName": [
+            "Seung-Pil"
+          ],
+          "lastName": [
+            "Yun"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee DK"
+          ],
+          "firstName": [
+            "Dong-Kun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9969-0117",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5845-939X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7402-7298",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9969-0117",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3288-8257",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3161104"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Obesity due to an excessive intake of nutrient disturbs the hypothalamus-mediated energy metabolism subsequently develops metabolic disorders. In this study, we investigated the effect of pine needle extract (PNE) on the hypothalamic proopiomelanocortin (POMC) neurons involved in the regulation of energy balance via melanocortin system and fat tissue metabolism.<h4>Methods</h4>We performed electrophysiological and immunohistochemical analyses to determine the effect of PNE on POMC neurons. Mice were fed a normal or high-fat diet for 12 weeks, then received PNE for the last 2 weeks to measure the following physiological indices: Body weight, food intake, fat/lean mass, glucose metabolism, and plasma leptin levels. In addition, changes of thermogenic, lipolytic, and lipogenetic markers were evaluated in brown adipose tissue (BAT) and white adipose tissue (WAT) by western blotting, respectively.<h4>Results</h4>PNE increased hypothalamic POMC neuronal activity, and the effect was abolished by blockade of melanocortin 3/4 receptors (MC3/4Rs). PNE decreased body weight, fat mass, plasma leptin levels, and improved glucose metabolism after high-fat-induced obesity. However, PNE did not change the expression of thermogenic markers of the BAT in HFD fed groups, but decreased only the lipogenetic markers of WAT. This study suggests that PNE has a potent anti-obesity effect, inhibiting lipogenesis in WAT, even though HFD-induced leptin resistance-mediated disruption of POMC neuronal activity."
+  ],
+  "affiliation": [
+    "Department of Physiology and Convergence Medical Science, Institute of Health Sciences, Gyeongsang National University Medical School, Jinju 52727, Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016R1D1A3B03934279 and 2020R1I1A3068670"
+          ],
+          "agency": [
+            "the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KGM4622013"
+          ],
+          "agency": [
+            "and the Korea Research Institute of Bioscience & Biotechnology (KRIBB) Research Initiative Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hypothalamus",
+        "Obesity",
+        "Brown adipose tissue",
+        "Energy balance",
+        "White Adipose Tissue",
+        "Melanocortin System",
+        "Proopiomelanocortin",
+        "Pine Needle Extract",
+        "Fat Tissue Metabolism"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants10050837"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-21"
+  ],
+  "firstPublicationDate": [
+    "2021-04-21"
+  ]
+}

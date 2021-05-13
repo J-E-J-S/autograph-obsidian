@@ -1,0 +1,346 @@
+{
+  "id": [
+    "33813714"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33813714"
+  ],
+  "doi": [
+    "10.1007/s11120-021-00828-0"
+  ],
+  "title": [
+    "Nitrogen, phosphorus and high CO<sub>2</sub> modulate photosynthesis, biomass and lipid production in the green alga Chlorella vulgaris."
+  ],
+  "authorString": [
+    "Kumari K, Samantaray S, Sahoo D, Tripathy BC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari K"
+          ],
+          "firstName": [
+            "Kanchan"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Botany, University of Delhi, Delhi, 110007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Samantaray S"
+          ],
+          "firstName": [
+            "Shilalipi"
+          ],
+          "lastName": [
+            "Samantaray"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Sciences, Jawaharlal Nehru University, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sahoo D"
+          ],
+          "firstName": [
+            "Dinabandhu"
+          ],
+          "lastName": [
+            "Sahoo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Botany, University of Delhi, Delhi, 110007, India. dbsahoo@hotmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tripathy BC"
+          ],
+          "firstName": [
+            "Baishnab C"
+          ],
+          "lastName": [
+            "Tripathy"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6494-2123",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Sciences, Jawaharlal Nehru University, New Delhi, 110067, India. baishnabtripathy@yahoo.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Sharda University, Knowledge Park 3, Greater Noida, 201306, Uttar Pradesh, India. baishnabtripathy@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6494-2123",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3144541"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Photosynthesis research"
+          ],
+          "ISOAbbreviation": [
+            "Photosynth Res"
+          ],
+          "medlineAbbreviation": [
+            "Photosynth Res"
+          ],
+          "NLMid": [
+            "100954728"
+          ],
+          "ISSN": [
+            "0166-8595"
+          ],
+          "ESSN": [
+            "1573-5079"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Climate change could impact nutrient bioavailability in aquatic environment. To understand the interaction of nutrient bioavailability and elevated CO<sub>2</sub>, Chlorella vulgaris cells were grown in ambient air or 5% CO<sub>2</sub> in different concentrations of nitrogen and phosphorus in a photobioreactor. The chlorophyll content, photosynthesis and respiration rates increased in 5% CO<sub>2</sub> to support higher biomass production. The nutrient limitation in the growth media resulted in reduced photosynthetic rates of the algal cells and their PSI, PSII, and whole chain electron transport rates and biomass production. Conversely, their lipid content increased partly due to upregulation of expression of several lipid biosynthesis genes. The order of downregulation of photosynthesis and upregulation in lipid production due to nutrient limitation was in the order of N > P. The N-50 and 5% CO<sub>2</sub> culture had only 10% reduction in biomass and 32% increase in lipids having 85% saturated fat required for efficient biofuel production. This growth condition is ideal for generation of biodiesel required to reduce the consumption of fossil fuel and combat global warming."
+  ],
+  "affiliation": [
+    "Department of Botany, University of Delhi, Delhi, 110007, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2/662017 -IBSD"
+          ],
+          "agency": [
+            "Department of Biotechnology,"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Photosynthesis",
+        "Lipids",
+        "Chlorella vulgaris",
+        "Nitrogen deficiency",
+        "Phosphorus deficiency",
+        "biodiesel"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11120-021-00828-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-04"
+  ],
+  "firstIndexDate": [
+    "2021-04-06"
+  ],
+  "dateOfRevision": [
+    "2021-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-04"
+  ],
+  "firstPublicationDate": [
+    "2021-04-04"
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "id": [
+    "33877618"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33877618"
+  ],
+  "doi": [
+    "10.1007/s13770-021-00338-z"
+  ],
+  "title": [
+    "PLGA Microspheres Containing Hydrophobically Modified Magnesium Hydroxide Particles for Acid Neutralization-Mediated Anti-Inflammation."
+  ],
+  "authorString": [
+    "Kim JK, Go EJ, Ko KW, Oh HJ, Han J, Han DK, Park W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim JK"
+          ],
+          "firstName": [
+            "Joon-Kyu"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biomedical Science, CHA University, 335 Pangyo-ro, Bundang-gu, Seongnam, Gyeonggi, 13488, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Go EJ"
+          ],
+          "firstName": [
+            "Eun-Jin"
+          ],
+          "lastName": [
+            "Go"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biomedical Science, CHA University, 335 Pangyo-ro, Bundang-gu, Seongnam, Gyeonggi, 13488, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ko KW"
+          ],
+          "firstName": [
+            "Kyoung-Won"
+          ],
+          "lastName": [
+            "Ko"
+          ],
+          "initials": [
+            "KW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical Science, CHA University, 335 Pangyo-ro, Bundang-gu, Seongnam, Gyeonggi, 13488, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh HJ"
+          ],
+          "firstName": [
+            "Hyeon-Ji"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han J"
+          ],
+          "firstName": [
+            "Jieun"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han DK"
+          ],
+          "firstName": [
+            "Dong Keun"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical Science, CHA University, 335 Pangyo-ro, Bundang-gu, Seongnam, Gyeonggi, 13488, Republic of Korea. dkhan@cha.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park W"
+          ],
+          "firstName": [
+            "Wooram"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4614-0530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea. wrpark@catholic.ac.kr."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea. wrpark@catholic.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4614-0530",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3151402"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Tissue engineering and regenerative medicine"
+          ],
+          "ISOAbbreviation": [
+            "Tissue Eng Regen Med"
+          ],
+          "medlineAbbreviation": [
+            "Tissue Eng Regen Med"
+          ],
+          "NLMid": [
+            "101699923"
+          ],
+          "ISSN": [
+            "1738-2696"
+          ],
+          "ESSN": [
+            "2212-5469"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Poly(lactic-co-glycolic acid) (PLGA) microspheres have been actively used in various pharmaceutical formulations because they can sustain active pharmaceutical ingredient release and are easy to administer into the body using a syringe. However, the acidic byproducts produced by the decomposition of PLGA cause inflammatory reactions in surrounding tissues, limiting biocompatibility. Magnesium hydroxide (MH), an alkaline ceramic, has attracted attention as a potential additive because it has an acid-neutralizing effect.<h4>Methods</h4>To improve the encapsulation efficiency of hydrophilic MH, the MH particles were capped with hydrophobic ricinoleic acid (RA-MH). PLGA microspheres encapsulated with RA-MH particles were manufactured by the O/W method. To assess the in vitro cytotoxicity of the degradation products of PLGA, MH/PLGA, and RA-MH/PLGA microspheres, CCK-8 and Live/Dead assays were performed with NIH-3T3 cells treated with different concentrations of their degradation products. In vitro anti-inflammatory effect of RA-MH/PLGA microspheres was evaluated with quantitative measurement of pro-inflammatory cytokines.<h4>Results</h4>The synthesized RA-MH was encapsulated in PLGA microspheres and displayed more than four times higher loading content than pristine MH. The PLGA microspheres encapsulated with RA-MH had an acid-neutralizing effect better than that of the control group. In an in vitro cell experiment, the degradation products obtained from RA-MH/PLGA microspheres exhibited higher biocompatibility than the degradation products obtained from PLGA microspheres. Additionally, the RA-MH/PLGA microsphere group showed an excellent anti-inflammatory effect.<h4>Conclusion</h4>Our results proved that RA-MH-encapsulated PLGA microspheres showed excellent biocompatibility with an anti-inflammatory effect. This technology can be applied to drug delivery and tissue engineering to treat various incurable diseases in the future."
+  ],
+  "affiliation": [
+    "Department of Biomedical-Chemical Engineering and Biotechnology, The Catholic University of Korea, 43 Jibong-ro, Wonmi-gu, Bucheon, Gyeonggi, 14662, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2020R1A2B5B03002344"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "202012D21-02"
+          ],
+          "agency": [
+            "Ministry of Education, Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "202011A05-05"
+          ],
+          "agency": [
+            "Korea University of Technology and Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2020H1D3A1A0410581411"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018M3A9E2024579"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Anti-inflammation",
+        "Biodegradable Polymers",
+        "Poly(lactic-co-glycolic Acid)",
+        "Magnesium Hydroxide",
+        "Polymeric Microspheres",
+        "Acid Neutralization"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13770-021-00338-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-20"
+  ],
+  "firstIndexDate": [
+    "2021-04-21"
+  ],
+  "dateOfRevision": [
+    "2021-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

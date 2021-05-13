@@ -1,0 +1,494 @@
+{
+  "id": [
+    "33797804"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33797804"
+  ],
+  "doi": [
+    "10.1002/bab.2156"
+  ],
+  "title": [
+    "Advances in biochemistry and the biotechnological production of taxifolin and its derivatives."
+  ],
+  "authorString": [
+    "Thuan NH, Shrestha A, Trung NT, Tatipamula VB, Van Cuong D, Canh NX, Van Giang N, Kim TS, Sohng JK, Dhakal D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thuan NH"
+          ],
+          "firstName": [
+            "Nguyen Huy"
+          ],
+          "lastName": [
+            "Thuan"
+          ],
+          "initials": [
+            "NH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8891-7195",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Research and Development, Duy Tan University, Da Nang, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shrestha A"
+          ],
+          "firstName": [
+            "Anil"
+          ],
+          "lastName": [
+            "Shrestha"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Combinatorial Biosynthesis National Research Laboratory, Ewha Womans University, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Trung NT"
+          ],
+          "firstName": [
+            "Nguyen Thanh"
+          ],
+          "lastName": [
+            "Trung"
+          ],
+          "initials": [
+            "NT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Research and Development, Duy Tan University, Da Nang, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tatipamula VB"
+          ],
+          "firstName": [
+            "Vinay Bharadwaj"
+          ],
+          "lastName": [
+            "Tatipamula"
+          ],
+          "initials": [
+            "VB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Research and Development, Duy Tan University, Da Nang, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Van Cuong D"
+          ],
+          "firstName": [
+            "Duong"
+          ],
+          "lastName": [
+            "Van Cuong"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology and Food Technology, Thainguyen University of Agriculture and Forestry, Thainguyen, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Canh NX"
+          ],
+          "firstName": [
+            "Nguyen Xuan"
+          ],
+          "lastName": [
+            "Canh"
+          ],
+          "initials": [
+            "NX"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Vietnam National University of Agriculture, Gialam, Hanoi, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Van Giang N"
+          ],
+          "firstName": [
+            "Nguyen"
+          ],
+          "lastName": [
+            "Van Giang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Vietnam National University of Agriculture, Gialam, Hanoi, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim TS"
+          ],
+          "firstName": [
+            "Tae-Su"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Engineering and Biotechnology, SunMoon University, Asan-si, Chungnam, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sohng JK"
+          ],
+          "firstName": [
+            "Jae Kyung"
+          ],
+          "lastName": [
+            "Sohng"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1583-5046",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Engineering and Biotechnology, SunMoon University, Asan-si, Chungnam, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dhakal D"
+          ],
+          "firstName": [
+            "Dipesh"
+          ],
+          "lastName": [
+            "Dhakal"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medicinal Chemistry, University of Florida, Gainesville, Florida, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8891-7195",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7903-4144",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1583-5046",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3144625"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and applied biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "NLMid": [
+            "8609465"
+          ],
+          "ISSN": [
+            "0885-4513"
+          ],
+          "ESSN": [
+            "1470-8744"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Taxifolin (dihydroquercetin) and its derivatives are medicinally important flavanonols with a wide distribution in plants. These compounds have been isolated from various plants, such as milk thistle, onions, french maritime, and tamarind. In general, they are commercially generated in semisynthetic forms. Taxifolin and related compounds are biosynthesized via the phenylpropanoid pathway, and most of the biosynthetic steps have been functionally characterized. The knowledge gained through the detailed investigation of their biosynthesis has provided the foundation for the reconstruction of biosynthetic pathways. Plant- and microbial-based platforms are utilized for the expression of such pathways for generating taxifolin-related compounds, either by whole-cell biotransformation or through reconfiguration of the genetic circuits. In this review, we summarize recent advances in the biotechnological production of taxifolin and its derivatives."
+  ],
+  "affiliation": [
+    "Institute of Research and Development, Duy Tan University, Da Nang, Vietnam."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolism",
+        "Chemical",
+        "Taxifolin",
+        "Astilbin",
+        "Pharmaceutical Activity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bab.2156"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-04-14"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-02"
+  ],
+  "firstPublicationDate": [
+    "2021-04-02"
+  ]
+}

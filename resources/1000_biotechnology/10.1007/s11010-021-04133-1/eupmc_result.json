@@ -1,0 +1,345 @@
+{
+  "id": [
+    "33730299"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33730299"
+  ],
+  "doi": [
+    "10.1007/s11010-021-04133-1"
+  ],
+  "title": [
+    "Characterization of the regulatory 5'-flanking region of bovine mucin 2 (MUC2) gene."
+  ],
+  "authorString": [
+    "Yamashita MSA, Vargas LN, Melo EO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yamashita MSA"
+          ],
+          "firstName": [
+            "Melissa Shizue de Almeida"
+          ],
+          "lastName": [
+            "Yamashita"
+          ],
+          "initials": [
+            "MSA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4162-0631",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduation Program in Biotechnology, Federal University of Tocantins (UFT), Gurupi, TO, Brazil. melissashizue@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vargas LN"
+          ],
+          "firstName": [
+            "Luna Nascimento"
+          ],
+          "lastName": [
+            "Vargas"
+          ],
+          "initials": [
+            "LN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, Federal University of Uberlândia, Uberlândia, MG, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Melo EO"
+          ],
+          "firstName": [
+            "Eduardo de Oliveira"
+          ],
+          "lastName": [
+            "Melo"
+          ],
+          "initials": [
+            "EO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0797-920X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduation Program in Biotechnology, Federal University of Tocantins (UFT), Gurupi, TO, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "EMBRAPA Genetic Resources and Biotechnology, Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4162-0631",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0797-920X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3121102"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular and cellular biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Mol Cell Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Mol Cell Biochem"
+          ],
+          "NLMid": [
+            "0364456"
+          ],
+          "ISSN": [
+            "0300-8177"
+          ],
+          "ESSN": [
+            "1573-4919"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Throughout the intestinal epithelium surface there is an intricate polymer network composed by gel-forming mucins, which plays a protective role due to the formation of a physical, chemical and immunological barrier between the organism and the environment. Mucin 2 (MUC2) is the main mucin in the small and large intestine, and it is expressed specifically in the gastrointestinal tract (GIT), which makes its promoter region an important candidate for expression of heterologous genes of biotechnological interest in the GIT of bovine and other ruminants. In order to characterize the bovine MUC2 promoter we designed primers to amplify and isolate a candidate region for this promoter. The amplified sequence was confirmed by sequencing and cloned into a plasmid vector containing the luciferase (LUC) reporter gene. The regulatory sites of the MUC2 promoter already described in the literature were used to find the putative regulatory sites in the bovine MUC2 promoter region. With these data, some deletions were performed in order to find the promoter sequence with greatest expression capacity and specificity. The constructions were tested by transient transfection assays in LoVo cells (human colorectal adenocarcinoma) and bovine fibroblasts. The quantification of the relative expression of the promoter was measured using dual-luciferase assays. Real-time PCR was performed to analyze the expression of endogenous MUC2. The results presented herein prove that the isolated sequence corresponds to the promoter of bovine MUC2 gene, since it was able to induce expression of a reporter gene in an in vitro cell culture experimental platform."
+  ],
+  "affiliation": [
+    "Graduation Program in Biotechnology, Federal University of Tocantins (UFT), Gurupi, TO, Brazil. melissashizue@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "001"
+          ],
+          "agency": [
+            "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "01.13.06.001.06"
+          ],
+          "agency": [
+            "Empresa Brasileira de Pesquisa Agropecuária"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Promoter",
+        "Gene regulation",
+        "Bovine",
+        "Gene Expression"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11010-021-04133-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-17"
+  ],
+  "firstIndexDate": [
+    "2021-03-18"
+  ],
+  "dateOfRevision": [
+    "2021-03-17"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-17"
+  ],
+  "firstPublicationDate": [
+    "2021-03-17"
+  ]
+}

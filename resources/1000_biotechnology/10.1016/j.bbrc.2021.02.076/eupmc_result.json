@@ -1,0 +1,316 @@
+{
+  "id": [
+    "33662667"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33662667"
+  ],
+  "doi": [
+    "10.1016/j.bbrc.2021.02.076"
+  ],
+  "title": [
+    "Suppression of Wnt/β-catenin and RAS/ERK pathways provides a therapeutic strategy for gemcitabine-resistant pancreatic cancer."
+  ],
+  "authorString": [
+    "Ryu WJ, Han G, Lee SH, Choi KY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ryu WJ"
+          ],
+          "firstName": [
+            "Won-Ji"
+          ],
+          "lastName": [
+            "Ryu"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Science and Biotechnology, Yonsei University, Seoul, 03722, South Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han G"
+          ],
+          "firstName": [
+            "Gyoonhee"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Science and Biotechnology, Yonsei University, Seoul, 03722, South Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee SH"
+          ],
+          "firstName": [
+            "Soung-Hoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "CK Biotechnology Inc., Building 117, 50 Yonsei Ro, Seodaemun-Gu, Seoul, 03722, South Korea. Electronic address: ckshlee@ckbiotech.co.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi KY"
+          ],
+          "firstName": [
+            "Kang-Yell"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Science and Biotechnology, Yonsei University, Seoul, 03722, South Korea; CK Biotechnology Inc., Building 117, 50 Yonsei Ro, Seodaemun-Gu, Seoul, 03722, South Korea. Electronic address: kychoi@yonsei.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "549"
+      ],
+      "journalIssueId": [
+        "3137287"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biochemical and biophysical research communications"
+          ],
+          "ISOAbbreviation": [
+            "Biochem Biophys Res Commun"
+          ],
+          "medlineAbbreviation": [
+            "Biochem Biophys Res Commun"
+          ],
+          "NLMid": [
+            "0372516"
+          ],
+          "ISSN": [
+            "0006-291X"
+          ],
+          "ESSN": [
+            "1090-2104"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "40-46"
+  ],
+  "abstractText": [
+    "Pancreatic cancer is a major malignant tumor without an effective treatment. KRAS mutations occur in 90% of the pancreatic cancer patients and are a major obstacle for treatment of pancreatic cancer. Pancreatic cancer patients have been treated with limited chemotherapeutic agents such as gemcitabine. However, patients often develop resistance to gemcitabine that is attributed to KRAS mutations. Gemcitabine treatment activates both the Wnt/β-catenin and RAS/ERK pathways. These signaling pathways are also activated in the gemcitabine-resistant pancreatic cancer cell lines, suggesting that they play an important role in gemcitabine resistance in pancreatic cancer. The gemcitabine-resistant cell lines show enhanced migratory and invasive capabilities than their parental lines. Therefore, we investigated the effects of a small molecule, KYA1797K that degrades both β-catenin and RAS, on pancreatic cancer. KYA1797K decreased the expression level of both β-catenin and KRAS in pancreatic cancer cell lines expressing either wild-type or mutant KRAS. It also suppressed migration and invasion of gemcitabine-resistant and parental pancreatic cancer cells. Overall, we demonstrated that inhibiting the Wnt/β-catenin and RAS/ERK pathways by destabilizing β-catenin and RAS could be a therapeutic approach to overcome gemcitabine resistance in pancreatic cancer."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, College of Life Science and Biotechnology, Yonsei University, Seoul, 03722, South Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pancreatic cancer",
+        "Β-catenin",
+        "Gemcitabine Resistance",
+        "Kras",
+        "Kya1797k"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bbrc.2021.02.076"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-04"
+  ],
+  "firstIndexDate": [
+    "2021-03-05"
+  ],
+  "dateOfRevision": [
+    "2021-03-23"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-01"
+  ],
+  "firstPublicationDate": [
+    "2021-03-01"
+  ]
+}

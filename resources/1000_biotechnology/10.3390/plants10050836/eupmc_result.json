@@ -1,0 +1,283 @@
+{
+  "id": [
+    "33919450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33919450"
+  ],
+  "doi": [
+    "10.3390/plants10050836"
+  ],
+  "title": [
+    "Microalgal Cell Biofactory-Therapeutic, Nutraceutical and Functional Food Applications."
+  ],
+  "authorString": [
+    "Kiran BR, Venkata Mohan S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kiran BR"
+          ],
+          "firstName": [
+            "Boda Ravi"
+          ],
+          "lastName": [
+            "Kiran"
+          ],
+          "initials": [
+            "BR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2981-6778",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioengineering and Environmental Sciences Lab, Department of Energy and Environmental Engineering (DEE), CSIR-Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad 500 007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Venkata Mohan S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Venkata Mohan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioengineering and Environmental Sciences Lab, Department of Energy and Environmental Engineering (DEE), CSIR-Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad 500 007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2981-6778",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3161104"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Microalgae are multifaceted photosynthetic microorganisms with emerging business potential. They are present ubiquitously in terrestrial and aquatic environments with rich species diversity and are capable of producing significant biomass. Traditionally, microalgal biomass is being used as food and feed in many countries around the globe. The production of microalgal-based bioactive compounds at an industrial scale through biotechnological interventions is gaining interest more recently. The present review provides a detailed overview of the key algal metabolites, which plays a crucial role in nutraceutical, functional foods, and animal/aquaculture feed industries. Bioactive compounds of microalgae known to exhibit antioxidant, antimicrobial, antitumor, and immunomodulatory effects were comprehensively reviewed. The potential microalgal species and biological extracts against human pathogens were also discussed. Further, current technologies involved in upstream and downstream bioprocessing including cultivation, harvesting, and cell disruption were documented. Establishing microalgae as an alternative supplement would complement the sustainable and environmental requirements in the framework of human health and well-being."
+  ],
+  "affiliation": [
+    "Bioengineering and Environmental Sciences Lab, Department of Energy and Environmental Engineering (DEE), CSIR-Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad 500 007, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/HRD/35/01/02/2018"
+          ],
+          "agency": [
+            "Department of Biotechnology, Ministry of Science and Technology, India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immunostimulants",
+        "Bioactive compounds",
+        "Food Supplements",
+        "Health And Nutrition",
+        "Algal Metabolite Extraction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants10050836"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-21"
+  ],
+  "firstPublicationDate": [
+    "2021-04-21"
+  ]
+}

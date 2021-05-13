@@ -1,0 +1,439 @@
+{
+  "id": [
+    "33467925"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33467925"
+  ],
+  "doi": [
+    "10.1080/21691401.2020.1865992"
+  ],
+  "title": [
+    "Biomolecular assembly on interdigitated electrode nanosensor for selective detection of insulin-like growth factor-1."
+  ],
+  "authorString": [
+    "Gu Y, Liu L, Guo J, Xiao S, Fang F, Yu X, Gopinath SCB, Wu J, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gu Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Vascular Surgery, Tianjin First Center Hospital, Tianjin, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Lijie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacy, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Imaging, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao S"
+          ],
+          "firstName": [
+            "Shun"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Vascular Surgery, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Oncology, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xiaoyun"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Oncology, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gopinath SCB"
+          ],
+          "firstName": [
+            "Subash C B"
+          ],
+          "lastName": [
+            "Gopinath"
+          ],
+          "initials": [
+            "SCB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Nano Electronic Engineering, Universiti Malaysia Perlis (UniMAP), Perlis, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Faculty of Chemical Engineering Technology, Universiti Malaysia Perlis (UniMAP), Perlis, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu J"
+          ],
+          "firstName": [
+            "Jianlie"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Oncology, The Affiliated Hospital of Qingdao University, Qingdao City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xunqiang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Vascular surgery, Yan'an Hospital Affiliated to Kunming Medical University, Kunming City, Yunnan Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "30-37"
+  ],
+  "abstractText": [
+    "This research is focussed to quantify IGF1 by electroanalytical analysis on InterDigitated electrode surface and characterized by the microscopic observations. For the detection, antibody and aptamer were used to analyze the level of IGF1. The sandwich pattern (aptamer-IGF1-antibody) was designed on the chemically modified IDE surface and reached the limit of detection to 10 fM with 100 folds enhancement in the sensitivity. Different control experiments (absence of IGF1, binding with IGF2 and with non-complementary aptamer) were failed to show the current changes, discriminated the specific detection. A good detection strategy is to complement the currently following imaging systems for AAA."
+  ],
+  "affiliation": [
+    "Department of Vascular Surgery, Tianjin First Center Hospital, Tianjin, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Insulin-like growth factor",
+        "Aptamer",
+        "Abdominal Aortic Aneurysms",
+        "Nanomaterial",
+        "Dielectrode Sensor"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2020.1865992"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-20"
+  ],
+  "firstIndexDate": [
+    "2021-01-21"
+  ],
+  "dateOfRevision": [
+    "2021-01-20"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

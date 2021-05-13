@@ -1,0 +1,318 @@
+{
+  "id": [
+    "33958651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33958651"
+  ],
+  "doi": [
+    "10.1038/s41598-021-89093-8"
+  ],
+  "title": [
+    "pH induced conformational alteration in human peroxiredoxin 6 might be responsible for its resistance against lysosomal pH or high temperature."
+  ],
+  "authorString": [
+    "Chowhan RK, Hotumalani S, Rahaman H, Singh LR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chowhan RK"
+          ],
+          "firstName": [
+            "Rimpy Kaur"
+          ],
+          "lastName": [
+            "Chowhan"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi, 110007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hotumalani S"
+          ],
+          "firstName": [
+            "Sunaina"
+          ],
+          "lastName": [
+            "Hotumalani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi, 110007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rahaman H"
+          ],
+          "firstName": [
+            "Hamidur"
+          ],
+          "lastName": [
+            "Rahaman"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Manipur University, Imphal, 795003, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh LR"
+          ],
+          "firstName": [
+            "Laishram Rajendrakumar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi, 110007, India. lairksingh@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3164098"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "9657"
+  ],
+  "abstractText": [
+    "Peroxiredoxin 6 (Prdx6), the ubiquitously expressed enzyme belonging to the family of peroxidases, namely, peroxiredoxins, exhibits a unique feature of functional compartmentalization within cells. Whereas, the enzyme localized in cytosol shows glutathione peroxidase activity, its lysosomal counterpart performs calcium independent phospholipase A2 (aiPLA2) activity. Like any true moonlighting protein, these two activities of Prdx6 are mutually exclusive of each other as a function of the pH of the cellular compartments. Differential substrate preference at different pH (i.e. peroxidised phospholipids at neutral pH and reduced phospholipids at acidic pH) is considered to be the reason for this behavior. To gain insight into the pH-induced structural-functional interplay we have systematically evaluated conformational variations, thermodynamic stability of the protein and quaternary state of the conformers at both pH 7.0 and 4.0. Our findings suggest that change in pH allows alterations in native states of Prdx6 at pH 7.0 and 4.0 such that the changes make the protein resistant to thermal denaturation at low pH."
+  ],
+  "affiliation": [
+    "Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi, 110007, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/359/NE/TBP/2012"
+          ],
+          "agency": [
+            "Department of Biotechnology, Ministry of Science and Technology, Govt. of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-021-89093-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-07"
+  ],
+  "firstIndexDate": [
+    "2021-05-08"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-06"
+  ],
+  "firstPublicationDate": [
+    "2021-05-06"
+  ]
+}

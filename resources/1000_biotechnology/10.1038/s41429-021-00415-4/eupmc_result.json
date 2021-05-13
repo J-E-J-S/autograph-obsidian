@@ -1,0 +1,349 @@
+{
+  "id": [
+    "33707649"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33707649"
+  ],
+  "doi": [
+    "10.1038/s41429-021-00415-4"
+  ],
+  "title": [
+    "TMKS8A, an antibacterial and cytotoxic chlorinated α-lapachone, from a sea slug-derived actinomycete of the genus Streptomyces."
+  ],
+  "authorString": [
+    "Zhang Z, Sibero MT, Kai A, Fukaya K, Urabe D, Igarashi Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhiwei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sibero MT"
+          ],
+          "firstName": [
+            "Mada Triandala"
+          ],
+          "lastName": [
+            "Sibero"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Marine Science, Faculty of Fisheries and Marine Science, Diponegoro University, Semarang, Central Java, 50275, Indonesia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kai A"
+          ],
+          "firstName": [
+            "Akiho"
+          ],
+          "lastName": [
+            "Kai"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fukaya K"
+          ],
+          "firstName": [
+            "Keisuke"
+          ],
+          "lastName": [
+            "Fukaya"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Urabe D"
+          ],
+          "firstName": [
+            "Daisuke"
+          ],
+          "lastName": [
+            "Urabe"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Igarashi Y"
+          ],
+          "firstName": [
+            "Yasuhiro"
+          ],
+          "lastName": [
+            "Igarashi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan. yas@pu-toyama.ac.jp."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3123540"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of antibiotics"
+          ],
+          "ISOAbbreviation": [
+            "J Antibiot (Tokyo)"
+          ],
+          "medlineAbbreviation": [
+            "J Antibiot (Tokyo)"
+          ],
+          "NLMid": [
+            "0151115"
+          ],
+          "ISSN": [
+            "0021-8820"
+          ],
+          "ESSN": [
+            "1881-1469"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "TMKS8A (1), a new chlorinated α-lapachone derivative, along with five known related metabolites, A80915 C (2), SF2415B1 (3), chlorinated dihydroquinone 3 (4), SF2415B3 (5), and A80915 C (6), were identified from the culture extract of Streptomyces sp. TMKS8, which was isolated from a sea slug, Paromoionchis tumidus. The structure of 1 was determined by the analysis of NMR and MS spectral data, assisted by NMR chemical shift prediction using DFT-based calculation. The absolute configuration was determined to be R by comparison of experimental and calculated ECD spectra. Compound 1 displayed antimicrobial activity against Gram-positive bacteria with MIC values ranging from 6.25 to 12.5 μg ml<sup>-1</sup> and cytotoxicity against murine leukemia P388 cells with IC<sub>50</sub> 9.8 μM."
+  ],
+  "affiliation": [
+    "Biotechnology Research Center and Department of Biotechnology, Toyama Prefectural University, 5180 Kurokawa, Imizu, Toyama, 939-0398, Japan."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41429-021-00415-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-12"
+  ],
+  "firstIndexDate": [
+    "2021-03-13"
+  ],
+  "dateOfRevision": [
+    "2021-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-11"
+  ],
+  "firstPublicationDate": [
+    "2021-03-11"
+  ]
+}

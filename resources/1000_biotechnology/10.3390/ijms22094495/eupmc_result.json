@@ -1,0 +1,529 @@
+{
+  "id": [
+    "33925827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33925827"
+  ],
+  "doi": [
+    "10.3390/ijms22094495"
+  ],
+  "title": [
+    "Metabolic Spectrum of Liver Failure in Type 2 Diabetes and Obesity: From NAFLD to NASH to HCC."
+  ],
+  "authorString": [
+    "Kim H, Lee DS, An TH, Park HJ, Kim WK, Bae KH, Oh KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim H"
+          ],
+          "firstName": [
+            "Hyunmi"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5596-4320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee DS"
+          ],
+          "firstName": [
+            "Da Som"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "An TH"
+          ],
+          "firstName": [
+            "Tae Hyeon"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8339-767X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park HJ"
+          ],
+          "firstName": [
+            "Hyun-Ju"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim WK"
+          ],
+          "firstName": [
+            "Won Kon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "WK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bae KH"
+          ],
+          "firstName": [
+            "Kwang-Hee"
+          ],
+          "lastName": [
+            "Bae"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5868-2556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh KJ"
+          ],
+          "firstName": [
+            "Kyoung-Jin"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2224-7202",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8339-767X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2224-7202",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5596-4320",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5868-2556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3161097"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Liver disease is the spectrum of liver damage ranging from simple steatosis called as nonalcoholic fatty liver disease (NAFLD) to hepatocellular carcinoma (HCC). Clinically, NAFLD and type 2 diabetes coexist. Type 2 diabetes contributes to biological processes driving the severity of NAFLD, the primary cause for development of chronic liver diseases. In the last 20 years, the rate of non-viral NAFLD/NASH-derived HCC has been increasing rapidly. As there are currently no suitable drugs for treatment of NAFLD and NASH, a class of thiazolidinediones (TZDs) drugs for the treatment of type 2 diabetes is sometimes used to improve liver failure despite the risk of side effects. Therefore, diagnosis, prevention, and treatment of the development and progression of NAFLD and NASH are important issues. In this review, we will discuss the pathogenesis of NAFLD/NASH and NAFLD/NASH-derived HCC and the current promising pharmacological therapies of NAFLD/NASH. Further, we will provide insights into \"adipose-derived adipokines\" and \"liver-derived hepatokines\" as diagnostic and therapeutic targets from NAFLD to HCC."
+  ],
+  "affiliation": [
+    "Metabolic Regulation Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "KGM1052112"
+          ],
+          "agency": [
+            "Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KGM5392111"
+          ],
+          "agency": [
+            "Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2020R1A2C2007111"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2020R1A2C2102308"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Hepatocellular carcinoma (HCC)",
+        "Type 2 diabetes",
+        "Adipokines",
+        "Non-alcoholic Steatohepatitis (Nash)",
+        "Hepatokines",
+        "Non-alcholic Fatty Liver Disease (Nafld)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms22094495"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-26"
+  ],
+  "firstPublicationDate": [
+    "2021-04-26"
+  ]
+}

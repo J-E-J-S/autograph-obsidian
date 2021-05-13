@@ -1,0 +1,467 @@
+{
+  "id": [
+    "33656174"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33656174"
+  ],
+  "doi": [
+    "10.1002/bab.2137"
+  ],
+  "title": [
+    "β-Galactosidase: From its source and applications to its recombinant form."
+  ],
+  "authorString": [
+    "Movahedpour A, Ahmadi N, Ghalamfarsa F, Ghesmati Z, Khalifeh M, Maleksabet A, Shabaninejad Z, Taheri-Anganeh M, Savardashtaki A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Movahedpour A"
+          ],
+          "firstName": [
+            "Ahmad"
+          ],
+          "lastName": [
+            "Movahedpour"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmadi N"
+          ],
+          "firstName": [
+            "Nahid"
+          ],
+          "lastName": [
+            "Ahmadi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ghalamfarsa F"
+          ],
+          "firstName": [
+            "Farideh"
+          ],
+          "lastName": [
+            "Ghalamfarsa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ghesmati Z"
+          ],
+          "firstName": [
+            "Zeinab"
+          ],
+          "lastName": [
+            "Ghesmati"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khalifeh M"
+          ],
+          "firstName": [
+            "Masoomeh"
+          ],
+          "lastName": [
+            "Khalifeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maleksabet A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Maleksabet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Technologies in Medicine, Mazandaran University of Medical Sciences, Sari, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shabaninejad Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Shabaninejad"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Nanobiotechnology, Faculty of Biological Sciences, Tarbiat Modares University, Tehran, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taheri-Anganeh M"
+          ],
+          "firstName": [
+            "Mortaza"
+          ],
+          "lastName": [
+            "Taheri-Anganeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9659-7491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shahid Arefian Hospital, Urmia, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Cellular and Molecular Research Center, Cellular and Molecular Medicine Institute, Urmia University of Medical Sciences, Urmia, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Savardashtaki A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Savardashtaki"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9659-7491",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3122411"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and applied biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "NLMid": [
+            "8609465"
+          ],
+          "ISSN": [
+            "0885-4513"
+          ],
+          "ESSN": [
+            "1470-8744"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Carbohydrate-active enzymes are a group of important enzymes playing a critical role in the degradation and synthesis of carbohydrates. Glycosidases can hydrolyze glycosides into oligosaccharides, polysaccharides, and glycoconjugates via a cost-effective approach. Lactase is an important member of β-glycosidases found in higher plants, animals, and microorganisms. β-Galactosidases can be used to degrade the milk lactose for making lactose-free milk, which is sweeter than regular milk and is suitable for lactose-intolerant people. β-Galactosidase is employed by many food industries to degrade lactose and improve the digestibility, sweetness, solubility, and flavor of dairy products. β-Galactosidase enzymes have various families and are applied in the food-processing industries such as hydrolyzed-milk products, whey, and galactooligosaccharides. Thus, this enzyme is a valuable protein which is now produced by recombinant technology. In this review, origins, structure, recombinant production, and critical modifications of β-galactosidase for improving the production process are discussed. Since β-galactosidase is a valuable enzyme in industry and health care, a study of its various aspects is important in industrial biotechnology and applied biochemistry."
+  ],
+  "affiliation": [
+    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lactose",
+        "Recombinant protein",
+        "Enzyme"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bab.2137"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-03"
+  ],
+  "firstIndexDate": [
+    "2021-03-04"
+  ],
+  "dateOfRevision": [
+    "2021-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-03"
+  ],
+  "firstPublicationDate": [
+    "2021-03-03"
+  ]
+}

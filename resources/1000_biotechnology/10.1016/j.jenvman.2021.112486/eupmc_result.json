@@ -1,0 +1,621 @@
+{
+  "id": [
+    "33831757"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33831757"
+  ],
+  "doi": [
+    "10.1016/j.jenvman.2021.112486"
+  ],
+  "title": [
+    "Responses of greenhouse gas emissions to residue returning in China's croplands and influential factors: A meta-analysis."
+  ],
+  "authorString": [
+    "Wang XD, He C, Cheng HY, Liu BY, Li SS, Wang Q, Liu Y, Zhao X, Zhang HL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang XD"
+          ],
+          "firstName": [
+            "Xu-Dong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "XD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: w-xd@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He C"
+          ],
+          "firstName": [
+            "Cong"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: S20193010021@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng HY"
+          ],
+          "firstName": [
+            "Hang-Yuan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: 2017301010208@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu BY"
+          ],
+          "firstName": [
+            "Bing-Yang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "BY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: liubingyang@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li SS"
+          ],
+          "firstName": [
+            "Shuai-Shuai"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: lishuaishuai3514@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Crop Cultivation and Tillage, Heilongjiang Academy of Agricultural Sciences, Harbin, 150086, China. Electronic address: neauwq@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Academy of Agriculture Sciences, Shenyang, 110161, China. Electronic address: liuyang091@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: zhaox@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang HL"
+          ],
+          "firstName": [
+            "Hai-Lin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: hailin@cau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "289"
+      ],
+      "journalIssueId": [
+        "3162477"
+      ],
+      "dateOfPublication": [
+        "2021 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of environmental management"
+          ],
+          "ISOAbbreviation": [
+            "J Environ Manage"
+          ],
+          "medlineAbbreviation": [
+            "J Environ Manage"
+          ],
+          "NLMid": [
+            "0401664"
+          ],
+          "ISSN": [
+            "0301-4797"
+          ],
+          "ESSN": [
+            "1095-8630"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "112486"
+  ],
+  "abstractText": [
+    "Climate change is a global issue threatening agricultural production and human survival. However, agriculture sector is a major source of global greenhouse gases (GHGs), especially CH<sub>4</sub> and N<sub>2</sub>O. Crop residue returning (RR) is an efficient practice to sequestrate soil carbon and increase crop yields. However, the efficiency of RR to mitigate climate change and maintain food security will be affected by the response of GHG emissions at both per area-scale and per yield-scale. Therefore, a national meta-analysis was conducted using 309 comparisons from 44 publications to assess the responses of GHG emissions to RR in China's croplands. The results indicated that little response of GWP to RR was observed with conditions under lower nitrogen fertilizer input rates (0-120 kg ha<sup>-1</sup>), mulch retention, returning one time in double cropping systems, returning with half residue, weakly acidic soil (pH 5.5-6.5), initial SOC contents >20 g kg<sup>-1</sup>, or mean annual precipitation <1000 mm. In order to mitigate climate change and sustain food security, RR combined with paddy-upland rotation, nitrogen fertilizer input rates of 240-360 kg ha<sup>-1</sup>, and neutral soil (pH 6.5-7.5) could decrease GWP at per unit of crop yield, which ultimately leads to a lower effect on GHGI and a higher crop production efficiency. In-depth studies should be conducted in the future to explore the interactions between various factors influencing GHG emissions under RR conditions. Overall, optimizing the interactions with management and site-specific conditions, potential for regulating GHGs emissions of RR can be enhanced."
+  ],
+  "affiliation": [
+    "College of Agronomy and Biotechnology, Key Laboratory of Farming System, Ministry of Agriculture and Rural Affairs of China, China Agricultural University, Beijing, 100193, China. Electronic address: w-xd@cau.edu.cn."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crops, Agricultural"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nitrous Oxide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methane"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Soil"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Greenhouse Effect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Global Warming"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Greenhouse Gases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Climate Change Mitigation",
+        "Global Warming Potential",
+        "Greenhouse Gases Intensity",
+        "Yield-scale Emission"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Soil"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nitrous Oxide"
+          ],
+          "registryNumber": [
+            "K50XQU1029"
+          ]
+        },
+        {
+          "name": [
+            "Methane"
+          ],
+          "registryNumber": [
+            "OP0UW79H66"
+          ]
+        },
+        {
+          "name": [
+            "Greenhouse Gases"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jenvman.2021.112486"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-05-04"
+  ],
+  "dateOfCreation": [
+    "2021-04-08"
+  ],
+  "firstIndexDate": [
+    "2021-04-09"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-05"
+  ],
+  "firstPublicationDate": [
+    "2021-04-05"
+  ]
+}

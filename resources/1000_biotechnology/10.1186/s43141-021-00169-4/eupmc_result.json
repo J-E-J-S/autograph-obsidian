@@ -1,0 +1,333 @@
+{
+  "id": [
+    "33970384"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970384"
+  ],
+  "doi": [
+    "10.1186/s43141-021-00169-4"
+  ],
+  "title": [
+    "Clinical impact of PTEN methylation status as a prognostic marker for breast cancer."
+  ],
+  "authorString": [
+    "Ramadan A, Hashim M, Abouzid A, Swellam M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ramadan A"
+          ],
+          "firstName": [
+            "Amal"
+          ],
+          "lastName": [
+            "Ramadan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9158-9559",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biochemistry Department, Genetic Engineering and Biotechnology Research Division, National Research Centre, El-Bohouth Street, Dokki, Giza, 12622, Egypt. amalramadan2006@yahoo.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "High Throughput Molecular and Genetic Laboratory, Center for Excellence for Advanced Sciences, National Research Centre, Dokki, Giza, Egypt. amalramadan2006@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hashim M"
+          ],
+          "firstName": [
+            "Maha"
+          ],
+          "lastName": [
+            "Hashim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biochemistry Department, Genetic Engineering and Biotechnology Research Division, National Research Centre, El-Bohouth Street, Dokki, Giza, 12622, Egypt."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "High Throughput Molecular and Genetic Laboratory, Center for Excellence for Advanced Sciences, National Research Centre, Dokki, Giza, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abouzid A"
+          ],
+          "firstName": [
+            "Amr"
+          ],
+          "lastName": [
+            "Abouzid"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Surgical Oncology Department, Mansoura Oncology Centre, Faculty of Medicine, Mansoura University, Mansoura, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Swellam M"
+          ],
+          "firstName": [
+            "Menha"
+          ],
+          "lastName": [
+            "Swellam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biochemistry Department, Genetic Engineering and Biotechnology Research Division, National Research Centre, El-Bohouth Street, Dokki, Giza, 12622, Egypt."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "High Throughput Molecular and Genetic Laboratory, Center for Excellence for Advanced Sciences, National Research Centre, Dokki, Giza, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9158-9559",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "3164182"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal, genetic engineering & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Genet Eng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Genet Eng Biotechnol"
+          ],
+          "NLMid": [
+            "101317150"
+          ],
+          "ISSN": [
+            "1687-157X"
+          ],
+          "ESSN": [
+            "2090-5920"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "66"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Aberrant DNA methylation of phosphatase and tensin homolog (PTEN) gene has been found in many cancers. The object of this study was to evaluate the clinical impact of PTEN methylation as a prognostic marker in breast cancer. The study includes 153 newly diagnosed females, and they were divided according to their clinical diagnosis into breast cancer patients (n = 112) and females with benign breast lesion (n = 41). A group of healthy individuals (n = 25) were recruited as control individuals. Breast cancer patients were categorized into early stage (0-I, n = 48) and late stage (II-III, n = 64), and graded into low grade (I-II, n = 42) and high grade (III, n = 70). Their pathological types were invasive duct carcinoma (IDC) (n = 66) and duct carcinoma in situ (DCI) (n = 46). Tumor markers (CEA and CA15.3) were detected using ELISA. DNA was taken away from the blood, and the PTEN promoter methylation level was evaluated using the EpiTect Methyl II PCR method.<h4>Results</h4>The findings revealed the superiority of PTEN methylation status as a good discriminator of the cancer group from the other two groups (benign and control) with its highest AUC and increased sensitivity (96.4%) and specificity (100%) over tumor markers (50% and 84% for CEA and 49.1% and 86.4% for CA15.3), respectively. The frequency of PTEN methylation was 96.4% of breast cancer patients and none of the benign and controls showed PTEN methylation and the means of PTEN methylation (87 ± 0.6) were significantly increased in blood samples of breast cancer group as compared to both benign and control groups (25 ± 0.7 and 12.6 ± 0.3), respectively. Methylation levels of PTEN were higher in the blood of patients with ER-positive than in patients with ER-negative cancers (P = 0.007) and in HER2 positive vs. HER2 negative tumors (P = 0.001). The Kaplan-Meier analysis recognizes PTEN methylation status as a significant forecaster of bad progression-free survival (PFS) and overall survival (OS), after 40 months follow-up.<h4>Conclusions</h4>PETN methylation could be supposed as one of the epigenetic aspects influencing the breast cancer prognosis that might foretell more aggressive actions and worse results in breast cancer patients."
+  ],
+  "affiliation": [
+    "Biochemistry Department, Genetic Engineering and Biotechnology Research Division, National Research Centre, El-Bohouth Street, Dokki, Giza, 12622, Egypt. amalramadan2006@yahoo.com."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Breast cancer",
+        "CEA",
+        "Ca15.3",
+        "Clinicopathological Factors",
+        "Pten Methylation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s43141-021-00169-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

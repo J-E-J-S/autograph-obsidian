@@ -1,0 +1,578 @@
+{
+  "id": [
+    "33773231"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33773231"
+  ],
+  "doi": [
+    "10.1016/j.plaphy.2021.03.015"
+  ],
+  "title": [
+    "Overexpression of VlPRX21 and VlPRX35 genes in Arabidopsis plants leads to bioconversion of trans-resveratrol to δ-viniferin."
+  ],
+  "authorString": [
+    "Park SC, Pyun JW, Jeong YJ, Park SH, Kim S, Kim YH, Lee JR, Kim CY, Jeong JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park SC"
+          ],
+          "firstName": [
+            "Sung-Chul"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pyun JW"
+          ],
+          "firstName": [
+            "Jang Won"
+          ],
+          "lastName": [
+            "Pyun"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea; Department of Pharmaceutical Engineering, Daegu Haany University, Daegu, 38610, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong YJ"
+          ],
+          "firstName": [
+            "Yu Jeong"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park SH"
+          ],
+          "firstName": [
+            "Su Hyun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea; Department of Plant Biotechnology, College of Agriculture and Life Science, Chonnam National University, Gwangju, 61186, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Soyoung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea; Department of Plant Biotechnology, College of Agriculture and Life Science, Chonnam National University, Gwangju, 61186, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YH"
+          ],
+          "firstName": [
+            "Yun-Hee"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology Education, Gyeongsang National University, Jinju, 52828, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JR"
+          ],
+          "firstName": [
+            "Jong Rok"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Engineering, Daegu Haany University, Daegu, 38610, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim CY"
+          ],
+          "firstName": [
+            "Cha Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea. Electronic address: kimcy@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong JC"
+          ],
+          "firstName": [
+            "Jae Cheol"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea. Electronic address: jcjeong@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "162"
+      ],
+      "journalIssueId": [
+        "3150764"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant physiology and biochemistry : PPB"
+          ],
+          "ISOAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Plant Physiol Biochem"
+          ],
+          "NLMid": [
+            "9882449"
+          ],
+          "ISSN": [
+            "0981-9428"
+          ],
+          "ESSN": [
+            "1873-2690"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "556-563"
+  ],
+  "abstractText": [
+    "Stilbenes, including resveratrol and viniferins, a small family of polyphenols, are considered the most important phytoalexin group in Vitis species. In a previous study, we found that co-treatment of methyl jasmonate (MJ) and stevioside (STE) resulted in enhanced extracellular production of viniferins in grapevine cell suspension cultures. Thus, to further understand the mechanisms of viniferin production in grapevine cell cultures, we performed transcriptome analysis and isolated seven candidates of grapevine peroxidase genes (VlAPX6, VlGPX5, VlPRX13, VlPRX21, VlPRX35, VlPRX40, and VlPRX50). Bioconversion of trans-resveratrol to δ-viniferin was examined using crude protein extracts isolated from agroinfiltration-based transient expression of VlPRXs in Nicotiana benthamiana. In addition, we found that crude protein extracts from VlPRX21-, VlPRX35-, and VlPRX40-overexpressing (OX) transgenic Arabidopsis plants led to the conversion of trans-resveratrol to δ-viniferin. We found that in vitro experiments with crude protein extracts from VlPRX21-OX and VlPRX35-OX Arabidopsis plants catalyzed the dimerization of trans-resveratrol to δ-viniferin. Our results suggest that VlPRX21 and VlPRX35 encode functional grapevine class III peroxidases and catalyze the oxidative dimerization of trans-resveratrol to form δ-viniferin in grapevine."
+  ],
+  "affiliation": [
+    "Biological Resource Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Vitis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stilbenes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Resorcinols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benzofurans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Resveratrol"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Peroxidase",
+        "Grapevine",
+        "Bioconversion",
+        "Resveratrol",
+        "Viniferin"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "delta-viniferin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Resorcinols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Benzofurans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Stilbenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "resveratrol"
+          ],
+          "registryNumber": [
+            "Q369O8926L"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.plaphy.2021.03.015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-27"
+  ],
+  "dateOfCreation": [
+    "2021-03-27"
+  ],
+  "firstIndexDate": [
+    "2021-03-28"
+  ],
+  "dateOfRevision": [
+    "2021-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-12"
+  ],
+  "firstPublicationDate": [
+    "2021-03-12"
+  ]
+}

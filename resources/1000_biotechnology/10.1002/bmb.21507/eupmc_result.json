@@ -1,0 +1,296 @@
+{
+  "id": [
+    "33780133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33780133"
+  ],
+  "doi": [
+    "10.1002/bmb.21507"
+  ],
+  "title": [
+    "Knowledge, perception, and interest regarding biotechnology among secondary school students in Calabar, Cross River State, Nigeria."
+  ],
+  "authorString": [
+    "Kooffreh ME, Ikpeme EV, Mgbado TI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kooffreh ME"
+          ],
+          "firstName": [
+            "Mary Esien"
+          ],
+          "lastName": [
+            "Kooffreh"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9839-4981",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ikpeme EV"
+          ],
+          "firstName": [
+            "Ekei Victor"
+          ],
+          "lastName": [
+            "Ikpeme"
+          ],
+          "initials": [
+            "EV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mgbado TI"
+          ],
+          "firstName": [
+            "Theresa Iraenghi"
+          ],
+          "lastName": [
+            "Mgbado"
+          ],
+          "initials": [
+            "TI"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9839-4981",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3124621"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biochemistry and molecular biology education : a bimonthly publication of the International Union of Biochemistry and Molecular Biology"
+          ],
+          "ISOAbbreviation": [
+            "Biochem Mol Biol Educ"
+          ],
+          "medlineAbbreviation": [
+            "Biochem Mol Biol Educ"
+          ],
+          "NLMid": [
+            "100970605"
+          ],
+          "ISSN": [
+            "1470-8175"
+          ],
+          "ESSN": [
+            "1539-3429"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "A survey was carried out to investigate the knowledge, perception and interest of secondary school students about biotechnology. A total of 334 questionnaires were distributed to students in Senior Secondary 3 classes from eight secondary schools within Calabar metropolis. Data was collected and analyzed using SPSS version 7.5. Results revealed 105 (34.21%) of students had limited knowledge of medical biotechnology, genetic engineering and genetically modified products. 91 (30.03%) of the students agreed that biotechnology is the use of living organisms to produce goods and services while 102 (33.41%) accepted that biotechnology is a new technology based on biology 62 (20.39%) were willing to embrace the applications of biotechnology. 152 (50.03%) do not agree that biotech will improve services for mankind; 90 (29.51) had no idea about the applications of biotechnology; 31 (10.24%) students disagreed that cloning results in perfectly identical individuals while the highest positive responses; 92 (30.31%) was recorded for questions regarding in vitro fertilization. The students also showed a very low interest 76 (25%) in pursuing biotechnology as a degree in the University. Generally students' knowledge, perception, and interest in Biotechnology were low among Secondary School students in Calabar. There is a need to immediately increase enlightenment and emphasis on the applications of biotechnology among Secondary school students to enable them appreciate the benefits of biotechnology."
+  ],
+  "affiliation": [
+    "Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Calabar",
+        "Secondary School Students"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bmb.21507"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-29"
+  ],
+  "firstIndexDate": [
+    "2021-03-30"
+  ],
+  "dateOfRevision": [
+    "2021-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-29"
+  ],
+  "firstPublicationDate": [
+    "2021-03-29"
+  ]
+}

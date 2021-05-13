@@ -1,0 +1,379 @@
+{
+  "id": [
+    "33892966"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33892966"
+  ],
+  "doi": [
+    "10.1016/j.clinthera.2021.02.006"
+  ],
+  "title": [
+    "Advanced Therapies and Regulatory Framework in Different Areas of the Globe: Past, Present, and Future."
+  ],
+  "authorString": [
+    "Pimenta C, Bettiol V, Alencar-Silva T, Franco OL, Pogue R, Carvalho JL, Felipe MSS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pimenta C"
+          ],
+          "firstName": [
+            "Cleila"
+          ],
+          "lastName": [
+            "Pimenta"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Program, University of Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bettiol V"
+          ],
+          "firstName": [
+            "Vitória"
+          ],
+          "lastName": [
+            "Bettiol"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alencar-Silva T"
+          ],
+          "firstName": [
+            "Thuany"
+          ],
+          "lastName": [
+            "Alencar-Silva"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Franco OL"
+          ],
+          "firstName": [
+            "Octavio Luiz"
+          ],
+          "lastName": [
+            "Franco"
+          ],
+          "initials": [
+            "OL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil; Catholic University of Dom Bosco, Campo Grande, MS, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pogue R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Pogue"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carvalho JL"
+          ],
+          "firstName": [
+            "Juliana Lott"
+          ],
+          "lastName": [
+            "Carvalho"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil; Faculty of Medicine, University of Brasília, DF, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Felipe MSS"
+          ],
+          "firstName": [
+            "Maria Sueli Soares"
+          ],
+          "lastName": [
+            "Felipe"
+          ],
+          "initials": [
+            "MSS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Program, University of Brasília, DF, Brazil; Genomic Sciences and Biotechnology Program, Catholic University of Brasília, DF, Brazil. Electronic address: msueliunb@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3145935"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical therapeutics"
+          ],
+          "ISOAbbreviation": [
+            "Clin Ther"
+          ],
+          "medlineAbbreviation": [
+            "Clin Ther"
+          ],
+          "NLMid": [
+            "7706726"
+          ],
+          "ISSN": [
+            "0149-2918"
+          ],
+          "ESSN": [
+            "1879-114X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<h4>Purpose</h4>The field of human medicine is in a constant state of evolution, developing and incorporating technological advances from diverse scientific fields. In recent years, cellular and gene therapies have come of age, challenging regulatory agencies to define the path for commercial registration. Approval necessarily demands robust evidence for safety and efficacy, but these exigencies must not be such that they render unviable the development and testing of the therapeutic agent. Furthermore, reimbursement strategies are required to guarantee commercial viability of these products, to avoid the risk that they will be removed from the market or become unavailable to most patients through lack of financial resources. To address such challenges, several countries have created strategies to manage advanced therapy products.<h4>Methods</h4>Based on official documents published by regulatory agencies worldwide, this review summarizes the current scenario in the United States, Europe, Brazil, Japan, South Korea, and China in this regard, discussing the harmonized and dissonant aspects of the regulatory framework in different regions of the world and exploring perspectives for the future.<h4>Findings</h4>The technical aspects of advanced therapies are increasingly complex, bringing challenges for high mass commercialization and demanding specific regulation. The regulatory framework of the analyzed regions is mainly recent and discordant, but many harmonizing initiatives were observed.<h4>Implications</h4>The comparative analysis of regulatory frameworks in different parts of the world is informative, as scientists must be aware of the rationale of regulators to assertively develop new technology and products that will be commercialized. The comparative analysis also provides insight into the main dissonances that must be addressed, fostering the harmonization of local regulatory frameworks. Many unanswered questions still lie ahead for the field of advanced therapies, and empirical evidence will be the most effective way to separate hype from hope and to establish the most sustainable mechanisms to regulate and finance such products in each part of the world. (Clin Ther. 2021;43:XXX-XXX) © 2021 Elsevier HS Journals, Inc."
+  ],
+  "affiliation": [
+    "Public Health Program, University of Brasília, DF, Brazil."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Regulation",
+        "Cell therapy",
+        "Regulatory Framework",
+        "Advanced Therapy Products"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.clinthera.2021.02.006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-24"
+  ],
+  "firstIndexDate": [
+    "2021-04-25"
+  ],
+  "dateOfRevision": [
+    "2021-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

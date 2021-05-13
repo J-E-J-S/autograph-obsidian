@@ -1,0 +1,611 @@
+{
+  "id": [
+    "33865980"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33865980"
+  ],
+  "doi": [
+    "10.1016/j.ymben.2021.03.011"
+  ],
+  "title": [
+    "Towards bio-upcycling of polyethylene terephthalate."
+  ],
+  "authorString": [
+    "Tiso T, Narancic T, Wei R, Pollet E, Beagan N, Schröder K, Honak A, Jiang M, Kenny ST, Wierckx N, Perrin R, Avérous L, Zimmermann W, O'Connor K, Blank LM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tiso T"
+          ],
+          "firstName": [
+            "Till"
+          ],
+          "lastName": [
+            "Tiso"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4420-5609",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "iAMB - Institute of Applied Microbiology. ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Worringerweg 1, D-52074, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Narancic T"
+          ],
+          "firstName": [
+            "Tanja"
+          ],
+          "lastName": [
+            "Narancic"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BiOrbic - SFI Bioeconomy Research Centre, University College Dublin, Belfield, Dublin 4, Ireland; School of Biomolecular and Biomedical Science and UCD Earth Institute, University College Dublin, Belfield, Dublin 4, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei R"
+          ],
+          "firstName": [
+            "Ren"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology and Bioprocess Technology, Institute of Biochemistry, Leipzig University, Johannisallee 23, D-04103, Leipzig, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pollet E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Pollet"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BioTeam/ICPEES-ECPM, UMR CNRS 7515, Strasbourg University, 25 rue Becquerel, F-67087, Strasbourg Cedex 2, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Beagan N"
+          ],
+          "firstName": [
+            "Niall"
+          ],
+          "lastName": [
+            "Beagan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BiOrbic - SFI Bioeconomy Research Centre, University College Dublin, Belfield, Dublin 4, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schröder K"
+          ],
+          "firstName": [
+            "Katja"
+          ],
+          "lastName": [
+            "Schröder"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "iAMB - Institute of Applied Microbiology. ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Worringerweg 1, D-52074, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Honak A"
+          ],
+          "firstName": [
+            "Annett"
+          ],
+          "lastName": [
+            "Honak"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology and Bioprocess Technology, Institute of Biochemistry, Leipzig University, Johannisallee 23, D-04103, Leipzig, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Mengying"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BioTeam/ICPEES-ECPM, UMR CNRS 7515, Strasbourg University, 25 rue Becquerel, F-67087, Strasbourg Cedex 2, France; SOPREMA, 14 rue de Saint-Nazaire, F-67025 Strasbourg Cedex, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kenny ST"
+          ],
+          "firstName": [
+            "Shane T"
+          ],
+          "lastName": [
+            "Kenny"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bioplastech Ltd., NovaUCD, Belfield Innovation Park, University College Dublin, Belfield, Dublin 4, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wierckx N"
+          ],
+          "firstName": [
+            "Nick"
+          ],
+          "lastName": [
+            "Wierckx"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "iAMB - Institute of Applied Microbiology. ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Worringerweg 1, D-52074, Aachen, Germany; Institute of Bio- and Geosciences IBG-1: Biotechnology, Forschungszentrum Jülich, 52425, Jülich, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perrin R"
+          ],
+          "firstName": [
+            "Rémi"
+          ],
+          "lastName": [
+            "Perrin"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "SOPREMA, 14 rue de Saint-Nazaire, F-67025 Strasbourg Cedex, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Avérous L"
+          ],
+          "firstName": [
+            "Luc"
+          ],
+          "lastName": [
+            "Avérous"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BioTeam/ICPEES-ECPM, UMR CNRS 7515, Strasbourg University, 25 rue Becquerel, F-67087, Strasbourg Cedex 2, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zimmermann W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Zimmermann"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology and Bioprocess Technology, Institute of Biochemistry, Leipzig University, Johannisallee 23, D-04103, Leipzig, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connor K"
+          ],
+          "firstName": [
+            "Kevin"
+          ],
+          "lastName": [
+            "O'Connor"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "BiOrbic - SFI Bioeconomy Research Centre, University College Dublin, Belfield, Dublin 4, Ireland; School of Biomolecular and Biomedical Science and UCD Earth Institute, University College Dublin, Belfield, Dublin 4, Ireland. Electronic address: kevin.oconnor@ucd.ie."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blank LM"
+          ],
+          "firstName": [
+            "Lars M"
+          ],
+          "lastName": [
+            "Blank"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "iAMB - Institute of Applied Microbiology. ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Worringerweg 1, D-52074, Aachen, Germany. Electronic address: lars.blank@rwth-aachen.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4420-5609",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "66"
+      ],
+      "journalIssueId": [
+        "3150102"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Metabolic engineering"
+          ],
+          "ISOAbbreviation": [
+            "Metab Eng"
+          ],
+          "medlineAbbreviation": [
+            "Metab Eng"
+          ],
+          "NLMid": [
+            "9815657"
+          ],
+          "ISSN": [
+            "1096-7176"
+          ],
+          "ESSN": [
+            "1096-7184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "167-178"
+  ],
+  "abstractText": [
+    "Over 359 million tons of plastics were produced worldwide in 2018, with significant growth expected in the near future, resulting in the global challenge of end-of-life management. The recent identification of enzymes that degrade plastics previously considered non-biodegradable opens up opportunities to steer the plastic recycling industry into the realm of biotechnology. Here, the sequential conversion of post-consumer polyethylene terephthalate (PET) into two types of bioplastics is presented: a medium chain-length polyhydroxyalkanoate (PHA) and a novel bio-based poly(amide urethane) (bio-PU). PET films are hydrolyzed by a thermostable polyester hydrolase yielding highly pure terephthalate and ethylene glycol. The obtained hydrolysate is used directly as a feedstock for a terephthalate-degrading Pseudomonas umsongensis GO16, also evolved to efficiently metabolize ethylene glycol, to produce PHA. The strain is further modified to secrete hydroxyalkanoyloxy-alkanoates (HAAs), which are used as monomers for the chemo-catalytic synthesis of bio-PU. In short, a novel value-chain for PET upcycling is shown that circumvents the costly purification of PET monomers, adding technological flexibility to the global challenge of end-of-life management of plastics."
+  ],
+  "affiliation": [
+    "iAMB - Institute of Applied Microbiology. ABBt - Aachen Biology and Biotechnology, RWTH Aachen University, Worringerweg 1, D-52074, Aachen, Germany."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "biopolymers",
+        "Pseudomonas putida",
+        "metabolic engineering",
+        "Synthetic Biology",
+        "Polyethylene Terephthalate (Pet) Degradation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ymben.2021.03.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-18"
+  ],
+  "firstIndexDate": [
+    "2021-04-19"
+  ],
+  "dateOfRevision": [
+    "2021-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-16"
+  ],
+  "firstPublicationDate": [
+    "2021-04-16"
+  ]
+}

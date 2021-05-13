@@ -1,0 +1,384 @@
+{
+  "id": [
+    "33925206"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33925206"
+  ],
+  "doi": [
+    "10.3390/biom11050652"
+  ],
+  "title": [
+    "Therapeutic Approach of KRAS Mutant Tumours by the Combination of Pharmacologic Ascorbate and Chloroquine."
+  ],
+  "authorString": [
+    "Kapuy O, Makk-Merczel K, Szarka A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kapuy O"
+          ],
+          "firstName": [
+            "Orsolya"
+          ],
+          "lastName": [
+            "Kapuy"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology, Institute of Biochemistry and Molecular Biology, Semmelweis University, H-1428 Budapest, Hungary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Makk-Merczel K"
+          ],
+          "firstName": [
+            "Kinga"
+          ],
+          "lastName": [
+            "Makk-Merczel"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biochemistry and Molecular Biology, Department of Applied Biotechnology and Food Science, Budapest University of Technology and Economics, H-1111 Budapest, Hungary."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biotechnology Model Laboratory, Faculty of Chemical Technology and Biotechnology, Budapest University of Technology and Economics, Szent Gellért tér 4, H-1111 Budapest, Hungary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Szarka A"
+          ],
+          "firstName": [
+            "András"
+          ],
+          "lastName": [
+            "Szarka"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6594-254X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology, Institute of Biochemistry and Molecular Biology, Semmelweis University, H-1428 Budapest, Hungary."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Laboratory of Biochemistry and Molecular Biology, Department of Applied Biotechnology and Food Science, Budapest University of Technology and Economics, H-1111 Budapest, Hungary."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biotechnology Model Laboratory, Faculty of Chemical Technology and Biotechnology, Budapest University of Technology and Economics, Szent Gellért tér 4, H-1111 Budapest, Hungary."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6594-254X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3161089"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biomolecules"
+          ],
+          "ISOAbbreviation": [
+            "Biomolecules"
+          ],
+          "medlineAbbreviation": [
+            "Biomolecules"
+          ],
+          "NLMid": [
+            "101596414"
+          ],
+          "ISSN": [
+            "2218-273X"
+          ],
+          "ESSN": [
+            "2218-273X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The Warburg effect has been considered a potential therapeutic target to fight against cancer progression. In KRAS mutant cells, PKM2 (pyruvate kinase isozyme M2) is hyper-activated, and it induces GLUT1 expression; therefore, KRAS has been closely involved in the initiation of Warburg metabolism. Although mTOR (mammalian target of rapamycin), a well-known inhibitor of autophagy-dependent survival in physiological conditions, is also activated in KRAS mutants, many recent studies have revealed that autophagy becomes hyper-active in KRAS mutant cancer cells. In the present study, a mathematical model was built containing the main elements of the regulatory network in KRAS mutant cancer cells to explore the further possible therapeutic strategies. Our dynamical analysis suggests that the downregulation of KRAS, mTOR and autophagy are crucial in anti-cancer therapy. PKM2 has been assumed to be the key switch in the stress response mechanism. We predicted that the addition of both pharmacologic ascorbate and chloroquine is able to block both KRAS and mTOR pathways: in this case, no GLUT1 expression is observed, meanwhile autophagy, essential for KRAS mutant cancer cells, is blocked. Corresponding to our system biological analysis, this combined pharmacologic ascorbate and chloroquine treatment in KRAS mutant cancers might be a therapeutic approach in anti-cancer therapies."
+  ],
+  "affiliation": [
+    "Department of Molecular Biology, Institute of Biochemistry and Molecular Biology, Semmelweis University, H-1428 Budapest, Hungary."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018-1.2.1-NKP-2018-00005"
+          ],
+          "agency": [
+            "National Research, Development and Innovation Fund of Hungary"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FIKP BME BIO"
+          ],
+          "agency": [
+            "BME-Biotechnology FIKP"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "123752"
+          ],
+          "agency": [
+            "National Research, Development and Innovation Fund of Hungary"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "129593"
+          ],
+          "agency": [
+            "National Research, Development and Innovation Fund of Hungary"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "134267"
+          ],
+          "agency": [
+            "National Research, Development and Innovation Fund of Hungary"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Ascorbate",
+        "systems biology",
+        "chloroquine",
+        "Autophagy",
+        "Warburg Effect",
+        "Glut1",
+        "Pkm2",
+        "Mutant Kras"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/biom11050652"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

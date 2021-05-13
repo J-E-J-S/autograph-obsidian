@@ -1,0 +1,533 @@
+{
+  "id": [
+    "33919326"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33919326"
+  ],
+  "doi": [
+    "10.3390/ijms22094328"
+  ],
+  "title": [
+    "Phage Display Screening of Bovine Antibodies to Foot-and-Mouth Disease Virus and Their Application in a Competitive ELISA for Serodiagnosis."
+  ],
+  "authorString": [
+    "Jeong S, Ahn HJ, Min KJ, Byun JW, Pyo HM, Park MY, Ku BK, Nah J, Ryoo S, Wee SH, Kim SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jeong S"
+          ],
+          "firstName": [
+            "Sukyo"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Synthetic Biology and Bioengineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn HJ"
+          ],
+          "firstName": [
+            "Hyun Joo"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Synthetic Biology and Bioengineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Min KJ"
+          ],
+          "firstName": [
+            "Kyung Jin"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Synthetic Biology and Bioengineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byun JW"
+          ],
+          "firstName": [
+            "Jae Won"
+          ],
+          "lastName": [
+            "Byun"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pyo HM"
+          ],
+          "firstName": [
+            "Hyun Mi"
+          ],
+          "lastName": [
+            "Pyo"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park MY"
+          ],
+          "firstName": [
+            "Mi Young"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ku BK"
+          ],
+          "firstName": [
+            "Bok Kyung"
+          ],
+          "lastName": [
+            "Ku"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1892-8910",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nah J"
+          ],
+          "firstName": [
+            "Jinju"
+          ],
+          "lastName": [
+            "Nah"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ryoo S"
+          ],
+          "firstName": [
+            "Soyoon"
+          ],
+          "lastName": [
+            "Ryoo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wee SH"
+          ],
+          "firstName": [
+            "Sung Hwan"
+          ],
+          "lastName": [
+            "Wee"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Foot-and-Mouth Disease Division, Animal and Plant Quarantine Agency, Gimcheon 39660, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SJ"
+          ],
+          "firstName": [
+            "Sang Jick"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Synthetic Biology and Bioengineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1892-8910",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3161097"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "For serodiagnosis of foot-and-mouth disease virus (FMDV), monoclonal antibody (MAb)-based competitive ELISA (cELISA) is commonly used since it allows simple and reproducible detection of antibody response to FMDV. However, the use of mouse-origin MAb as a detection reagent is questionable, as antibody responses to FMDV in mice may differ in epitope structure and preference from those in natural hosts such as cattle and pigs. To take advantage of natural host-derived antibodies, a phage-displayed scFv library was constructed from FMDV-immune cattle and subjected to two separate pannings against inactivated FMDV type O and A. Subsequent ELISA screening revealed high-affinity scFv antibodies specific to a serotype (O or A) as well as those with pan-serotype specificity. When BvO17, an scFv antibody specific to FMDV type O, was tested as a detection reagent in cELISA, it successfully detected FMDV type O antibodies for both serum samples from vaccinated cattle and virus-challenged pigs with even higher sensitivity than a mouse MAb-based commercial FMDV type O antibody detection kit. These results demonstrate the feasibility of using natural host-derived antibodies such as bovine scFv instead of mouse MAb in cELISA for serological detection of antibody response to FMDV in the susceptible animals."
+  ],
+  "affiliation": [
+    "Synthetic Biology and Bioengineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CAP-16-02-KIST"
+          ],
+          "agency": [
+            "R&D Convergence Program of National Research Council of Science and Technology of Republic of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Research Initiative Program"
+          ],
+          "agency": [
+            "Korea Research Institute of Bioscience and Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibody",
+        "Phage display",
+        "Competitive ELISA",
+        "Foot-and-mouth Disease Virus",
+        "Type A",
+        "Type O"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms22094328"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-21"
+  ],
+  "firstPublicationDate": [
+    "2021-04-21"
+  ]
+}

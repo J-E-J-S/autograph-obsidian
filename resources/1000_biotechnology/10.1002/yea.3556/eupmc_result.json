@@ -1,0 +1,328 @@
+{
+  "id": [
+    "33608896"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33608896"
+  ],
+  "doi": [
+    "10.1002/yea.3556"
+  ],
+  "title": [
+    "Cross-talk between autophagy and sporulation in Saccharomyces cerevisiae."
+  ],
+  "authorString": [
+    "Barve G, Manjithaya R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barve G"
+          ],
+          "firstName": [
+            "Gaurav"
+          ],
+          "lastName": [
+            "Barve"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5336-7960",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Autophagy Laboratory, Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Manjithaya R"
+          ],
+          "firstName": [
+            "Ravi"
+          ],
+          "lastName": [
+            "Manjithaya"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0923-5485",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Autophagy Laboratory, Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0923-5485",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5336-7960",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3105369"
+      ],
+      "dateOfPublication": [
+        "2021 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Yeast (Chichester, England)"
+          ],
+          "ISOAbbreviation": [
+            "Yeast"
+          ],
+          "medlineAbbreviation": [
+            "Yeast"
+          ],
+          "NLMid": [
+            "8607637"
+          ],
+          "ISSN": [
+            "0749-503X"
+          ],
+          "ESSN": [
+            "1097-0061"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Unicellular organisms, like yeast, have developed mechanisms to overcome environmental stress conditions like nutrient starvation. Autophagy and sporulation are two such mechanisms employed by yeast cells. Autophagy is a well-conserved, catabolic process that degrades excess and unwanted cytoplasmic materials and provides building blocks during starvation conditions. Thus, autophagy maintains cellular homeostasis at basal conditions and acts as a survival mechanism during stress conditions. Sporulation is an essential process that, like autophagy, is triggered due to stress conditions in yeast. It involves the formation of ascospores that protect the yeast cells during extreme conditions and germinate when the conditions are favorable. Studies show that autophagy is required for the sporulation process in yeast. However, the exact mechanism of action is not clear. Furthermore, several of the core autophagy gene knockouts do not sporulate and at what stage of sporulation they are involved is not clear. Besides, many overlapping proteins function in both sporulation and autophagy and it is unclear how the pathway-specific roles of these proteins are determined. All these observations suggest that the two processes cross-talk. Individually, some key features from both the processes remain to be studied with respect to the source of membrane for autophagosomes, prospore membrane (PSM) formation, and closure of the membranes. Therefore, it becomes crucial to study the cross-talk between autophagy and sporulation. In this review, the cross-talk between the two pathways, the common protein machineries have been discussed."
+  ],
+  "affiliation": [
+    "Autophagy Laboratory, Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Department of Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/INF/22/SP27679/2018"
+          ],
+          "agency": [
+            "Department of Biotechnology grant in Life Science Research, Education and Training to JNCASR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CRG/2019/004892"
+          ],
+          "agency": [
+            "DST- Science, and Engineering Research Board (SERB) grant"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "JNCASR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/yea.3556"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-20"
+  ],
+  "firstIndexDate": [
+    "2021-02-21"
+  ],
+  "dateOfRevision": [
+    "2021-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-19"
+  ],
+  "firstPublicationDate": [
+    "2021-02-19"
+  ]
+}

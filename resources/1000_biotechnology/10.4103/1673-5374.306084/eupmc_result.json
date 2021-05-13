@@ -1,0 +1,251 @@
+{
+  "id": [
+    "33510084"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33510084"
+  ],
+  "doi": [
+    "10.4103/1673-5374.306084"
+  ],
+  "title": [
+    "Microglial exosomes in retinal neuroinflammation: focus in glaucoma."
+  ],
+  "authorString": [
+    "Aires ID, Santiago AR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aires ID"
+          ],
+          "firstName": [
+            "Inês Dinis"
+          ],
+          "lastName": [
+            "Aires"
+          ],
+          "initials": [
+            "ID"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8384-9648",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine; University of Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB); Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Santiago AR"
+          ],
+          "firstName": [
+            "Ana Raquel"
+          ],
+          "lastName": [
+            "Santiago"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine; University of Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB); Clinical Academic Center of Coimbra (CACC); Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8384-9648",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3102012"
+      ],
+      "dateOfPublication": [
+        "2021 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1801-1802"
+  ],
+  "affiliation": [
+    "University of Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine; University of Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB); Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.306084"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-29"
+  ],
+  "firstIndexDate": [
+    "2021-01-30"
+  ],
+  "dateOfRevision": [
+    "2021-01-29"
+  ],
+  "firstPublicationDate": [
+    "2021-09-01"
+  ]
+}

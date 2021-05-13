@@ -1,0 +1,470 @@
+{
+  "id": [
+    "33723660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33723660"
+  ],
+  "doi": [
+    "10.1007/s00213-021-05812-z"
+  ],
+  "title": [
+    "Sodium phenylbutyrate reduces repetitive self-grooming behavior and rescues social and cognitive deficits in mouse models of autism."
+  ],
+  "authorString": [
+    "Ryu YK, Park HY, Go J, Choi DH, Choi YK, Rhee M, Lee CH, Kim KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ryu YK"
+          ],
+          "firstName": [
+            "Young-Kyoung"
+          ],
+          "lastName": [
+            "Ryu"
+          ],
+          "initials": [
+            "YK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Biosciences & Biotechnology, Chung-Nam National University, Daejeon, 34134, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park HY"
+          ],
+          "firstName": [
+            "Hye-Yeon"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Brain & Cognitive Sciences, Ewha Womans University, Seoul, 03760, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Go J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Go"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi DH"
+          ],
+          "firstName": [
+            "Dong-Hee"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi YK"
+          ],
+          "firstName": [
+            "Young-Keun"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "YK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rhee M"
+          ],
+          "firstName": [
+            "Myungchull"
+          ],
+          "lastName": [
+            "Rhee"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biosciences & Biotechnology, Chung-Nam National University, Daejeon, 34134, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee CH"
+          ],
+          "firstName": [
+            "Chul-Ho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea. chullee@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KS"
+          ],
+          "firstName": [
+            "Kyoung-Shim"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea. kskim@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3120772"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Psychopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Psychopharmacology (Berl)"
+          ],
+          "medlineAbbreviation": [
+            "Psychopharmacology (Berl)"
+          ],
+          "NLMid": [
+            "7608025"
+          ],
+          "ISSN": [
+            "0033-3158"
+          ],
+          "ESSN": [
+            "1432-2072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Autism spectrum disorder (ASD) is a neurodevelopment disorder characterized by deficits in social interaction and restrictive, repetitive, and stereotypical patterns of behavior. However, there is no pharmacological drug that is currently used to target these core ASD symptoms. Sodium phenylbutyrate (NaPB) is a well-known long-term treatment of urea cycle disorders in children. In this study, we assessed the therapeutic effects of NaPB, which is a chemical chaperone as well as histone deacetylase inhibitor on a BTBR T + Itpr3tf/J (BTBR) mice model of ASD. We found that acute and chronic treatment of NaPB remarkably improved, not only core ASD symptoms, including repetitive behaviors and sociability deficit, but also cognitive impairment in the BTBR mice. NaPB substantially induced histone acetylation in the brain of the BTBR mice. Intriguingly, the therapeutic effects of NaPB on autistic-like behaviors, such as repetitive behaviors, impaired sociability, and cognitive deficit also showed in the valproic acid (VPA)-induced mouse model of autism. In addition, pentylenetetrazole (PTZ)-induced seizure was significantly attenuated by NaPB treatment in C57BL/6J and BTBR mice. These findings suggest that NaPB may provide a novel therapeutic approach for the treatment of patients with ASD."
+  ],
+  "affiliation": [
+    "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Gwahak-ro 125, Yuseong-gu, Daejeon, 34141, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2019M3A9F3065867"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Research Initiative Program"
+          ],
+          "agency": [
+            "Korea Research Institute of Bioscience and Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRF-2015M3C7A1029113"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KRISS-2020-GP2020-0004"
+          ],
+          "agency": [
+            "KIRSS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Autism Spectrum Disorder",
+        "Social Interaction",
+        "Repetitive Behavior",
+        "Sodium Phenylbutyrate"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00213-021-05812-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-16"
+  ],
+  "firstIndexDate": [
+    "2021-03-17"
+  ],
+  "dateOfRevision": [
+    "2021-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

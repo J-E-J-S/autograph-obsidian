@@ -1,0 +1,416 @@
+{
+  "id": [
+    "33740671"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33740671"
+  ],
+  "doi": [
+    "10.1016/j.micres.2021.126747"
+  ],
+  "title": [
+    "The transcription regulator ACTR controls ACT-toxin biosynthesis and pathogenicity in the tangerine pathotype of Alternaria alternata."
+  ],
+  "authorString": [
+    "Li L, Ma H, Zheng F, Chen Y, Wang M, Jiao C, Li H, Gai Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China; College of Plant Protection, Shanxi Agricultural University, Taigu, 030801, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma H"
+          ],
+          "firstName": [
+            "Haijie"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China; School of Agriculture and Food Sciences, Zhejiang Agriculture & Forestry University, Hangzhou, 311300, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yanan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Meiqin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Plant Protection, Shanxi Agricultural University, Taigu, 030801, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiao C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Jiao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China; Boyce Thompson Institute, Ithaca, NY, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hongye"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China. Electronic address: hyli@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gai Y"
+          ],
+          "firstName": [
+            "Yunpeng"
+          ],
+          "lastName": [
+            "Gai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China. Electronic address: gaiy@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "248"
+      ],
+      "journalIssueId": [
+        "3167462"
+      ],
+      "dateOfPublication": [
+        "2021 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbiological research"
+          ],
+          "ISOAbbreviation": [
+            "Microbiol Res"
+          ],
+          "medlineAbbreviation": [
+            "Microbiol Res"
+          ],
+          "NLMid": [
+            "9437794"
+          ],
+          "ISSN": [
+            "0944-5013"
+          ],
+          "ESSN": [
+            "1618-0623"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "126747"
+  ],
+  "abstractText": [
+    "The host-selective ACT toxin is essential for the pathogenesis of the citrus fungal pathogen Alternaria alternata. However, the mechanism of ACT-toxin gene clusters ACT-toxin biosynthesis regulated by is still poorly understood. The biosynthesis of ACT toxin is mainly regulated by multiple ACT toxin genes located in the secondary metabolite gene cluster. In this study, we reported a transcription regulator ACTR contributes ACT toxin biosynthesis through mediating ACT toxin synthesis gene ACTS4 in Alternaria alternata. We generated ACTR-disrupted and -silenced mutants in the tangerine pathotype of A. alternata. Phenotype analysis showed that the ACTR mutants displayed a significant loss of ACT toxin production and a decreased virulence on citrus leaves whereas the vegetative growth and sporulation were not affected, indicating an essential role of ACTR in both ACT toxin biosynthesis and pathogenicity. To elucidate the transcription network of ACTR, we performed RNA-Seq experiments on wild-type and ACTR null mutant and identified genes that were differentially expressed between two genotypes. Transcriptome profiling and RT-qPCR analysis demonstrated that the ACT toxin biosynthetic gene ACTS4 is down-regulated in ACTR mutant. We generated ACTS4 knock-down mutant and found that the pathogenicity of ACTS4 mutant was severely impaired. Interestingly, both ACTR and ACTS4 are not involved in the response to different abiotic stresses including oxidative stress, salt stress, cell-wall disrupting regents, and metal ion stress, indicating the function of these two genes is highly specific. In conclusion, our results highlight the important regulatory role of ACTR in ACT toxin biosynthesis through mediating ACT toxin synthesis gene ACTS4 and underline the essential role of in the tangerine pathotype of A. alternata."
+  ],
+  "affiliation": [
+    "Key Lab of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058, China; College of Plant Protection, Shanxi Agricultural University, Taigu, 030801, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alternaria alternata",
+        "Pathogenicity",
+        "Transcription regulator",
+        "Secondary Metabolite Genes",
+        "Act Toxin Biosynthesis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.micres.2021.126747"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-19"
+  ],
+  "firstIndexDate": [
+    "2021-03-20"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

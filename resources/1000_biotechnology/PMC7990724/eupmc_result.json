@@ -1,0 +1,634 @@
+{
+  "id": [
+    "33786326"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33786326"
+  ],
+  "pmcid": [
+    "PMC7990724"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7990724"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.btre.2020.e00582"
+  ],
+  "title": [
+    "Erratum regarding missing Declaration of Competing Interest statements in previously published articles."
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "29"
+      ],
+      "journalIssueId": [
+        "3080413"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology reports (Amsterdam, Netherlands)"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "NLMid": [
+            "101637426"
+          ],
+          "ISSN": [
+            "2215-017X"
+          ],
+          "ESSN": [
+            "2215-017X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e00582"
+  ],
+  "abstractText": [
+    "[This corrects the article DOI: 10.1016/j.btre.2019.e00359.][This corrects the article DOI: 10.1016/j.btre.2018.e00255.][This corrects the article DOI: 10.1016/j.btre.2019.e00357.][This corrects the article DOI: 10.1016/j.btre.2019.e00316.][This corrects the article DOI: 10.1016/j.btre.2019.e00355.][This corrects the article DOI: 10.1016/j.btre.2019.e00352.][This corrects the article DOI: 10.1016/j.btre.2019.e00358.][This corrects the article DOI: 10.1016/j.btre.2019.e00342.][This corrects the article DOI: 10.1016/j.btre.2019.e00308.][This corrects the article DOI: 10.1016/j.btre.2018.e00293.][This corrects the article DOI: 10.1016/j.btre.2019.e00360.][This corrects the article DOI: 10.1016/j.btre.2019.e00354.][This corrects the article DOI: 10.1016/j.btre.2018.e00280.][This corrects the article DOI: 10.1016/j.btre.2018.e00252.][This corrects the article DOI: 10.1016/j.btre.2019.e00356.][This corrects the article DOI: 10.1016/j.btre.2018.e00286.][This corrects the article DOI: 10.1016/j.btre.2019.e00350.][This corrects the article DOI: 10.1016/j.btre.2018.e00292.][This corrects the article DOI: 10.1016/j.btre.2017.12.009.][This corrects the article DOI: 10.1016/j.btre.2019.e00327.][This corrects the article DOI: 10.1016/j.btre.2019.e00303.][This corrects the article DOI: 10.1016/j.btre.2018.e00245.][This corrects the article DOI: 10.1016/j.btre.2018.e00257.]."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.btre.2020.e00582"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7990724"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7990724?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.btre.2020.e00582"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29349044"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Jan 05;17:77-85"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "29876297"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Mar 05;18:e00245"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        },
+        {
+          "id": [
+            "29876303"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Apr 17;18:e00252"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "3"
+          ]
+        },
+        {
+          "id": [
+            "29876304"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 May 01;18:e00255"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "4"
+          ]
+        },
+        {
+          "id": [
+            "29876306"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 May 17;18:e00257"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "5"
+          ]
+        },
+        {
+          "id": [
+            "30211017"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Sep 05;20:e00280"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "6"
+          ]
+        },
+        {
+          "id": [
+            "30386734"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Oct 12;20:e00286"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "7"
+          ]
+        },
+        {
+          "id": [
+            "30568886"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Nov 10;20:e00292"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "8"
+          ]
+        },
+        {
+          "id": [
+            "30568887"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2018 Nov 20;20:e00293"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "9"
+          ]
+        },
+        {
+          "id": [
+            "30671359"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jan 04;21:e00303"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "10"
+          ]
+        },
+        {
+          "id": [
+            "30788221"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jan 16;21:e00308"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "11"
+          ]
+        },
+        {
+          "id": [
+            "30847286"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Feb 15;21:e00316"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "12"
+          ]
+        },
+        {
+          "id": [
+            "30997348"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Mar 28;23:e00327"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "13"
+          ]
+        },
+        {
+          "id": [
+            "31080766"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Apr 21;22:e00342"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "14"
+          ]
+        },
+        {
+          "id": [
+            "31293906"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 16;23:e00352"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "15"
+          ]
+        },
+        {
+          "id": [
+            "31304101"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 05;24:e00350"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "16"
+          ]
+        },
+        {
+          "id": [
+            "31312608"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 26;23:e00355"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "17"
+          ]
+        },
+        {
+          "id": [
+            "31312609"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 26;23:e00356"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "18"
+          ]
+        },
+        {
+          "id": [
+            "31312610"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 27;23:e00357"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "19"
+          ]
+        },
+        {
+          "id": [
+            "31316900"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 26;23:e00354"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "20"
+          ]
+        },
+        {
+          "id": [
+            "31321214"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 27;23:e00358"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "21"
+          ]
+        },
+        {
+          "id": [
+            "31341791"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jul 05;23:e00360"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "22"
+          ]
+        },
+        {
+          "id": [
+            "31360643"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Biotechnol Rep (Amst). 2019 Jun 30;24:e00359"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "23"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-31"
+  ],
+  "firstIndexDate": [
+    "2021-04-01"
+  ],
+  "fullTextReceivedDate": [
+    "2021-03-31"
+  ],
+  "dateOfRevision": [
+    "2021-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-19"
+  ],
+  "firstPublicationDate": [
+    "2021-03-19"
+  ]
+}

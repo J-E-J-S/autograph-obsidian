@@ -1,0 +1,393 @@
+{
+  "id": [
+    "33970317"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970317"
+  ],
+  "doi": [
+    "10.1007/s00253-021-11320-z"
+  ],
+  "title": [
+    "β-Glucan phosphorylases in carbohydrate synthesis."
+  ],
+  "authorString": [
+    "Ubiparip Z, De Doncker M, Beerens K, Franceus J, Desmet T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ubiparip Z"
+          ],
+          "firstName": [
+            "Zorica"
+          ],
+          "lastName": [
+            "Ubiparip"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2162-5726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Doncker M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "De Doncker"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Beerens K"
+          ],
+          "firstName": [
+            "Koen"
+          ],
+          "lastName": [
+            "Beerens"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Franceus J"
+          ],
+          "firstName": [
+            "Jorick"
+          ],
+          "lastName": [
+            "Franceus"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Desmet T"
+          ],
+          "firstName": [
+            "Tom"
+          ],
+          "lastName": [
+            "Desmet"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium. tom.desmet@ugent.be."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2162-5726",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162694"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "8406612"
+          ],
+          "ISSN": [
+            "0175-7598"
+          ],
+          "ESSN": [
+            "1432-0614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "β-Glucan phosphorylases are carbohydrate-active enzymes that catalyze the reversible degradation of β-linked glucose polymers, with outstanding potential for the biocatalytic bottom-up synthesis of β-glucans as major bioactive compounds. Their preference for sugar phosphates (rather than nucleotide sugars) as donor substrates further underlines their significance for the carbohydrate industry. Presently, they are classified in the glycoside hydrolase families 94, 149, and 161 ( www.cazy.org ). Since the discovery of β-1,3-oligoglucan phosphorylase in 1963, several other specificities have been reported that differ in linkage type and/or degree of polymerization. Here, we present an overview of the progress that has been made in our understanding of β-glucan and associated β-glucobiose phosphorylases, with a special focus on their application in the synthesis of carbohydrates and related molecules. KEY POINTS: • Discovery, characteristics, and applications of β-glucan phosphorylases. • β-Glucan phosphorylases in the production of functional carbohydrates."
+  ],
+  "affiliation": [
+    "Centre for Synthetic Biology (CSB), Department of Biotechnology, Ghent University, Coupure Links 653, 9000, Ghent, Belgium."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "12ZD821N"
+          ],
+          "agency": [
+            "Fonds Wetenschappelijk Onderzoek"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HBC.2019.2175"
+          ],
+          "agency": [
+            "Agentschap Innoveren en Ondernemen"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "761030"
+          ],
+          "agency": [
+            "Horizon 2020"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Β-glucans",
+        "Carbohydrate Synthesis",
+        "Β-glucan Phosphorylases"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00253-021-11320-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

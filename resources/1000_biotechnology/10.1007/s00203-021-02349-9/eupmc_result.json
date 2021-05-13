@@ -1,0 +1,446 @@
+{
+  "id": [
+    "33966089"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33966089"
+  ],
+  "doi": [
+    "10.1007/s00203-021-02349-9"
+  ],
+  "title": [
+    "Peteryoungia gen. nov. with four new species combinations and description of Peteryoungia desertarenae sp. nov., and taxonomic revision of the genus Ciceribacter based on phylogenomics of Rhizobiaceae."
+  ],
+  "authorString": [
+    "Rahi P, Khairnar M, Hagir A, Narayan A, Jain KR, Madamwar D, Pansare A, Shouche Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rahi P"
+          ],
+          "firstName": [
+            "Praveen"
+          ],
+          "lastName": [
+            "Rahi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3154-9616",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India. praveen_rahi22@yahoo.co.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khairnar M"
+          ],
+          "firstName": [
+            "Mitesh"
+          ],
+          "lastName": [
+            "Khairnar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hagir A"
+          ],
+          "firstName": [
+            "Ashwini"
+          ],
+          "lastName": [
+            "Hagir"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Narayan A"
+          ],
+          "firstName": [
+            "Avinash"
+          ],
+          "lastName": [
+            "Narayan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Post-Graduate Department of Biosciences, UGC-Centre of Advanced Study, Sardar Patel University, Satellite Campus, Vadtal Road, Bakrol, Anand, Gujarat, 388 315, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jain KR"
+          ],
+          "firstName": [
+            "Kunal R"
+          ],
+          "lastName": [
+            "Jain"
+          ],
+          "initials": [
+            "KR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Post-Graduate Department of Biosciences, UGC-Centre of Advanced Study, Sardar Patel University, Satellite Campus, Vadtal Road, Bakrol, Anand, Gujarat, 388 315, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madamwar D"
+          ],
+          "firstName": [
+            "Datta"
+          ],
+          "lastName": [
+            "Madamwar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Post-Graduate Department of Biosciences, UGC-Centre of Advanced Study, Sardar Patel University, Satellite Campus, Vadtal Road, Bakrol, Anand, Gujarat, 388 315, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pansare A"
+          ],
+          "firstName": [
+            "Aabeejjeet"
+          ],
+          "lastName": [
+            "Pansare"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shouche Y"
+          ],
+          "firstName": [
+            "Yogesh"
+          ],
+          "lastName": [
+            "Shouche"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3154-9616",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161751"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Arch Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Arch Microbiol"
+          ],
+          "NLMid": [
+            "0410427"
+          ],
+          "ISSN": [
+            "0302-8933"
+          ],
+          "ESSN": [
+            "1432-072X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "A novel bacterial strain designated as ADMK78<sup>T</sup> was isolated from the saline desert soil. The cells were rod-shaped, Gram-stain-negative, and non-motile. The strain ADMK78<sup>T</sup> grows best at 28 °C. Phylogeny of 16S rRNA gene placed the strain ADMK78<sup>T</sup> with the members of genera Ciceribacter and Rhizobium, while the highest sequence similarity was with Rhizobium wuzhouense W44<sup>T</sup> (98.7%) and Rhizobium ipomoeae shin9-1<sup> T</sup> (97.9%). Phylogenetic analysis based on 92 core-genes extracted from the genome sequences and average amino acid identity (AAI) revealed that the strain ADMK78<sup>T</sup> forms a distinct cluster including five species of Rhizobium, which is separate from the cluster of the genera Rhizobium and Ciceribacter. We propose re-classification of Rhizobium ipomoeae, R. wuzhouense, R. rosettiformans and R. rhizophilum into the novel genus Peteryoungia. The average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values of ADMK78<sup>T</sup> were less than 82 and 81%, respectively, among all type strains included in the genus Peteryoungia. The strain ADMK78<sup>T</sup> showed differences in physiological, phenotypic, and protein profiles estimated by MALDI-TOF MS to its closest relatives. Based on the phenotypic, chemotaxonomic properties, and phylogenetic analyses, the strain ADMK78<sup>T</sup> represents a novel species, Peteryoungia desertarenae sp. nov. The type strain is ADMK78<sup>T</sup> (= MCC 3400<sup>T</sup>; KACC 21383<sup>T</sup>; JCM 33657<sup>T</sup>). We also proposed the reclassification of Rhizobium daejeonense, R. naphthalenivorans and R. selenitireducens, into the genus Ciceribacter, based on core gene phylogeny and AAI values."
+  ],
+  "affiliation": [
+    "National Centre for Microbial Resource, National Centre for Cell Science, Pune, Maharashtra, 411007, India. praveen_rahi22@yahoo.co.in."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/Coord. II/01/03/2016"
+          ],
+          "agency": [
+            "Department of Biotechnology, India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "polyphasic taxonomy",
+        "Phylogenomics",
+        "Saline Desert",
+        "Maldi-tof Ms Biotyping"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00203-021-02349-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-09"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-09"
+  ],
+  "firstPublicationDate": [
+    "2021-05-09"
+  ]
+}

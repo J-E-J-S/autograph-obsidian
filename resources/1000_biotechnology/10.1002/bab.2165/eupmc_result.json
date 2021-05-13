@@ -1,0 +1,492 @@
+{
+  "id": [
+    "33840140"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33840140"
+  ],
+  "doi": [
+    "10.1002/bab.2165"
+  ],
+  "title": [
+    "Glucose oxidase: Applications, sources, and recombinant production."
+  ],
+  "authorString": [
+    "Khatami SH, Vakili O, Ahmadi N, Soltani Fard E, Mousavi P, Khalvati B, Maleksabet A, Savardashtaki A, Taheri-Anganeh M, Movahedpour A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khatami SH"
+          ],
+          "firstName": [
+            "Seyyed Hossein"
+          ],
+          "lastName": [
+            "Khatami"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Biochemistry, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vakili O"
+          ],
+          "firstName": [
+            "Omid"
+          ],
+          "lastName": [
+            "Vakili"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Biochemistry, School of Pharmacy and Pharmaceutical Sciences, Isfahan University of Medical Sciences, Isfahan, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmadi N"
+          ],
+          "firstName": [
+            "Nahid"
+          ],
+          "lastName": [
+            "Ahmadi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Soltani Fard E"
+          ],
+          "firstName": [
+            "Elahe"
+          ],
+          "lastName": [
+            "Soltani Fard"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Medicine, School of Advanced Technologies, Shahrekord University of Medical Sciences, Shahrekord, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mousavi P"
+          ],
+          "firstName": [
+            "Pegah"
+          ],
+          "lastName": [
+            "Mousavi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5654-7561",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Genetics, Faculty of Medicine, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khalvati B"
+          ],
+          "firstName": [
+            "Bahman"
+          ],
+          "lastName": [
+            "Khalvati"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medicinal Plants Research Center, Yasuj University of Medical Sciences, Yasuj, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maleksabet A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Maleksabet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Technologies in Medicine, Mazandaran University of Medical Sciences, Sari, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Savardashtaki A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Savardashtaki"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taheri-Anganeh M"
+          ],
+          "firstName": [
+            "Mortaza"
+          ],
+          "lastName": [
+            "Taheri-Anganeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9659-7491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cellular and Molecular Research Center, Cellular and Molecular Medicine Institute, Urmia University of Medical Sciences, Urmia, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Movahedpour A"
+          ],
+          "firstName": [
+            "Ahmad"
+          ],
+          "lastName": [
+            "Movahedpour"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5654-7561",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9659-7491",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3144625"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and applied biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "NLMid": [
+            "8609465"
+          ],
+          "ISSN": [
+            "0885-4513"
+          ],
+          "ESSN": [
+            "1470-8744"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Glucose oxidase is a subset of oxidoreductase enzymes that catalyzes the transfer of electrons from an oxidant to a reductant. Glucose oxidases use oxygen as an external electron acceptor that releases hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ). Glucose oxidase has many applications in commercial processes, including improving the color and taste, increasing the persistence of food materials, removing the glucose from the dried egg, and eliminating the oxygen from different juices and beverages. Moreover, glucose oxidase, along with catalase, is used in glucose testing kits (especially in biosensors) to detect and measure the presence of glucose in industrial and biological solutions (e.g., blood and urine specimens). Hence, glucose oxidase is a valuable enzyme in the industry and medical diagnostics. Therefore, evaluating the structure and function of glucose oxidase is crucial for modifying as well as improving its catalytic properties. Finding different sources of glucose oxidase is an effective way to find the type of enzyme with the desired catalysis. Besides, the recombinant production of glucose oxidase is the best approach to produce sufficient amounts of glucose oxidase for various uses. Accordingly, the study of various aspects of glucose oxidase in biotechnology and bioprocessing is crucial."
+  ],
+  "affiliation": [
+    "Department of Clinical Biochemistry, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Glucose oxidase",
+        "Recombinant protein",
+        "Enzyme"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bab.2165"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-11"
+  ],
+  "firstIndexDate": [
+    "2021-04-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-11"
+  ],
+  "firstPublicationDate": [
+    "2021-04-11"
+  ]
+}

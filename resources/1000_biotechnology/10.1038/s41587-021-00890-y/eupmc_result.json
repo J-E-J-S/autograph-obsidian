@@ -1,0 +1,305 @@
+{
+  "id": [
+    "33772256"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33772256"
+  ],
+  "doi": [
+    "10.1038/s41587-021-00890-y"
+  ],
+  "title": [
+    "Democratizing biotechnology requires more than availability."
+  ],
+  "authorString": [
+    "Beumer K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Beumer K"
+          ],
+          "firstName": [
+            "Koen"
+          ],
+          "lastName": [
+            "Beumer"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4533-3581",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Copernicus Institute of Sustainable Development-Innovation Studies, Utrecht University, Utrecht, the Netherlands. k.beumer@uu.nl."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4533-3581",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "3151190"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Nat Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Nat Biotechnol"
+          ],
+          "NLMid": [
+            "9604648"
+          ],
+          "ISSN": [
+            "1087-0156"
+          ],
+          "ESSN": [
+            "1546-1696"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "403"
+  ],
+  "affiliation": [
+    "Copernicus Institute of Sustainable Development-Innovation Studies, Utrecht University, Utrecht, the Netherlands. k.beumer@uu.nl."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter",
+        "Comment"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biotechnology"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41587-021-00890-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31796931"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Biotechnol. 2019 Dec;37(12):1403-1408"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "33772257"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Biotechnol. 2021 Apr;39(4):403-404"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-19"
+  ],
+  "dateOfCreation": [
+    "2021-03-27"
+  ],
+  "firstIndexDate": [
+    "2021-03-28"
+  ],
+  "dateOfRevision": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

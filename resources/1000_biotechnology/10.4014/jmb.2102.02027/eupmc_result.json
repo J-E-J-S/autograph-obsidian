@@ -1,0 +1,385 @@
+{
+  "id": [
+    "33820890"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33820890"
+  ],
+  "doi": [
+    "10.4014/jmb.2102.02027"
+  ],
+  "title": [
+    "Antimicrobial resistance profile of <i>Acinetobacter</i> spp. isolates from retail meat samples under <i>Campylobacter</i>-selective conditions."
+  ],
+  "authorString": [
+    "Cha MH, Kim SH, Kim S, Lee W, Kwak HS, Chi YM, Woo GJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cha MH"
+          ],
+          "firstName": [
+            "Min-Hyeok"
+          ],
+          "lastName": [
+            "Cha"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Food Safety and Evaluation, Department of Biotechnology, Korea University Graduate School, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SH"
+          ],
+          "firstName": [
+            "Sun Hee"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Seokhwan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Food Microbiology, National Institute of Food and Drug Safety Evaluation, Ministry of Food and Drug Safety, Cheongju, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee W"
+          ],
+          "firstName": [
+            "Woojung"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Food Microbiology, National Institute of Food and Drug Safety Evaluation, Ministry of Food and Drug Safety, Cheongju, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kwak HS"
+          ],
+          "firstName": [
+            "Hyo-Sun"
+          ],
+          "lastName": [
+            "Kwak"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology. Kyung Hee University, Gyeonggi-do, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chi YM"
+          ],
+          "firstName": [
+            "Young-Min"
+          ],
+          "lastName": [
+            "Chi"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Woo GJ"
+          ],
+          "firstName": [
+            "Gun-Jo"
+          ],
+          "lastName": [
+            "Woo"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Food Safety and Evaluation, Department of Biotechnology, Korea University Graduate School, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146933"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "9431852"
+          ],
+          "ISSN": [
+            "1017-7825"
+          ],
+          "ESSN": [
+            "1738-8872"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<i>Acinetobacter</i> strains are widely present in the environment. Some antimicrobial-resistant strains of this genus have been implicated in infections acquired in hospitals. Genetic similarities have been reported between <i>Acinetobacter</i> strains in nosocomial infections and those isolated from foods. However, the antimicrobial resistance of <i>Acinetobacter</i> strains in foods, such as meat, remains unclear. This study initially aimed to isolate <i>Campylobacter</i> strains; instead, strains of the genus <i>Acinetobacter</i> were isolated from meat products, and their antimicrobial resistance was investigated. In total, 58 <i>Acinetobacter</i> strains were isolated from 381 meat samples. Of these, 32 strains (38.6%) were from beef, 22 (26.5%) from pork, and 4 (4.8%) from duck meat. Antimicrobial susceptibility tests revealed that 12 strains were resistant to more than one antimicrobial agent, whereas two strains were multidrug-resistant; both strains were resistant to colistin. Cephalosporin antimicrobials showed high minimal inhibitory concentration against <i>Acinetobacter</i> strains. Resfinder analysis showed that one colistin-resistant strain carried <i>mcr-4.3</i>; this plasmid type was not confirmed, even when analyzed with PlasmidFinder. Analysis of the contig harboring <i>mcr-4.3</i> using BLAST confirmed that this contig was related to <i>mcr-4.3</i> of <i>Acinetobacter baumannii</i>. The increase in antimicrobial resistance in food production environments increases the resistance rate of <i>Acinetobacter</i> strains present in meat, inhibits the isolation of <i>Campylobacter</i> strains, and acts as a medium for the transmission of antimicrobial resistance in the environment. Therefore, further investigations are warranted to prevent the spread of antimicrobial resistance in food products."
+  ],
+  "affiliation": [
+    "Laboratory of Food Safety and Evaluation, Department of Biotechnology, Korea University Graduate School, Seoul, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Acinetobacter",
+        "Antimicrobial resistance",
+        "Meat",
+        "Colistin Resistance",
+        "Food Surveillance"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4014/jmb.2102.02027"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-06"
+  ],
+  "firstIndexDate": [
+    "2021-04-07"
+  ],
+  "dateOfRevision": [
+    "2021-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-05"
+  ],
+  "firstPublicationDate": [
+    "2021-04-05"
+  ]
+}

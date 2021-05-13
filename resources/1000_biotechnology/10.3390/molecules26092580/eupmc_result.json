@@ -1,0 +1,367 @@
+{
+  "id": [
+    "33925223"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33925223"
+  ],
+  "doi": [
+    "10.3390/molecules26092580"
+  ],
+  "title": [
+    "Discovery of a New Analgesic Peptide, Leptucin, from the Iranian Scorpion, <i>Hemiscorpius lepturus</i>."
+  ],
+  "authorString": [
+    "Bagheri-Ziari S, Shahbazzadeh D, Sardari S, Sabatier JM, Pooshang Bagheri K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bagheri-Ziari S"
+          ],
+          "firstName": [
+            "Sedigheh"
+          ],
+          "lastName": [
+            "Bagheri-Ziari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Venom and Biotherapeutics Molecules Laboratory, Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran 1316943551, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shahbazzadeh D"
+          ],
+          "firstName": [
+            "Delavar"
+          ],
+          "lastName": [
+            "Shahbazzadeh"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Venom and Biotherapeutics Molecules Laboratory, Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran 1316943551, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sardari S"
+          ],
+          "firstName": [
+            "Soroush"
+          ],
+          "lastName": [
+            "Sardari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Drug Design and Bioinformatics Unit, Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran 1316943551, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sabatier JM"
+          ],
+          "firstName": [
+            "Jean-Marc"
+          ],
+          "lastName": [
+            "Sabatier"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9040-5647",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of NeuroPhysiopathology (INP), Faculté de Pharmacie, Université d'Aix-Marseille, UMR 7051, 27 Bd Jean Moulin, CEDEX 05, 13385 Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pooshang Bagheri K"
+          ],
+          "firstName": [
+            "Kamran"
+          ],
+          "lastName": [
+            "Pooshang Bagheri"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0125-3918",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Venom and Biotherapeutics Molecules Laboratory, Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran 1316943551, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9040-5647",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0125-3918",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "3161088"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<i>Hemiscorpius lepturus</i> scorpion stings do not induce considerable pain based on epidemiological surveys conducted in the southwest part of Iran. Accordingly, this study was aimed to identify the analgesic molecule in <i>H. lepturus</i> venom by analyzing a cDNA library of the scorpion venom gland looking for sequences having homology with known animal venom analgesic peptides. The analgesic molecule is a cysteine rich peptide of 55 amino acids. the synthetic peptide was deprotected and refolded. RP-HPLC, Ellman's, and DLS assays confirmed the refolding accuracy. Circular dichroism (CD) showed helix and beta sheet contents. This peptide, called leptucin, demonstrated 95% analgesic activity at the dose of 0.48 mg/kg in hot plate assay. Leptucin at the doses of 0.32, 0.48, and 0.64 mg/kg showed 100% activity in thermal tail flick test. No hemolysis or cytotoxicity was observed at 8 and 16 µg. Histopathology evaluations indicated no hepatotoxicity, nephrotoxicity, and cardiotoxicity. We thus report that leptucin is the analgesic agent of <i>H. lepturus</i> venom. Regarding the high in vivo efficacy of leptucin and the fact it shows no observable toxicity, it could be suggested as a drug lead in a preclinical study of acute pain as well as the study of its mechanism of action."
+  ],
+  "affiliation": [
+    "Venom and Biotherapeutics Molecules Laboratory, Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran 1316943551, Iran."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Scorpion",
+        "Hemiscorpius Lepturus",
+        "Analgesic Peptide",
+        "Leptucin"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules26092580"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "id": [
+    "33904924"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33904924"
+  ],
+  "doi": [
+    "10.1093/jimb/kuab026"
+  ],
+  "title": [
+    "Genomic-, phenotypic-, and toxicity-based safety assessment and probiotic potency of Bacillus coagulans IDCC 1201 isolated from green malt."
+  ],
+  "authorString": [
+    "Bang WY, Ban OH, Lee BS, Oh S, Park C, Park MK, Jung SK, Yang J, Jung YH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bang WY"
+          ],
+          "firstName": [
+            "Won Yeong"
+          ],
+          "lastName": [
+            "Bang"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ban OH"
+          ],
+          "firstName": [
+            "O-Hyun"
+          ],
+          "lastName": [
+            "Ban"
+          ],
+          "initials": [
+            "OH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ildong Bioscience, 17 Poseunggongdan-ro, Pyeongtaek-si, Gyeonggi-do, 17957, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee BS"
+          ],
+          "firstName": [
+            "Bo Som"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh S"
+          ],
+          "firstName": [
+            "Sangki"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ildong Bioscience, 17 Poseunggongdan-ro, Pyeongtaek-si, Gyeonggi-do, 17957, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park C"
+          ],
+          "firstName": [
+            "Chanmi"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ildong Bioscience, 17 Poseunggongdan-ro, Pyeongtaek-si, Gyeonggi-do, 17957, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park MK"
+          ],
+          "firstName": [
+            "Mi-Kyung"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jung SK"
+          ],
+          "firstName": [
+            "Sung Keun"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jungwoo"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ildong Bioscience, 17 Poseunggongdan-ro, Pyeongtaek-si, Gyeonggi-do, 17957, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jung YH"
+          ],
+          "firstName": [
+            "Young Hoon"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Fermentation Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3155862"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of industrial microbiology & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Ind Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Ind Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "9705544"
+          ],
+          "ISSN": [
+            "1367-5435"
+          ],
+          "ESSN": [
+            "1476-5535"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Probiotics are beneficial microorganisms, and the evaluation of their safety for human use in the food industry has become critical. This study examines the safety of Bacillus coagulans IDCC 1201 isolated from green malt by analyzing its genomic and phenotypic characteristics and determining its toxicity. The presence of antibiotic resistance and toxigenic genes and gene transferability were investigated using whole-genome analysis. The strain's hemolytic and enzyme activities, minimum inhibitory concentrations of antibiotics, and biogenic amine and D-lactate production were also examined. Furthermore, the principal properties of B. coagulans IDCC 1201 as probiotics, such as resistance to abiotic stress and intestinal adhesion, were studied. The whole-genome analysis demonstrated that B. coagulans IDCC 1201 had no antibiotic resistance or toxigenic genes; the strain was susceptible to the nine antibiotics proposed by the European Food Safety Authority. Moreover, this strain lacked hemolytic and β-glucuronidase activities. Additionally, it was confirmed that B. coagulans IDCC 1201 produced undesirable metabolites, including biogenic amines or D-lactate, at a safe level. Finally, the strain exhibited functional potential as a probiotic in terms of abiotic tolerance, such as bile tolerance and intestinal adhesion in in vitro experiments. In conclusion, B. coagulans IDCC 1201 can be considered as a safe probiotic with regard to human health."
+  ],
+  "affiliation": [
+    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Toxicity",
+        "Property",
+        "Probiotics",
+        "Bacillus coagulans",
+        "Safety evaluation",
+        "Genomic Safety"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jimb/kuab026"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-27"
+  ],
+  "firstIndexDate": [
+    "2021-04-28"
+  ],
+  "dateOfRevision": [
+    "2021-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-27"
+  ],
+  "firstPublicationDate": [
+    "2021-04-27"
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": [
+    "33932500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33932500"
+  ],
+  "doi": [
+    "10.1016/j.jbiotec.2021.04.007"
+  ],
+  "title": [
+    "Assembly and characterization of the genome of chard (Beta vulgaris ssp. vulgaris var. cicla)."
+  ],
+  "authorString": [
+    "Lehner R, Blazek L, Minoche AE, Dohm JC, Himmelbauer H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lehner R"
+          ],
+          "firstName": [
+            "Reinhard"
+          ],
+          "lastName": [
+            "Lehner"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Computational Biology, Department of Biotechnology, University of Life Sciences and Natural Resources, Vienna (BOKU), Muthgasse 18, 1190 Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blazek L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Blazek"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Computational Biology, Department of Biotechnology, University of Life Sciences and Natural Resources, Vienna (BOKU), Muthgasse 18, 1190 Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Minoche AE"
+          ],
+          "firstName": [
+            "André E"
+          ],
+          "lastName": [
+            "Minoche"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Garvan Institute of Medical Research, 384 Victoria Street, Darlinghurst, NSW 2010, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dohm JC"
+          ],
+          "firstName": [
+            "Juliane C"
+          ],
+          "lastName": [
+            "Dohm"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Computational Biology, Department of Biotechnology, University of Life Sciences and Natural Resources, Vienna (BOKU), Muthgasse 18, 1190 Vienna, Austria. Electronic address: dohm@boku.ac.at."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Himmelbauer H"
+          ],
+          "firstName": [
+            "Heinz"
+          ],
+          "lastName": [
+            "Himmelbauer"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Computational Biology, Department of Biotechnology, University of Life Sciences and Natural Resources, Vienna (BOKU), Muthgasse 18, 1190 Vienna, Austria. Electronic address: heinz.himmelbauer@boku.ac.at."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "333"
+      ],
+      "journalIssueId": [
+        "3162490"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Biotechnol"
+          ],
+          "NLMid": [
+            "8411927"
+          ],
+          "ISSN": [
+            "0168-1656"
+          ],
+          "ESSN": [
+            "1873-4863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "67-76"
+  ],
+  "abstractText": [
+    "Chard (Beta vulgaris ssp. vulgaris var. cicla) is a member of one of four different cultigroups of beets. While the genome of sugar beet, the most prominent beet crop, has been studied extensively, molecular data on other beet cultivars is scant. Here, we present a genome assembly of chard, a vegetable crop grown for its fleshy leaves. We report a de novo genome assembly of 604 Mbp, slightly larger than sugar beet assemblies presented so far. About 57 % of the assembly was annotated as repetitive sequence, of which LTR retrotransposons were the most abundant. Based on the presence of conserved genes, the chard assembly was estimated to be at least 96 % complete regarding its gene space. We predicted 34,521 genes of which 27,582 genes were supported by evidence from transcriptomic sequencing reads, and 5503 of the evidence-supported genes had multiple isoforms. We compared the chard gene set with gene sets from sugar beet and two wild beets (i.e. Beta vulgaris ssp. maritima and Beta patula) to find orthology relationships and identified genome-wide syntenic regions between chard and sugar beet. Lastly, we determined genomic variants that distinguish sugar beet and chard. Assessing the variation distribution along the chard chromosomes, we found extensive haplotype sharing between the two cultivars. In summary, our work provides a foundation for the molecular analysis of Beta vulgaris cultigroups as a basis for chard genomics and to unravel the domestication history of beet crops."
+  ],
+  "affiliation": [
+    "Institute of Computational Biology, Department of Biotechnology, University of Life Sciences and Natural Resources, Vienna (BOKU), Muthgasse 18, 1190 Vienna, Austria."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome annotation",
+        "genomic variation",
+        "Synteny",
+        "Genome Assembly",
+        "Leaf Beet",
+        "Cultigroup"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbiotec.2021.04.007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-01"
+  ],
+  "firstIndexDate": [
+    "2021-05-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

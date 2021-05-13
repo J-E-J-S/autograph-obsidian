@@ -1,0 +1,419 @@
+{
+  "id": [
+    "33799240"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33799240"
+  ],
+  "doi": [
+    "10.1016/j.foodchem.2021.129634"
+  ],
+  "title": [
+    "Kinetics of glucosinolate hydrolysis by myrosinase in Brassicaceae tissues: A high-performance liquid chromatography approach."
+  ],
+  "authorString": [
+    "Pardini A, Tamasi G, De Rocco F, Bonechi C, Consumi M, Leone G, Magnani A, Rossi C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pardini A"
+          ],
+          "firstName": [
+            "Alessio"
+          ],
+          "lastName": [
+            "Pardini"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; Center for Colloid and Surface Science (CSGI), University of Florence, via della Lastruccia 3, 50019 Sesto Fiorentino (FI), Italy. Electronic address: alessio.pardini@unisi.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tamasi G"
+          ],
+          "firstName": [
+            "Gabriella"
+          ],
+          "lastName": [
+            "Tamasi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; Center for Colloid and Surface Science (CSGI), University of Florence, via della Lastruccia 3, 50019 Sesto Fiorentino (FI), Italy. Electronic address: gabriella.tamasi@unisi.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Rocco F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "De Rocco"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bonechi C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Bonechi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; Center for Colloid and Surface Science (CSGI), University of Florence, via della Lastruccia 3, 50019 Sesto Fiorentino (FI), Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Consumi M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Consumi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; National Interuniversity Consortium of Materials Science and Technology (INSTM), via Giuseppe Giusti 9, 50121 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leone G"
+          ],
+          "firstName": [
+            "Gemma"
+          ],
+          "lastName": [
+            "Leone"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; National Interuniversity Consortium of Materials Science and Technology (INSTM), via Giuseppe Giusti 9, 50121 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Magnani A"
+          ],
+          "firstName": [
+            "Agnese"
+          ],
+          "lastName": [
+            "Magnani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; National Interuniversity Consortium of Materials Science and Technology (INSTM), via Giuseppe Giusti 9, 50121 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rossi C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Rossi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; Center for Colloid and Surface Science (CSGI), University of Florence, via della Lastruccia 3, 50019 Sesto Fiorentino (FI), Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "355"
+      ],
+      "journalIssueId": [
+        "3162466"
+      ],
+      "dateOfPublication": [
+        "2021 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Food Chem"
+          ],
+          "medlineAbbreviation": [
+            "Food Chem"
+          ],
+          "NLMid": [
+            "7702639"
+          ],
+          "ISSN": [
+            "0308-8146"
+          ],
+          "ESSN": [
+            "1873-7072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "129634"
+  ],
+  "abstractText": [
+    "Glucosinolates are a group of secondary metabolites occurring in all the vegetables belonging to the Brassicaceae family. Upon tissue damage, glucosinolates are hydrolyzed by myrosinase to a series of degradation products, including isothiocyanates, which are important for their health-promoting effects in humans. The glucosinolate-myrosinase system has been characterized in several Brassica species, of which white mustard (Sinapis alba) has been studied the most. In this study, a new HPLC-UV assay to evaluate the activities and kinetics of myrosinases in aqueous extracts, which closely represent the physiological conditions of plant tissues, was developed. This method was tested on myrosinases extracted from broccoli and cauliflower inflorescences, employing sinigrin and glucoraphanin as substrates. The results showed a strong inhibition of both enzymes at high substrate concentrations. The main issues related to kinetic analysis on the glucosinolate-myrosinase system were also elucidated."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Chemistry and Pharmacy (DBCF), University of Siena, via Aldo Moro 2, 53100 Siena, Italy; Center for Colloid and Surface Science (CSGI), University of Florence, via della Lastruccia 3, 50019 Sesto Fiorentino (FI), Italy. Electronic address: alessio.pardini@unisi.it."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Kinetic study",
+        "Glucosinolate",
+        "Substrate Inhibition",
+        "Myrosinase",
+        "Spectrophotometric Assay",
+        "Brassica Oleracea L. Var. Botrytis",
+        "Brassica Oleracea L. Var. Italic",
+        "Hplc-based Assay"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.foodchem.2021.129634"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-20"
+  ],
+  "firstPublicationDate": [
+    "2021-03-20"
+  ]
+}

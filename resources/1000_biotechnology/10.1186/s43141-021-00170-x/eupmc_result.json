@@ -1,0 +1,326 @@
+{
+  "id": [
+    "33961150"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33961150"
+  ],
+  "doi": [
+    "10.1186/s43141-021-00170-x"
+  ],
+  "title": [
+    "Confirmation of \"pre-plasmolysis mediated ex-osmosis hypothesis\" to obtain shoot bud morphogenesis in Catharanthus roseus."
+  ],
+  "authorString": [
+    "Mistry V, Sharma A, Mathur AK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mistry V"
+          ],
+          "firstName": [
+            "Vyoma"
+          ],
+          "lastName": [
+            "Mistry"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "C. G. Bhakta Institute of Biotechnology, Uka Tarsadia University, Gopal-Vidyanagar, Maliba Campus, Surat, 394350, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma A"
+          ],
+          "firstName": [
+            "Abhishek"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0271-6892",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "C. G. Bhakta Institute of Biotechnology, Uka Tarsadia University, Gopal-Vidyanagar, Maliba Campus, Surat, 394350, India. abhi19ind@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Plant Biotechnology, Central Institute of Medicinal and Aromatic Plants (CIMAP), Council of Scientific and Industrial Research, PO CIMAP, Lucknow, 226015, India. abhi19ind@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mathur AK"
+          ],
+          "firstName": [
+            "Ajay Kumar"
+          ],
+          "lastName": [
+            "Mathur"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Biotechnology, Central Institute of Medicinal and Aromatic Plants (CIMAP), Council of Scientific and Industrial Research, PO CIMAP, Lucknow, 226015, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0271-6892",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "3164182"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal, genetic engineering & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Genet Eng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Genet Eng Biotechnol"
+          ],
+          "NLMid": [
+            "101317150"
+          ],
+          "ISSN": [
+            "1687-157X"
+          ],
+          "ESSN": [
+            "2090-5920"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "65"
+  ],
+  "abstractText": [
+    "The antineoplastic herb, Catharanthus roseus is a classified high-value low-volume medicinal herb which is in global attention of scientific research for modulation of its monoterpenoid indole alkaloids (MIA) pathway through genetic engineering. These secondary metabolites are generally stored in specific types of structures/compartments due to their cytotoxic nature and designated roles in plant defense response. However, their presence can hinder the genetic engineering process used to develop transgenic plants through de novo morphogenesis and regeneration of plants from cultured cells/tissues and hence, it always remained a critical impediment in transgenic research in C. roseus. The pre-plasmolysis treatment of leaf explants can help to tackle the recalcitrant nature of leaf explant and can support the direct regeneration response by ex-osmosis that minimizes the concentration of alkaloids. Therefore, this study was performed to chase the effect of osmotic conditions on recalcitrant leaves of C. roseus engaged in vitro plant regeneration and hypothesis of alkaloids ex-osmosis is confirmed by HPLC analysis."
+  ],
+  "affiliation": [
+    "C. G. Bhakta Institute of Biotechnology, Uka Tarsadia University, Gopal-Vidyanagar, Maliba Campus, Surat, 394350, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "IF120009"
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RPS research grant no. UTU/RPS/1431-5/2019"
+          ],
+          "agency": [
+            "Uka Tarsadia University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SRG/2019/000130"
+          ],
+          "agency": [
+            "Science and Engineering Research Board"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s43141-021-00170-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-07"
+  ],
+  "firstIndexDate": [
+    "2021-05-08"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-05-07"
+  ]
+}

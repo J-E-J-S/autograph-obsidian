@@ -1,0 +1,246 @@
+{
+  "id": [
+    "33879392"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33879392"
+  ],
+  "doi": [
+    "10.1016/j.copbio.2021.04.002"
+  ],
+  "title": [
+    "Editorial overview: Phage therapy in the 21st century - inspired by biotechnology!"
+  ],
+  "authorString": [
+    "Lavigne R, Loessner MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lavigne R"
+          ],
+          "firstName": [
+            "Rob"
+          ],
+          "lastName": [
+            "Lavigne"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Gene Technology, Department of Biosystems, KU Leuven, Belgium. Electronic address: rob.lavigne@kuleuven.be."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Loessner MJ"
+          ],
+          "firstName": [
+            "Martin J"
+          ],
+          "lastName": [
+            "Loessner"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "ETH Zurich, Switzerland. Electronic address: martin.loessner@ethz.ch."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3154439"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current opinion in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Curr Opin Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Curr Opin Biotechnol"
+          ],
+          "NLMid": [
+            "9100492"
+          ],
+          "ISSN": [
+            "0958-1669"
+          ],
+          "ESSN": [
+            "1879-0429"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "affiliation": [
+    "Laboratory of Gene Technology, Department of Biosystems, KU Leuven, Belgium. Electronic address: rob.lavigne@kuleuven.be."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.copbio.2021.04.002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-21"
+  ],
+  "firstIndexDate": [
+    "2021-04-22"
+  ],
+  "dateOfRevision": [
+    "2021-04-21"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-17"
+  ],
+  "firstPublicationDate": [
+    "2021-04-17"
+  ]
+}

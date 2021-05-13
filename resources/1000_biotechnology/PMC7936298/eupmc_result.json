@@ -1,0 +1,278 @@
+{
+  "id": [
+    "33675170"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33675170"
+  ],
+  "pmcid": [
+    "PMC7936298"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7936298"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1111/1751-7915.13787"
+  ],
+  "title": [
+    "Immobilized microbial cell biocatalysts: An annotated selection of World Wide Web sites relevant to the topics in microbial biotechnology."
+  ],
+  "authorString": [
+    "Wackett LP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wackett LP"
+          ],
+          "firstName": [
+            "Lawrence P"
+          ],
+          "lastName": [
+            "Wackett"
+          ],
+          "initials": [
+            "LP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Molecular Biology & Biophysics, BioTechnology Institute, University of Minnesota, St. Paul, MN, 55108, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "3126161"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Microb Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Microb Biotechnol"
+          ],
+          "NLMid": [
+            "101316335"
+          ],
+          "ISSN": [
+            "1751-7915"
+          ],
+          "ESSN": [
+            "1751-7915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "752-753"
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Molecular Biology & Biophysics, BioTechnology Institute, University of Minnesota, St. Paul, MN, 55108, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1751-7915.13787"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7936298"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7936298?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-06"
+  ],
+  "firstIndexDate": [
+    "2021-03-07"
+  ],
+  "fullTextReceivedDate": [
+    "2021-03-18"
+  ],
+  "dateOfRevision": [
+    "2021-04-07"
+  ],
+  "firstPublicationDate": [
+    "2021-03-01"
+  ]
+}

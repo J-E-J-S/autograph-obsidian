@@ -1,0 +1,479 @@
+{
+  "id": [
+    "33945844"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33945844"
+  ],
+  "doi": [
+    "10.1016/j.ymben.2021.04.013"
+  ],
+  "title": [
+    "Animal-free heme production for artificial meat in Corynebacterium glutamicum via systems metabolic and membrane engineering."
+  ],
+  "authorString": [
+    "Ko YJ, Kim M, You SK, Shin SK, Chang J, Choi HJ, Jeong WY, Lee ME, Hwang DH, Han SO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ko YJ"
+          ],
+          "firstName": [
+            "Young Jin"
+          ],
+          "lastName": [
+            "Ko"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Minhye"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "You SK"
+          ],
+          "firstName": [
+            "Seung Kyou"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shin SK"
+          ],
+          "firstName": [
+            "Sang Kyu"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chang J"
+          ],
+          "firstName": [
+            "Joonhee"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi HJ"
+          ],
+          "firstName": [
+            "Hae Jin"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong WY"
+          ],
+          "firstName": [
+            "Wu-Young"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee ME"
+          ],
+          "firstName": [
+            "Myeong-Eun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hwang DH"
+          ],
+          "firstName": [
+            "Dong-Hyeok"
+          ],
+          "lastName": [
+            "Hwang"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea. Electronic address: rmselq12@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han SO"
+          ],
+          "firstName": [
+            "Sung Ok"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "SO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2400-2882",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea. Electronic address: samhan@korea.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2400-2882",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "66"
+      ],
+      "journalIssueId": [
+        "3167530"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Metabolic engineering"
+          ],
+          "ISOAbbreviation": [
+            "Metab Eng"
+          ],
+          "medlineAbbreviation": [
+            "Metab Eng"
+          ],
+          "NLMid": [
+            "9815657"
+          ],
+          "ISSN": [
+            "1096-7176"
+          ],
+          "ESSN": [
+            "1096-7184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "217-228"
+  ],
+  "abstractText": [
+    "Recently, heme has attracted much attention as a main ingredient that mimics meat flavor in artificial meat in the food industry. Here, we developed Corynebacterium glutamicum capable of high-yield production of heme with systems metabolic engineering and modification of membrane surface. The combination of two precursor pathways based on thermodynamic information increased carbon flux toward heme and porphyrin intermediate biosynthesis. The co-overexpression of genes involved in a noncanonical downstream pathway and the gene encoding the transcriptional regulator DtxR significantly enhanced heme production. The overexpression of the putative heme exporters, knockout of heme-binding proteins, modification of the cell wall by chemical treatment, and reduction of intermediate UP III substantially improved heme secretion. The fed-batch fermentation showed a maximum heme titer of 309.18 ± 16.43 mg l<sup>-1</sup>, including secreted heme of 242.95 ± 11.45 mg l<sup>-1</sup>, a yield on glucose of 0.61 mmol mol<sup>-1</sup>, and productivity of 6.44 mg l<sup>-1</sup>h<sup>-1</sup>, which are the highest values reported to date. These results demonstrate that engineered C. glutamicum can be an attractive cell factory for animal-free heme production."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Corynebacterium glutamicum",
+        "Heme",
+        "Systems Metabolic Engineering",
+        "Membrane Engineering",
+        "Noncanonical Heme Biosynthesis Pathway"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ymben.2021.04.013"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-04"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-01"
+  ],
+  "firstPublicationDate": [
+    "2021-05-01"
+  ]
+}

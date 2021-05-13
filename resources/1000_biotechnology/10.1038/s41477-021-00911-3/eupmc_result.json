@@ -1,0 +1,463 @@
+{
+  "id": [
+    "33837366"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33837366"
+  ],
+  "doi": [
+    "10.1038/s41477-021-00911-3"
+  ],
+  "title": [
+    "Publisher Correction: Photocatalysis as the 'master switch' of photomorphogenesis in early plant development."
+  ],
+  "authorString": [
+    "Heyes DJ, Zhang S, Taylor A, Johannissen LO, Hardman SJO, Hay S, Scrutton NS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Heyes DJ"
+          ],
+          "firstName": [
+            "Derren J"
+          ],
+          "lastName": [
+            "Heyes"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7453-1571",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK. derren.heyes@manchester.ac.uk."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Shaowei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor A"
+          ],
+          "firstName": [
+            "Aoife"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Johannissen LO"
+          ],
+          "firstName": [
+            "Linus O"
+          ],
+          "lastName": [
+            "Johannissen"
+          ],
+          "initials": [
+            "LO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hardman SJO"
+          ],
+          "firstName": [
+            "Samantha J O"
+          ],
+          "lastName": [
+            "Hardman"
+          ],
+          "initials": [
+            "SJO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8310-4758",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hay S"
+          ],
+          "firstName": [
+            "Sam"
+          ],
+          "lastName": [
+            "Hay"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scrutton NS"
+          ],
+          "firstName": [
+            "Nigel S"
+          ],
+          "lastName": [
+            "Scrutton"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4182-3500",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK. nigel.scrutton@manchester.ac.uk."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4182-3500",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7453-1571",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8310-4758",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146941"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature plants"
+          ],
+          "ISOAbbreviation": [
+            "Nat Plants"
+          ],
+          "medlineAbbreviation": [
+            "Nat Plants"
+          ],
+          "NLMid": [
+            "101651677"
+          ],
+          "ISSN": [
+            "2055-0278"
+          ],
+          "ESSN": [
+            "2055-0278"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "affiliation": [
+    "Manchester Institute of Biotechnology, Department of Chemistry, School of Natural Sciences, The University of Manchester, Manchester, UK. derren.heyes@manchester.ac.uk."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "EP/S030336/1"
+          ],
+          "agency": [
+            "RCUK | Engineering and Physical Sciences Research Council (EPSRC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Studentship"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41477-021-00911-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "33686224"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Plants. 2021 Mar;7(3):268-276"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-10"
+  ],
+  "firstIndexDate": [
+    "2021-04-11"
+  ],
+  "dateOfRevision": [
+    "2021-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-09"
+  ],
+  "firstPublicationDate": [
+    "2021-04-09"
+  ]
+}

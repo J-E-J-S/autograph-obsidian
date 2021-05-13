@@ -1,0 +1,341 @@
+{
+  "id": [
+    "33345705"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33345705"
+  ],
+  "doi": [
+    "10.1080/21655979.2020.1862995"
+  ],
+  "title": [
+    "Glyphosate escalates horizontal transfer of conjugative plasmid harboring antibiotic resistance genes."
+  ],
+  "authorString": [
+    "Zhang H, Liu J, Wang L, Zhai Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hongna"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Bioscience and Engineering, Hebei University of Economics and Business , Shijiazhuang City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jingbo"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Animal Science and Veterinary Medicine, Shandong Agricultural University , Tai'an City, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control and Prevention, Shandong Agricultural University , Tai'an City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology, The Second Children & Women's Healthcare Center of Jinan City , Jinan City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhai Z"
+          ],
+          "firstName": [
+            "Zhenzhen"
+          ],
+          "lastName": [
+            "Zhai"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5503-4767",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology, Tai'an City Central Hospital , Tai'an City, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5503-4767",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "63-69"
+  ],
+  "abstractText": [
+    "Glyphosate has been frequently detected in water environments because of the wide use for controlling weed in farm lands and urban areas. Presently, the focus of the majority of studies is placed on the toxicity of glyphosate on humans and animals. However, the effects of glyphosate on horizontal transfer of conjugative plasmid carrying antibiotic resistance gene (ARG) are largely unknown. Here, we explored the ability and potential mechanism of glyphosate for accelerating horizontal transfer of conjugative plasmid-mediated ARG. The results showed that glyphosate can effectively boost horizontal transfer rate of conjugative plasmid carrying ARG. The possible mechanism analysis demonstrated that over-production of reactive oxygen species and reactive nitrogen species effectively regulated expression levels of bacterial outer membrane protein and conjugative transfer-related genes, thereby resulting into elevated horizontal transfer rate of plasmid-mediated ARG. In conclusion, this study casts new understanding into the biological effects of glyphosate on ARG."
+  ],
+  "affiliation": [
+    "College of Bioscience and Engineering, Hebei University of Economics and Business , Shijiazhuang City, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Reactive oxygen species",
+        "Glyphosate",
+        "Antibiotic resistance gene",
+        "Horizontal Transfer",
+        "Reactive Nitrogen Species"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2020.1862995"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-12-21"
+  ],
+  "firstIndexDate": [
+    "2020-12-24"
+  ],
+  "dateOfRevision": [
+    "2020-12-21"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "id": [
+    "33722677"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33722677"
+  ],
+  "doi": [
+    "10.1016/j.mcn.2021.103612"
+  ],
+  "title": [
+    "Inhibitory mechanism of an antifungal drug, caspofungin against amyloid β peptide aggregation: Repurposing via neuroinformatics and an experimental approach."
+  ],
+  "authorString": [
+    "Kumari A, Shrivastava N, Mishra M, Somvanshi P, Grover A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari A"
+          ],
+          "firstName": [
+            "Anchala"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Teri School of Advanced Studies, New Delhi 110070, India; School of Biotechnology, Jawaharlal Nehru University, New Delhi 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shrivastava N"
+          ],
+          "firstName": [
+            "Nidhi"
+          ],
+          "lastName": [
+            "Shrivastava"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mishra M"
+          ],
+          "firstName": [
+            "Mohit"
+          ],
+          "lastName": [
+            "Mishra"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Somvanshi P"
+          ],
+          "firstName": [
+            "Pallavi"
+          ],
+          "lastName": [
+            "Somvanshi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Teri School of Advanced Studies, New Delhi 110070, India. Electronic address: psomvanshi@mail.jnu.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grover A"
+          ],
+          "firstName": [
+            "Abhinav"
+          ],
+          "lastName": [
+            "Grover"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi 110067, India. Electronic address: agrover@jnu.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "112"
+      ],
+      "journalIssueId": [
+        "3152555"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular and cellular neurosciences"
+          ],
+          "ISOAbbreviation": [
+            "Mol Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Mol Cell Neurosci"
+          ],
+          "NLMid": [
+            "9100095"
+          ],
+          "ISSN": [
+            "1044-7431"
+          ],
+          "ESSN": [
+            "1095-9327"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "103612"
+  ],
+  "abstractText": [
+    "The multifactorial neurological condition called Alzheimer's disease (AD) primarily affects elderly individuals. Despite the calamitous consequences of AD, curative strategies for a regimen to apply remain inadequate as several factors contribute to AD etiology. Drug repurposing is an advance strategy prior to drug discovery as various effective drugs perform through alteration of multiple targets, and the present \"poly-pharmacology\" can be a curative approach to complex disorders. AD's multifactorial behavior actively encourages the hypothesis for a drug design approach focused on drug repurposing. In this study, we discovered that an antifungal drug, Caspofungin (CAS) is a potent Aβ aggregation inhibitor that displays significantly reduced toxicity associated with AD. Drug reprofiling and REMD simulations demonstrated that CAS interacts with the β-sheet section, known as Aβ amyloid fibrils hotspot. CAS leads to destabilization of β-sheet and, conclusively, in its devaluation. Later, in vitro experiments were acquired in which the fibrillar volume was reduced for CAS-treated Aβ peptide. For the first time ever, this study has determined an antifungal agent as the Aβ amyloid aggregation's potent inhibitor. Several efficient sequence-reliant potent inhibitors can be developed in future against the amyloid aggregation for different amyloid peptide by the processing and conformational optimization of CAS."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Teri School of Advanced Studies, New Delhi 110070, India; School of Biotechnology, Jawaharlal Nehru University, New Delhi 110067, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease",
+        "Transmission electron microscope",
+        "Caspofungin",
+        "Aβ",
+        "Replica Exchange Molecular Dynamics",
+        "Tht Fluorescence",
+        "Drug Reprofiling"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.mcn.2021.103612"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-16"
+  ],
+  "firstIndexDate": [
+    "2021-03-17"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-12"
+  ],
+  "firstPublicationDate": [
+    "2021-03-12"
+  ]
+}

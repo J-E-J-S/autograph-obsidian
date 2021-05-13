@@ -1,0 +1,424 @@
+{
+  "id": [
+    "33751168"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33751168"
+  ],
+  "doi": [
+    "10.1007/s00299-021-02683-8"
+  ],
+  "title": [
+    "Phytohormone signaling and crosstalk in regulating drought stress response in plants."
+  ],
+  "authorString": [
+    "Salvi P, Manna M, Kaur H, Thakur T, Gandass N, Bhatt D, Muthamilarasan M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Salvi P"
+          ],
+          "firstName": [
+            "Prafull"
+          ],
+          "lastName": [
+            "Salvi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7834-8803",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DST-INSPIRE Faculty, Agriculture Biotechnology Department, National Agri-Food Biotechnology Institute, Sector 81, Sahibzada Ajit Singh Nagar, Mohali, 140308, Punjab, India. salvi.prafull@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Manna M"
+          ],
+          "firstName": [
+            "Mrinalini"
+          ],
+          "lastName": [
+            "Manna"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute of Plant Genome Research, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaur H"
+          ],
+          "firstName": [
+            "Harmeet"
+          ],
+          "lastName": [
+            "Kaur"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "ICAR-National Institute for Plant Biotechnology, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thakur T"
+          ],
+          "firstName": [
+            "Tanika"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DST-INSPIRE Faculty, Agriculture Biotechnology Department, National Agri-Food Biotechnology Institute, Sector 81, Sahibzada Ajit Singh Nagar, Mohali, 140308, Punjab, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gandass N"
+          ],
+          "firstName": [
+            "Nishu"
+          ],
+          "lastName": [
+            "Gandass"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DST-INSPIRE Faculty, Agriculture Biotechnology Department, National Agri-Food Biotechnology Institute, Sector 81, Sahibzada Ajit Singh Nagar, Mohali, 140308, Punjab, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhatt D"
+          ],
+          "firstName": [
+            "Deepesh"
+          ],
+          "lastName": [
+            "Bhatt"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Shree Ramkrishna Institute of Computer Education and Applied Sciences, Veer Narmad South Gujarat University, Surat, Gujarat, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Muthamilarasan M"
+          ],
+          "firstName": [
+            "Mehanathan"
+          ],
+          "lastName": [
+            "Muthamilarasan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad, Telangana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7834-8803",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3122579"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant cell reports"
+          ],
+          "ISOAbbreviation": [
+            "Plant Cell Rep"
+          ],
+          "medlineAbbreviation": [
+            "Plant Cell Rep"
+          ],
+          "NLMid": [
+            "9880970"
+          ],
+          "ISSN": [
+            "0721-7714"
+          ],
+          "ESSN": [
+            "1432-203X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Phytohormones are ubiquitously involved in plant biological processes and regulate cellular signaling pertaining to unheralded environmental cues, such as salinity, drought, extreme temperature and nutrient deprivation. The association of phytohormones to nearly all the fundamental biological processes epitomizes the phytohormone syndicate as a candidate target for consideration during engineering stress endurance in agronomically important crops. The drought stress response is essentially driven by phytohormones and their intricate network of crosstalk, which leads to transcriptional reprogramming. This review is focused on the pivotal role of phytohormones in water deficit responses, including their manipulation for mitigating the effect of the stressor. We have also discussed the inherent complexity of existing crosstalk accrued among them during the progression of drought stress, which instigates the tolerance response. Therefore, in this review, we have highlighted the role and regulatory aspects of various phytohormones, namely abscisic acid, auxin, gibberellic acid, cytokinin, brassinosteroid, jasmonic acid, salicylic acid, ethylene and strigolactone, with emphasis on drought stress tolerance."
+  ],
+  "affiliation": [
+    "DST-INSPIRE Faculty, Agriculture Biotechnology Department, National Agri-Food Biotechnology Institute, Sector 81, Sahibzada Ajit Singh Nagar, Mohali, 140308, Punjab, India. salvi.prafull@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DST/INSPIRE/04/2018/003425"
+          ],
+          "agency": [
+            "Department of Science and Technology (DST) Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcriptional regulation",
+        "Abiotic stress",
+        "phytohormones",
+        "Gene Expression",
+        "Cell signaling",
+        "crosstalk"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00299-021-02683-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-22"
+  ],
+  "firstIndexDate": [
+    "2021-03-23"
+  ],
+  "dateOfRevision": [
+    "2021-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-22"
+  ],
+  "firstPublicationDate": [
+    "2021-03-22"
+  ]
+}

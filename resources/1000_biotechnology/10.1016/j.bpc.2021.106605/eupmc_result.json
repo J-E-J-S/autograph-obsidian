@@ -1,0 +1,284 @@
+{
+  "id": [
+    "33964508"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33964508"
+  ],
+  "doi": [
+    "10.1016/j.bpc.2021.106605"
+  ],
+  "title": [
+    "Chemical stabilization of γ-polyglutamate by chitosan and the effect of co-solvents on the stability."
+  ],
+  "authorString": [
+    "Motiei M, Mirahmadi-Zare SZ, Nasr-Esfahani MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Motiei M"
+          ],
+          "firstName": [
+            "Marjan"
+          ],
+          "lastName": [
+            "Motiei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, 8159358686 Isfahan, Iran; Centre of Polymer Systems, Tomas Bata University in Zlín, Třída Tomáše Bati 5678, 76001 Zlín, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mirahmadi-Zare SZ"
+          ],
+          "firstName": [
+            "Seyede Zohreh"
+          ],
+          "lastName": [
+            "Mirahmadi-Zare"
+          ],
+          "initials": [
+            "SZ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, 8159358686 Isfahan, Iran. Electronic address: mirahmadi_zare@royaninstitute.org."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nasr-Esfahani MH"
+          ],
+          "firstName": [
+            "Mohammad Hossein"
+          ],
+          "lastName": [
+            "Nasr-Esfahani"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, 8159358686 Isfahan, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "275"
+      ],
+      "journalIssueId": [
+        "3163925"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biophysical chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biophys Chem"
+          ],
+          "medlineAbbreviation": [
+            "Biophys Chem"
+          ],
+          "NLMid": [
+            "0403171"
+          ],
+          "ISSN": [
+            "0301-4622"
+          ],
+          "ESSN": [
+            "1873-4200"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "106605"
+  ],
+  "abstractText": [
+    "In protein-based formulations, conformational distortions and attractive interactions may cause insoluble and undesired aggregates. In the case of ionic peptides, including cationic or anionic, commonly electrostatic interactions are the main factors that control structure assembling. In this study, it was proposed that grafting of chitosan (CS) to γ-polyglutamic acid (γ-PGA) might exhibit much strong inhibiting effect on the formation of protein aggregates due to multiple amino groups and hydrophilic properties. To guarantee stable and safe biopharmaceutical formulation, the potency of a variety of stabilizers including sugars (glucose, sucrose), polyols (sorbitol, glycerol), surfactant (Tween 20), salting-out salt (PBS), and also different pH values have been evaluated on stabilizing or destabilizing the native state of CS-g-PGA copolymer using FTIR, CD, DLS, and SDS-PAGE. The comparable analysis revealed that the stability of CS-g-PGA was strongly dependent on pH owing to the polyelectrolyte characteristics of the polymers. Altogether these results implied that CS at optimized conditions might be an important precursor for the pharmaceutical industry and function as a new polymer for aggregation suppression and protein stabilization."
+  ],
+  "affiliation": [
+    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, 8159358686 Isfahan, Iran; Centre of Polymer Systems, Tomas Bata University in Zlín, Třída Tomáše Bati 5678, 76001 Zlín, Czech Republic."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein folding",
+        "Chitosan",
+        "Γ-polyglutamic Acid",
+        "Ph Depending Structure",
+        "Chemical Stabilization"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bpc.2021.106605"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-08"
+  ],
+  "firstIndexDate": [
+    "2021-05-09"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

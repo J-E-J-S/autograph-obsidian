@@ -1,0 +1,262 @@
+{
+  "id": [
+    "33733973"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33733973"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1899193"
+  ],
+  "title": [
+    "Facile green synthesis of silver nanoparticles using <i>Mangifera indica</i> seed aqueous extract and its antimicrobial, antioxidant and cytotoxic potential (3-in-1 system)."
+  ],
+  "authorString": [
+    "Donga S, Chanda S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Donga S"
+          ],
+          "firstName": [
+            "Savan"
+          ],
+          "lastName": [
+            "Donga"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biosciences (UGC-CAS), Saurashtra University, Rajkot, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chanda S"
+          ],
+          "firstName": [
+            "Sumitra"
+          ],
+          "lastName": [
+            "Chanda"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biosciences (UGC-CAS), Saurashtra University, Rajkot, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "292-302"
+  ],
+  "abstractText": [
+    "A novel approach for the utilisation of fruit waste is attempted in the present investigation. <i>Mangifera indica</i> seed aqueous extract was utilised for green synthesis of silver nanoparticles (AgNPs). The phytoconstituents in the seed acted as reducing and stabilising agent for AgNP formation. UV-Vis, Zeta potential, FT-IR, XRD, TEM, SAED, EDX analysis were used to characterise the green synthesised AgNPs. UV-vis spectra showed characteristic spectra at 450 nm; XRD and SAED confirmed the crystalline nature while TEM revealed the shape to be round and average size was 26.85 nm. FT-IR revealed functional groups like alcohol or phenols, carboxylic acids, ketones, amines, aromatic amines, aliphatic amines, alkyl halides and alkynes which were responsible for AgNP formation. The nanoparticles showed more antibacterial activity than antifungal activity and antibacterial activity towards Gram-negative bacteria was more than Gram-positive bacteria. Dose dependent antioxidant activity (DPPH, SO and ABTS) and dose dependent cytotoxic effect against HeLa, MCF-7 and normal fibroblast cell lines was envisaged. The green synthesised AgNPs exhibited three different bioactivities (3-in-1 system) i.e. dose dependent antimicrobial, antioxidant and cytotoxic activity. Fruit waste can be successfully utilised for silver nanoparticles formation which can be therapeutically useful and effective.[Figure: see text]HighlightsSilver nanoparticles were synthesised from <i>M. indica</i> fruit waste i.e. seedCharacterisation by spectroscopic techniques: UV-Vis, Zeta, FTIR, XRD, SAED, EDX and TEM analysis.Silver nanoparticles were 26.85 nm in size and round in shapeAntimicrobial activity against 14 microorganismsAntioxidant activity in terms of DPPH, SO and ABTSCytotoxic activity against HeLa, MCF-7 and Fibroblast normal cell lines."
+  ],
+  "affiliation": [
+    "Department of Biosciences (UGC-CAS), Saurashtra University, Rajkot, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mangifera indica",
+        "Antioxidant",
+        "Seed",
+        "Antimicrobial",
+        "Cytotoxic",
+        "Silver Nanoparticles",
+        "Green Synthesis",
+        "Fruit Waste"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1899193"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-18"
+  ],
+  "firstIndexDate": [
+    "2021-03-19"
+  ],
+  "dateOfRevision": [
+    "2021-03-19"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

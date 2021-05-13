@@ -1,0 +1,443 @@
+{
+  "id": [
+    "33797855"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33797855"
+  ],
+  "doi": [
+    "10.1002/jbt.22781"
+  ],
+  "title": [
+    "Genetic interaction between glyoxylate pathway regulator UCC1 and La-motif-encoding SRO9 regulates stress response and growth rate improvement in Saccharomyces cerevisiae."
+  ],
+  "authorString": [
+    "Pandita M, Shoket H, Rakewal A, Wazir S, Kumar P, Kumar R, Bairwa NK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pandita M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Pandita"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shoket H"
+          ],
+          "firstName": [
+            "Heena"
+          ],
+          "lastName": [
+            "Shoket"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rakewal A"
+          ],
+          "firstName": [
+            "Aayushi"
+          ],
+          "lastName": [
+            "Rakewal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wazir S"
+          ],
+          "firstName": [
+            "Shreya"
+          ],
+          "lastName": [
+            "Wazir"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar P"
+          ],
+          "firstName": [
+            "Prabhat"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar R"
+          ],
+          "firstName": [
+            "Rakesh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0741-3663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Genetics Research Group, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bairwa NK"
+          ],
+          "firstName": [
+            "Narendra K"
+          ],
+          "lastName": [
+            "Bairwa"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3097-0617",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0741-3663",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3097-0617",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143363"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biochemical and molecular toxicology"
+          ],
+          "ISOAbbreviation": [
+            "J Biochem Mol Toxicol"
+          ],
+          "medlineAbbreviation": [
+            "J Biochem Mol Toxicol"
+          ],
+          "NLMid": [
+            "9717231"
+          ],
+          "ISSN": [
+            "1095-6670"
+          ],
+          "ESSN": [
+            "1099-0461"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e22781"
+  ],
+  "abstractText": [
+    "Nonavailability of glucose as a carbon source results in glyoxylate pathway activation, which metabolizes nonfermentable carbon for energy generation in Saccharomyces cerevisiae. Ucc1p of S. cerevisiae inhibits activation of the glyoxylate pathway by targeting Cit2p, a key glyoxylate enzyme for ubiquitin-mediated proteasomal degradation when glucose is available as a carbon source. Sro9p, a La-motif protein involved in RNA biogenesis, interacts physically with the messenger RNA of UCC1; however, its functional relevance is yet to be discovered. This study presents binary epistatic interaction between UCC1 and SRO9, with functional implication on the growth rate, response to genotoxic stress, resistance to apoptosis, and petite mutation. Cells with ucc1Δsro9Δ, as their genetic background, exhibit alteration in morphology, improvement in growth rate, resistance to apoptosis, and petite mutation. Moreover, the study indicates a cross-link between ubiquitin-proteasome system and RNA biogenesis and metabolism, with applications in industrial fermentation and screening for cancer therapeutics."
+  ],
+  "affiliation": [
+    "Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/RLF/Re-entry/40/2012"
+          ],
+          "agency": [
+            "Department of Biotechnology and SERB, Ministry of Science and Technology, GOI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "EEQ/2017/0000087"
+          ],
+          "agency": [
+            "Department of Biotechnology and SERB, Ministry of Science and Technology, GOI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Stress",
+        "F-box motif",
+        "E3 Ligase",
+        "Petite Mutation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jbt.22781"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-02"
+  ],
+  "firstPublicationDate": [
+    "2021-04-02"
+  ]
+}

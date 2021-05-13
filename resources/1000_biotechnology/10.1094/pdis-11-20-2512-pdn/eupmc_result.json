@@ -1,0 +1,457 @@
+{
+  "id": [
+    "33908792"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33908792"
+  ],
+  "doi": [
+    "10.1094/pdis-11-20-2512-pdn"
+  ],
+  "title": [
+    "Gynura japonica: A new host of Apple stem grooving virus and Chrysanthemum virus B in China."
+  ],
+  "authorString": [
+    "Lai Y, Wu X, Lv L, Weng J, Han K, Chen Z, Chen J, Yan F, Zheng H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lai Y"
+          ],
+          "firstName": [
+            "Yuchao"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, No. 818 Fenghua Road, Jiangbei District, Ningbo City, Zhejiang Province, Ningbo, China, 315211; laiyuchao1995@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xinyang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Zhejiang University College of Agriculture and Biotechnology, 162679, Hangzhou, China; xy_wu@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv L"
+          ],
+          "firstName": [
+            "Lanqing"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; 1197001742@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weng J"
+          ],
+          "firstName": [
+            "Jiajia"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; 2238087771@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han K"
+          ],
+          "firstName": [
+            "Kelei"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; hankeleihz@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Ziqiang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Fujian Agriculture and Forestry University, 12449, College of Life Science, Fuzhou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; czq@fjage.org."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jianping"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Zhejiang University, 12377, College of Agriculture and Biotechnology, Hangzhou, Zhejiang, China; Jpchen2001@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; yanfei@nbu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hongying"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, Ningbo, Zhejiang, China; zhenghongyinghz@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143091"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant disease"
+          ],
+          "ISOAbbreviation": [
+            "Plant Dis"
+          ],
+          "medlineAbbreviation": [
+            "Plant Dis"
+          ],
+          "NLMid": [
+            "9882809"
+          ],
+          "ISSN": [
+            "0191-2917"
+          ],
+          "ESSN": [
+            "1943-7692"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Gynura japonica (Thunb.) Juel [Asteraceae; syn: G. segetum (Lour.) Merr] is an important perennial medicinal herb used in China for topical treatment of trauma injuries (Lin et al. 2003). It grows naturally in the southern provinces of China and is also sometimes cultivated. During 2018-2020, wild G. japonica plants exhibiting chlorotic spots and mosaic symptoms were observed in Zhejiang province, China. To identify the possible causal agents of the disease, a single symptomatic leaf sample was collected in August 2019 and sent to Zhejiang Academy of Agricultural Sciences (Hangzhou, China) for next generation sequencing (NGS). Total RNAs extracted with TRIzol (Invitrogen, Carlsbad, USA) were subjected to high throughput sequencing on the Illumina NovaSeq 6000 platform with PE150bp and data analysis was performed by CLC Genomic Workbench 11 with default parameters (QIAGEN, Hilden, Germany). A total of 37,314,080 paired-end reads were obtained, and 11,785 contigs (961 to 10,964 bp) were generated and compared with sequences in GenBank using BLASTn or BLASTx. Of the total of 12 viral-related contigs obtained, one with a length of 6,442 nt mapped to the genomic RNA of ASGV (MN495979), seven contigs with lengths ranging from 1,034 to 2,901 nt mapped to Chrysanthemum virus B (CVB), and four mapped to broad bean wilt virus 2 (BBWV2), a virus which is known to infect G. procumbens (Kwak et al. 2017). To further confirm the presence of ASGV and CVB, primers were designed and the complete nucleotide sequences of both viruses were amplified from the original NGS sample using reverse transcription polymerase chain reaction (RT-PCR) and rapid amplification of cDNA ends (RACE) according to the manufacturer's instructions (Tiosbio, Beijing, China). BLASTn analysis revealed that the complete 6,451 nt sequence of ASGV (GenBank accession No. MW259059) shared the highest identity (81.2%) with a Chinese isolate of ASGV from citrus (MN495979). The two isolates grouped with another Chinese isolate (from pear) in phylogenetic analysis. The predicted coat protein of the virus had the highest nt identity of 93.7% (96.2% amino acid sequence identity) with that of the Chinese ASGV isolate XY from apple (KX686100). The complete genomes of two distinct molecular variants of CVB (both 8,987 nt in length) were also obtained from this sample (GenBank accession Nos. MW269552, MW269553). They shared 86.8% nt identity with each other and had 81.1% and 82.1% identity to the only known complete sequence of CVB from chrysanthemum (AB245142). Ten additional wild G. japonica plants with mosaic symptoms were collected randomly during 2019-2020 from Hangzhou (n=6) and Ningbo (n=4) in Zhejiang province and tested by RT-PCR with specific primer pairs to detect BBWV2, ASGV and CVB. RT-PCR and subsequent sequencing revealed that these three viruses were present in all the samples tested, indicating that co-infection of G. japonica by ASGV, CVB and BBWV2 is common. CVB mainly infects chrysanthemum (Singh et al. 2012), while ASGV is known as a pathogen of various fruit trees especially in the family Rosaceae, although there are recent reports that it can also infect some plants in Gramineae, Asparagaceae and Nelumbonaceae (Bhardwaj et al. 2017; Chen et al. 2019; He et al. 2019). Our results provide the first report that Gynura is a natural host of CVB and ASGV. Further surveys and biological studies are underway to evaluate the importance of Gynura as a virus reservoir for epidemics among the various hosts."
+  ],
+  "affiliation": [
+    "Ningbo University, 47862, State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology, No. 818 Fenghua Road, Jiangbei District, Ningbo City, Zhejiang Province, Ningbo, China, 315211; laiyuchao1995@163.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apple stem grooving virus",
+        "Broad bean wilt virus 2",
+        "Chrysanthemum Virus B",
+        "Gynura Japonica"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1094/PDIS-11-20-2512-PDN"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2021-04-28"
+  ],
+  "firstIndexDate": [
+    "2021-04-29"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

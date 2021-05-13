@@ -1,0 +1,454 @@
+{
+  "id": [
+    "33826847"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33826847"
+  ],
+  "doi": [
+    "10.1021/acs.jnatprod.1c00121"
+  ],
+  "title": [
+    "Total Synthesis of the Neuroprotective Agent Cudraisoflavone J."
+  ],
+  "authorString": [
+    "Lu Q, Harmalkar DS, Quan G, Kwon H, Cho J, Choi Y, Lee D, Lee K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lu Q"
+          ],
+          "firstName": [
+            "Qili"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harmalkar DS"
+          ],
+          "firstName": [
+            "Dipesh S"
+          ],
+          "lastName": [
+            "Harmalkar"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0201-2916",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Quan G"
+          ],
+          "firstName": [
+            "Guofeng"
+          ],
+          "lastName": [
+            "Quan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon H"
+          ],
+          "firstName": [
+            "Haeun"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cho J"
+          ],
+          "firstName": [
+            "Jungsook"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi Y"
+          ],
+          "firstName": [
+            "Yongseok"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee D"
+          ],
+          "firstName": [
+            "Dongho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4379-814X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee K"
+          ],
+          "firstName": [
+            "Kyeong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5455-9956",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0201-2916",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5455-9956",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4379-814X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "84"
+      ],
+      "journalIssueId": [
+        "3154958"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of natural products"
+          ],
+          "ISOAbbreviation": [
+            "J Nat Prod"
+          ],
+          "medlineAbbreviation": [
+            "J Nat Prod"
+          ],
+          "NLMid": [
+            "7906882"
+          ],
+          "ISSN": [
+            "0163-3864"
+          ],
+          "ESSN": [
+            "1520-6025"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1359-1365"
+  ],
+  "abstractText": [
+    "Cudraisoflavone J (<b>1</b>), isolated from <i>Cudrania tricuspidata</i>, is a potent neuroprotective compound with a chiral center. Herein, we report the first total synthesis of racemic cudraisoflavone J (<b>1</b>) using a Claisen rearrangement and a Suzuki coupling reaction as the key steps. Racemic secondary alcohol was kinetically resolved to give (+)- and (-)-cudraisoflavone J with up to 97 and 88% enantiomeric excess, respectively. The modified Mosher's method was used to elucidate the absolute configuration of naturally occurring cudraisoflavone J."
+  ],
+  "affiliation": [
+    "College of Pharmacy, Dongguk University-Seoul, Goyang 10326, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acs.jnatprod.1c00121"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-07"
+  ],
+  "firstIndexDate": [
+    "2021-04-08"
+  ],
+  "dateOfRevision": [
+    "2021-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-07"
+  ],
+  "firstPublicationDate": [
+    "2021-04-07"
+  ]
+}

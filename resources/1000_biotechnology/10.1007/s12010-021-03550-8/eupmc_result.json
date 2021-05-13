@@ -1,0 +1,403 @@
+{
+  "id": [
+    "33797025"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33797025"
+  ],
+  "doi": [
+    "10.1007/s12010-021-03550-8"
+  ],
+  "title": [
+    "In Situ Chemical Locking of Acetates During Xylo-Oligosaccharide Preparation by Lignocellulose Acidolysis."
+  ],
+  "authorString": [
+    "Guo J, Zhao J, Nawaz A, Haq IU, Chang W, Xu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guo J"
+          ],
+          "firstName": [
+            "Jianming"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Forestry Genetics & Biotechnology, Nanjing Forestry University, Ministry of Education, Nanjing, 210037, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, No. 159 Longpan Road, Nanjing, 210037, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals, Nanjing, 210037, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jianglin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Forestry Genetics & Biotechnology, Nanjing Forestry University, Ministry of Education, Nanjing, 210037, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, No. 159 Longpan Road, Nanjing, 210037, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals, Nanjing, 210037, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nawaz A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Nawaz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Industrial Biotechnology, GC University, Lahore, 54000, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haq IU"
+          ],
+          "firstName": [
+            "Ikram Ul"
+          ],
+          "lastName": [
+            "Haq"
+          ],
+          "initials": [
+            "IU"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Industrial Biotechnology, GC University, Lahore, 54000, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chang W"
+          ],
+          "firstName": [
+            "Wenhuan"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Feed Research Institute of Chinese Academy of Agricultural Sciences, Beijing, 100081, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8106-326X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Forestry Genetics & Biotechnology, Nanjing Forestry University, Ministry of Education, Nanjing, 210037, People's Republic of China. xuyong@njfu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, No. 159 Longpan Road, Nanjing, 210037, People's Republic of China. xuyong@njfu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals, Nanjing, 210037, People's Republic of China. xuyong@njfu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8106-326X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3144591"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied biochemistry and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Biochem Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Biochem Biotechnol"
+          ],
+          "NLMid": [
+            "8208561"
+          ],
+          "ISSN": [
+            "0273-2289"
+          ],
+          "ESSN": [
+            "1559-0291"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Xylo-oligosaccharides with high value could be obtained by acidolysis of lignocellulosic biomass with acetic acid, which was an urgent problem to solve for the separation of acetic acid from crude xylo-oligosaccharides solution. Four neutralizers, CaCO<sub>3</sub>, CaO, Na<sub>2</sub>CO<sub>3</sub>, and NaOH, were used for in situ chemically locking the acetic acid in the acidolyzed hydrolysate of corncob. The chemically locked hydrolysate was analyzed and compared using vacuum evaporation and spray drying. After CaCO<sub>3</sub>, CaO, Na<sub>2</sub>CO<sub>3</sub>, and NaOH treatment, the locking rates of acetic acid were 92.62%, 94.89%, 95.05%, and 95.58%, respectively, and 39.55 g, 41.13 g, 41.78 g, and 41.87 g of the compound of xylo-oligosaccharide and acetate were obtained. Sodium neutralizer had lesser effect on xylo-oligosaccharide content, and Na<sub>2</sub>CO<sub>3</sub> was the best chemical for locking acetic acid among these four neutralizers. This process provides a novel method for effectively utilizing acetic acid during the industrial production of xylo-oligosaccharides via acetic acid."
+  ],
+  "affiliation": [
+    "Key Laboratory of Forestry Genetics & Biotechnology, Nanjing Forestry University, Ministry of Education, Nanjing, 210037, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Xylo-oligosaccharides",
+        "Neutralizer",
+        "Lignocellulosic Biomass",
+        "Acetic Acid Acidolysis",
+        "Chemical Locking"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12010-021-03550-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-01"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

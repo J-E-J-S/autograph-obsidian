@@ -1,0 +1,435 @@
+{
+  "id": [
+    "33784224"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33784224"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1879104"
+  ],
+  "title": [
+    "PEG-interpenetrated genipin-crosslinked dual-sensitive hydrogel/nanostructured lipid carrier compound formulation for topical drug administration."
+  ],
+  "authorString": [
+    "Li Q, Gong S, Yao W, Yu Y, Liu C, Wang R, Pan H, Wei M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qijun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0635-9025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gong S"
+          ],
+          "firstName": [
+            "Shiqiang"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao W"
+          ],
+          "firstName": [
+            "Weifan"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Y"
+          ],
+          "firstName": [
+            "Yibin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rare Earth Resource Utilization, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Medical Diagnosis and Treatment Center, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Renjun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Pharmacy, Liaoning University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei M"
+          ],
+          "firstName": [
+            "Minjie"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0404-7098",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0635-9025",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "345-353"
+  ],
+  "abstractText": [
+    "PEG-interpenetrated dual-sensitive hydrogels that load nano lipid carrier (NLC) were researched and developed for topical drug administration. Natural antioxidant α-lipoic acid (ALA) was selected as our model drug. The α-lipoic acid (ALA) nano lipid carrier was successfully prepared by hot melt emulsification and ultrasonic dispersion method, and the physicochemical properties of the nano lipid carrier were investigated, including morphology, particle distribution, polydispersity coefficient, zeta potential and encapsulation efficiency. Carboxymethyl chitosan and poloxamer 407 contributed to pH- and temperature-sensitive properties in the hydrogel, respectively. Natural non-toxic cross-linking agent genipin reacted with carboxymethyl chitosan to form the hydrogel. Poly ethylene glycol (PEG), a polymer compound with good water solubility and biocompatibility, interpenetrated the hydrogel and influenced the mechanical strength and drug release behaviour. FI-IR test verified the successful synthesis of the hydrogel. The rheological parameters indicated that the mechanical strength of the hydrogel was positively correlated with the amount of PEG, and the <i>in vitro</i> dissolution profiles demonstrated that the increasement of PEG could accelerate the drug release rate. The compatibility of the drug delivery system was verified with cells and mice model. Topical delivery of ALA in solution, NLC and NLC-gel was investigated in-vitro."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carboxymethyl chitosan",
+        "Topical Delivery",
+        "Genipin",
+        "Peg Interpenetrated",
+        "Dual-sensitivity Hydrogel"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1879104"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-30"
+  ],
+  "firstIndexDate": [
+    "2021-03-31"
+  ],
+  "dateOfRevision": [
+    "2021-04-01"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

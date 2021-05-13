@@ -1,0 +1,385 @@
+{
+  "id": [
+    "33872679"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33872679"
+  ],
+  "doi": [
+    "10.1016/j.taap.2021.115543"
+  ],
+  "title": [
+    "Nimodipine inhibits intestinal and aortic smooth muscle contraction by regulating Ca<sup>2+</sup>-activated Cl<sup>-</sup> channels."
+  ],
+  "authorString": [
+    "Wang H, Ma D, Zhu X, Liu P, Li S, Yu B, Yang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China; Laboratory medical college, Jilin Medical University, Jilin 132013, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma D"
+          ],
+          "firstName": [
+            "Di"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu X"
+          ],
+          "firstName": [
+            "Xiaojuan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu P"
+          ],
+          "firstName": [
+            "Panyue"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shuai"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China. Electronic address: yubo821208@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China. Electronic address: hyanglnnu@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "421"
+      ],
+      "journalIssueId": [
+        "3155300"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxicology and applied pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Toxicol Appl Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Toxicol Appl Pharmacol"
+          ],
+          "NLMid": [
+            "0416575"
+          ],
+          "ISSN": [
+            "0041-008X"
+          ],
+          "ESSN": [
+            "1096-0333"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "115543"
+  ],
+  "abstractText": [
+    "Nimodipine is a clinically used dihydropyridine L-type calcium channel antagonist that effectively inhibits transmembrane Ca<sup>2+</sup> influx following the depolarization of smooth muscle cells, but the detailed effect on smooth muscle contraction is not fully understood. Ca<sup>2+</sup>-activated Cl<sup>-</sup> channels (CaCCs) in vascular smooth muscle cells (VSMCs) may regulate vascular contractility. We found that nimodipine can inhibit transmembrane protein 16A (TMEM16A) activity in a concentration-dependent manner by cell-based fluorescence-quenching assay and short-circuit current analysis, with an IC<sub>50</sub> value of ~5 μM. Short-circuit current analysis also showed that nimodipine prevented Ca<sup>2+</sup>-activated Cl<sup>-</sup> current in both HT-29 cells and mouse colonic epithelia accompanied by significantly decreased cytoplasmic Ca<sup>2+</sup> concentrations. In the absence of extracellular Ca<sup>2+</sup>, nimodipine still exhibited an inhibitory effect on TMEM16A/CaCCs. Additionally, the application of nimodipine to CFTR-expressing FRT cells and mouse colonic mucosa resulted in mild activation of CFTR-mediated Cl<sup>-</sup> currents. Nimodipine inhibited basolateral CCh-activated K<sup>+</sup> channel activity with no effect on Na<sup>+</sup>/K<sup>+</sup>-ATPase activity. Evaluation of intestinal smooth muscle contraction showed that nimodipine inhibits intestinal smooth muscle contractility and frequency, with an activity pattern that was similar to that of non-specific inhibitors of CaCCs. In aortic smooth muscle, the expression of TMEM16A in thoracic aorta is higher than that in abdominal aorta, corresponding to stronger maximum contractility in thoracic aorta smooth muscle stimulated by phenylephrine (PE) and E<sub>act</sub>. Nimodipine completely inhibited the contraction of aortic smooth muscle stimulated by E<sub>act</sub>, and partially inhibited the contraction stimulated by PE. In summary, the results indicate that nimodipine effectively inhibits TMEM16A/CaCCs by reduction transmembrane Ca<sup>2+</sup> influx and directly interacting with TMEM16A, explaining the mechanisms of nimodipine relaxation of intestinal and aortic smooth muscle contraction and providing new targets for pharmacological applications."
+  ],
+  "affiliation": [
+    "Liaoning Provincial Key Laboratory of Biotechnology and Drug Discovery, School of Life Sciences, Liaoning Normal University, Dalian 116000, PR China; Laboratory medical college, Jilin Medical University, Jilin 132013, PR China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inhibitor",
+        "nimodipine",
+        "Tmem16a",
+        "Smooth Muscle Contraction",
+        "Short-circuit Current",
+        "Caccs"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.taap.2021.115543"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-19"
+  ],
+  "firstIndexDate": [
+    "2021-04-20"
+  ],
+  "dateOfRevision": [
+    "2021-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-16"
+  ],
+  "firstPublicationDate": [
+    "2021-04-16"
+  ]
+}

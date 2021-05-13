@@ -1,0 +1,361 @@
+{
+  "id": [
+    "33770444"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33770444"
+  ],
+  "doi": [
+    "10.1080/1547691x.2021.1890863"
+  ],
+  "title": [
+    "Galangin ameliorates experimental autoimmune encephalomyelitis in mice via modulation of cellular immunity."
+  ],
+  "authorString": [
+    "Tan KT, Li S, Panny L, Lin CC, Lin SC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan KT"
+          ],
+          "firstName": [
+            "Kok-Tong"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Tungs' Taichung MetroHarbor Hospital, Taichung, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Biomedical Sciences, National Chung Hsing University, Taichung, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shiming"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hubei Key Laboratory for Processing and Application of Catalytic Materials, College of Chemistry & Chemical Engineering, Huangang Normal University, Hubei, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Panny L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Panny"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biomedical Sciences and Pathobiology, Virginia-Maryland College of Veterinary Medicine, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin CC"
+          ],
+          "firstName": [
+            "Chi-Chien"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Biomedical Sciences, National Chung Hsing University, Taichung, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Medical Research, China Medical University Hospital, Taichung, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Medical Research, Taichung Veterans General Hospital, Taichung, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, College of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin SC"
+          ],
+          "firstName": [
+            "Shih-Chao"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bachelor Degree Program in Marine Biotechnology, College of Life Sciences, National Taiwan Ocean University, Keelung, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "3111707"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of immunotoxicology"
+          ],
+          "ISOAbbreviation": [
+            "J Immunotoxicol"
+          ],
+          "medlineAbbreviation": [
+            "J Immunotoxicol"
+          ],
+          "NLMid": [
+            "101201960"
+          ],
+          "ISSN": [
+            "1547-691X"
+          ],
+          "ESSN": [
+            "1547-6901"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "50-60"
+  ],
+  "abstractText": [
+    "Multiple sclerosis (MS) causes neurologic disabilities that effect musculature, sensory systems, and vision. This is largely due to demyelination of nerve fibers caused by chronic inflammation. Corticosteroid treatments ameliorate symptoms of MS, but do not successfully cure the disease itself. In the current study, the application of galangin, a phytochemical flavonoid extracted from the ginger family of <i>Alpinis officinarum</i>, on experimental autoimmune encephalomyelitis (EAE; mouse model for MS) was explored. This study investigated prophylactic and therapeutic activity of the drug and mechanisms by which it acts. The results revealed that galangin at 40 and 80 mg/kg could lower the incidence rate of MS, and alleviate clinical/pathological manifestations. Mice administered galangin presented with less limb paralysis, lower levels of inflammatory cell infiltrates, and decreased demyelination compared to vehicle controls. Levels of CD4<sup>+</sup>IFNγ<sup>+</sup> (T<sub>H</sub>1) and CD4<sup>+</sup>IL-17A<sup>+</sup> (T<sub>H</sub>17) cells in the spinal cords of EAE mice administered galangin were reduced and both cell types were not capable of expansion. More surprisingly, galangin inhibited antigen presentation and cytokine production by dendritic cells (DC). Formation of cytokines like IL-6, IL-12, and IL-23 were significantly decreased due to galangin in co-culture models of DC and T-cells. Taken together, the data lead one to conclude that galangin could potentially be used as a potent immunoregulatory agent to alleviate clinical symptoms and reduce the prevalence of MS."
+  ],
+  "affiliation": [
+    "Department of Surgery, Tungs' Taichung MetroHarbor Hospital, Taichung, Taiwan."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "T cells",
+        "Dendritic cells",
+        "Anti-inflammation",
+        "Galangin",
+        "Experimental Autoimmune Encephalomyelitis (Eae)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/1547691X.2021.1890863"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-26"
+  ],
+  "firstIndexDate": [
+    "2021-03-27"
+  ],
+  "dateOfRevision": [
+    "2021-03-29"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

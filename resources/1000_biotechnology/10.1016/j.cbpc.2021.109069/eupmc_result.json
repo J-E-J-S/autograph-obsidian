@@ -1,0 +1,306 @@
+{
+  "id": [
+    "33930526"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33930526"
+  ],
+  "doi": [
+    "10.1016/j.cbpc.2021.109069"
+  ],
+  "title": [
+    "Fluroxypyr-1-methylheptyl ester interferes with the normal embryogenesis of zebrafish by inducing apoptosis, inflammation, and neurovascular toxicity."
+  ],
+  "authorString": [
+    "An G, Park H, Lim W, Song G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "An G"
+          ],
+          "firstName": [
+            "Garam"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park H"
+          ],
+          "firstName": [
+            "Hahyun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim W"
+          ],
+          "firstName": [
+            "Whasun"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food and Nutrition, Kookmin University, Seoul 02707, Republic of Korea. Electronic address: wlim@kookmin.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song G"
+          ],
+          "firstName": [
+            "Gwonhwa"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea. Electronic address: ghsong@korea.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "247"
+      ],
+      "journalIssueId": [
+        "3161623"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP"
+          ],
+          "ISOAbbreviation": [
+            "Comp Biochem Physiol C Toxicol Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Comp Biochem Physiol C Toxicol Pharmacol"
+          ],
+          "NLMid": [
+            "100959500"
+          ],
+          "ISSN": [
+            "1532-0456"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "109069"
+  ],
+  "abstractText": [
+    "Fluroxypyr-1-methylheptyl ester (FPMH) is a synthetic auxin herbicide used to regulate the growth of post-emergence broad-leaved weeds. Although acute exposure to FPMH increases the mortality of several fish species in the juvenile stage, the developmental toxicity of FPMH in aquatic vertebrates has not yet been investigated. In the present study, we assessed the developmental toxicity of FPMH using zebrafish models that offer many advantages for studying toxicology. During embryogenesis, survival rates gradually decreased with increasing FPMH concentrations and exposure times. At 120 h post-fertilization, FPMH-exposed zebrafish larvae showed various abnormalities such as small eye size, heart defects, enlarged yolk sac, and shortened body length. The study results confirmed the induction of apoptosis in the anterior body of zebrafish and upregulation of inflammatory gene expression. Further, defects in vascular networks, especially the loss of central arteries and abnormal aortic arch structures, were seen in the fli1:eGFP transgenic zebrafish model. Neurotoxicity of FPMH was examined using mbp:eGFP zebrafish and which displayed compromised myelination following FPMH administration. Our study has demonstrated the mechanisms underlying FPMH toxicity in developing zebrafish that is a representative model of vertebrates."
+  ],
+  "affiliation": [
+    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Embryo development",
+        "Angiogenesis",
+        "Neurotoxicity",
+        "Zebrafish Model",
+        "Fluroxypyr-1-methylheptyl Ester"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.cbpc.2021.109069"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-27"
+  ],
+  "firstPublicationDate": [
+    "2021-04-27"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": [
+    "33964962"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33964962"
+  ],
+  "doi": [
+    "10.1186/s12935-021-01952-6"
+  ],
+  "title": [
+    "RFX1: a promising therapeutic arsenal against cancer."
+  ],
+  "authorString": [
+    "Issac J, Raveendran PS, Das AV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Issac J"
+          ],
+          "firstName": [
+            "Joby"
+          ],
+          "lastName": [
+            "Issac"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology, Thycaud.P.O, Thiruvananthapuram, 695014, Kerala, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Raveendran PS"
+          ],
+          "firstName": [
+            "Pooja S"
+          ],
+          "lastName": [
+            "Raveendran"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology, Thycaud.P.O, Thiruvananthapuram, 695014, Kerala, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Das AV"
+          ],
+          "firstName": [
+            "Ani V"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5006-8108",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology, Thycaud.P.O, Thiruvananthapuram, 695014, Kerala, India. anivdas@rgcb.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5006-8108",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "3162028"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer cell international"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "253"
+  ],
+  "abstractText": [
+    "Regulatory factor X1 (RFX1) is an evolutionary conserved transcriptional factor that influences a wide range of cellular processes such as cell cycle, cell proliferation, differentiation, and apoptosis, by regulating a number of target genes that are involved in such processes. On a closer look, these target genes also play a key role in tumorigenesis and associated events. Such observations paved the way for further studies evaluating the role of RFX1 in cancer. These studies were indispensable due to the failure of conventional chemotherapeutic drugs to target key cellular hallmarks such as cancer stemness, cellular plasticity, enhanced drug efflux, de-regulated DNA repair machinery, and altered pathways evading apoptosis. In this review, we compile significant evidence for the tumor-suppressive activities of RFX1 while also analyzing its oncogenic potential in some cancers. RFX1 induction decreased cellular proliferation, modulated the immune system, induced apoptosis, reduced chemoresistance, and sensitized cancer stem cells for chemotherapy. Thus, our review discusses the pleiotropic function of RFX1 in multitudinous gene regulations, decisive protein-protein interactions, and also its role in regulating key cell signaling events in cancer. Elucidation of these regulatory mechanisms can be further utilized for RFX1 targeted therapy."
+  ],
+  "affiliation": [
+    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology, Thycaud.P.O, Thiruvananthapuram, 695014, Kerala, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/PR17462/MED/31/328/2016"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription factor",
+        "Tumor suppressor",
+        "Cancer Cell Hallmarks",
+        "Regulatory Factor X1 (Rfx1)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-021-01952-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-09"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-08"
+  ],
+  "firstPublicationDate": [
+    "2021-05-08"
+  ]
+}

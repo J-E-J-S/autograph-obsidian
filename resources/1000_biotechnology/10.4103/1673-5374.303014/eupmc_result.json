@@ -1,0 +1,226 @@
+{
+  "id": [
+    "33433473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33433473"
+  ],
+  "doi": [
+    "10.4103/1673-5374.303014"
+  ],
+  "title": [
+    "Klotho and neurons: mutual crosstalk between autophagy, endoplasmic reticulum, and inflammatory response."
+  ],
+  "authorString": [
+    "Mytych J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mytych J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Mytych"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1265-973X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Physiology and Reproduction, Institute of Biology and Biotechnology, Collegium Scientarium Naturalium, University of Rzeszow, Werynia 2, 36-100 Kolbuszowa, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1265-973X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3090931"
+      ],
+      "dateOfPublication": [
+        "2021 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1542-1543"
+  ],
+  "affiliation": [
+    "Department of Animal Physiology and Reproduction, Institute of Biology and Biotechnology, Collegium Scientarium Naturalium, University of Rzeszow, Werynia 2, 36-100 Kolbuszowa, Poland."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.303014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-12"
+  ],
+  "firstIndexDate": [
+    "2021-01-15"
+  ],
+  "dateOfRevision": [
+    "2021-01-13"
+  ],
+  "firstPublicationDate": [
+    "2021-08-01"
+  ]
+}

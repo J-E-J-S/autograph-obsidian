@@ -1,0 +1,349 @@
+{
+  "id": [
+    "33922245"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33922245"
+  ],
+  "doi": [
+    "10.3390/pathogens10050503"
+  ],
+  "title": [
+    "Molecular Detection of <i>Bartonella</i> spp. and Hematological Evaluation in Domestic Cats and Dogs from Bangkok, Thailand."
+  ],
+  "authorString": [
+    "Saengsawang P, Kaewmongkol G, Inpankaew T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saengsawang P"
+          ],
+          "firstName": [
+            "Phirabhat"
+          ],
+          "lastName": [
+            "Saengsawang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0432-0998",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Agricultural Biotechnology, Kamphaeng Saen Campus, Kasetsart University, Nakhon Pathom 73140, Thailand."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center of Excellence on Agricultural Biotechnology (AG-BIO/PERDO-CHE), Bangkok 10900, Thailand."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Akkhraratchakumari Veterinary College, Walailak University, Nakhon Si Thammarat 80161, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaewmongkol G"
+          ],
+          "firstName": [
+            "Gunn"
+          ],
+          "lastName": [
+            "Kaewmongkol"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Companion Animal Clinical Sciences, Faculty of Veterinary Medicine, Kasetsart University, Bangkok 10900, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Inpankaew T"
+          ],
+          "firstName": [
+            "Tawin"
+          ],
+          "lastName": [
+            "Inpankaew"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5982-4811",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Agricultural Biotechnology, Kamphaeng Saen Campus, Kasetsart University, Nakhon Pathom 73140, Thailand."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center of Excellence on Agricultural Biotechnology (AG-BIO/PERDO-CHE), Bangkok 10900, Thailand."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Parasitology, Faculty of Veterinary Medicine, Kasetsart University, Bangkok 10900, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5982-4811",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0432-0998",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3161110"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pathogens (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Pathogens"
+          ],
+          "medlineAbbreviation": [
+            "Pathogens"
+          ],
+          "NLMid": [
+            "101596317"
+          ],
+          "ISSN": [
+            "2076-0817"
+          ],
+          "ESSN": [
+            "2076-0817"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "(1) Background: <i>Bartonella</i> spp. are Gram-negative, facultative, intracellular bacteria transmitted by hematophagous insects. Several species cause zoonotic diseases such as cat-scratch disease. <i>Bartonella henselae</i> and <i>Bartonella clarridgeiae</i> are the main species found in Thailand, however, there have been few studies on <i>Bartonella</i> spp. In addition, the hematological evaluation of <i>Bartonella</i>-infected animals is limited in Thailand. The aims of this study were prevalence investigation and hematological evaluation of <i>Bartonella</i>-infected dogs and cats residing in Bangkok, Thailand. (2) Methods: In total, 295 dogs and 513 cats were molecularly evaluated to detect <i>Bartonella</i> spp. using PCR with primers targeting the partial <i>gltA</i>, <i>rpoB</i>, <i>ftsZ</i>, <i>ribC</i>, and <i>groEL</i> genes. In total, 651 domestic animals were evaluated for hematological parameters compared between <i>Bartonella</i>-positive and <i>Bartonella</i>-negative animals. (3) Results: Overall, the prevalence of <i>Bartonella</i> spp. was 1.61% which was found only in free-ranging cats (2.83%). <i>Bartonella henselae</i> and <i>B. clarridgeiae</i> were confirmed from a concatenated phylogenetic tree of partial <i>gltA</i> and <i>ribC</i> genes, with 100% bootstrapping replication. For other housekeeping gene sequences, mixed infection was expected from the amplicons of <i>rpoB</i>, <i>ftsZ</i>, and <i>groEL</i>. Importantly, the mean corpuscular volume (MCV) was significantly increased in <i>Bartonella</i>-positive cats. (4) Conclusions: We suggest that <i>B. henselae</i> and <i>B. clarridgeiae</i> are important species and are still circulating in domestic animals, especially cats. The evaluation of blood parameters, especially a raised MCV, should be of concern in <i>Bartonella</i> infection in asymptomatic cats. Additionally, the knowledge of how to prevent <i>Bartonella</i>-related diseases should be promoted with people in at-risk situations."
+  ],
+  "affiliation": [
+    "Center for Agricultural Biotechnology, Kamphaeng Saen Campus, Kasetsart University, Nakhon Pathom 73140, Thailand."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "AG-BIO/61-003-011"
+          ],
+          "agency": [
+            "the Center of Excellence on Agricultural Biotechnology, Science and Technology Postgraduate Education and Research Development Office, Office of Higher Education Commission, Ministry of Higher Education, Science, Research and Innovation. (AG-BIO/PERDO-CHE"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Thailand",
+        "Hematology",
+        "Dog",
+        "Phylogenetic",
+        "Bartonella",
+        "cat"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/pathogens10050503"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-04-22"
+  ]
+}

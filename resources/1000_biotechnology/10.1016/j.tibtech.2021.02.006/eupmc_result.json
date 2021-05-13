@@ -1,0 +1,258 @@
+{
+  "id": [
+    "33632542"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33632542"
+  ],
+  "doi": [
+    "10.1016/j.tibtech.2021.02.006"
+  ],
+  "title": [
+    "Directed Evolution of Propionyl-CoA Carboxylase for Succinate Biosynthesis."
+  ],
+  "authorString": [
+    "Liu Y, Jiang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yuwan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang H"
+          ],
+          "firstName": [
+            "Huifeng"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China. Electronic address: jiang_hf@tib.cas.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "3131174"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trends in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Trends Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Trends Biotechnol"
+          ],
+          "NLMid": [
+            "8310903"
+          ],
+          "ISSN": [
+            "0167-7799"
+          ],
+          "ESSN": [
+            "1879-3096"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "330-331"
+  ],
+  "abstractText": [
+    "Due to low carboxylase activity, CO<sub>2</sub> biotransformation is challenging to achieve using natural CO<sub>2</sub> fixation pathways. Liu et al. have improved the activity of propionyl-CoA carboxylase (PCC) 94-fold, enabling the efficient synthesis of succinate from acetyl-CoA and paving the way for CO<sub>2</sub> assimilation via the 3-hydroxypropionate (3-HP) bicycle or 3-hydroxypropionate/4-hydroxybutyrate (3-HP/4-HB) cycle."
+  ],
+  "affiliation": [
+    "Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tibtech.2021.02.006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-26"
+  ],
+  "firstIndexDate": [
+    "2021-02-27"
+  ],
+  "dateOfRevision": [
+    "2021-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-22"
+  ],
+  "firstPublicationDate": [
+    "2021-02-22"
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": [
+    "33895332"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33895332"
+  ],
+  "doi": [
+    "10.1016/j.biotechadv.2021.107757"
+  ],
+  "title": [
+    "The emerging role of cellular post-translational modifications in modulating growth and productivity of recombinant Chinese hamster ovary cells."
+  ],
+  "authorString": [
+    "Bryan L, Clynes M, Meleady P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bryan L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Bryan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Glasnevin, Dublin 9, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clynes M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Clynes"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Glasnevin, Dublin 9, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meleady P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Meleady"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Glasnevin, Dublin 9, Ireland. Electronic address: paula.meleady@dcu.ie."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3151608"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology advances"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "NLMid": [
+            "8403708"
+          ],
+          "ISSN": [
+            "0734-9750"
+          ],
+          "ESSN": [
+            "1873-1899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107757"
+  ],
+  "abstractText": [
+    "Chinese hamster ovary (CHO) cells are one of the most commonly used host cell lines used for the production human therapeutic proteins. Much research over the past two decades has focussed on improving the growth, titre and cell specific productivity of CHO cells and in turn lowering the costs associated with production of recombinant proteins. CHO cell engineering has become of particular interest in recent years following the publication of the CHO cell genome and the availability of data relating to the proteome, transcriptome and metabolome of CHO cells. However, data relating to the cellular post-translational modification (PTMs) which can affect the functionality of CHO cellular proteins has only begun to be presented in recent years. PTMs are important to many cellular processes and can further alter proteins by increasing the complexity of proteins and their interactions. In this review, we describe the research presented from CHO cells to date related on three of the most important PTMs; glycosylation, phosphorylation and ubiquitination."
+  ],
+  "affiliation": [
+    "National Institute for Cellular Biotechnology, Dublin City University, Glasnevin, Dublin 9, Ireland."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phosphorylation",
+        "Ubiquitination",
+        "Glycosylation",
+        "Biopharmaceuticals",
+        "Chinese Hamster Ovary (Cho) Cells",
+        "Post-translational Modification (Ptm)",
+        "Cell Specific Productivity (Qp)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.biotechadv.2021.107757"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-25"
+  ],
+  "firstIndexDate": [
+    "2021-04-27"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-04-22"
+  ]
+}

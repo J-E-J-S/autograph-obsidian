@@ -1,0 +1,468 @@
+{
+  "id": [
+    "33799276"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33799276"
+  ],
+  "doi": [
+    "10.1016/j.scr.2021.102311"
+  ],
+  "title": [
+    "Generation of an iPSC line (UNINAi001-A) from a girl with neonatal-onset epilepsy and non-syndromic intellectual disability carrying the homozygous KCNQ3 p.PHE534ILEfs*15 variant and of an iPSC line (UNINAi002-A) from a non-carrier, unaffected brother."
+  ],
+  "authorString": [
+    "Longobardi E, Miceli F, Secondo A, Cicatiello R, Izzo A, Tinto N, Moutton S, Tran Mau-Them F, Vitobello A, Taglialatela M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Longobardi E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Longobardi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Neuroscience and Molecular Medicine and Medical Biotechnology, University bf Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miceli F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Miceli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Neuroscience and Molecular Medicine and Medical Biotechnology, University bf Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Secondo A"
+          ],
+          "firstName": [
+            "Agnese"
+          ],
+          "lastName": [
+            "Secondo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Neuroscience and Molecular Medicine and Medical Biotechnology, University bf Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cicatiello R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Cicatiello"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Molecular Medicine and Medical Biotechnology, University of Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Izzo A"
+          ],
+          "firstName": [
+            "Antonella"
+          ],
+          "lastName": [
+            "Izzo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Molecular Medicine and Medical Biotechnology, University of Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tinto N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Tinto"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Molecular Medicine and Medical Biotechnology, University of Naples \"Federico II\", Naples, Italy; CEINGE Advanced Biotechnology, Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moutton S"
+          ],
+          "firstName": [
+            "Sebastien"
+          ],
+          "lastName": [
+            "Moutton"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "UFR Des Sciences de Santé, INSERM-Université de Bourgogne UMR1231 GAD \"Génétique des Anomalies du Développement\", FHU-TRANSLAD, Dijon, France; Reference Center for Developmental Anomalies, Department of Medical Genetics, Dijon University Hospital, Dijon, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tran Mau-Them F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Tran Mau-Them"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "UFR Des Sciences de Santé, INSERM-Université de Bourgogne UMR1231 GAD \"Génétique des Anomalies du Développement\", FHU-TRANSLAD, Dijon, France; Unité Fonctionnelle d'Innovation diagnostique des maladies rares, FHU-TRANSLAD, CHU Dijon Bourgogne, Dijon, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vitobello A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Vitobello"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3717-8374",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "UFR Des Sciences de Santé, INSERM-Université de Bourgogne UMR1231 GAD \"Génétique des Anomalies du Développement\", FHU-TRANSLAD, Dijon, France; Unité Fonctionnelle d'Innovation diagnostique des maladies rares, FHU-TRANSLAD, CHU Dijon Bourgogne, Dijon, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taglialatela M"
+          ],
+          "firstName": [
+            "Maurizio"
+          ],
+          "lastName": [
+            "Taglialatela"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Neuroscience and Molecular Medicine and Medical Biotechnology, University bf Naples \"Federico II\", Naples, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3717-8374",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "53"
+      ],
+      "journalIssueId": [
+        "3130756"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Stem cell research"
+          ],
+          "ISOAbbreviation": [
+            "Stem Cell Res"
+          ],
+          "medlineAbbreviation": [
+            "Stem Cell Res"
+          ],
+          "NLMid": [
+            "101316957"
+          ],
+          "ISSN": [
+            "1873-5061"
+          ],
+          "ESSN": [
+            "1876-7753"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "102311"
+  ],
+  "abstractText": [
+    "Heterozygous variants in the KCNQ3 gene cause epileptic and/or developmental disorders of varying severity. Here we describe the generation of induced pluripotent stem cells (iPSCs) from a 9-year-old girl with pharmacodependent neonatal-onset epilepsy and intellectual disability who carry a homozygous single-base duplication in exon 12 of KCNQ3 (NM_004519.3: KCNQ3 c.1599dup; KCNQ3 p.PHE534ILEfs*15), and from a non-carrier brother of the proband. For iPSC generation, non-integrating episomal plasmid vectors were used to transfect fibroblasts isolated from skin biopsies. The obtained iPSC lines had a normal karyotype, showed embryonic stem cell-like morphology, expressed pluripotency markers, and possessed trilineage differentiation potential."
+  ],
+  "affiliation": [
+    "Departments of Neuroscience and Molecular Medicine and Medical Biotechnology, University bf Naples \"Federico II\", Naples, Italy."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.scr.2021.102311"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-24"
+  ],
+  "firstPublicationDate": [
+    "2021-03-24"
+  ]
+}

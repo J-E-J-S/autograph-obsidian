@@ -1,0 +1,506 @@
+{
+  "id": [
+    "33922694"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33922694"
+  ],
+  "doi": [
+    "10.3390/s21092967"
+  ],
+  "title": [
+    "Olfactory Detection of Toluene by Detection Rats for Potential Screening of Lung Cancer."
+  ],
+  "authorString": [
+    "Oh Y, Kwon OS, Min SS, Shin YB, Oh MK, Kim M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oh Y"
+          ],
+          "firstName": [
+            "Yunkwang"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahang-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, Korea University, 145 Anam-ro, Sungbuk-gu, Seoul 02841, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon OS"
+          ],
+          "firstName": [
+            "Oh-Seok"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "OS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Infectious Disease Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahang-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Min SS"
+          ],
+          "firstName": [
+            "Sun-Seek"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physiology and Biophysics, Eulji University School of Medicine, 77 Gyeryong-ro, Jung-gu, Daejeon 34824, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shin YB"
+          ],
+          "firstName": [
+            "Yong-Beom"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahang-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "KRIBB School, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh MK"
+          ],
+          "firstName": [
+            "Min-Kyu"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6406-3930",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, Korea University, 145 Anam-ro, Sungbuk-gu, Seoul 02841, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Moonil"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahang-ro, Yuseong-gu, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "KRIBB School, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6406-3930",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "3161095"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Early detection is critical to successfully eradicating a variety of cancers, so the development of a new cancer primary screening system is essential. Herein, we report an animal nose sensor system for the potential primary screening of lung cancer. To establish this, we developed an odor discrimination training device based on operant conditioning paradigms for detection of toluene, an odor indicator component of lung cancer. The rats (N = 15) were trained to jump onto a floating ledge in response to toluene-spiked breath samples. Twelve rats among 15 trained rats reached performance criterion in 12 consecutive successful tests within a given set, or over 12 sets, with a success rate of over 90%. Through a total of 1934 tests, the trained rats (N = 3) showed excellent performance for toluene detection with 82% accuracy, 83% sensitivity, 81% specificity, 80% positive predictive value (PPV) and 83% negative predictive value (NPV). The animals also acquired considerable performance for odor discrimination even in rigorous tests, validating odor specificity. Since environmental and long-term stability are important factors that can influence the sensing results, the performance of the trained rats was studied under specified temperature (20, 25, and 30 °C) and humidity (30%, 45%, and 60% RH) conditions, and monitored over a period of 45 days. At given conditions of temperature and humidity, the animal sensors showed an average accuracy within a deviation range of ±10%, indicating the excellent environmental stability of the detection rats. Surprisingly, the trained rats did not differ in retention of last odor discrimination when tested 45 days after training, denoting that the rats' memory for trained odor is still available over a long period of time. When taken together, these results indicate that our odor discrimination training system can be useful for non-invasive breath testing and potential primary screening of lung cancer."
+  ],
+  "affiliation": [
+    "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahang-ro, Yuseong-gu, Daejeon 34141, Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "KGM9952011"
+          ],
+          "agency": [
+            "Korea Research Institute of Bioscience and Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Toluene"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Smell"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Early Detection of Cancer"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Odorants"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Olfactory Behavior",
+        "Odor Detection",
+        "Animal Nose",
+        "Detection Rat"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Toluene"
+          ],
+          "registryNumber": [
+            "3FPU23BG52"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s21092967"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-05-03"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-23"
+  ],
+  "firstPublicationDate": [
+    "2021-04-23"
+  ]
+}

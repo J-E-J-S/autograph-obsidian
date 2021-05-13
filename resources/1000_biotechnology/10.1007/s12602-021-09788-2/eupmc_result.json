@@ -1,0 +1,345 @@
+{
+  "id": [
+    "33900565"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33900565"
+  ],
+  "doi": [
+    "10.1007/s12602-021-09788-2"
+  ],
+  "title": [
+    "Deciphering the Probiotic Potential of Bacillus amyloliquefaciens COFCAU_P1 Isolated from the Intestine of Labeo rohita Through In Vitro and Genetic Assessment."
+  ],
+  "authorString": [
+    "Khan MIR, Kamilya D, Choudhury TG, Tripathy PS, Rathore G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khan MIR"
+          ],
+          "firstName": [
+            "Md Idrish Raja"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "MIR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dept. of Aquatic Health and Environment, College of Fisheries, Central Agricultural University (Imphal), Lembucherra, Tripura, 799210, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kamilya D"
+          ],
+          "firstName": [
+            "Dibyendu"
+          ],
+          "lastName": [
+            "Kamilya"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dept. of Aquatic Health and Environment, College of Fisheries, Central Agricultural University (Imphal), Lembucherra, Tripura, 799210, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choudhury TG"
+          ],
+          "firstName": [
+            "Tanmoy Gon"
+          ],
+          "lastName": [
+            "Choudhury"
+          ],
+          "initials": [
+            "TG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dept. of Aquatic Health and Environment, College of Fisheries, Central Agricultural University (Imphal), Lembucherra, Tripura, 799210, India. tanmoygc@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tripathy PS"
+          ],
+          "firstName": [
+            "Partha Sarathi"
+          ],
+          "lastName": [
+            "Tripathy"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dept. of Fish Genetics and Breeding, College of Fisheries, Central Agricultural University (Imphal), Lembucherra, Tripura, 799210, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rathore G"
+          ],
+          "firstName": [
+            "Gaurav"
+          ],
+          "lastName": [
+            "Rathore"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Fish Health Management & Exotics Division, ICAR-National Bureau of Fish Genetics Resources, Lucknow, 226002, UP, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143014"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Probiotics and antimicrobial proteins"
+          ],
+          "ISOAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "medlineAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "NLMid": [
+            "101484100"
+          ],
+          "ISSN": [
+            "1867-1306"
+          ],
+          "ESSN": [
+            "1867-1314"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "In this study, a bacterial strain COFCAU_P1, isolated from the digestive tract of a freshwater teleost rohu (Labeo rohita), was identified as Bacillus amyloliquefaciens using 16S rRNA gene sequence analysis combined with amplification of species-specific BamHI and barnase genes. The probiotic potential of the strain was evaluated using an array of in vitro tests along with safety and genetic analyses. The isolate showed potent antimicrobial response against several fish pathogenic bacteria, survived a wide pH range (2-9), and was resistant up to 10% bile salt concentration. With regard to the in vitro adhesion properties, the strain showed significantly high in vitro adhesion to mucus, auto and co-aggregation capacity, and cell surface hydrophobicity. The strain was non-haemolytic, able to produce extracellular enzymes, viz., proteinase, amylase, lipase, and cellulase, and showed significant free radical scavenging activity. A challenge study in rohu revealed the strain COFCAU_P1 as non-pathogenic. The presence of putative probiotic marker genes including 2, 3-bisphosphoglycerate-independent phosphoglycerate mutase, arginine/ornithine antiporter ArcD, choloylglycine hydrolase, LuxS, and E1 β-subunit of the pyruvate dehydrogenase complex was confirmed by PCR, suggesting the molecular basis of the probiotic-specific functional attributes of the isolate. In conclusion, the in vitro and genetic approaches enabled the identification of a potential probiotic from autochthonous source with a potential of its utilization in the aquaculture industry."
+  ],
+  "affiliation": [
+    "Dept. of Aquatic Health and Environment, College of Fisheries, Central Agricultural University (Imphal), Lembucherra, Tripura, 799210, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/PR25008/NER/95/953/2017"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetic analysis",
+        "Bacillus amyloliquefaciens",
+        "Probiotic",
+        "Labeo Rohita",
+        "In Vitro Assays"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12602-021-09788-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-26"
+  ],
+  "firstIndexDate": [
+    "2021-04-27"
+  ],
+  "dateOfRevision": [
+    "2021-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-26"
+  ],
+  "firstPublicationDate": [
+    "2021-04-26"
+  ]
+}

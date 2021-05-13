@@ -1,0 +1,450 @@
+{
+  "id": [
+    "33725138"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33725138"
+  ],
+  "doi": [
+    "10.1007/s00294-021-01165-4"
+  ],
+  "title": [
+    "Two homologs of the Cat8 transcription factor are involved in the regulation of ethanol utilization in Komagataella phaffii."
+  ],
+  "authorString": [
+    "Barbay D, Mačáková M, Sützl L, De S, Mattanovich D, Gasser B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barbay D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Barbay"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Institute of Microbiology and Microbial Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mačáková M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Mačáková"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Institute of Microbiology and Microbial Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sützl L"
+          ],
+          "firstName": [
+            "Leander"
+          ],
+          "lastName": [
+            "Sützl"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Technology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De S"
+          ],
+          "firstName": [
+            "Sonakshi"
+          ],
+          "lastName": [
+            "De"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Institute of Microbiology and Microbial Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mattanovich D"
+          ],
+          "firstName": [
+            "Diethard"
+          ],
+          "lastName": [
+            "Mattanovich"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0907-4167",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Institute of Microbiology and Microbial Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gasser B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Gasser"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2881-6370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria. brigitte.gasser@boku.ac.at."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Institute of Microbiology and Microbial Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria. brigitte.gasser@boku.ac.at."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0907-4167",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2881-6370",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3127478"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current genetics"
+          ],
+          "ISOAbbreviation": [
+            "Curr Genet"
+          ],
+          "medlineAbbreviation": [
+            "Curr Genet"
+          ],
+          "NLMid": [
+            "8004904"
+          ],
+          "ISSN": [
+            "0172-8083"
+          ],
+          "ESSN": [
+            "1432-0983"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The transcription factors Cat8 and Sip4 were described in Saccharomyces cerevisiae and Kluyveromyces lactis to have very similar DNA binding domains and to be necessary for derepression of a variety of genes under non-fermentative growth conditions via binding to the carbon source responsive elements (CSREs). The methylotrophic yeast Komagataella phaffii (syn Pichia pastoris) has two transcription factors (TFs), which are putative homologs of Cat8 based on sequence similarity, termed Cat8-1 and Cat8-2. It is yet unclear in which cellular processes they are involved and if one of them is actually the homolog of Sip4. To study the roles of the Cat8 homologs in K. phaffii, overexpression or deletion strains were generated for the two TFs. The ability of these mutant strains to grow on different carbon sources was tested, and transcript levels of selected genes from the carbon metabolism were quantified. Our experiments showed that the TFs are required for the growth of K. phaffii on C2 carbon sources, but not on glucose, glycerol or methanol. K. phaffii deleted for Cat8-1 showed impaired growth on acetate, while both Cat8-1 and Cat8-2 are involved in the growth of K. phaffii on ethanol. Correspondingly, both TFs are participating in the activation of ADH2, ALD4 and ACS1, three genes encoding enzymes important for the assimilation of ethanol. Different from S. cerevisiae and K. lactis, Cat8-1 is not regulating the transcription of the putative Sip4-family member Cat8-2 in K. phaffii. Furthermore, Cat8-1 is necessary for the activation of genes from the glyoxylate cycle, whereas Cat8-2 is necessary for the activation of genes from the carnitine shuttle. Neither Cat8-1 nor Cat8-2 are required for the activation of gluconeogenesis genes. Finally, the CAT8-2 gene is repressed by the Mig1-2 transcription factor on glucose and autorepressed by the Cat8-2 protein on all tested carbon sources. Our study identified the involvement of K. phaffii Cat8-1 and Cat8-2 in C2-metabolism, and highlighted similarities and differences to their homologs in other yeast species."
+  ],
+  "affiliation": [
+    "Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FWF W1224"
+          ],
+          "agency": [
+            "Austrian Science Fund FWF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "COMET ACIB"
+          ],
+          "agency": [
+            "Österreichische Forschungsförderungsgesellschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ICM-2018-11997"
+          ],
+          "agency": [
+            "Österreichische Agentur für Internationale Mobilität und Kooperation in Bildung, Wissenschaft und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription factor",
+        "Yeast",
+        "Pichia pastoris",
+        "Carbon source",
+        "Cat8",
+        "Komagataella Phaffii",
+        "Ethanol Utilization",
+        "Csre",
+        "Sip4"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00294-021-01165-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-16"
+  ],
+  "firstIndexDate": [
+    "2021-03-17"
+  ],
+  "dateOfRevision": [
+    "2021-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

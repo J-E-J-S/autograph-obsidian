@@ -1,0 +1,401 @@
+{
+  "id": [
+    "33944818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33944818"
+  ],
+  "doi": [
+    "10.23750/abm.v92is1.10821"
+  ],
+  "title": [
+    "Haemobilia secondary to a cystic artery pseudoaneurysm as complication of VLC."
+  ],
+  "authorString": [
+    "Romano L, Lazzarin G, Varrassi M, Di Sibio A, Vicentini V, Schietroma M, Carlei F, Giuliani A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Romano L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Romano"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. lucia.romano1989@libero.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lazzarin G"
+          ],
+          "firstName": [
+            "Gianni"
+          ],
+          "lastName": [
+            "Lazzarin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. g.lazzarin@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Varrassi M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Varrassi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, S. Salvatore Hospital, L'Aquila. marco.varrassi@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Di Sibio A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Di Sibio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, S. Salvatore Hospital, L'Aquila. adisibi@hotmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vicentini V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Vicentini"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. r.vicentini@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schietroma M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Schietroma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. schietroma2001@yahoo.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carlei F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Carlei"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. francesco.carlei@univaq.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Giuliani A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Giuliani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. antonio.giuliani77@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "S1"
+      ],
+      "volume": [
+        "92"
+      ],
+      "journalIssueId": [
+        "3164403"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Acta bio-medica : Atenei Parmensis"
+          ],
+          "ISOAbbreviation": [
+            "Acta Biomed"
+          ],
+          "medlineAbbreviation": [
+            "Acta Biomed"
+          ],
+          "NLMid": [
+            "101295064"
+          ],
+          "ISSN": [
+            "0392-4203"
+          ],
+          "ESSN": [
+            "2531-6745"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e2021125"
+  ],
+  "abstractText": [
+    "<h4>Introduction</h4>The laparoscopic approach has become the gold standard for cholecystectomy. However, it could have some major complications. Among them, it can be considered postoperative pseudoaneurysms of the cystic or hepatic arteries. Haemobilia secondary to a cystic artery pseudoaneurysm is extremely rare.<h4>Case report</h4>Here we present a case from our centre of haemobilia in association with a cystic artery pseudoaneurysm, as a late complication of VLC. An 18-year-old girl underwent laparoscopic cholecystectomy; during surgery, due to viscero-perietal tight adhesions and due to the close proximity of the cystic duct to the biliary ducts, we suspected a bile duct injury. So, decision was taken to convert to open surgery: a suture was performed to repair the coledocic duct injury and an endoscopic papillotomy was performed with subsequent positioning of an endoscopic plastic biliary endoprothesis at the hepatocholedochus. One month after surgery, the patient showed clinical signs of hypovolemic shock. She underwent Computed Tomography Angiography, showing a possible arterial lesion, just adjacent to surgical clip. Therefore, patient underwent angiographic examination, which confirmed an 8 mm pseudoaneurysm arising from cystic artery, just adjacent to surgical clips. Superselective catheterization of vessel was performed, and two coils were released, until obtaining complete exclusion of the vascular lesion. The patient was discharged five days after procedure, with good general condition.<h4>Conclusion</h4>Pseudoaneurysms of the cystic artery are uncommon entities, rarely reported in the literature, and often caused by cholecystitis or iatrogenic biliary injury. All conditions that are responsible for vessels' injuries could also cause haemobilia. Even if pseudoaneurysm of cystic artery with haemobilia is a rare event, it has to be considered as a complication of VLC. Angiographic approach should be the treatment of choice."
+  ],
+  "affiliation": [
+    "Department of Surgery, Department of Applied Clinical Science and Biotechnology, University of L'Aquila, L'Aquila. lucia.romano1989@libero.it."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.23750/abm.v92iS1.10821"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-04"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

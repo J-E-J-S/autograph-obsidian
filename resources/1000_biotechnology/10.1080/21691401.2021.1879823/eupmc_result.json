@@ -1,0 +1,359 @@
+{
+  "id": [
+    "33533656"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33533656"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1879823"
+  ],
+  "title": [
+    "Classification of white blood cells using weighted optimized deformable convolutional neural networks."
+  ],
+  "authorString": [
+    "Yao X, Sun K, Bu X, Zhao C, Jin Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yao X"
+          ],
+          "firstName": [
+            "Xufeng"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Shanghai Key Laboratory of Molecular Imaging, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Medical Instrument and Food Engineering, University of Shanghai for Science and Technology, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bu X"
+          ],
+          "firstName": [
+            "Xixi"
+          ],
+          "lastName": [
+            "Bu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Medical Instrument and Food Engineering, University of Shanghai for Science and Technology, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao C"
+          ],
+          "firstName": [
+            "Congyi"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Medical Instrument and Food Engineering, University of Shanghai for Science and Technology, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Medical Instrument and Food Engineering, University of Shanghai for Science and Technology, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "147-155"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Machine learning (ML) algorithms have been widely used in the classification of white blood cells (WBCs). However, the performance of ML algorithms still needs to be addressed for being short of gold standard data sets, and even the implementation of the proposed algorithms.<h4>Methods</h4>In this study, the method of two-module weighted optimized deformable convolutional neural networks (TWO-DCNN) was proposed for WBC classification. Our algorithm is characterized as two-module transfer learning and deformable convolutional (DC) layers for the betterment of robustness. To validate the performance, our method was compared with classical MLs of VGG16, VGG19, Inception-V3, ResNet-50, support vector machine (SVM), multilayer perceptron (MLP), decision tree (DT) and random forest (RF) on our undisclosed WBC data set and public BCCD data set.<h4>Results</h4>TWO-DCNN achieved the best performance with the precisions (PREs) of 95.7%, 94.5% and 91.6%, recalls (RECs) of 95.7%, 94.5% and 91.6%, F1-scores (F1s) of 95.7%, 94.5% and 91.6%, area under curves (AUCs) of 0.98, 0.97 and 0.95 for low-resolution and noisy undisclosed data sets, BCCD data set, respectively.<h4>Conclusions</h4>With accurate feature extraction and optimized network weights, the proposed TWO-DCNN showed the best performance in WBC classification for low-resolution and noisy data sets. It could be used as an alternative method for clinical applications."
+  ],
+  "affiliation": [
+    "College of Medical Imaging, Jiading District Central Hospital, Shanghai University of Medicine and Health Sciences, Shanghai, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Classification",
+        "Machine Learning",
+        "Transfer Learning",
+        "Deep Learning",
+        "White Blood Cell (Wbc)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1879823"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-03"
+  ],
+  "firstIndexDate": [
+    "2021-02-04"
+  ],
+  "dateOfRevision": [
+    "2021-02-04"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

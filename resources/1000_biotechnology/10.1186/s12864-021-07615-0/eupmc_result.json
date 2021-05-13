@@ -1,0 +1,410 @@
+{
+  "id": [
+    "33971818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33971818"
+  ],
+  "doi": [
+    "10.1186/s12864-021-07615-0"
+  ],
+  "title": [
+    "Identification of the conserved long non-coding RNAs in myogenesis."
+  ],
+  "authorString": [
+    "Bhattacharya A, Champramary S, Tripathi T, Thakur D, Ioshikhes I, Singh SK, Nandi S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bhattacharya A"
+          ],
+          "firstName": [
+            "Anupam"
+          ],
+          "lastName": [
+            "Bhattacharya"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Life Sciences, Institute of Advanced Study in Science and Technology, Vigyan Path, Paschim Boragaon, Garchuk, Guwahati, Assam, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology and Biotechnology, Cotton University, Panbazar, Guwahati, Assam, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Champramary S"
+          ],
+          "firstName": [
+            "Simang"
+          ],
+          "lastName": [
+            "Champramary"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Szeged Faculty of Science and Informatics, Szeged, 6720, Hungary."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Functional Genomics and Bionformatics, University of Sopron, Sopron, Hungary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tripathi T"
+          ],
+          "firstName": [
+            "Tanya"
+          ],
+          "lastName": [
+            "Tripathi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Stem Cell & Cell Culture Lab, Centre For Advanced Research (CFAR), King George's Medical University, Lucknow, UP, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thakur D"
+          ],
+          "firstName": [
+            "Debajit"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Life Sciences, Institute of Advanced Study in Science and Technology, Vigyan Path, Paschim Boragaon, Garchuk, Guwahati, Assam, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ioshikhes I"
+          ],
+          "firstName": [
+            "Ilya"
+          ],
+          "lastName": [
+            "Ioshikhes"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ottawa Institute of Computational Biology and Bioinformatics (OICBB), Ottawa Institute of Systems Biology (OISB), Department of Biochemistry, Microbiology and Immunology (BMI),Faculty of Medicine, University of Ottawa, Ottawa, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh SK"
+          ],
+          "firstName": [
+            "Satyendra Kumar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Stem Cell & Cell Culture Lab, Centre For Advanced Research (CFAR), King George's Medical University, Lucknow, UP, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nandi S"
+          ],
+          "firstName": [
+            "Soumyadeep"
+          ],
+          "lastName": [
+            "Nandi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Data Sciences and Computational Biology Centre, Amity Institute of Integrative Sciences and Health, Amity University Haryana, Gurugram, Manesar, 122413, Haryana, India. snandi@ggn.amity.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3162003"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "336"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Our understanding of genome regulation is ever-evolving with the continuous discovery of new modes of gene regulation, and transcriptomic studies of mammalian genomes have revealed the presence of a considerable population of non-coding RNA molecules among the transcripts expressed. One such non-coding RNA molecule is long non-coding RNA (lncRNA). However, the function of lncRNAs in gene regulation is not well understood; moreover, finding conserved lncRNA across species is a challenging task. Therefore, we propose a novel approach to identify conserved lncRNAs and functionally annotate these molecules.<h4>Results</h4>In this study, we exploited existing myogenic transcriptome data and identified conserved lncRNAs in mice and humans. We identified the lncRNAs expressing differentially between the early and later stages of muscle development. Differential expression of these lncRNAs was confirmed experimentally in cultured mouse muscle C2C12 cells. We utilized the three-dimensional architecture of the genome and identified topologically associated domains for these lncRNAs. Additionally, we correlated the expression of genes in domains for functional annotation of these trans-lncRNAs in myogenesis. Using this approach, we identified conserved lncRNAs in myogenesis and functionally annotated them.<h4>Conclusions</h4>With this novel approach, we identified the conserved lncRNAs in myogenesis in humans and mice and functionally annotated them. The method identified a large number of lncRNAs are involved in myogenesis. Further studies are required to investigate the reason for the conservation of the lncRNAs in human and mouse while their sequences are dissimilar. Our approach can be used to identify novel lncRNAs conserved in different species and functionally annotated them."
+  ],
+  "affiliation": [
+    "Division of Life Sciences, Institute of Advanced Study in Science and Technology, Vigyan Path, Paschim Boragaon, Garchuk, Guwahati, Assam, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/RLF/Re-entry/48/2013"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-021-07615-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-11"
+  ],
+  "firstIndexDate": [
+    "2021-05-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

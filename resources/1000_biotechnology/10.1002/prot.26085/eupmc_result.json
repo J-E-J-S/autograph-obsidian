@@ -1,0 +1,294 @@
+{
+  "id": [
+    "33864411"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33864411"
+  ],
+  "doi": [
+    "10.1002/prot.26085"
+  ],
+  "title": [
+    "Inferring metal binding sites in flexible regions of proteins."
+  ],
+  "authorString": [
+    "Garg A, Pal D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Garg A"
+          ],
+          "firstName": [
+            "Aditi"
+          ],
+          "lastName": [
+            "Garg"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pal D"
+          ],
+          "firstName": [
+            "Debnath"
+          ],
+          "lastName": [
+            "Pal"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3591-5978",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3591-5978",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3148139"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proteins"
+          ],
+          "ISOAbbreviation": [
+            "Proteins"
+          ],
+          "medlineAbbreviation": [
+            "Proteins"
+          ],
+          "NLMid": [
+            "8700181"
+          ],
+          "ISSN": [
+            "0887-3585"
+          ],
+          "ESSN": [
+            "1097-0134"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Metal ions are central to the molecular function of many proteins. Thus their knowledge in experimentally determined structure is important; however, such structures often lose bound metal ions during sample preparation. Identification of these metal-binding site(s) becomes difficult when the receptor is novel and/or their conformations differ in the bound/unbound states. Locating such sites in theoretical models also poses a challenge due to the uncertainties with side-chain modeling. We address the problem by employing the Geometric Hashing algorithm to create a template library of functionally important binding sites and match query structures with the available templates. The matching is done on the structure ensemble obtained from coarse-grained molecular dynamics simulation, where metal-specific amino acids are screened to infer the true site. Test on 1347 non-redundant monomer protein structures show that Ca<sup>2+</sup> , Zn<sup>2+</sup> , Mg<sup>2+</sup> , Cu<sup>2+</sup> , and Fe<sup>3+</sup> binding site residues can be classified at 0.92, 0.95, 0.80, 0.90, and 0.92 aggregate performance (out of 1) across all possible thresholds. The performance for Ca<sup>2+</sup> and Zn<sup>2+</sup> is notably superior in comparison to state-of-the-art methods like IonCom and MIB. Specific case studies show that additionally predicted metal-binding site residues in proteins have features necessary for ion binding. These include new sites not predicted by other methods. The use of coarse-grained dynamics thus provides a generalized approach to improve metal-binding site prediction. The work is expected to contribute to improving our ability to correctly predict protein molecular function where knowledge of metal binding is a key requirement."
+  ],
+  "affiliation": [
+    "Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Department of Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metal-binding",
+        "Geometric Hashing",
+        "Site Prediction",
+        "Coarse-grained Dynamics",
+        "Binding Residue"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/prot.26085"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-17"
+  ],
+  "firstIndexDate": [
+    "2021-04-18"
+  ],
+  "dateOfRevision": [
+    "2021-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-17"
+  ],
+  "firstPublicationDate": [
+    "2021-04-17"
+  ]
+}

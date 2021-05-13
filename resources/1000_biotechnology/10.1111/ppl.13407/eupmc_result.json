@@ -1,0 +1,445 @@
+{
+  "id": [
+    "33774830"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33774830"
+  ],
+  "doi": [
+    "10.1111/ppl.13407"
+  ],
+  "title": [
+    "EkFLS overexpression promotes flavonoid accumulation and abiotic stress tolerance in plant."
+  ],
+  "authorString": [
+    "Wang M, Zhang Y, Zhu C, Yao X, Zheng Z, Tian Z, Cai X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Meng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5374-8552",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu C"
+          ],
+          "firstName": [
+            "Chenyu"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao X"
+          ],
+          "firstName": [
+            "Xiangyu"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tian Z"
+          ],
+          "firstName": [
+            "Zheni"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai X"
+          ],
+          "firstName": [
+            "Xia"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6958-1937",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5374-8552",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6958-1937",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3124708"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Physiologia plantarum"
+          ],
+          "ISOAbbreviation": [
+            "Physiol Plant"
+          ],
+          "medlineAbbreviation": [
+            "Physiol Plant"
+          ],
+          "NLMid": [
+            "1256322"
+          ],
+          "ISSN": [
+            "0031-9317"
+          ],
+          "ESSN": [
+            "1399-3054"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Flavonoids with great medicinal value play an important role in plant individual growth and stress resistance. Flavonol synthetase (FLS) is one of the key enzymes to synthesize flavonoids. However, the role of the FLS gene in flavonoid accumulation and tolerance to abiotic stresses, as well as its mechanism has not yet been investigated systematically in plants. The aim of this research is to evaluate the effect of FLS overexpression on the accumulation of active ingredients and stress resistance in Euphorbia kansui Liou. The results showed that when the EkFLS gene was overexpressed in Arabidopsis thaliana, the accumulation of flavonoids was improved. In addition, when the wild-type and EkFLS overexpressed Arabidopsis plants were treated with ABA and MeJA, compared with WT Arabidopsis, EkFLS overexpressed Arabidopsis promoted stomatal aperture to influence photosynthesis of the plants, which in turn can promote stress resistance. Meanwhile, under MeJA, NaCl, and PEG treatment, EkFLS overexpressed in Arabidopsis induced higher accumulation of flavonoids, which significantly enhanced peroxidase (POD) and superoxide dismutase (SOD) activities that can scavenge reactive oxygen species in cells to protect the plant. These results indicated that EkFLS overexpression is strongly correlated to the increase of flavonoid synthesis and therefore the tolerance to abiotic stresses in plants, providing a theoretical basis for further improving the quality of medicinal plants and their resistance to abiotic stresses simultaneously."
+  ],
+  "affiliation": [
+    "Key Laboratory of Resource Biology and Biotechnology in Western China, Ministry of Education, Northwest University, Xi'an, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31870173"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Ministry of Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Northwest University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZSK2019002"
+          ],
+          "agency": [
+            "Opening Foundation of Key Laboratory of Resource Biology and Biotechnology in Western China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/ppl.13407"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-28"
+  ],
+  "firstIndexDate": [
+    "2021-03-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-13"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-28"
+  ],
+  "firstPublicationDate": [
+    "2021-03-28"
+  ]
+}

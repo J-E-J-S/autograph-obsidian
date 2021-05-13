@@ -1,0 +1,483 @@
+{
+  "id": [
+    "33886006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33886006"
+  ],
+  "doi": [
+    "10.1007/s10265-021-01300-9"
+  ],
+  "title": [
+    "Overexpression of Glyoxalase III gene in transgenic sugarcane confers enhanced performance under salinity stress."
+  ],
+  "authorString": [
+    "Mohanan MV, Pushpanathan A, Padmanabhan S, Sasikumar T, Jayanarayanan AN, Selvarajan D, Ramalingam S, Ram B, Chinnaswamy A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mohanan MV"
+          ],
+          "firstName": [
+            "Manoj Vadakkenchery"
+          ],
+          "lastName": [
+            "Mohanan"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pushpanathan A"
+          ],
+          "firstName": [
+            "Anunanthini"
+          ],
+          "lastName": [
+            "Pushpanathan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Genetic Engineering Laboratory, Department of Biotechnology, Bharathiar University, Coimbatore, Tamil Nadu, 641041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Padmanabhan S"
+          ],
+          "firstName": [
+            "Sarath"
+          ],
+          "lastName": [
+            "Padmanabhan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sasikumar T"
+          ],
+          "firstName": [
+            "Thelakat"
+          ],
+          "lastName": [
+            "Sasikumar"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jayanarayanan AN"
+          ],
+          "firstName": [
+            "Ashwin Narayan"
+          ],
+          "lastName": [
+            "Jayanarayanan"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Selvarajan D"
+          ],
+          "firstName": [
+            "Dharshini"
+          ],
+          "lastName": [
+            "Selvarajan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramalingam S"
+          ],
+          "firstName": [
+            "Sathishkumar"
+          ],
+          "lastName": [
+            "Ramalingam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Genetic Engineering Laboratory, Department of Biotechnology, Bharathiar University, Coimbatore, Tamil Nadu, 641041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ram B"
+          ],
+          "firstName": [
+            "Bakshi"
+          ],
+          "lastName": [
+            "Ram"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chinnaswamy A"
+          ],
+          "firstName": [
+            "Appunu"
+          ],
+          "lastName": [
+            "Chinnaswamy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5505-9611",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India. cappunu@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5505-9611",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146084"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of plant research"
+          ],
+          "ISOAbbreviation": [
+            "J Plant Res"
+          ],
+          "medlineAbbreviation": [
+            "J Plant Res"
+          ],
+          "NLMid": [
+            "9887853"
+          ],
+          "ISSN": [
+            "0918-9440"
+          ],
+          "ESSN": [
+            "1618-0860"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The glyoxalase pathway is a check point to monitor the elevation of methylglyoxal (MG) level in plants and is mediated by glyoxalase I (Gly I) and glyoxalase II (Gly II) enzymes in the presence of glutathione. Recent studies established the presence of unique DJ-1/PfpI domain containing protein named glyoxalase III (Gly III) in prokaryotes, involved in the detoxification of MG into D-lactic acid through a single step process. In the present study, eleven transgenic sugarcane events overexpressing EaGly III were assessed for salinity stress (100 mM and 200 mM NaCl) tolerance. Lipid peroxidation as well as cell membrane injury remained very minimal in all the transgenic events indicating reduced oxidative damage. Transgenic events exhibited significantly higher plant water status, gas exchange parameters, chlorophyll, carotenoid, and proline content, total soluble sugars, SOD and POD activity compared to wild type (WT) under salinity stress. Histological studies by taking the cross section showed a highly stable root system in transgenic events upon exposure to salinity stress. Results of the present study indicate that transgenic sugarcane events overexpressing EaGly III performed well and exhibited improved salinity stress tolerance."
+  ],
+  "affiliation": [
+    "Division of Crop Improvement, ICAR-Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, 641007, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Grant Number: 09/706/0004/2019-EMR-I"
+          ],
+          "agency": [
+            "Council of Scientific and Industrial Research, Government of India, New Delhi"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Grant no. BT/PR12949/AGII/106/986/2015"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India, New Delhi"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antioxidants",
+        "Sugarcane",
+        "Salinity",
+        "E. arundinaceus",
+        "Glyoxalase Iii"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10265-021-01300-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-22"
+  ],
+  "firstIndexDate": [
+    "2021-04-23"
+  ],
+  "dateOfRevision": [
+    "2021-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-04-22"
+  ]
+}

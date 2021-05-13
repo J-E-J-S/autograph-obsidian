@@ -1,0 +1,567 @@
+{
+  "id": [
+    "33399495"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33399495"
+  ],
+  "pmcid": [
+    "PMC7801066"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7801066"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/13880209.2020.1865410"
+  ],
+  "title": [
+    "Targeting CD155 by rediocide-A overcomes tumour immuno-resistance to natural killer cells."
+  ],
+  "authorString": [
+    "Ng W, Gong C, Yan X, Si G, Fang C, Wang L, Zhu X, Xu Z, Yao C, Zhu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ng W"
+          ],
+          "firstName": [
+            "Wanyi"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gong C"
+          ],
+          "firstName": [
+            "Chenyuan"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan X"
+          ],
+          "firstName": [
+            "Xuewei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Si G"
+          ],
+          "firstName": [
+            "Guifan"
+          ],
+          "lastName": [
+            "Si"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lixin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu X"
+          ],
+          "firstName": [
+            "Xiaowen"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zihang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu S"
+          ],
+          "firstName": [
+            "Shiguo"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3151-9652",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Immunology and Pathogenic Biology, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3151-9652",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "59"
+      ],
+      "journalIssueId": [
+        "3080192"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmaceutical biology"
+          ],
+          "ISOAbbreviation": [
+            "Pharm Biol"
+          ],
+          "medlineAbbreviation": [
+            "Pharm Biol"
+          ],
+          "NLMid": [
+            "9812552"
+          ],
+          "ISSN": [
+            "1388-0209"
+          ],
+          "ESSN": [
+            "1744-5116"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "47-53"
+  ],
+  "abstractText": [
+    "<h4>Context</h4>Therapeutic benefits of immunotherapy are restricted by cancer immune-resistance mechanisms. Rediocide-A (Red-A), a natural product extracted from Traditional Chinese Medicine, is a promising agent to battle against cancer which acts as an immune checkpoint inhibitor.<h4>Objective</h4>To investigate the effect of Red-A on NK-cell tumouricidal activity.<h4>Materials and methods</h4>NK cells were co-cultured with A549 or H1299 cells and treated with 10 or 100 nM Red-A for 24 h. Cells treated with 0.1% dimethyl sulphoxide (DMSO) was employed as vehicle control. NK cell-mediated cytotoxicity was detected by biophotonic cytotoxicity and impedance assay. Degranulation, granzyme B, NK cell-tumour cell conjugates and ligands profiling were detected by flow cytometry. Interferon-γ (IFN- γ) production was assessed by enzyme-linked immunosorbent assay (ELISA).<h4>Results</h4>Red-A increased NK cell-mediated lysis of A549 cells by 3.58-fold (21.86% vs. 78.27%) and H1299 cells by 1.26-fold (59.18% vs. 74.78%), compared to vehicle control. Granzyme B level was increased by 48.01% (A549 cells) and 53.26% (H1299 cells) after 100 nM Red-A treatment. INF-γ level was increased by 3.23-fold (A549 cells) and 6.77-fold (H1299 cells) after 100 nM Red-A treatment. Red-A treatment down-regulated the expression level of CD155 by 14.41% and 11.66% in A549 cells and H1299 cells, respectively, leading to the blockade of tumour immuno-resistance to NK cells.<h4>Conclusions</h4>Red-A overcomes immuno-resistance of NSCLCs to NK cells by down-regulating CD155 expression, which shows the possibility of developing checkpoint inhibitors targeting TIGIT/CD155 signalling to overcome immuno-resistance of cancer cells."
+  ],
+  "affiliation": [
+    "Laboratory of Integrative Medicine, School of Basic Medical Sciences, Shanghai University of Traditional Chinese Medicine, Shanghai, PR China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural products",
+        "Non-small cell lung cancer",
+        "Cancer Immunotherapy",
+        "High-throughput Assay",
+        "Immune Checkpoint"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/13880209.2020.1865410"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7801066"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7801066?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-05"
+  ],
+  "firstIndexDate": [
+    "2021-01-07"
+  ],
+  "fullTextReceivedDate": [
+    "2021-01-23"
+  ],
+  "dateOfRevision": [
+    "2021-01-22"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": [
+    "33631263"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33631263"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.02.144"
+  ],
+  "title": [
+    "Rational engineering of the Plasmodium falciparuml-lactate dehydrogenase loop involved in catalytic proton transfer to improve chiral 2-hydroxybutyric acid production."
+  ],
+  "authorString": [
+    "Tian L, Zhou J, Lv Q, Liu F, Yang T, Zhang X, Xu M, Rao Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tian L"
+          ],
+          "firstName": [
+            "Lingzhi"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Junping"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv Q"
+          ],
+          "firstName": [
+            "Qinglan"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang T"
+          ],
+          "firstName": [
+            "Taowei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xian"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu M"
+          ],
+          "firstName": [
+            "Meijuan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China. Electronic address: xumeijuan@jiangnan.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rao Z"
+          ],
+          "firstName": [
+            "Zhiming"
+          ],
+          "lastName": [
+            "Rao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China. Electronic address: raozhm@jiangnan.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "179"
+      ],
+      "journalIssueId": [
+        "3161582"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "71-79"
+  ],
+  "abstractText": [
+    "l-lactate dehydrogenases (LDHs) has been widely studied for their ability to reduce 2-keto acids for the production of 2-hydroxy acids, whereby 2-hydroxybutyric acids (2-HBA) is among the most important fundamental building blocks for synthesizing pharmaceuticals and biodegradable materials. However, LDHs usually show low activity towards 2-keto acids with longer side chain such as 2-oxobutyric acid (2-OBA). Here rational engineering of the Plasmodium falciparum LDH loop with residue involved in the catalytic proton transfer was initially studied. By combining homology alignment and structure-based design approach, we found that changing the charge characteristics or hydrogen bond network interactions of this loop could improve enzymatic catalytic activities and stabilities towards 2-OBA. Compared with wild type, variant N197D<sub>ldh</sub> showed 1.15 times higher activity and 2.73 times higher K<sub>cat</sub>/Km. The half-life of variant N197D<sub>ldh</sub> at 40 °C increased to 77.9 h compared with 50.4 h of wild type. Furthermore, asymmetric synthesis of (S)-2-HBA with coenzyme regeneration revealed 95.8 g/L production titer within 12 h for variant N197D<sub>ldh</sub>, 2.05 times higher than using wild type. Our study indicated the importance of loop with residues involved in the catalytic proton transfer process, and the engineered LDH would be more suitable for (S)-2-HBA production."
+  ],
+  "affiliation": [
+    "The Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu Province 214122, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Site-directed mutagenesis",
+        "L-lactate Dehydrogenase",
+        "Rational Engineering",
+        "Α-keto Acid Reduction",
+        "2-Hydroxybutyric Acid Production"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.02.144"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-25"
+  ],
+  "firstIndexDate": [
+    "2021-02-26"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-22"
+  ],
+  "firstPublicationDate": [
+    "2021-02-22"
+  ]
+}

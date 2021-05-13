@@ -1,0 +1,335 @@
+{
+  "id": [
+    "33965247"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33965247"
+  ],
+  "doi": [
+    "10.1016/j.tibtech.2021.04.004"
+  ],
+  "title": [
+    "Strategies for optimizing acetyl-CoA formation from glucose in bacteria."
+  ],
+  "authorString": [
+    "Zhu L, Zhang J, Yang J, Jiang Y, Yang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shanghai Laiyi Center for Biopharmaceutical R&D, Shanghai 200240, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jieze"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemistry, University of Southern California, Los Angeles, CA 90089, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jiawei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Life Science, University of Chinese Academy of Sciences, Beijing 100049, China; Key Laboratory of Synthetic Biology, Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200032, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Huzhou Center of Industrial Biotechnology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Huzhou 313000, China; Shanghai Taoyusheng Biotechnology Company Ltd, Shanghai 200032, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Synthetic Biology, Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200032, China; Huzhou Center of Industrial Biotechnology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Huzhou 313000, China. Electronic address: syang@sibs.ac.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3166715"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trends in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Trends Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Trends Biotechnol"
+          ],
+          "NLMid": [
+            "8310903"
+          ],
+          "ISSN": [
+            "0167-7799"
+          ],
+          "ESSN": [
+            "1879-3096"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Acetyl CoA is an important precursor for various chemicals. We provide a metabolic engineering guideline for the production of acetyl-CoA and other end products from a bacterial chassis. Among 13 pathways that produce acetyl-CoA from glucose, 11 lose carbon in the process, and two do not. The first 11 use the Embden-Meyerhof-Parnas (EMP) pathway to produce redox cofactors and gain or lose ATP. The other two pathways function via phosphoketolase with net consumption of ATP, so they must therefore be combined with one of the 11 glycolytic pathways or auxiliary pathways. Optimization of these pathways can maximize the theoretical acetyl-CoA yield, thereby minimizing the overall cost of subsequent acetyl-CoA-derived molecules. Other strategies for generating hyper-producer strains are also addressed."
+  ],
+  "affiliation": [
+    "Shanghai Laiyi Center for Biopharmaceutical R&D, Shanghai 200240, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacteria",
+        "Glucose",
+        "metabolic engineering",
+        "Acetyl-coa"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tibtech.2021.04.004"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-09"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-05"
+  ],
+  "firstPublicationDate": [
+    "2021-05-05"
+  ]
+}

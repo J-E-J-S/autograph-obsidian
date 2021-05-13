@@ -1,0 +1,384 @@
+{
+  "id": [
+    "33510062"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33510062"
+  ],
+  "doi": [
+    "10.4103/1673-5374.306066"
+  ],
+  "title": [
+    "Promising drug targets and associated therapeutic interventions in Parkinson's disease."
+  ],
+  "authorString": [
+    "Rai SN, Singh P, Varshney R, Chaturvedi VK, Vamanu E, Singh MP, Singh BK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rai SN"
+          ],
+          "firstName": [
+            "Sachchida Nand"
+          ],
+          "lastName": [
+            "Rai"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre of Biotechnology, University of Allahabad, Prayagraj, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh P"
+          ],
+          "firstName": [
+            "Payal"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Zoology, Institute of Science, Banaras Hindu University, Varanasi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Varshney R"
+          ],
+          "firstName": [
+            "Ritu"
+          ],
+          "lastName": [
+            "Varshney"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bioengineering and Chemistry, Indian Institute of Technology Gandhinagar, Palaj, Gujarat, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chaturvedi VK"
+          ],
+          "firstName": [
+            "Vivek K"
+          ],
+          "lastName": [
+            "Chaturvedi"
+          ],
+          "initials": [
+            "VK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre of Biotechnology, University of Allahabad, Prayagraj, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vamanu E"
+          ],
+          "firstName": [
+            "Emanuel"
+          ],
+          "lastName": [
+            "Vamanu"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, University of Agronomic Science and Veterinary Medicine, Bucharest, Romania."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh MP"
+          ],
+          "firstName": [
+            "M P"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre of Biotechnology, University of Allahabad, Prayagraj, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh BK"
+          ],
+          "firstName": [
+            "Brijesh Kumar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3102012"
+      ],
+      "dateOfPublication": [
+        "2021 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1730-1739"
+  ],
+  "abstractText": [
+    "Parkinson's disease (PD) is one of the most debilitating brain diseases. Despite the availability of symptomatic treatments, response towards the health of PD patients remains scarce. To fulfil the medical needs of the PD patients, an efficacious and etiological treatment is required. In this review, we have compiled the information covering limitations of current therapeutic options in PD, novel drug targets for PD, and finally, the role of some critical beneficial natural products to control the progression of PD."
+  ],
+  "affiliation": [
+    "Centre of Biotechnology, University of Allahabad, Prayagraj, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dopamine",
+        "Substantia nigra",
+        "Molecular chaperones",
+        "Glutamate receptor",
+        "Striatum",
+        "Levodopa",
+        "Epigenetics",
+        "Parkinson’s Disease",
+        "Monoamine Oxidase B",
+        "Gene Therapies",
+        "Mucuna Alpha-synuclein"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.306066"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-29"
+  ],
+  "firstIndexDate": [
+    "2021-01-30"
+  ],
+  "dateOfRevision": [
+    "2021-01-29"
+  ],
+  "firstPublicationDate": [
+    "2021-09-01"
+  ]
+}

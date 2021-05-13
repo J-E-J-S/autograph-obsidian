@@ -1,0 +1,558 @@
+{
+  "id": [
+    "33835323"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33835323"
+  ],
+  "doi": [
+    "10.1007/s10238-021-00708-w"
+  ],
+  "title": [
+    "Inflammation response and liver stiffness: predictive model of regression of hepatic stiffness after sustained virological response in cirrhotics patients with chronic hepatitis C."
+  ],
+  "authorString": [
+    "Braz AMM, Winckler FC, Binelli LS, Chimeno LG, Lopes LBM, Lima RS, Simões RP, Grotto RMT, Golim MA, Silva GF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Braz AMM"
+          ],
+          "firstName": [
+            "Aline Márcia Marques"
+          ],
+          "lastName": [
+            "Braz"
+          ],
+          "initials": [
+            "AMM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Pathophysiology in Clinical Medicine, Department of Clinical Medicine, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Flow Cytometry Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Winckler FC"
+          ],
+          "firstName": [
+            "Fernanda Cristina"
+          ],
+          "lastName": [
+            "Winckler"
+          ],
+          "initials": [
+            "FC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Pathophysiology in Clinical Medicine, Department of Clinical Medicine, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Binelli LS"
+          ],
+          "firstName": [
+            "Larissa Sarri"
+          ],
+          "lastName": [
+            "Binelli"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Flow Cytometry Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chimeno LG"
+          ],
+          "firstName": [
+            "Luis Guilherme"
+          ],
+          "lastName": [
+            "Chimeno"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Flow Cytometry Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lopes LBM"
+          ],
+          "firstName": [
+            "Lia Beatriz Mantovani"
+          ],
+          "lastName": [
+            "Lopes"
+          ],
+          "initials": [
+            "LBM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Flow Cytometry Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lima RS"
+          ],
+          "firstName": [
+            "Rodrigo Santos"
+          ],
+          "lastName": [
+            "Lima"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Pathology, Department of Pathology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Simões RP"
+          ],
+          "firstName": [
+            "Rafael Plana"
+          ],
+          "lastName": [
+            "Simões"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Bioprocess Engineering, São Paulo State University (UNESP), Faculty of Agronomic Sciences, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grotto RMT"
+          ],
+          "firstName": [
+            "Rejane Maria Tommasini"
+          ],
+          "lastName": [
+            "Grotto"
+          ],
+          "initials": [
+            "RMT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate Program in Pathology, Department of Pathology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Bioprocess Engineering, São Paulo State University (UNESP), Faculty of Agronomic Sciences, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Molecular Biology Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Golim MA"
+          ],
+          "firstName": [
+            "Marjorie de Assis"
+          ],
+          "lastName": [
+            "Golim"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4824-9441",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Flow Cytometry Laboratory, Applied Biotechnology Laboratory - LBA, Clinical Hospital of Botucatu Medical School, Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu, São Paulo, Brazil. marjorie.golim@unesp.br."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil. marjorie.golim@unesp.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Silva GF"
+          ],
+          "firstName": [
+            "Giovanni Faria"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "GF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate Program in Pathophysiology in Clinical Medicine, Department of Clinical Medicine, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate Program in Research and Development (Medical Biotechnology, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4824-9441",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5283-2373",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146082"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical and experimental medicine"
+          ],
+          "ISOAbbreviation": [
+            "Clin Exp Med"
+          ],
+          "medlineAbbreviation": [
+            "Clin Exp Med"
+          ],
+          "NLMid": [
+            "100973405"
+          ],
+          "ISSN": [
+            "1591-8890"
+          ],
+          "ESSN": [
+            "1591-9528"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Cirrhotic patients with chronic hepatitis C should be monitored for the evaluation of liver function and screening of hepatocellular carcinoma even after sustained virological response (SVR). The stage of inflammatory resolution and regression of fibrosis is likely to happen, once treatment and viral clearance are achieved. However, liver examinations by elastography show that 30-40% of patients do not exhibit a reduction of liver stiffness. This work was a cohort study in cirrhotic patients whose purpose was to identify immunological factors involved in the regression of liver stiffness in chronic hepatitis C and characterize possible serum biomarkers with prognostic value. The sample universe consisted of 31 cirrhotic patients who underwent leukocyte immunophenotyping, quantification of cytokines/chemokines and metalloproteinase inhibitors in the pretreatment (M1) and in the evaluation of SVR (M2). After exclusion criteria application, 16 patients included were once more evaluated in M3 (like M1) and classified into regressors (R) or non-regressors (NR), decrease or not ≥ 25% stiffness, respectively. The results from ROC curve, machine learning (ML) and linear discriminant analysis showed that TCD4 + lymphocytes (absolute) are the most important biomarkers for the prediction of the regression (AUC = 0.90). NR patients presented levels less than R of liver stiffness since baseline, whereas NK cells were increased in NR. Therefore, it was concluded that there is a difference in the profile of circulating immune cells in R and NR, thus allowing the development of a predictive model of regression of liver stiffness after SVR. These findings should be validated in greater numbers of patients."
+  ],
+  "affiliation": [
+    "Graduate Program in Pathophysiology in Clinical Medicine, Department of Clinical Medicine, São Paulo State University (UNESP), Botucatu Medical School, Botucatu, São Paulo, Brazil."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FAPESP: 2016/25416-3"
+          ],
+          "agency": [
+            "Fundação de Amparo à Pesquisa do Estado de São Paulo"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CAPES - Funding Code 001"
+          ],
+          "agency": [
+            "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Liver cirrhosis",
+        "hepatitis C",
+        "Elastography",
+        "Stiffness Regression"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10238-021-00708-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-09"
+  ],
+  "firstIndexDate": [
+    "2021-04-10"
+  ],
+  "dateOfRevision": [
+    "2021-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-09"
+  ],
+  "firstPublicationDate": [
+    "2021-04-09"
+  ]
+}

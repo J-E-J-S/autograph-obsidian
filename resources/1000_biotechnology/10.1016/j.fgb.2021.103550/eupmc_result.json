@@ -1,0 +1,330 @@
+{
+  "id": [
+    "33675986"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33675986"
+  ],
+  "doi": [
+    "10.1016/j.fgb.2021.103550"
+  ],
+  "title": [
+    "Multiple roles of ABC transporters in yeast."
+  ],
+  "authorString": [
+    "Kumari S, Kumar M, Gaur NA, Prasad R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari S"
+          ],
+          "firstName": [
+            "Sonam"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Yeast Biofuel Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar M"
+          ],
+          "firstName": [
+            "Mohit"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Yeast Biofuel Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India; Amity Institute of Integrative Science and Health, Amity Institute of Biotechnology, Amity University Gurgaon, 122413 Haryana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gaur NA"
+          ],
+          "firstName": [
+            "Naseem A"
+          ],
+          "lastName": [
+            "Gaur"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1224-8789",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Yeast Biofuel Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India. Electronic address: naseem@icgeb.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Prasad R"
+          ],
+          "firstName": [
+            "Rajendra"
+          ],
+          "lastName": [
+            "Prasad"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Amity Institute of Integrative Science and Health, Amity Institute of Biotechnology, Amity University Gurgaon, 122413 Haryana, India. Electronic address: rprasad@ggn.amity.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1224-8789",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "150"
+      ],
+      "journalIssueId": [
+        "3140808"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Fungal genetics and biology : FG & B"
+          ],
+          "ISOAbbreviation": [
+            "Fungal Genet Biol"
+          ],
+          "medlineAbbreviation": [
+            "Fungal Genet Biol"
+          ],
+          "NLMid": [
+            "9607601"
+          ],
+          "ISSN": [
+            "1087-1845"
+          ],
+          "ESSN": [
+            "1096-0937"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "103550"
+  ],
+  "abstractText": [
+    "The ATP binding cassette (ABC) transporters, first discovered as high-affinity nutrient importers in bacteria, rose to prominence when their ability to confer multidrug resistance (MDR) to cancer cells was realized. The most characterized human permeability glycoprotein (P-gp) is a dominant exporter of anti-cancer drugs and its overexpression is directly linked to MDR. The overexpression of drug efflux pumps belonging to the ABC superfamily is also a frequent cause of resistance to antifungals. Fungi has a battery of ABC proteins, but in variable numbers and at different subcellular locations. These proteins perform many critical functions, from serving as gatekeepers for xenobiotic cleansing to translocating various structurally unrelated cargoes, including lipids, fatty acids, ions, peptides, sterols, metabolites and toxins. Their emerging additional roles in cellular physiology and virulence call for attention to analyze and re-examine their divergent functions in yeast. In brief, this review traces the history of ABC transporters in yeast and discusses their typical physiological functions that go beyond their well-known role as antifungal drug efflux pumps."
+  ],
+  "affiliation": [
+    "Yeast Biofuel Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yeast",
+        "Pathogenesis",
+        "Physiological functions",
+        "Ion transport",
+        "Abc Transporters",
+        "Lipid Transport"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.fgb.2021.103550"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-06"
+  ],
+  "firstIndexDate": [
+    "2021-03-07"
+  ],
+  "dateOfRevision": [
+    "2021-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-04"
+  ],
+  "firstPublicationDate": [
+    "2021-03-04"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": [
+    "33580522"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33580522"
+  ],
+  "doi": [
+    "10.1111/risa.13712"
+  ],
+  "title": [
+    "Are WTO Decisionmakers Regulating Technological Risks or Are Technological Risks Steering WTO Biotechnology Legal Decisions?"
+  ],
+  "authorString": [
+    "Guida A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guida A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Guida"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Macquarie Law School, Macquarie University, Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3104398"
+      ],
+      "dateOfPublication": [
+        "2021 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Risk analysis : an official publication of the Society for Risk Analysis"
+          ],
+          "ISOAbbreviation": [
+            "Risk Anal"
+          ],
+          "medlineAbbreviation": [
+            "Risk Anal"
+          ],
+          "NLMid": [
+            "8109978"
+          ],
+          "ISSN": [
+            "0272-4332"
+          ],
+          "ESSN": [
+            "1539-6924"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "This article explores how technological risks and uncertainty carried by the international trade of biotechnology are regulated under the World Trade Organization (WTO) and have been governed by the WTO's judicial bodies. The article shows that the judicial evaluation of biotechnology risks is mostly justified in scientific terms and is still anchored to a quantitative approach. This, in turn, prevents WTO decisionmakers from performing a broader analysis of the societal purposes and impacts of technological innovations and, accordingly, their potential contributions to or disadvantages for the public interest. Given that, the present article investigates whether reliability can be claimed for WTO biotechnology decisions. In approaching this task, it elucidates the complex interplay between law, risks and science, and offers suggestions to enhance the reliability of biotechnology legal decisions and address the uncertainty surrounding the international trade of biotechnology."
+  ],
+  "affiliation": [
+    "Macquarie Law School, Macquarie University, Sydney, Australia."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Assessment Of Biotechnology Risks",
+        "Wto Law And Management Of Biotechnology Risks And Uncertainties",
+        "Human Health And Environmental Risks In The Context Of Biotechnology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/risa.13712"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-13"
+  ],
+  "firstIndexDate": [
+    "2021-02-14"
+  ],
+  "dateOfRevision": [
+    "2021-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-13"
+  ],
+  "firstPublicationDate": [
+    "2021-02-13"
+  ]
+}

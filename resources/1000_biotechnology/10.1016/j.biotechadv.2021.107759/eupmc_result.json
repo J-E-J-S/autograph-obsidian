@@ -1,0 +1,320 @@
+{
+  "id": [
+    "33930523"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33930523"
+  ],
+  "doi": [
+    "10.1016/j.biotechadv.2021.107759"
+  ],
+  "title": [
+    "Synthetic biology-inspired strategies and tools for engineering of microbial natural product biosynthetic pathways."
+  ],
+  "authorString": [
+    "Alam K, Hao J, Zhang Y, Li A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alam K"
+          ],
+          "firstName": [
+            "Khorshed"
+          ],
+          "lastName": [
+            "Alam"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Helmholtz International Lab for Anti-Infectives, Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, Shandong University, Qingdao 266237, PR China. Electronic address: microkhorshed@mail.sdu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hao J"
+          ],
+          "firstName": [
+            "Jinfang"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Helmholtz International Lab for Anti-Infectives, Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, Shandong University, Qingdao 266237, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Youming"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Helmholtz International Lab for Anti-Infectives, Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, Shandong University, Qingdao 266237, PR China. Electronic address: zhangyouming@sdu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li A"
+          ],
+          "firstName": [
+            "Aiying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Helmholtz International Lab for Anti-Infectives, Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, Shandong University, Qingdao 266237, PR China. Electronic address: ayli@sdu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3151608"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology advances"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "NLMid": [
+            "8403708"
+          ],
+          "ISSN": [
+            "0734-9750"
+          ],
+          "ESSN": [
+            "1873-1899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107759"
+  ],
+  "abstractText": [
+    "Microbial-derived natural products (NPs) and their derivative products are of great importance and used widely in many fields, especially in pharmaceutical industries. However, there is an immediate need to establish innovative approaches, strategies, and techniques to discover new NPs with novel or enhanced biological properties, due to the less productivity and higher cost on traditional drug discovery pipelines from natural bioresources. Revealing of untapped microbial cryptic biosynthetic gene clusters (BGCs) using DNA sequencing technology and bioinformatics tools makes genome mining possible for NP discovery from microorganisms. Meanwhile, new approaches and strategies in the area of synthetic biology offer great potentials for generation of new NPs by engineering or creating synthetic systems with improved and desired functions. Development of approaches, strategies and tools in synthetic biology can facilitate not only exploration and enhancement in supply, and also in the structural diversification of NPs. Here, we discussed recent advances in synthetic biology-inspired strategies, including bioinformatics and genetic engineering tools and approaches for identification, cloning, editing/refactoring of candidate biosynthetic pathways, construction of heterologous expression hosts, fitness optimization between target pathways and hosts and detection of NP production."
+  ],
+  "affiliation": [
+    "Helmholtz International Lab for Anti-Infectives, Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, Shandong University, Qingdao 266237, PR China. Electronic address: microkhorshed@mail.sdu.edu.cn."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural products",
+        "heterologous expression",
+        "Synthetic Biology",
+        "Genome Mining",
+        "Dna Assembly",
+        "Refactoring",
+        "Direct Cloning",
+        "Cryptic Bgc"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.biotechadv.2021.107759"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-27"
+  ],
+  "firstPublicationDate": [
+    "2021-04-27"
+  ]
+}

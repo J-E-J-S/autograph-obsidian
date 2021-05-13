@@ -1,0 +1,458 @@
+{
+  "id": [
+    "33839154"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33839154"
+  ],
+  "doi": [
+    "10.1016/j.jbc.2021.100614"
+  ],
+  "title": [
+    "Dynamic association of the H3K64 trimethylation mark with genes encoding exported proteins in Plasmodium falciparum."
+  ],
+  "authorString": [
+    "Jabeena CA, Govindaraju G, Rawat M, Gopi S, Sethumadhavan DV, Jaleel A, Sasankan D, Karmodiya K, Rajavelu A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jabeena CA"
+          ],
+          "firstName": [
+            "C A"
+          ],
+          "lastName": [
+            "Jabeena"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India; PhD registered with Manipal Academy of Higher Education (MAHE), Tiger Circle Road, Madhav Nagar, Manipal, Karnataka, 576104, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Govindaraju G"
+          ],
+          "firstName": [
+            "Gayathri"
+          ],
+          "lastName": [
+            "Govindaraju"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India; PhD registered with Manipal Academy of Higher Education (MAHE), Tiger Circle Road, Madhav Nagar, Manipal, Karnataka, 576104, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rawat M"
+          ],
+          "firstName": [
+            "Mukul"
+          ],
+          "lastName": [
+            "Rawat"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Indian Institute of Science Education and Research, Dr. Homi Bhabha Road, Pashan, Pune 411 008, Maharashtra, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gopi S"
+          ],
+          "firstName": [
+            "Soundhararajan"
+          ],
+          "lastName": [
+            "Gopi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7511-2571",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai 600036, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sethumadhavan DV"
+          ],
+          "firstName": [
+            "Devadathan Valiyamangalath"
+          ],
+          "lastName": [
+            "Sethumadhavan"
+          ],
+          "initials": [
+            "DV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India; PhD registered with Manipal Academy of Higher Education (MAHE), Tiger Circle Road, Madhav Nagar, Manipal, Karnataka, 576104, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaleel A"
+          ],
+          "firstName": [
+            "Abdul"
+          ],
+          "lastName": [
+            "Jaleel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cardiovascular Disease Biology, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sasankan D"
+          ],
+          "firstName": [
+            "Dhakshmi"
+          ],
+          "lastName": [
+            "Sasankan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karmodiya K"
+          ],
+          "firstName": [
+            "Krishanpal"
+          ],
+          "lastName": [
+            "Karmodiya"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Indian Institute of Science Education and Research, Dr. Homi Bhabha Road, Pashan, Pune 411 008, Maharashtra, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rajavelu A"
+          ],
+          "firstName": [
+            "Arumugam"
+          ],
+          "lastName": [
+            "Rajavelu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India. Electronic address: arajavelu@rgcb.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7511-2571",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3145994"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of biological chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Biol Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Biol Chem"
+          ],
+          "NLMid": [
+            "2985121R"
+          ],
+          "ISSN": [
+            "0021-9258"
+          ],
+          "ESSN": [
+            "1083-351X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "100614"
+  ],
+  "abstractText": [
+    "Epigenetic modifications have emerged as critical regulators of virulence genes and stage-specific gene expression in Plasmodium falciparum. However, the specific roles of histone core epigenetic modifications in regulating the stage-specific gene expression are not well understood. In this study, we report an unconventional trimethylation at lysine 64 on histone 3 (H3K64me3) and characterize its functional relevance in P. falciparum. We show that PfSET4 and PfSET5 proteins of P. falciparum methylate H3K64 and that they prefer the nucleosome as a substrate over free histone 3 proteins. Structural analysis of PfSET5 revealed that it interacts with the nucleosome as a dimer. The H3K64me3 mark is dynamic, being enriched in the ring and trophozoite stages and drastically reduced in schizont stages. Stage-specific global ChIP-sequencing analysis of the H3K64me3 mark revealed the selective enrichment of this methyl mark on the genes of exported family proteins in the ring and trophozoite stages, and a significant reduction of the same in the schizont stages. Collectively, our data identify a novel epigenetic mark that are associated with the subset of genes encoding for exported proteins which may regulate their expression in different stages of P. falciparum."
+  ],
+  "affiliation": [
+    "Pathogen Biology group, Rajiv Gandhi Centre for Biotechnology (RGCB), Thycaud PO, Thiruvananthapuram, Kerala, 695014, India; PhD registered with Manipal Academy of Higher Education (MAHE), Tiger Circle Road, Madhav Nagar, Manipal, Karnataka, 576104, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malaria",
+        "Nucleosome",
+        "Epigenetics",
+        "histone methylation",
+        "Exported Family Proteins"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbc.2021.100614"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-11"
+  ],
+  "firstIndexDate": [
+    "2021-04-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-08"
+  ],
+  "firstPublicationDate": [
+    "2021-04-08"
+  ]
+}

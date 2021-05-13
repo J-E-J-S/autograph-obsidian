@@ -1,0 +1,323 @@
+{
+  "id": [
+    "33876341"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33876341"
+  ],
+  "doi": [
+    "10.1007/s11626-021-00561-x"
+  ],
+  "title": [
+    "Establishment of primary cell culture of Ruditapes decussatus haemocytes for metal toxicity assessment."
+  ],
+  "authorString": [
+    "Ladhar-Chaabouni R, Ayadi W, Sahli E, Mokdad-Gargouri R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ladhar-Chaabouni R"
+          ],
+          "firstName": [
+            "Rim"
+          ],
+          "lastName": [
+            "Ladhar-Chaabouni"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6554-3941",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center of Biotechnology of Sfax, Laboratory: Molecular Biotechnology of Eukaryotes, University of Sfax, Sfax, Tunisia. rladhar@yahoo.fr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ayadi W"
+          ],
+          "firstName": [
+            "Wajdi"
+          ],
+          "lastName": [
+            "Ayadi"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center of Biotechnology of Sfax, Laboratory: Molecular Biotechnology of Eukaryotes, University of Sfax, Sfax, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sahli E"
+          ],
+          "firstName": [
+            "Emna"
+          ],
+          "lastName": [
+            "Sahli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center of Biotechnology of Sfax, Laboratory: Molecular Biotechnology of Eukaryotes, University of Sfax, Sfax, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mokdad-Gargouri R"
+          ],
+          "firstName": [
+            "Raja"
+          ],
+          "lastName": [
+            "Mokdad-Gargouri"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center of Biotechnology of Sfax, Laboratory: Molecular Biotechnology of Eukaryotes, University of Sfax, Sfax, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6554-3941",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3148121"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "In vitro cellular & developmental biology. Animal"
+          ],
+          "ISOAbbreviation": [
+            "In Vitro Cell Dev Biol Anim"
+          ],
+          "medlineAbbreviation": [
+            "In Vitro Cell Dev Biol Anim"
+          ],
+          "NLMid": [
+            "9418515"
+          ],
+          "ISSN": [
+            "1071-2690"
+          ],
+          "ESSN": [
+            "1543-706X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "In ecotoxicology, in vitro testing on cell cultures represents an ideal alternative to in vivo strategies for emerging contaminants. These tests have limited use particularly with marine invertebrates like the clams Ruditapes decussatus. In the present study, a primary culture of R. decussatus haemocytes was realized for the first time in order to determine the effect of metals (copper, zinc, and cobalt) on haemocyte parameters like viability and phagocytosis. Results showed that (i) among the studied medium, the modified Leibovitz (L-15) is the best for R. decussatus haemocytes primary culture. (ii) The primary culture system used here represents a suitable in vitro model for assessing cytotoxic responses, (iii) a decrease of cell viability and phagocytosis after 24 h exposure to 100 μg mL<sup>-1</sup> CoSO<sub>4</sub> and an increase of phagocytosis after 24 h exposure to 50 μg mL<sup>-1</sup>CuSO<sub>4</sub>."
+  ],
+  "affiliation": [
+    "Center of Biotechnology of Sfax, Laboratory: Molecular Biotechnology of Eukaryotes, University of Sfax, Sfax, Tunisia. rladhar@yahoo.fr."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metals",
+        "Flow cytometry",
+        "Primary cell culture",
+        "Haemocytes",
+        "Ruditapes Decussatus"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11626-021-00561-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-20"
+  ],
+  "firstIndexDate": [
+    "2021-04-21"
+  ],
+  "dateOfRevision": [
+    "2021-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-19"
+  ],
+  "firstPublicationDate": [
+    "2021-04-19"
+  ]
+}

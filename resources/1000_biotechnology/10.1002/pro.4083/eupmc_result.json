@@ -1,0 +1,361 @@
+{
+  "id": [
+    "33860980"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33860980"
+  ],
+  "doi": [
+    "10.1002/pro.4083"
+  ],
+  "title": [
+    "Human DND1-RRM2 forms a non-canonical domain swapped dimer."
+  ],
+  "authorString": [
+    "Kumari P, Bhavesh NS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari P"
+          ],
+          "firstName": [
+            "Pooja"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9486-6723",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Transcription Regulation Group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhavesh NS"
+          ],
+          "firstName": [
+            "Neel Sarovar"
+          ],
+          "lastName": [
+            "Bhavesh"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7248-4978",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Transcription Regulation Group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7248-4978",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9486-6723",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146114"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Protein science : a publication of the Protein Society"
+          ],
+          "ISOAbbreviation": [
+            "Protein Sci"
+          ],
+          "medlineAbbreviation": [
+            "Protein Sci"
+          ],
+          "NLMid": [
+            "9211750"
+          ],
+          "ISSN": [
+            "0961-8368"
+          ],
+          "ESSN": [
+            "1469-896X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "RNA recognition motif (RRM) being the most abundant RNA binding domain in eukaryotes, is a major player in cellular regulation. Several variations in the canonical βαββαβ topology have been observed. We have determined the 2.3 Å crystal structure of the human DND1-RRM2 domain. The structure revealed an interesting non-canonical RRM fold, which is maintained by the formation of a 3D domain swapped dimer between β<sub>1</sub> and β<sub>4</sub> strands across protomers. We have delineated the structural basis of the stable domain swapped dimer formation using the residue level dynamics of protein explored by NMR spectroscopy and MD simulations. Our structural and dynamics studies substantiate major determinants and molecular basis for domain swapped dimerization observed in the RRM domain."
+  ],
+  "affiliation": [
+    "Transcription Regulation Group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/INF/22/SP22660/2017"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "International Centre for Genetic Engineering and Biotechnology, New Delhi"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/PR13018/BRB/10/731/2009"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Crystal structure",
+        "RNA binding protein",
+        "RNA recognition motif",
+        "Nmr Spectroscopy",
+        "Dnd1",
+        "Domain Swapped Dimerization"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/pro.4083"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR116139"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PDB"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-16"
+  ],
+  "firstIndexDate": [
+    "2021-04-17"
+  ],
+  "dateOfRevision": [
+    "2021-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-16"
+  ],
+  "firstPublicationDate": [
+    "2021-04-16"
+  ]
+}

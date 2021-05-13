@@ -1,0 +1,291 @@
+{
+  "id": [
+    "33965802"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33965802"
+  ],
+  "doi": [
+    "10.1016/j.envpol.2021.117201"
+  ],
+  "title": [
+    "Endocrine disrupting potential of veterinary drugs by in vitro stably transfected human androgen receptor transcriptional activation assays."
+  ],
+  "authorString": [
+    "Park Y, Park J, Lee HS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park Y"
+          ],
+          "firstName": [
+            "Yooheon"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Dongguk University, Goyang, 10326, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park J"
+          ],
+          "firstName": [
+            "Juhee"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Chung-Ang University, Anseong, 17546, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HS"
+          ],
+          "firstName": [
+            "Hee-Seok"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Chung-Ang University, Anseong, 17546, Republic of Korea. Electronic address: hslee0515@cau.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "286"
+      ],
+      "journalIssueId": [
+        "3167331"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental pollution (Barking, Essex : 1987)"
+          ],
+          "ISOAbbreviation": [
+            "Environ Pollut"
+          ],
+          "medlineAbbreviation": [
+            "Environ Pollut"
+          ],
+          "NLMid": [
+            "8804476"
+          ],
+          "ISSN": [
+            "0269-7491"
+          ],
+          "ESSN": [
+            "1873-6424"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "117201"
+  ],
+  "abstractText": [
+    "We describe the androgen receptor (AR) agonistic/antagonistic effects of 140 veterinary drugs regulated in Republic of Korea, by setting maximum residue limits. It was conducted using two in vitro test guidelines of the Organization for Economic Cooperation and Development (OECD)-the AR-EcoScreen AR transactivation (TA) assay and the 22Rv1/MMTV_GR-KO AR TA assay. These were performed alongside the AR binding affinity assay to confirm whether their AR agonistic/antagonistic effects are based on the binding affinity to AR. Prior to conducting the AR TA assay, the proficiency test was passed the proficiency performance criterion for the AR agonist and AR antagonist assays. Among the veterinary drugs tested, four veterinary drugs (dexamethasone, trenbolone, altrenogest, and nandrolone) and six veterinary drugs (cymiazole, dexamethasone, zeranol, phenothiazine, bromopropylate, and isoeugenol) were determined as AR agonist and AR antagonist, respectively in both in vitro AR TA assays. Zeranol exhibited weak AR agonistic effects with a PC<sub>10</sub> value only in the 22Rv1/MMTV_GR-KO AR TA assay. Regarding changing the AR agonistic/antagonistic effects through metabolism, the AR antagonistic activities of zeranol, phenothiazine, and isoeugenol decreased significantly in the presence of phase I + II enzymes. These data indicate that various veterinary drugs could have the potential to disrupt AR-mediated human endocrine system. Furthermore, this is the first report providing information on AR agonistic/antagonistic effects of veterinary drugs using in vitro OECD AR TA assays."
+  ],
+  "affiliation": [
+    "Department of Food Science and Biotechnology, Dongguk University, Goyang, 10326, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antagonist",
+        "Agonist",
+        "Oecd Test Guideline",
+        "Human Androgen Receptor",
+        "S9 Fraction"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.envpol.2021.117201"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-09"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

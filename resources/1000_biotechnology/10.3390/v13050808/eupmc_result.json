@@ -1,0 +1,465 @@
+{
+  "id": [
+    "33946304"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33946304"
+  ],
+  "doi": [
+    "10.3390/v13050808"
+  ],
+  "title": [
+    "Inhibitors of Protein Glycosylation Are Active against the Coronavirus Severe Acute Respiratory Syndrome Coronavirus SARS-CoV-2."
+  ],
+  "authorString": [
+    "Rajasekharan S, Milan Bonotto R, Nascimento Alves L, Kazungu Y, Poggianella M, Martinez-Orellana P, Skoko N, Polez S, Marcello A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rajasekharan S"
+          ],
+          "firstName": [
+            "Sreejith"
+          ],
+          "lastName": [
+            "Rajasekharan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Milan Bonotto R"
+          ],
+          "firstName": [
+            "Rafaela"
+          ],
+          "lastName": [
+            "Milan Bonotto"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nascimento Alves L"
+          ],
+          "firstName": [
+            "Lais"
+          ],
+          "lastName": [
+            "Nascimento Alves"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kazungu Y"
+          ],
+          "firstName": [
+            "Yvette"
+          ],
+          "lastName": [
+            "Kazungu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Poggianella M"
+          ],
+          "firstName": [
+            "Monica"
+          ],
+          "lastName": [
+            "Poggianella"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martinez-Orellana P"
+          ],
+          "firstName": [
+            "Pamela"
+          ],
+          "lastName": [
+            "Martinez-Orellana"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Skoko N"
+          ],
+          "firstName": [
+            "Natasa"
+          ],
+          "lastName": [
+            "Skoko"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Development, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Polez S"
+          ],
+          "firstName": [
+            "Sulena"
+          ],
+          "lastName": [
+            "Polez"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Development, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Marcello A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Marcello"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8903-8202",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8903-8202",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "3161101"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Viruses"
+          ],
+          "ISOAbbreviation": [
+            "Viruses"
+          ],
+          "medlineAbbreviation": [
+            "Viruses"
+          ],
+          "NLMid": [
+            "101509722"
+          ],
+          "ISSN": [
+            "1999-4915"
+          ],
+          "ESSN": [
+            "1999-4915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Repurposing clinically available drugs to treat the new coronavirus disease 2019 (COVID-19) is an urgent need in the course of the Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) pandemic, as very few treatment options are available. The iminosugar Miglustat is a well-characterized drug for the treatment of rare genetic lysosome storage diseases, such as Gaucher and Niemann-Pick type C, and has also been described to be active against a variety of enveloped viruses. The activity of Miglustat is here demonstrated in the micromolar range for SARS-CoV-2 in vitro. The drug acts at the post-entry level and leads to a marked decrease of viral proteins and release of infectious viruses. The mechanism resides in the inhibitory activity toward α-glucosidases that are involved in the early stages of glycoprotein N-linked oligosaccharide processing in the endoplasmic reticulum, leading to a marked decrease of the viral Spike protein. Indeed, the antiviral potential of protein glycosylation inhibitors against SARS-CoV-2 is further highlighted by the low-micromolar activity of the investigational drug Celgosivir. These data point to a relevant role of this approach for the treatment of COVID-19."
+  ],
+  "affiliation": [
+    "Laboratory of Molecular Virology, International Centre for Genetic Engineering and Biotechnology (ICGEB) Padriciano, 99-34149 Trieste, Italy."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inhibitor",
+        "Antiviral",
+        "Coronavirus",
+        "Covid-19",
+        "Sars-cov-2",
+        "Celgosivir",
+        "spike",
+        "Miglustat"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/v13050808"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

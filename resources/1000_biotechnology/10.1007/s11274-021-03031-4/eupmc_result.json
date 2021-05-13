@@ -1,0 +1,320 @@
+{
+  "id": [
+    "33748917"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33748917"
+  ],
+  "doi": [
+    "10.1007/s11274-021-03031-4"
+  ],
+  "title": [
+    "Streptomyces tunisiensis DSM 42037 mediated bioconversion of ferulic acid released from barley bran."
+  ],
+  "authorString": [
+    "Slama N, Mankai H, Limam F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Slama N"
+          ],
+          "firstName": [
+            "Nedra"
+          ],
+          "lastName": [
+            "Slama"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Bioactive Substances, Center of Biotechnology of Borj Cedria, BP-901, 2050, Hammam-lif, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mankai H"
+          ],
+          "firstName": [
+            "Houda"
+          ],
+          "lastName": [
+            "Mankai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Bioactive Substances, Center of Biotechnology of Borj Cedria, BP-901, 2050, Hammam-lif, Tunisia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "University of Tunis-El Manar, Campus Universitaire Farhat Hached, Rommana, BP-94, 1068, Tunis, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Limam F"
+          ],
+          "firstName": [
+            "Ferid"
+          ],
+          "lastName": [
+            "Limam"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2348-826X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Bioactive Substances, Center of Biotechnology of Borj Cedria, BP-901, 2050, Hammam-lif, Tunisia. limam_ferid@yahoo.fr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2348-826X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "3123601"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "World journal of microbiology & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "World J Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "World J Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "9012472"
+          ],
+          "ISSN": [
+            "0959-3993"
+          ],
+          "ESSN": [
+            "1573-0972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "70"
+  ],
+  "abstractText": [
+    "Streptomyces tunisiensis DSM 42037 exhibited growth capacity on a minimum medium containing 1% barley bran. This peculiar strain released 83.5% of total ferulic acid present in barley bran after 5 days of incubation and the highest amount of released ferulic acid (19 mg/L) was observed on the 3rd day of incubation. The concentrated supernatant of S. tunisiensis also released ferulic acid from the parietal arabinoxylan complex of barley bran. This strain was able to convert the free ferulic acid into 4-vinyl guaiacol (14 mg/L) and acetovanillone (12 mg/L) at molar yield of 97% and 83% respectively. The biotransformation products were successively purified by preparative thin layer and silica gel column chromatography followed by HPLC and identified by <sup>1</sup>H nuclear magnetic resonance. Streptomyces tunisiensis DSM 42037 could have potential applications in the food, pharmaceutical and cosmetic industries thanks to its ability in biotransforming ferulic acid into 4-vinyl guaiacol and acetovanillone."
+  ],
+  "affiliation": [
+    "Laboratory of Bioactive Substances, Center of Biotechnology of Borj Cedria, BP-901, 2050, Hammam-lif, Tunisia."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioconversion",
+        "FeruLic acid",
+        "Acetovanillone",
+        "4-Vinylguaiacol",
+        "Dsm 42037",
+        "Streptomyces Tunisiensis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11274-021-03031-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-22"
+  ],
+  "firstIndexDate": [
+    "2021-03-23"
+  ],
+  "dateOfRevision": [
+    "2021-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-22"
+  ],
+  "firstPublicationDate": [
+    "2021-03-22"
+  ]
+}

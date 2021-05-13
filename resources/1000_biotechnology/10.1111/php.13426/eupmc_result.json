@@ -1,0 +1,343 @@
+{
+  "id": [
+    "33829505"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33829505"
+  ],
+  "doi": [
+    "10.1111/php.13426"
+  ],
+  "title": [
+    "Photobiological Effects on Biochemical Composition in Porphyridium cruentum (Rhodophyta) with a Biotechnological Application."
+  ],
+  "authorString": [
+    "Castro-Varela PA, Celis-Plá PSM, Abdala-Díaz R, Figueroa FL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Castro-Varela PA"
+          ],
+          "firstName": [
+            "Pablo A"
+          ],
+          "lastName": [
+            "Castro-Varela"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ecology and Geology, Faculty of Sciences, Institute of Blue Biotechnology and Development (IBYDA), University of Malaga, Málaga, Spain."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, University of La Frontera, Temuco, Chile."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Celis-Plá PSM"
+          ],
+          "firstName": [
+            "Paula S M"
+          ],
+          "lastName": [
+            "Celis-Plá"
+          ],
+          "initials": [
+            "PSM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2247-3787",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Coastal Environmental Research, Center of Advanced Studies, University of Playa Ancha, Traslaviña, Viña del Mar, Chile."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "HUB-AMBIENTAL UPLA, Vicerrectoría de Investigación Postgrado e Innovación, University of Playa Ancha, Valparaíso, Chile."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abdala-Díaz R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Abdala-Díaz"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ecology and Geology, Faculty of Sciences, Institute of Blue Biotechnology and Development (IBYDA), University of Malaga, Málaga, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Figueroa FL"
+          ],
+          "firstName": [
+            "Félix L"
+          ],
+          "lastName": [
+            "Figueroa"
+          ],
+          "initials": [
+            "FL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ecology and Geology, Faculty of Sciences, Institute of Blue Biotechnology and Development (IBYDA), University of Malaga, Málaga, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2247-3787",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3145736"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Photochemistry and photobiology"
+          ],
+          "ISOAbbreviation": [
+            "Photochem Photobiol"
+          ],
+          "medlineAbbreviation": [
+            "Photochem Photobiol"
+          ],
+          "NLMid": [
+            "0376425"
+          ],
+          "ISSN": [
+            "0031-8655"
+          ],
+          "ESSN": [
+            "1751-1097"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "This study describes the relation of photosynthetic capacity, growth and biochemical compounds in the microalgae Porphyridium cruentum under saturated irradiance (200 μmol m<sup>-2</sup>  s<sup>-1</sup> ) by white light (WL) and low-pressure sodium vapor lamps (SOX lamps-control) and supplemented by fluorescent lamps (FLs) with different light qualities (blue: λ<sub>max</sub> = 440 nm; green: λ<sub>max</sub> = 560 nm; and red: λ<sub>max</sub> = 660 nm). The maximum photosynthetic efficiency (F<sub>v</sub> / F<sub>m</sub> ) showed a positive correlation with the light quality by saturating light SOX in mixture with stimulating blue light than the white light (WL) at the harvest day (10 days). The production, that is maximal electron transport rate (ETR<sub>max</sub> ), and energy dissipation, that is maximal nonphotochemical quenching (NPQ<sub>max</sub> ), had the same pattern throughout the time (3-6 days) being the values higher under white light (WL) compared with SOX and SOX plus supplemented different light qualities. Total protein levels increased significantly in the presence of SOX light, while phycoerythrin (B-PE) showed significant differences under SOX+ blue light. Arachidonic acid (ARA) was higher under SOX and SOX plus supplemented different light qualities than that under WL, whereas eicosapentaenoic acid (EPA) was the reverse. The high photomorphogenic potential by SOX light shows promising application for microalgal biotechnology."
+  ],
+  "affiliation": [
+    "Department of Ecology and Geology, Faculty of Sciences, Institute of Blue Biotechnology and Development (IBYDA), University of Malaga, Málaga, Spain."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Photobiology and Biotechnology of Aquatic Organisms, RNM-295"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/php.13426"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-08"
+  ],
+  "firstIndexDate": [
+    "2021-04-09"
+  ],
+  "dateOfRevision": [
+    "2021-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-08"
+  ],
+  "firstPublicationDate": [
+    "2021-04-08"
+  ]
+}

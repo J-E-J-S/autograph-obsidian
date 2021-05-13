@@ -1,0 +1,462 @@
+{
+  "id": [
+    "33856342"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33856342"
+  ],
+  "doi": [
+    "10.7554/elife.67552"
+  ],
+  "title": [
+    "Coordination between nucleotide excision repair and specialized polymerase DnaE2 action enables DNA damage survival in non-replicating bacteria."
+  ],
+  "authorString": [
+    "Joseph AM, Daw S, Sadhir I, Badrinarayanan A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Joseph AM"
+          ],
+          "firstName": [
+            "Asha Mary"
+          ],
+          "lastName": [
+            "Joseph"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0465-9799",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Biological Sciences - Tata Institute of Fundamental Research, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Daw S"
+          ],
+          "firstName": [
+            "Saheli"
+          ],
+          "lastName": [
+            "Daw"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Biological Sciences - Tata Institute of Fundamental Research, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sadhir I"
+          ],
+          "firstName": [
+            "Ismath"
+          ],
+          "lastName": [
+            "Sadhir"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Biological Sciences - Tata Institute of Fundamental Research, Bangalore, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Max Planck Institute for Terrestrial Microbiology, LOEWE Centre for Synthetic Microbiology (SYNMIKRO), Marburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badrinarayanan A"
+          ],
+          "firstName": [
+            "Anjana"
+          ],
+          "lastName": [
+            "Badrinarayanan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5520-2134",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Centre for Biological Sciences - Tata Institute of Fundamental Research, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5520-2134",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0465-9799",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3143160"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Translesion synthesis (TLS) is a highly conserved mutagenic DNA lesion tolerance pathway, which employs specialized, low-fidelity DNA polymerases to synthesize across lesions. Current models suggest that activity of these polymerases is predominantly associated with ongoing replication, functioning either at or behind the replication fork. Here we provide evidence for DNA damage-dependent function of a specialized polymerase, DnaE2, in replication-independent conditions. We develop an assay to follow lesion repair in non-replicating <i>Caulobacter</i> and observe that components of the replication machinery localize on DNA in response to damage. These localizations persist in the absence of DnaE2 or if catalytic activity of this polymerase is mutated. Single-stranded DNA gaps for SSB binding and low-fidelity polymerase-mediated synthesis are generated by nucleotide excision repair (NER), as replisome components fail to localize in the absence of NER. This mechanism of gap-filling facilitates cell cycle restoration when cells are released into replication-permissive conditions. Thus, such cross-talk (between activity of NER and specialized polymerases in subsequent gap-filling) helps preserve genome integrity and enhances survival in a replication-independent manner."
+  ],
+  "affiliation": [
+    "National Centre for Biological Sciences - Tata Institute of Fundamental Research, Bangalore, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "12-R&D-TFR-5.04-0800"
+          ],
+          "agency": [
+            "Department of Atomic Energy, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "IYBA(BT/12/IYBA/2019/10)"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "00051/ 2017-C"
+          ],
+          "agency": [
+            "Human Frontier Science Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PDF/2018/001164"
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PDF/2018/001164"
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology, India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "00051/ 2017-C"
+          ],
+          "agency": [
+            "Human Frontier of Sciences Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "IYBA"
+          ],
+          "agency": [
+            "Department of Biotechnology, Ministry of Science and Technology, India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fluorescence microscopy",
+        "Cell biology",
+        "DNA repair",
+        "Nucleotide excision repair",
+        "chromosomes",
+        "Gene Expression",
+        "Caulobacter Crescentus",
+        "Dnae2",
+        "Error-prone Polymerases"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.67552"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR283667"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-15"
+  ],
+  "firstIndexDate": [
+    "2021-04-16"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-15"
+  ],
+  "firstPublicationDate": [
+    "2021-04-15"
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "id": [
+    "33973775"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33973775"
+  ],
+  "doi": [
+    "10.1021/acs.jafc.1c00542"
+  ],
+  "title": [
+    "Stability of Enzyme-Modified Flavonoid <i>C</i>- and <i>O</i>-Glycosides from Common Buckwheat Sprout Extracts during <i>In Vitro</i> Digestion and Colonic Fermentation."
+  ],
+  "authorString": [
+    "Jang D, Jung YS, Seong H, Kim MS, Rha CS, Nam TG, Han NS, Kim DO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jang D"
+          ],
+          "firstName": [
+            "Davin"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jung YS"
+          ],
+          "firstName": [
+            "Young Sung"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5589-3721",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seong H"
+          ],
+          "firstName": [
+            "Hyunbin"
+          ],
+          "lastName": [
+            "Seong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Brain Korea 21 Center for Bio-Resource Development, Division of Animal, Horticultural, and Food Sciences, Chungbuk National University, Cheongju 28644, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim MS"
+          ],
+          "firstName": [
+            "Mi-Seon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rha CS"
+          ],
+          "firstName": [
+            "Chan-Su"
+          ],
+          "lastName": [
+            "Rha"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4791-1314",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nam TG"
+          ],
+          "firstName": [
+            "Tae Gyu"
+          ],
+          "lastName": [
+            "Nam"
+          ],
+          "initials": [
+            "TG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Major of Food Science and Biotechnology, Division of Bio-convergence, Kyonggi University, Suwon 16227, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han NS"
+          ],
+          "firstName": [
+            "Nam Soo"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Brain Korea 21 Center for Bio-Resource Development, Division of Animal, Horticultural, and Food Sciences, Chungbuk National University, Cheongju 28644, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DO"
+          ],
+          "firstName": [
+            "Dae-Ok"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9262-1354",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5589-3721",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9262-1354",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4791-1314",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3163047"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of agricultural and food chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Agric Food Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Agric Food Chem"
+          ],
+          "NLMid": [
+            "0374755"
+          ],
+          "ISSN": [
+            "0021-8561"
+          ],
+          "ESSN": [
+            "1520-5118"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Common buckwheat sprout (CBS) contains more flavone <i>C</i>-glycosides (FCGs) and flavonol <i>O</i>-glycosides (FOGs) than does common buckwheat seed. Both flavonoids in CBS are well known for providing benefits to human health. However, they are relatively less bioaccessible and more directly degradable to aglycone during digestion than are multiglycosylated flavonoids. To overcome such limitations, the water solubility and digestion stability of FCGs and FOGs were enhanced by transglycosylation using cyclodextrin glycosyltransferase. Gastric conditions had little effect on the stability of FCGs and FOGs and their enzyme-modified compounds. In contrast, under intestinal conditions, transglycosylated FCGs lost a glucose moiety and reverted to their parent compounds before transglycosylation. Under colonic fermentation using human fecal samples, the different profiles and concentrations of short-chain fatty acids were suggested to be mainly due to the presence of transglycosylated FCGs and FOGs. These findings indicate that the process of transglycosylation changes the bioaccessibility of flavonoids in CBS."
+  ],
+  "affiliation": [
+    "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "In vitro digestion",
+        "Bioaccessibility",
+        "Cyclodextrin Glycosyltransferase",
+        "Transglycosylation",
+        "Fagopyrum Esculentum Möench"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acs.jafc.1c00542"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-11"
+  ],
+  "firstIndexDate": [
+    "2021-05-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-11"
+  ],
+  "firstPublicationDate": [
+    "2021-05-11"
+  ]
+}

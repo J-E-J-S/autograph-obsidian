@@ -1,0 +1,316 @@
+{
+  "id": [
+    "33737181"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33737181"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.03.072"
+  ],
+  "title": [
+    "Membrane-bound Δ12 fatty acid desaturase (FAD12); From Brassica napus to E. coli expression system."
+  ],
+  "authorString": [
+    "Halim NFAA, Ali MSM, Leow ATC, Rahman RNZRA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Halim NFAA"
+          ],
+          "firstName": [
+            "Nur Farah Anis Abd"
+          ],
+          "lastName": [
+            "Halim"
+          ],
+          "initials": [
+            "NFAA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia; Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ali MSM"
+          ],
+          "firstName": [
+            "Mohd Shukuri Mohamad"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "MSM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia; Department of Biochemistry, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia. Electronic address: mshukuri@upm.edu.my."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leow ATC"
+          ],
+          "firstName": [
+            "Adam Thean Chor"
+          ],
+          "lastName": [
+            "Leow"
+          ],
+          "initials": [
+            "ATC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia; Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia. Electronic address: adamleow@upm.edu.my."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rahman RNZRA"
+          ],
+          "firstName": [
+            "Raja Noor Zaliha Raja Abd"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "RNZRA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia; Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia. Electronic address: rnzaliha@upm.edu.my."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "180"
+      ],
+      "journalIssueId": [
+        "3168731"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "242-251"
+  ],
+  "abstractText": [
+    "Fatty acid desaturase catalyzes the desaturation reactions by insertion of double bonds into the fatty acyl chain, producing unsaturated fatty acids. Though soluble fatty acid desaturases have been studied widely in advanced organisms, there are very limited studies of membrane fatty acid desaturases due to the difficulty of generating recombinant desaturase. Brassica napus is a rapeseed, which possesses a range of different membrane-bound desaturases capable of producing fatty acids including Δ3, Δ4, Δ8, Δ9, Δ12, and Δ15 fatty acids. The 1155 bp open reading frame of Δ12 fatty acid desaturase (FAD12) from Brassica napus codes for 383 amino acid residues with a molecular weight of 44 kDa. It was expressed in Escherichia coli at 37 °C in soluble and insoluble forms when induced with 0.5 mM IPTG. Soluble FAD12 has been purified using Ni<sup>2+</sup>-Sepharose affinity chromatography with a total protein yield of 0.728 mg/mL. Gas chromatography-mass spectrometry (GC-MS) analysis revealed that desaturase activity of FAD12 could produce linoleic acid from oleic acid at a retention time of 17.6 with a conversion rate of 47%. Characterization of purified FAD12 revealed the optimal temperature of FAD12 was 50 °C with 2 mM preferred substrate concentration of oleic acid. Analysis of circular dichroism (CD) showed FAD12 was made up of 47.3% and 0.9% of alpha-helix and β-sheet secondary structures. The predicted Tm value was 50.2 °C."
+  ],
+  "affiliation": [
+    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia; Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Expression",
+        "membrane proteins",
+        "Fatty acid desaturase",
+        "Functional Characterization",
+        "Fatty Acid Analysis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.03.072"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-19"
+  ],
+  "firstIndexDate": [
+    "2021-03-20"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

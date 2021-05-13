@@ -1,0 +1,347 @@
+{
+  "id": [
+    "33968585"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33968585"
+  ],
+  "doi": [
+    "10.1007/s13205-021-02796-7"
+  ],
+  "title": [
+    "Role of probiotics in prevention and treatment of enteric infections: a comprehensive review."
+  ],
+  "authorString": [
+    "Iqbal Z, Ahmed S, Tabassum N, Bhattacharya R, Bose D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Iqbal Z"
+          ],
+          "firstName": [
+            "Zunaira"
+          ],
+          "lastName": [
+            "Iqbal"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbiology, University of Central Punjab, Johar Town, 1-Khayaban-e-Jinnah Road, Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmed S"
+          ],
+          "firstName": [
+            "Shahzaib"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, University of Central Punjab, Johar Town, 1-Khayaban-e-Jinnah Road, Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tabassum N"
+          ],
+          "firstName": [
+            "Natasha"
+          ],
+          "lastName": [
+            "Tabassum"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, University of Central Punjab, Johar Town, 1-Khayaban-e-Jinnah Road, Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhattacharya R"
+          ],
+          "firstName": [
+            "Riya"
+          ],
+          "lastName": [
+            "Bhattacharya"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Applied Sciences and Biotechnology, School of Biotechnology, Shoolini University of Biotechnology and Management Sciences, Solan, Himachal Pradesh India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bose D"
+          ],
+          "firstName": [
+            "Debajyoti"
+          ],
+          "lastName": [
+            "Bose"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3457-6994",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Applied Sciences and Biotechnology, School of Biotechnology, Shoolini University of Biotechnology and Management Sciences, Solan, Himachal Pradesh India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3457-6994",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3153052"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "3 Biotech"
+          ],
+          "ISOAbbreviation": [
+            "3 Biotech"
+          ],
+          "medlineAbbreviation": [
+            "3 Biotech"
+          ],
+          "NLMid": [
+            "101565857"
+          ],
+          "ISSN": [
+            "2190-572X"
+          ],
+          "ESSN": [
+            "2190-5738"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "242"
+  ],
+  "abstractText": [
+    "Microorganisms that inhabits human digestive tract affect global health and enteric disorders. Previous studies have documented the effectiveness and mode of action of probiotics and classified as human-friendly biota and a competitor to enteric pathogens. Statistical studies reported more than 1.5 billion cases of gastrointestinal infections caused by enteric pathogens and their long-term exposure can lead to mental retardation, temporary or permanent physical weakness, and leaving the patient susceptible for opportunistic pathogens, which can cause fatality. We reviewed previous literature providing evidence about therapeutic approaches regarding probiotics to cure enteric infections efficiently by producing inhibitory substances, immune system modulation, improved barrier function. The therapeutic effects of probiotics have shown success against many foodborne pathogens and their therapeutic effectiveness has been exponentially increased using genetically engineered probiotics. The bioengineered probiotic strains are expected to provide a better and alternative approach than traditional antibiotic therapy against enteric pathogens, but the novelty of these strains also raise doubts about the possible untapped side effects, for which there is a need for further studies to eliminate the concerns relating to the use and safety of probiotics. Many such developments and optimization of the classical techniques will revolutionize the treatments for enteric infections."
+  ],
+  "affiliation": [
+    "Department of Microbiology, University of Central Punjab, Johar Town, 1-Khayaban-e-Jinnah Road, Lahore, Pakistan."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Probiotics",
+        "Enteric Infections",
+        "Therapeutic Approach",
+        "Bacterial Strains",
+        "Regulation Of Gut Barrier"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13205-021-02796-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-27"
+  ],
+  "firstPublicationDate": [
+    "2021-04-27"
+  ],
+  "embargoDate": [
+    "2022-05-01"
+  ]
+}

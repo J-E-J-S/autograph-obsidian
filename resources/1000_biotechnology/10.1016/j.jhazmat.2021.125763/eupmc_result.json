@@ -1,0 +1,365 @@
+{
+  "id": [
+    "33839500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33839500"
+  ],
+  "doi": [
+    "10.1016/j.jhazmat.2021.125763"
+  ],
+  "title": [
+    "Biodegradable polymers: A real opportunity to solve marine plastic pollution?"
+  ],
+  "authorString": [
+    "Manfra L, Marengo V, Libralato G, Costantini M, De Falco F, Cocca M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Manfra L"
+          ],
+          "firstName": [
+            "Loredana"
+          ],
+          "lastName": [
+            "Manfra"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for Environmental Protection and Research (ISPRA), Via Vitaliano Brancati 48, 00144 Rome, Italy; Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Marengo V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Marengo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Libralato G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Libralato"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy; Department of Biology, University of Naples Federico II Complesso Universitario di Monte Sant'Angelo, Via Cinthia, 80126 Napoli, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Costantini M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Costantini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy. Electronic address: maria.costantini@szn.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Falco F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "De Falco"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for Polymers, Composites and Biomaterials, National Research Council of Italy, Via Campi Flegri, 34, 80078 Pozzuoli, NA, Italy. Electronic address: francesca.defalco@ipcb.cnr.it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cocca M"
+          ],
+          "firstName": [
+            "Mariacristina"
+          ],
+          "lastName": [
+            "Cocca"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for Polymers, Composites and Biomaterials, National Research Council of Italy, Via Campi Flegri, 34, 80078 Pozzuoli, NA, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "416"
+      ],
+      "journalIssueId": [
+        "3145750"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of hazardous materials"
+          ],
+          "ISOAbbreviation": [
+            "J Hazard Mater"
+          ],
+          "medlineAbbreviation": [
+            "J Hazard Mater"
+          ],
+          "NLMid": [
+            "9422688"
+          ],
+          "ISSN": [
+            "0304-3894"
+          ],
+          "ESSN": [
+            "1873-3336"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "125763"
+  ],
+  "abstractText": [
+    "Plastic is a ubiquitous material in our life, and its durability represents a great problem for the environment. Several studies reported the occurrence of plastic litter in different environmental compartments and, consequently, numerous efforts are currently focused on how improving its recycling process and produce environmentally friendly solutions. In recent years, biodegradable polymers/plastics (BPs) have been proposed to reduce environmental impacts in specific applications (e.g., when conventional plastics are difficult or expensive to remove from the environment). Their wide use in commercial products, especially in the packaging sector, is causing new pollution alarm. Research studies are ongoing to improve BPs manufacturing and characteristics, but few data are reported about their behavior and toxicity into the marine environment. This paper reviewed the current state of the art highlighting that, even though the degradation of BPs in simulated or real marine environments is quite investigated, only eleven papers reported their effects on marine organisms (e.g., behavioral and oxidative stress and potential cascading effects on marine ecosystems). Presently, the main benefits of BPs are linked to waste management (including collection and recycling of organic waste). Due to the existing knowledge gaps, BPs cannot be deemed yet as a solution to marine plastic pollution."
+  ],
+  "affiliation": [
+    "Institute for Environmental Protection and Research (ISPRA), Via Vitaliano Brancati 48, 00144 Rome, Italy; Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biodegradable Plastics",
+        "Research Challenges",
+        "Marine Ecotoxicology",
+        "Sea Behavior"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jhazmat.2021.125763"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-11"
+  ],
+  "firstIndexDate": [
+    "2021-04-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-26"
+  ],
+  "firstPublicationDate": [
+    "2021-03-26"
+  ]
+}

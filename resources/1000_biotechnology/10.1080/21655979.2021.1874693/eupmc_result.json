@@ -1,0 +1,439 @@
+{
+  "id": [
+    "33470174"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33470174"
+  ],
+  "doi": [
+    "10.1080/21655979.2021.1874693"
+  ],
+  "title": [
+    "Effect of fed-batch and chemostat cultivation processes of <i>C. glutamicum</i> CP for L-leucine production."
+  ],
+  "authorString": [
+    "Zhang Y, Xiong H, Chen Z, Fu Y, Xu Q, Chen N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yufu"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong H"
+          ],
+          "firstName": [
+            "Haibo"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhichao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu Y"
+          ],
+          "firstName": [
+            "Yunpeng"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Q"
+          ],
+          "firstName": [
+            "Qingyang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1619-3508",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Fermentation Microbiology, Tianjin University of Science & Technology, Ministry of Education , Tianjin, P. R. China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tianjin Key Laboratory of Industrial Microbiology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1619-3508",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "426-439"
+  ],
+  "abstractText": [
+    "Most of the current industrial processes for L-leucine production are based on fermentation, usually in fed-batch operation mode. Although the culture technology has advanced in recent decades, the process still has significant drawbacks. To solve these problems, we investigated the effects of chemostat culture conditions on the production of L-leucine by <i>Corynebacterium glutamicum</i> CP. The dilution rate, the nitrogen source, and the carbon-nitrogen ratio of the medium were optimized. With the addition of ammonium acetate to the chemostat medium, the initial C/N ratio was adjusted to 57.6, and the L-leucine titer reached the highest level at the optimal dilution rate of 0.04 h<sup>-1</sup>. Compared with fed-batch culture, the L-leucine titer was reduced (from 53.0 to 24.8 g L<sup>-1</sup>), but the yield from glucose was increased by 10.0% (from 0.30 to 0.33 mol mol<sup>-1</sup>) and productivity was increased by 58.3% (from 1.2 to 1.9 g L<sup>-1</sup> h<sup>-1</sup>). Moreover, the titer of the by-product L-alanine was significantly reduced (from 8.9 to 0.8 g L<sup>-1</sup>). In addition, gene expression levels and activity of key enzymes in the synthesis of L-leucine and L-alanine were analyzed to explain the difference of production performance between chemostat culture and fed-batch culture. The results indicate that chemostat culture has great potential to increase the industrial production of L-leucine compared to current fed-batch approaches."
+  ],
+  "affiliation": [
+    "College of Biotechnology, Tianjin University of Science & Technology , Tianjin, P. R. China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Corynebacterium glutamicum",
+        "Chemostat",
+        "L-leucine",
+        "fed-batch",
+        "L-alanine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2021.1874693"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-20"
+  ],
+  "firstIndexDate": [
+    "2021-01-21"
+  ],
+  "dateOfRevision": [
+    "2021-01-20"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "id": [
+    "33852023"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33852023"
+  ],
+  "doi": [
+    "10.1007/s00253-021-11280-4"
+  ],
+  "title": [
+    "Effect of quorum-sensing molecule 2-phenylethanol and ARO genes on Saccharomyces cerevisiae biofilm."
+  ],
+  "authorString": [
+    "Zhang D, Wang F, Yu Y, Ding S, Chen T, Sun W, Liang C, Yu B, Ying H, Liu D, Chen Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Deli"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Fangjuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding S"
+          ],
+          "firstName": [
+            "Sai"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen T"
+          ],
+          "firstName": [
+            "Tianpeng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun W"
+          ],
+          "firstName": [
+            "Wenjun"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang C"
+          ],
+          "firstName": [
+            "Caice"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ying H"
+          ],
+          "firstName": [
+            "Hanjie"
+          ],
+          "lastName": [
+            "Ying"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Chemical Engineering and Energy, Zhengzhou University, Zhengzhou, 450000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China. liudong@njtech.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China. liudong@njtech.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Chemical Engineering and Energy, Zhengzhou University, Zhengzhou, 450000, China. liudong@njtech.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China. chenyong1982@njtech.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China. chenyong1982@njtech.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "105"
+      ],
+      "journalIssueId": [
+        "3166657"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "8406612"
+          ],
+          "ISSN": [
+            "0175-7598"
+          ],
+          "ESSN": [
+            "1432-0614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "3635-3648"
+  ],
+  "abstractText": [
+    "Biofilms are a form of microbial community that can be beneficial for industrial fermentation because of their remarkable environmental resistance. However, the mechanism of biofilm formation in Saccharomyces cerevisiae remains to be fully explored, and this may enable improved industrial applications for this organism. Although quorum-sensing (QS) molecules are known to be involved in bacteria biofilm formation, few studies have been undertaken with these in fungi. 2-phenylethanol (2-PE) is considered a QS molecule in S. cerevisiae. Here, we found that exogenous 2-PE could stimulate biofilm formation at low cell concentrations. ARO8p and ARO9p are responsible for the synthesis of 2-PE and were crucial to the formation of biofilm. Deletion of the ARO8 and ARO9 genes reduced the content of 2-PE in the early stage of fermentation, reduced ethanol yield and decreased biofilm formation. The expression of FLOp, which is involved in cell adhesion, and the content of extracellular polysaccharides of mutant strains ΔARO8 and ΔARO9 were also significantly reduced. These findings indicate that the production of 2-PE had a positive effect on biofilm formation in S. cerevisiae, thereby providing further key details for studying the formation of biofilm mechanism in the future. KEY POINTS: • Quorum-sensing molecule 2-PE positively affects biofilm formation in S. cerevisiae. • 2-PE synthetic genes ARO8 and ARO9 deletion reduced extracellular polysaccharide. • ARO8 and ARO9 deletion reduced the gene expression of the FLO family."
+  ],
+  "affiliation": [
+    "National Engineering Research Center for Biotechnology, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "SBK2017010373"
+          ],
+          "agency": [
+            "National Outstanding Youth Science Fund Project of National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018YFA0902200;2018YFA0902200"
+          ],
+          "agency": [
+            "National Key Research and Development Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BE2014715"
+          ],
+          "agency": [
+            "the Technology Support Program of Jiangsu"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "IRT_14R28"
+          ],
+          "agency": [
+            "Changjiang Scholar Program of Chinese Ministry of Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Biofilm",
+        "Quorum-sensing",
+        "2-Phenylethanol",
+        "Aro9",
+        "Ehrlich Pathway",
+        "Aro8"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00253-021-11280-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-14"
+  ],
+  "firstIndexDate": [
+    "2021-04-15"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-14"
+  ],
+  "firstPublicationDate": [
+    "2021-04-14"
+  ]
+}

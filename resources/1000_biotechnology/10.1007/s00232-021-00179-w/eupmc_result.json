@@ -1,0 +1,334 @@
+{
+  "id": [
+    "33954837"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33954837"
+  ],
+  "doi": [
+    "10.1007/s00232-021-00179-w"
+  ],
+  "title": [
+    "Recent Insights into the Structure and Function of Mycobacterial Membrane Proteins Facilitated by Cryo-EM."
+  ],
+  "authorString": [
+    "Bendre AD, Peters PJ, Kumar J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bendre AD"
+          ],
+          "firstName": [
+            "Ameya D"
+          ],
+          "lastName": [
+            "Bendre"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Membrane Protein Biology, National Centre for Cell Science, NCCS Complex, S. P. Pune University Campus, Ganeshkhind, Pune, Maharashtra, 411007, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peters PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Peters"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Maastricht Multimodal Molecular Imaging Institute (M4I), Division of Nanoscopy, Maastricht University, Maastricht, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar J"
+          ],
+          "firstName": [
+            "Janesh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0767-3788",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Membrane Protein Biology, National Centre for Cell Science, NCCS Complex, S. P. Pune University Campus, Ganeshkhind, Pune, Maharashtra, 411007, India. janesh@nccs.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0767-3788",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162934"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of membrane biology"
+          ],
+          "ISOAbbreviation": [
+            "J Membr Biol"
+          ],
+          "medlineAbbreviation": [
+            "J Membr Biol"
+          ],
+          "NLMid": [
+            "0211301"
+          ],
+          "ISSN": [
+            "0022-2631"
+          ],
+          "ESSN": [
+            "1432-1424"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Mycobacterium tuberculosis (Mtb) is one of the deadliest pathogens encountered by humanity. Over the decades, its characteristic membrane organization and composition have been understood. However, there is still limited structural information and mechanistic understanding of the constituent membrane proteins critical for drug discovery pipelines. Recent advances in single-particle cryo-electron microscopy and cryo-electron tomography have provided the much-needed impetus towards structure determination of several vital Mtb membrane proteins whose structures were inaccessible via X-ray crystallography and NMR. Important insights into membrane composition and organization have been gained via a combination of electron tomography and biochemical and biophysical assays. In addition, till the time of writing this review, 75 new structures of various Mtb proteins have been reported via single-particle cryo-EM. The information obtained from these structures has improved our understanding of the mechanisms of action of these proteins and the physiological pathways they are associated with. These structures have opened avenues for structure-based drug design and vaccine discovery programs that might help achieve global-TB control. This review describes the structural features of selected membrane proteins (type VII secretion systems, Rv1819c, Arabinosyltransferase, Fatty Acid Synthase, F-type ATP synthase, respiratory supercomplex, ClpP1P2 protease, ClpB disaggregase and SAM riboswitch), their involvement in physiological pathways, and possible use as a drug target. Tuberculosis is a deadly disease caused by Mycobacterium tuberculosis. The Cryo-EM and tomography have simplified the understanding of the mycobacterial membrane organization. Some proteins are located in the plasma membrane; some span the entire envelope, while some, like MspA, are located in the mycomembrane. Cryo-EM has made the study of such membrane proteins feasible."
+  ],
+  "affiliation": [
+    "Laboratory of Membrane Protein Biology, National Centre for Cell Science, NCCS Complex, S. P. Pune University Campus, Ganeshkhind, Pune, Maharashtra, 411007, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/PR15450/COE/34/46/2016"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology (IN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "184.034.014"
+          ],
+          "agency": [
+            "Dutch Research Council (NWO)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Membrane protein",
+        "Mycobacterium",
+        "drug discovery",
+        "protein structure",
+        "Cryo-em"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00232-021-00179-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-06"
+  ],
+  "firstIndexDate": [
+    "2021-05-07"
+  ],
+  "dateOfRevision": [
+    "2021-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-05"
+  ],
+  "firstPublicationDate": [
+    "2021-05-05"
+  ]
+}

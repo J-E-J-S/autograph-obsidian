@@ -1,0 +1,387 @@
+{
+  "id": [
+    "33794195"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33794195"
+  ],
+  "doi": [
+    "10.1016/j.clinbiochem.2021.03.014"
+  ],
+  "title": [
+    "The use of aptamers in prostate cancer: A systematic review of theranostic applications."
+  ],
+  "authorString": [
+    "Campos-Fernández E, Oliveira Alqualo N, Moura Garcia LC, Coutinho Horácio Alves C, Ferreira Arantes Vieira TD, Caixeta Moreira D, Alonso-Goulart V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Campos-Fernández E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Campos-Fernández"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: esther.fernandez@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oliveira Alqualo N"
+          ],
+          "firstName": [
+            "Nathalia"
+          ],
+          "lastName": [
+            "Oliveira Alqualo"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: nathalia.alqualo@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moura Garcia LC"
+          ],
+          "firstName": [
+            "Lorrayne Cristina"
+          ],
+          "lastName": [
+            "Moura Garcia"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: lorraynegarcia@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coutinho Horácio Alves C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Coutinho Horácio Alves"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: caroline.alves@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ferreira Arantes Vieira TD"
+          ],
+          "firstName": [
+            "Tábatha Danielle"
+          ],
+          "lastName": [
+            "Ferreira Arantes Vieira"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: tabathafvieira@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Caixeta Moreira D"
+          ],
+          "firstName": [
+            "Danilo"
+          ],
+          "lastName": [
+            "Caixeta Moreira"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: danilocaixetam@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso-Goulart V"
+          ],
+          "firstName": [
+            "Vivian"
+          ],
+          "lastName": [
+            "Alonso-Goulart"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: alonso.goulart@ufu.br."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3125031"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Clin Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Clin Biochem"
+          ],
+          "NLMid": [
+            "0133660"
+          ],
+          "ISSN": [
+            "0009-9120"
+          ],
+          "ESSN": [
+            "1873-2933"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Since prostate cancer (PCa) relies on limited diagnosis and therapies, more effective alternatives are needed. Aptamers are versatile tools that may be applied for better clinical management of PCa patients. This review shows the trends on aptamer-based applications for PCa to understand their future development. We searched articles reporting aptamers applied in PCa on the Pubmed, Scopus and Web of Science databases over the last decade. Almost 80% of the articles used previously selected aptamers in novel approaches. However, cell-SELEX was the most applied technique for the selection of new aptamers allowing their binding to targets in their native configuration. ssDNA aptamers were 24% more common than RNA aptamers. The most studied PCa-specific aptamers were the DNA PSA-specific aptamer PSap4#5 and the PSMA-specific RNA aptamers A10 and A9, being PSA and PSMA the most reported targets. Thus, researchers still prefer the ease of use of DNA aptamers. Blood-based liquid biopsies represented 24% of all samples, being the most promising clinical samples. Especially noteworthy, electro-analytical methods accounted for more than 40% of the diagnostic techniques and treatment approaches with drug delivery systems or transcriptional modifiers were reported in 70% of the articles. Although all these articles showed clinically relevant aptamers for PCa and there are good prospects for their use, the development of all these strategies was in its early stages. Thus, the aptamers are not completely validated and we foresee that the completion of clinical studies will allow the implementation of these aptamer-based technologies in the clinical practice of PCa."
+  ],
+  "affiliation": [
+    "Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal University of Uberlândia, Pará Avenue, 1720, Room 248, Building 2E, Umuarama Campus, Uberlândia, MG 38405-320, Brazil. Electronic address: esther.fernandez@ufu.br."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biosensors",
+        "Aptamers",
+        "Nanotechnology",
+        "prostate cancer",
+        "Diagnostics",
+        "Theranostics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.clinbiochem.2021.03.014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-01"
+  ],
+  "firstIndexDate": [
+    "2021-04-02"
+  ],
+  "dateOfRevision": [
+    "2021-04-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-29"
+  ],
+  "firstPublicationDate": [
+    "2021-03-29"
+  ]
+}

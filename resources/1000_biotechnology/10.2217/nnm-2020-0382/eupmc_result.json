@@ -1,0 +1,378 @@
+{
+  "id": [
+    "33970682"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970682"
+  ],
+  "doi": [
+    "10.2217/nnm-2020-0382"
+  ],
+  "title": [
+    "Cancer nanomedicine developed from total human serum: a novel approach for making personalized nanomedicine."
+  ],
+  "authorString": [
+    "Thayath J, Pavithran K, Nair SV, Koyakutty M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thayath J"
+          ],
+          "firstName": [
+            "Jyotsna"
+          ],
+          "lastName": [
+            "Thayath"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5715-0435",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Nanosciences & Molecular Medicine, Amrita Vishwa Vidyapeetham University, Kochi, Kerala, 682041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pavithran K"
+          ],
+          "firstName": [
+            "Keechilat"
+          ],
+          "lastName": [
+            "Pavithran"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6129-5709",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Oncology & Hematology, Amrita Institute of Medical Sciences & Research Centre, Amrita Vishwa Vidyapeetham, Kochi, Kerala, 682041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nair SV"
+          ],
+          "firstName": [
+            "Shantikumar V"
+          ],
+          "lastName": [
+            "Nair"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2648-1813",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Nanosciences & Molecular Medicine, Amrita Vishwa Vidyapeetham University, Kochi, Kerala, 682041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koyakutty M"
+          ],
+          "firstName": [
+            "Manzoor"
+          ],
+          "lastName": [
+            "Koyakutty"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7217-4777",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Nanosciences & Molecular Medicine, Amrita Vishwa Vidyapeetham University, Kochi, Kerala, 682041, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2648-1813",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5715-0435",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6129-5709",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7217-4777",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3164282"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomedicine (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomedicine (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomedicine (Lond)"
+          ],
+          "NLMid": [
+            "101278111"
+          ],
+          "ISSN": [
+            "1743-5889"
+          ],
+          "ESSN": [
+            "1748-6963"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<b>Aim:</b> To develop a method for making total serum nanoparticles (TSN) loaded with cytotoxic chemodrugs for cancer therapy. <b>Materials & methods:</b> TSN loaded with paclitaxel (PTX) or piperlongumine (PL) were prepared using high-pressure homogenization and tested for immunogenicity in healthy animals and antitumor properties in pancreatic cancer xenograft models. <b>Results:</b> TSN-PL nanoparticles of average size 104 nm and encapsulation efficiency approximately 50% showed enhanced dose-dependent cytotoxicity compared with TSN-PTX or clinically used combination of gemcitabine and nano-PTX in two pancreatic cell lines. Significant antitumor efficacy was also established in the pancreatic xenograft model. <b>Conclusion:</b> We developed a unique method of converting total blood serum into chemo drug-loaded nanoparticles and demonstrated its efficacy <i>in vitro</i> and <i>in vivo.</i>"
+  ],
+  "affiliation": [
+    "Centre for Nanosciences & Molecular Medicine, Amrita Vishwa Vidyapeetham University, Kochi, Kerala, 682041, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/PK 7665/NNT/28/658/2013"
+          ],
+          "agency": [
+            "Nanobiotechnology task force, Department of Biotechnology (DBT) Govt of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2217/nnm-2020-0382"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

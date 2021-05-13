@@ -1,0 +1,346 @@
+{
+  "id": [
+    "33939333"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33939333"
+  ],
+  "doi": [
+    "10.1002/adhm.202100062"
+  ],
+  "title": [
+    "Hydrogels and Their Role in Biosensing Applications."
+  ],
+  "authorString": [
+    "Herrmann A, Haag R, Schedler U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Herrmann A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Herrmann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Chemistry, Pharmacy, Freie Universität Berlin, Takustr. 3, Berlin, 14195, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haag R"
+          ],
+          "firstName": [
+            "Rainer"
+          ],
+          "lastName": [
+            "Haag"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3840-162X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Chemistry, Pharmacy, Freie Universität Berlin, Takustr. 3, Berlin, 14195, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schedler U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Schedler"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "PolyAn GmbH, Rudolf-Baschant-Straße 2, Berlin, 13086, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3840-162X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162870"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced healthcare materials"
+          ],
+          "ISOAbbreviation": [
+            "Adv Healthc Mater"
+          ],
+          "medlineAbbreviation": [
+            "Adv Healthc Mater"
+          ],
+          "NLMid": [
+            "101581613"
+          ],
+          "ISSN": [
+            "2192-2640"
+          ],
+          "ESSN": [
+            "2192-2659"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e2100062"
+  ],
+  "abstractText": [
+    "Hydrogels play an important role in the field of biomedical research and diagnostic medicine. They are emerging as a powerful tool in the context of bioanalytical assays and biosensing. In this context, this review gives an overview of different hydrogels and the role they adopt in a range of applications. Not only are hydrogels beneficial for the immobilization and embedding of biomolecules, but they are also used as responsive material, as wearable devices, or as functional material. In particular, the scientific and technical progress during the last decade is discussed. The newest hydrogel types, their synthesis, and many applications are presented. Advantages and performance improvements are described, along with their limitations."
+  ],
+  "affiliation": [
+    "Department of Biology, Chemistry, Pharmacy, Freie Universität Berlin, Takustr. 3, Berlin, 14195, Germany."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "SFB 1449 - Projektnummer 431232613"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Dynamic Hydrolgel at Biointerfaces"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KMU-innovative program: Biotechnology - Biochance"
+          ],
+          "agency": [
+            "Bundesministerium für Bildung und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "hydrogels",
+        "Bioassays",
+        "Immunoassays",
+        "Biosensing",
+        "Wearables",
+        "Hybridization Assays"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/adhm.202100062"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-03"
+  ],
+  "firstIndexDate": [
+    "2021-05-04"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-03"
+  ],
+  "firstPublicationDate": [
+    "2021-05-03"
+  ]
+}

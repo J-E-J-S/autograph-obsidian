@@ -1,0 +1,358 @@
+{
+  "id": [
+    "33930715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33930715"
+  ],
+  "doi": [
+    "10.1016/j.molimm.2021.04.018"
+  ],
+  "title": [
+    "iTRAQ-based quantitative proteomic analysis of silkworm infected with Beauveria bassiana."
+  ],
+  "authorString": [
+    "Lü D, Xu P, Hou C, Li R, Hu C, Guo X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lü D"
+          ],
+          "firstName": [
+            "Dingding"
+          ],
+          "lastName": [
+            "Lü"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhenjiang College, Zhenjiang, 212028, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, 212018, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hou C"
+          ],
+          "firstName": [
+            "Chengxiang"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, 212018, China; Sericultural Research Institute, Chinese Academy of Agricultural Sciences, Zhenjiang, 212018, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Ruilin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, 212018, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu C"
+          ],
+          "firstName": [
+            "Congwu"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, 212018, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo X"
+          ],
+          "firstName": [
+            "Xijie"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, 212018, China; Sericultural Research Institute, Chinese Academy of Agricultural Sciences, Zhenjiang, 212018, China. Electronic address: guoxijie@just.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "135"
+      ],
+      "journalIssueId": [
+        "3150188"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular immunology"
+          ],
+          "ISOAbbreviation": [
+            "Mol Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Mol Immunol"
+          ],
+          "NLMid": [
+            "7905289"
+          ],
+          "ISSN": [
+            "0161-5890"
+          ],
+          "ESSN": [
+            "1872-9142"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "204-216"
+  ],
+  "abstractText": [
+    "Beauveria bassiana is a harmful pathogen to the economically important insect silkworm, always causes serious disease to the silkworm, which results in great losses to the sericulture industry. In order to explore the silkworm (Bombyx mori) response to B. bassiana infection, differential proteomes of the silkworm responsive to B. bassiana infection were identified with isobaric tags for relative and absolute quantitation (iTRAQ) at the different stage of the 3rd instar silkworm larvae. Among the 5040 proteins identified with confidence level of ≥95 %, total 937 proteins were differentially expressed, of which 488 proteins were up-regulated and 449 proteins were down-regulated. 23, 15, 250, 649 differentially expressed proteins (DEPs) were reliably quantified by iTRAQ analysis in the B. bassiana infected larvae at 18, 24, 36, 48 h post infection (hpi) respectively. Based on GO annotations, 6, 4, 128, 316 DEPs were involved in biological processes, 12, 5, 143, 376 DEPs were involved in molecular functions, and 6, 3, 108, 256 DEPs were involved in cell components at 18, 24, 36, 48 hpi respectively. KEGG pathway analysis displayed that 18, 12, 210, 548 DEPs separately participated in 63, 35, 201, 264 signal transduction pathways at different time of infection, and moreover a higher proportion of DEPs involved in metabolic pathways. The cluster analysis on the DEPs of different infection stages distinguished a co-regulated DEP, lysozyme precursor, which was up-regulated at both the mRNA level and the protein level, indicating that the lysozyme protein kept playing an important role in defending the silkworm against B. bassiana infection. This was the first report using an iTRAQ approach to analyze proteomes of the whole silkworm against B. bassiana infection, which contributes to better understanding the defense mechanisms of silkworm to B. bassiana infection and provides important experimental data for the identification of key factors involved in the interaction between the pathogenic fungus and its host."
+  ],
+  "affiliation": [
+    "Zhenjiang College, Zhenjiang, 212028, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Beauveria bassiana",
+        "Bombyx mori",
+        "Proteome",
+        "Itraq"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.molimm.2021.04.018"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "id": [
+    "33932076"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33932076"
+  ],
+  "doi": [
+    "10.15252/embr.202051851"
+  ],
+  "title": [
+    "Parp1 hyperactivity couples DNA breaks to aberrant neuronal calcium signalling and lethal seizures."
+  ],
+  "authorString": [
+    "Komulainen E, Badman J, Rey S, Rulten S, Ju L, Fennell K, Kalasova I, Ilievova K, McKinnon PJ, Hanzlikova H, Staras K, Caldecott KW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Komulainen E"
+          ],
+          "firstName": [
+            "Emilia"
+          ],
+          "lastName": [
+            "Komulainen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badman J"
+          ],
+          "firstName": [
+            "Jack"
+          ],
+          "lastName": [
+            "Badman"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Sussex Neuroscience, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rey S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Rey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sussex Neuroscience, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rulten S"
+          ],
+          "firstName": [
+            "Stuart"
+          ],
+          "lastName": [
+            "Rulten"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ju L"
+          ],
+          "firstName": [
+            "Limei"
+          ],
+          "lastName": [
+            "Ju"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fennell K"
+          ],
+          "firstName": [
+            "Kate"
+          ],
+          "lastName": [
+            "Fennell"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sussex Neuroscience, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kalasova I"
+          ],
+          "firstName": [
+            "Ilona"
+          ],
+          "lastName": [
+            "Kalasova"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8235-1805",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genome Dynamics, Institute of Molecular Genetics of the Czech Academy of Sciences, Prague, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ilievova K"
+          ],
+          "firstName": [
+            "Kristyna"
+          ],
+          "lastName": [
+            "Ilievova"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genome Dynamics, Institute of Molecular Genetics of the Czech Academy of Sciences, Prague, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "McKinnon PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "McKinnon"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0485-3778",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Genetics, St Jude Children's Research Hospital, Memphis, TN, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hanzlikova H"
+          ],
+          "firstName": [
+            "Hana"
+          ],
+          "lastName": [
+            "Hanzlikova"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7235-7269",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Genome Dynamics, Institute of Molecular Genetics of the Czech Academy of Sciences, Prague, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Staras K"
+          ],
+          "firstName": [
+            "Kevin"
+          ],
+          "lastName": [
+            "Staras"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4141-339X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sussex Neuroscience, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Caldecott KW"
+          ],
+          "firstName": [
+            "Keith W"
+          ],
+          "lastName": [
+            "Caldecott"
+          ],
+          "initials": [
+            "KW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4255-9016",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Genome Dynamics, Institute of Molecular Genetics of the Czech Academy of Sciences, Prague, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7235-7269",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8235-1805",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0485-3778",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4141-339X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4255-9016",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3164980"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EMBO reports"
+          ],
+          "ISOAbbreviation": [
+            "EMBO Rep"
+          ],
+          "medlineAbbreviation": [
+            "EMBO Rep"
+          ],
+          "NLMid": [
+            "100963049"
+          ],
+          "ISSN": [
+            "1469-221X"
+          ],
+          "ESSN": [
+            "1469-3178"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e51851"
+  ],
+  "abstractText": [
+    "Defects in DNA single-strand break repair (SSBR) are linked with neurological dysfunction but the underlying mechanisms remain poorly understood. Here, we show that hyperactivity of the DNA strand break sensor protein Parp1 in mice in which the central SSBR protein Xrcc1 is conditionally deleted (Xrcc1<sup>Nes-Cre</sup> ) results in lethal seizures and shortened lifespan. Using electrophysiological recording and synaptic imaging approaches, we demonstrate that aberrant Parp1 activation triggers seizure-like activity in Xrcc1-defective hippocampus ex vivo and deregulated presynaptic calcium signalling in isolated hippocampal neurons in vitro. Moreover, we show that these defects are prevented by Parp1 inhibition or deletion and, in the case of Parp1 deletion, that the lifespan of Xrcc1<sup>Nes-Cre</sup> mice is greatly extended. This is the first demonstration that lethal seizures can be triggered by aberrant Parp1 activity at unrepaired SSBs, highlighting PARP inhibition as a possible therapeutic approach in hereditary neurological disease."
+  ],
+  "affiliation": [
+    "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "694996"
+          ],
+          "agency": [
+            "Horizon 2020: European Research Council (FP7)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/K019015/1"
+          ],
+          "agency": [
+            "UKRI | Biotechnology and Biological Sciences Research Council (BBSRC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/P010121/1"
+          ],
+          "agency": [
+            "UKRI | Medical Research Council (MRC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/S00310X/1"
+          ],
+          "agency": [
+            "UKRI | Biotechnology and Biological Sciences Research Council (BBSRC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neurodegeneration",
+        "Seizures",
+        "DNA strand break",
+        "XRCC1",
+        "Poly(adp-ribose) Polymerase"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/embr.202051851"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-01"
+  ],
+  "firstIndexDate": [
+    "2021-05-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-01"
+  ],
+  "firstPublicationDate": [
+    "2021-05-01"
+  ]
+}

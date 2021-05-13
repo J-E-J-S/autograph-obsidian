@@ -1,0 +1,334 @@
+{
+  "id": [
+    "33704410"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33704410"
+  ],
+  "doi": [
+    "10.1093/bbb/zbab020"
+  ],
+  "title": [
+    "Molecular hybridization based on (-)-epigallocatechin gallate as a new class of antiglycation agents."
+  ],
+  "authorString": [
+    "Jeong GH, Park S, Kim SB, Jo C, Kim TH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jeong GH"
+          ],
+          "firstName": [
+            "Gyeong Han"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Daegu University, Gyeongsan, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park S"
+          ],
+          "firstName": [
+            "Seungil"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plasma Technology Research Center, National Fusion Research Institute, Gunsan, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SB"
+          ],
+          "firstName": [
+            "Seong Bong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plasma Technology Research Center, National Fusion Research Institute, Gunsan, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jo C"
+          ],
+          "firstName": [
+            "Cheorun"
+          ],
+          "lastName": [
+            "Jo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Agricultural Biotechnology, Center for Food Bioconvergence, and Research Institute of Agriculture and Life Science, Seoul National University, Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim TH"
+          ],
+          "firstName": [
+            "Tae Hoon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Biotechnology, Daegu University, Gyeongsan, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "85"
+      ],
+      "journalIssueId": [
+        "3155284"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioscience, biotechnology, and biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biosci Biotechnol Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Biosci Biotechnol Biochem"
+          ],
+          "NLMid": [
+            "9205717"
+          ],
+          "ISSN": [
+            "0916-8451"
+          ],
+          "ESSN": [
+            "1347-6947"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1069-1076"
+  ],
+  "abstractText": [
+    "(-)-Epigallocatechin gallate (EGCG) and olivetol hybrid molecules 1-4 were conveniently synthesized using dielectric barrier discharge plasma irradiation. The structures of these unprecedented hybrid molecules were determined by interpretation of spectroscopic data. The unusual hybrid 1 showed improved antiglycation potency toward the advanced formation of glycation end products than the original EGCG and olivetol. The novel hybrid 1 is an interesting new class of antiglycation candidate that requires further investigation."
+  ],
+  "affiliation": [
+    "Department of Food Science and Biotechnology, Daegu University, Gyeongsan, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antiglycation",
+        "Hybrid Molecules",
+        "(−)-Epigallocatechin Gallate",
+        "Dielectric Barrier Discharge Plasma",
+        "Olivetol"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bbb/zbab020"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-11"
+  ],
+  "firstIndexDate": [
+    "2021-03-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-26"
+  ],
+  "firstPublicationDate": [
+    "2021-04-01"
+  ]
+}

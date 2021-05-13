@@ -1,0 +1,411 @@
+{
+  "id": [
+    "33706242"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33706242"
+  ],
+  "doi": [
+    "10.1016/j.envpol.2021.116835"
+  ],
+  "title": [
+    "Pendimethalin induces apoptosis in testicular cells via hampering ER-mitochondrial function and autophagy."
+  ],
+  "authorString": [
+    "Ham J, Lim W, Song G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ham J"
+          ],
+          "firstName": [
+            "Jiyeon"
+          ],
+          "lastName": [
+            "Ham"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim W"
+          ],
+          "firstName": [
+            "Whasun"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food and Nutrition, Kookmin University, Seoul, 02707, Republic of Korea. Electronic address: wlim@kookmin.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song G"
+          ],
+          "firstName": [
+            "Gwonhwa"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, 02841, Republic of Korea. Electronic address: ghsong@korea.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "278"
+      ],
+      "journalIssueId": [
+        "3152525"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental pollution (Barking, Essex : 1987)"
+          ],
+          "ISOAbbreviation": [
+            "Environ Pollut"
+          ],
+          "medlineAbbreviation": [
+            "Environ Pollut"
+          ],
+          "NLMid": [
+            "8804476"
+          ],
+          "ISSN": [
+            "0269-7491"
+          ],
+          "ESSN": [
+            "1873-6424"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "116835"
+  ],
+  "abstractText": [
+    "Pendimethalin (PDM) is a dinitroaniline crop pesticide that is extensively utilized worldwide. However, the reproductive toxicity and cellular mechanisms of PDM have not been identified. Therefore, we elucidated the adverse effects of PDM on the reproductive system using mouse testicular Leydig and Sertoli cells (TM3 and TM4 cells, respectively). Our results demonstrated that PDM suppressed the viability and proliferation of TM3 and TM4 cells. Additionally, PDM induced cytosolic calcium upregulation and permeabilization of mitochondrial membrane potential in both TM3 and TM4 cells. We also verified that PDM activates the endoplasmic reticulum (ER) stress pathway and autophagy. Furthermore, we confirmed that activation of ER stress and autophagy were blocked by 2-aminoethoxydiphenyl borate (2-APB) treatment. Finally, we confirmed PDM-induced cell cycle arrest and apoptosis in TM3 and TM4 cells. Thus, we first demonstrated that PDM impedes the survival of testis cells, and further, their function."
+  ],
+  "affiliation": [
+    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Testis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mitochondria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aniline Compounds"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autophagy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endoplasmic Reticulum Stress"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Herbicides",
+        "pendimethalin",
+        "ER stress",
+        "Autophagy",
+        "Inositol 1,4,5-Triphosphate Receptors"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Aniline Compounds"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "pendimethalin"
+          ],
+          "registryNumber": [
+            "VL6L14C06U"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.envpol.2021.116835"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-20"
+  ],
+  "dateOfCreation": [
+    "2021-03-11"
+  ],
+  "firstIndexDate": [
+    "2021-03-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-27"
+  ],
+  "firstPublicationDate": [
+    "2021-02-27"
+  ]
+}

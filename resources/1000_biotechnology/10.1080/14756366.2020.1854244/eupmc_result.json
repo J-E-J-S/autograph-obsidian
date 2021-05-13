@@ -1,0 +1,394 @@
+{
+  "id": [
+    "33530764"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33530764"
+  ],
+  "doi": [
+    "10.1080/14756366.2020.1854244"
+  ],
+  "title": [
+    "Discovery of new non-pyrimidine scaffolds as <i>Plasmodium falciparum</i> DHFR inhibitors by fragment-based screening."
+  ],
+  "authorString": [
+    "Hoarau M, Vanichtanankul J, Srimongkolpithak N, Vitsupakorn D, Yuthavong Y, Kamchonwongpaisan S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hoarau M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Hoarau"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5758-3556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vanichtanankul J"
+          ],
+          "firstName": [
+            "Jarunee"
+          ],
+          "lastName": [
+            "Vanichtanankul"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Srimongkolpithak N"
+          ],
+          "firstName": [
+            "Nitipol"
+          ],
+          "lastName": [
+            "Srimongkolpithak"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vitsupakorn D"
+          ],
+          "firstName": [
+            "Danoo"
+          ],
+          "lastName": [
+            "Vitsupakorn"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yuthavong Y"
+          ],
+          "firstName": [
+            "Yongyuth"
+          ],
+          "lastName": [
+            "Yuthavong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kamchonwongpaisan S"
+          ],
+          "firstName": [
+            "Sumalee"
+          ],
+          "lastName": [
+            "Kamchonwongpaisan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5758-3556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "3043283"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "198-206"
+  ],
+  "abstractText": [
+    "In various malaria-endemic regions, the appearance of resistance has precluded the use of pyrimidine-based antifolate drugs. Here, a three-step fragment screening was used to identify new non-pyrimidine <i>Plasmodium falciparum</i> dihydrofolate reductase (<i>Pf</i>DHFR) inhibitors. Starting from a 1163-fragment commercial library, a two-step differential scanning fluorimetry screen identified 75 primary fragment hits. Subsequent enzyme inhibition assay identified 11 fragments displaying IC<sub>50</sub> in the 28-695 μM range and selectivity for <i>Pf</i>DHFR. In addition to the known pyrimidine, three new anti-<i>Pf</i>DHFR chemotypes were identified. Fragments from each chemotype were successfully co-crystallized with <i>Pf</i>DHFR, revealing a binding in the active site, in the vicinity of catalytic residues, which was confirmed by molecular docking on all fragment hits. Finally, comparison with similar non-hit fragments provides preliminary input on available growth vectors for future drug development."
+  ],
+  "affiliation": [
+    "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency, Pathumthani, Thailand."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malaria",
+        "Plasmodium falciparum",
+        "Dihydrofolate reductase",
+        "Fragment-based Screening",
+        "Small Molecule Inhibitors"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2020.1854244"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PDB"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-03"
+  ],
+  "firstIndexDate": [
+    "2021-02-04"
+  ],
+  "dateOfRevision": [
+    "2021-02-03"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

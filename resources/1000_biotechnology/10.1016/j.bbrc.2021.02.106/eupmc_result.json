@@ -1,0 +1,365 @@
+{
+  "id": [
+    "33676184"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33676184"
+  ],
+  "doi": [
+    "10.1016/j.bbrc.2021.02.106"
+  ],
+  "title": [
+    "First report of antifungal activity of CecropinA-Magenin2 (CE-MA) hybrid peptide and its truncated derivatives."
+  ],
+  "authorString": [
+    "Namvar Erbani S, Madanchi H, Ajodani Far H, Rostamian M, Rahmati S, Shabani AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Namvar Erbani S"
+          ],
+          "firstName": [
+            "Samaneh"
+          ],
+          "lastName": [
+            "Namvar Erbani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Damghan Branch, Islamic Azad University, Damghan, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madanchi H"
+          ],
+          "firstName": [
+            "Hamid"
+          ],
+          "lastName": [
+            "Madanchi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, School of Medicine, Semnan University of Medical Sciences, Semnan, Iran; Drug Design and Bioinformatics Unit, Department of Medical Biotechnology, Biotechnology Research Center, Pasteur Institute of Iran, Tehran, Iran. Electronic address: hamidmadanchi@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ajodani Far H"
+          ],
+          "firstName": [
+            "Hatef"
+          ],
+          "lastName": [
+            "Ajodani Far"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biology, Damghan Branch, Islamic Azad University, Damghan, Iran. Electronic address: ajoudanifar@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rostamian M"
+          ],
+          "firstName": [
+            "Mosayeb"
+          ],
+          "lastName": [
+            "Rostamian"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Infectious Diseases Research Center, Health Institute, Kermanshah University of Medical Sciences, Kermanshah, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rahmati S"
+          ],
+          "firstName": [
+            "Saman"
+          ],
+          "lastName": [
+            "Rahmati"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Biotechnology Department, Biotechnology Research Center, Pasteur Institute of Iran, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shabani AA"
+          ],
+          "firstName": [
+            "Ali Akbar"
+          ],
+          "lastName": [
+            "Shabani"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, School of Medicine, Semnan University of Medical Sciences, Semnan, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "549"
+      ],
+      "journalIssueId": [
+        "3137287"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biochemical and biophysical research communications"
+          ],
+          "ISOAbbreviation": [
+            "Biochem Biophys Res Commun"
+          ],
+          "medlineAbbreviation": [
+            "Biochem Biophys Res Commun"
+          ],
+          "NLMid": [
+            "0372516"
+          ],
+          "ISSN": [
+            "0006-291X"
+          ],
+          "ESSN": [
+            "1090-2104"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "157-163"
+  ],
+  "abstractText": [
+    "The use of natural antimicrobial peptides (AMPs) is limited. Modifications of peptides by in silico predictions and computational methods can lead to more accurate designs and reducing their high synthesis costs, instability, and cytotoxicity. In this study, the antifungal properties of CecropinA-Magenin2 (CE-MA) hybrid peptide and its truncated derivatives were evaluated. Eleven C-terminal-truncated derivatives were designed and three of them with 10, 8 and 6 residues namely CMt1, CMt2 and CMt3 were selected through an initial screening based on the prediction of antimicrobial and antifungal activities, toxicity and physicochemical properties. These derivatives and the parental CE-MA peptide were synthesized. Then, based on molecular docking studies, antimicrobial tests and cytotoxicity assays, CMt1 peptide was selected for further studies such as time of killing, combinatorial effects with other drugs and the mechanism of action. The results showed that CE-MA is a weak antifungal peptide but its truncated derivative, CMt1 showed a strong antifungal activity with less toxicity. The results of the ergosterol assay, confocal microscopy and FE-SEM studies indicated that invasion to cell wall and membrane components were the main antifungal mechanisms of CMt1 peptide. Altogether, here we introduce a new truncated peptide with a strong antifungal activity with less toxicity which can be a good candidate for further in vivo and clinical studies to be used as an antifungal drug."
+  ],
+  "affiliation": [
+    "Department of Biology, Damghan Branch, Islamic Azad University, Damghan, Iran."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "antifungal peptides",
+        "Antimicrobial peptides",
+        "In Silico Drug Design",
+        "Cecropina-magenin2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bbrc.2021.02.106"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-06"
+  ],
+  "firstIndexDate": [
+    "2021-03-07"
+  ],
+  "dateOfRevision": [
+    "2021-03-23"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-03"
+  ],
+  "firstPublicationDate": [
+    "2021-03-03"
+  ]
+}

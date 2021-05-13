@@ -1,0 +1,432 @@
+{
+  "id": [
+    "33974665"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33974665"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0251514"
+  ],
+  "title": [
+    "Antimicrobial activities of Bacillus velezensis strains isolated from stingless bee products against methicillin-resistant Staphylococcus aureus."
+  ],
+  "authorString": [
+    "Baharudin MMA, Ngalimat MS, Mohd Shariff F, Balia Yusof ZN, Karim M, Baharum SN, Sabri S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baharudin MMA"
+          ],
+          "firstName": [
+            "Mohamad Malik Al-Adil"
+          ],
+          "lastName": [
+            "Baharudin"
+          ],
+          "initials": [
+            "MMA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ngalimat MS"
+          ],
+          "firstName": [
+            "Mohamad Syazwan"
+          ],
+          "lastName": [
+            "Ngalimat"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8751-7026",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mohd Shariff F"
+          ],
+          "firstName": [
+            "Fairolniza"
+          ],
+          "lastName": [
+            "Mohd Shariff"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Balia Yusof ZN"
+          ],
+          "firstName": [
+            "Zetty Norhana"
+          ],
+          "lastName": [
+            "Balia Yusof"
+          ],
+          "initials": [
+            "ZN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karim M"
+          ],
+          "firstName": [
+            "Murni"
+          ],
+          "lastName": [
+            "Karim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Aquaculture, Faculty of Agriculture, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Laboratory of Marine Biotechnology, Institute of Bioscience, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baharum SN"
+          ],
+          "firstName": [
+            "Syarul Nataqain"
+          ],
+          "lastName": [
+            "Baharum"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Metabolomics Research Laboratory, Institute of Systems Biology, Universiti Kebangsaan Malaysia, Bangi, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sabri S"
+          ],
+          "firstName": [
+            "Suriana"
+          ],
+          "lastName": [
+            "Sabri"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4027-5730",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8751-7026",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4027-5730",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3163109"
+      ],
+      "dateOfPublication": [
+        "2021 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS One"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e0251514"
+  ],
+  "abstractText": [
+    "Infections caused by methicillin-resistant Staphylococcus aureus (MRSA) have reached epidemic proportions globally. Therefore, there is an urgent need for a continuous supply of antibiotics to combat the problem. In this study, bacteria initially identified as species belonging to the Bacillus amyloliquefaciens operational group were re-identified based on the housekeeping gene, gyrB. Cell-free supernatants (CFS) from the strains were used for antimicrobial tests using the agar well diffusion assay against MRSA and various types of pathogenic bacteria. The minimum inhibitory concentration (MIC), minimum bactericidal concentration (MBC) and physicochemical characteristics of the CFS were determined. Based on gyrB sequence analysis, five strains (PD9, B7, PU1, BP1 and L9) were identified as Bacillus velezensis. The CFS of all B. velezensis strains showed broad inhibitory activities against Gram-negative and -positive as well as MRSA strains. Strain PD9 against MRSA ATCC 33742 was chosen for further analysis as it showed the biggest zone of inhibition (21.0 ± 0.4 mm). The MIC and MBC values obtained were 125 μl/ml. The crude antimicrobial extract showed bactericidal activity and was stable at various temperatures (40-80°C), pH (4-12), surfactants (Tween 20, Tween 80, SDS and Triton X-100) and metal ions (MgCI2, NaCI2, ZnNO3 and CuSO4) when tested. However, the crude extract was not stable when treated with proteinase K. All these properties resembled the characteristics of peptides. The antimicrobial compound from the selected strain was purified by using solvent extraction method and silica gel column chromatography. The purified compound was subjected to High Performance Liquid Chromatography which resulted in a single peak of the anti-MRSA compound being detected. The molecular weight of the anti-MRSA compound was determined by using SDS-PAGE and zymogram. The size of the purified antimicrobial peptide was approximately ~ 5 kDa. The antimicrobial peptide produced from B. velezensis strain PD9 is a promising alternative to combat the spread of MRSA infections in the future."
+  ],
+  "affiliation": [
+    "Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0251514"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-11"
+  ],
+  "firstIndexDate": [
+    "2021-05-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-11"
+  ],
+  "firstPublicationDate": [
+    "2021-05-11"
+  ]
+}

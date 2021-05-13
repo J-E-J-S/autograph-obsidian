@@ -1,0 +1,362 @@
+{
+  "id": [
+    "33910735"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33910735"
+  ],
+  "doi": [
+    "10.1016/j.carbpol.2021.118002"
+  ],
+  "title": [
+    "A novel approach for efficient fabrication of chitosan nanoparticles-embedded bacterial nanocellulose conduits."
+  ],
+  "authorString": [
+    "Wei Z, Pan P, Hong FF, Cao Z, Ji Y, Chen L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wei Z"
+          ],
+          "firstName": [
+            "Zhao"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan P"
+          ],
+          "firstName": [
+            "Pan"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hong FF"
+          ],
+          "firstName": [
+            "Feng F"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; State Key Laboratory of Biobased Material and Green Papermaking, Qilu University of Technology, Shandong Academy of Sciences, Jinan, 250353, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China. Electronic address: fhong@dhu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Z"
+          ],
+          "firstName": [
+            "Zhangjun"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; State Key Laboratory of Biobased Material and Green Papermaking, Qilu University of Technology, Shandong Academy of Sciences, Jinan, 250353, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ji Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Textiles and Clothing, Hong Kong Polytechnic University, Hunghom, Kowloon, Hong Kong."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China. Electronic address: lchen@dhu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "264"
+      ],
+      "journalIssueId": [
+        "3160936"
+      ],
+      "dateOfPublication": [
+        "2021 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Carbohydrate polymers"
+          ],
+          "ISOAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "medlineAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "NLMid": [
+            "8307156"
+          ],
+          "ISSN": [
+            "0144-8617"
+          ],
+          "ESSN": [
+            "1879-1344"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "118002"
+  ],
+  "abstractText": [
+    "Incorporation of chitosan (CS) into Bacterial nanocellulose (BNC) matrix is of great interests in biomedical field due to the advantageous properties of each material. However, the conventional strategies result in poor composite effect with low efficiency. In this study, the three-dimensional fibrillar network of BNC was utilized as a template for the first time to homogeneously disperse CS to form nanoparticles (CSNPs) in BNC matrix via ionic gelation method, to develop chitosan nanoparticles-embedded bacterial nanocellulose (CSNPs-BNC) composites. This composite method is simple and efficient, without introducing dispersants and crosslinking agents, while retaining the mechanical properties and native 3D network structure of BNC. The CSNPs-BNC composites had excellent antibacterial activity to support potential clinical application. The CSNPs-BNC composites could promote the adhesion and proliferation of Schwann cells, and demonstrate good biocompatibility both in vitro and in vivo. The results indicated that CSNPs-BNC can provide a promising candidate for biomedical applications."
+  ],
+  "affiliation": [
+    "College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China; Scientific Research Base of Bacterial Nanofiber Manufacturing and Composite Technology, China Textile Engineering Society, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Composite",
+        "Antibacterial activity",
+        "Dispersant",
+        "Cytocompatibility",
+        "chitosan nanoparticles",
+        "Ionic Gelation",
+        "Bacterial Nanocellulose",
+        "Template Effect"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.carbpol.2021.118002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-29"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-27"
+  ],
+  "firstPublicationDate": [
+    "2021-03-27"
+  ]
+}

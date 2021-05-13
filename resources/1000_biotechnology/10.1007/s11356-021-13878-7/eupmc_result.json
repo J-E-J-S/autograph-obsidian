@@ -1,0 +1,309 @@
+{
+  "id": [
+    "33929663"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33929663"
+  ],
+  "doi": [
+    "10.1007/s11356-021-13878-7"
+  ],
+  "title": [
+    "Relative effectiveness of arbuscular mycorrhiza and polyamines in modulating ROS generation and ascorbate-glutathione cycle in Cajanus cajan under nickel stress."
+  ],
+  "authorString": [
+    "Saroy K, Garg N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saroy K"
+          ],
+          "firstName": [
+            "Kiran"
+          ],
+          "lastName": [
+            "Saroy"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Botany, Panjab University, Chandigarh, 160014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Garg N"
+          ],
+          "firstName": [
+            "Neera"
+          ],
+          "lastName": [
+            "Garg"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9600-8482",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Botany, Panjab University, Chandigarh, 160014, India. gargneera@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9600-8482",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143012"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental science and pollution research international"
+          ],
+          "ISOAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "NLMid": [
+            "9441769"
+          ],
+          "ISSN": [
+            "0944-1344"
+          ],
+          "ESSN": [
+            "1614-7499"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Nickel (Ni) is a fundamental micronutrient in plants but hampers plant growth and metabolism at elevated levels in the soil by inducing oxidative stress. In the recent years, use of polyamines (PAs) and arbuscular mycorrhiza (AM) have gained importance for their roles in enabling plants to withstand Ni toxicity. However, information about their comparative effectiveness in alleviating Ni stress is scanty. Therefore, the current study was designed to evaluate relative impacts of three PAs (Put, Spd, and Spm) and AM (Rhizoglomus intraradices) in reducing Ni uptake, ROS generation, and modulating antioxidant defense machinery in two pigeonpea genotypes (Pusa 2001-tolerant and AL 201-sensitive). Roots of Ni supplied plants accumulated significantly more Ni than the leaves, more in AL 201 than Pusa 2001, which was proportionate to reduced dry weights and enhanced oxidative burst. Although all the three PAs as well as AM inoculations upsurge plant growth by remarkably lowering Ni transport as well as the sequential oxidative burden, AM was most effective, followed by Put, Spd with least positive impact of Spm. The combined applications of AM and Put were able to strengthen antioxidant defense mechanisms, including those of ascorbate-glutathione cycle, most strongly when compared with + Spd + AM and + Spm + AM. Pusa 2001 was more responsive to PAs priming because of its proficiency to develop better effective mycorrhizal symbiosis with R. intraradices when compared with AL201. Hence, the results suggest use of combined applications of PAs (mainly Put) and R. intraradices as an effective strategy for mitigating Ni toxicity in pigeonpea genotypes."
+  ],
+  "affiliation": [
+    "Department of Botany, Panjab University, Chandigarh, 160014, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "(25-1/2014-25(BSR)/7-151/2007)"
+          ],
+          "agency": [
+            "UNIVERSITY GRANT COMMISSION"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/PR13409/BPA/118/122/2015"
+          ],
+          "agency": [
+            "Department of Biotechnology, Govt of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antioxidants",
+        "Nickel",
+        "Polyamines",
+        "Arbuscular mycorrhiza",
+        "ROS",
+        "Pigeonpea"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11356-021-13878-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

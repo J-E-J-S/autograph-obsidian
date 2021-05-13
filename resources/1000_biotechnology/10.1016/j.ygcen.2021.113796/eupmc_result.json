@@ -1,0 +1,407 @@
+{
+  "id": [
+    "33901496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33901496"
+  ],
+  "doi": [
+    "10.1016/j.ygcen.2021.113796"
+  ],
+  "title": [
+    "Two ACTH analogs exert differential effects on monocytes/macrophages function regulation in ayu (Plecoglossus altivelis)."
+  ],
+  "authorString": [
+    "Feng LL, Dai YW, Lu XJ, Lu JF, Yang GJ, Zhang H, Zhang L, Chen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feng LL"
+          ],
+          "firstName": [
+            "Lin-Lin"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dai YW"
+          ],
+          "firstName": [
+            "You-Wu"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu XJ"
+          ],
+          "firstName": [
+            "Xin-Jiang"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "XJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China; Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for Marine Science and Technology (Qingdao), China. Electronic address: lxj711043@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu JF"
+          ],
+          "firstName": [
+            "Jian-Fei"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang GJ"
+          ],
+          "firstName": [
+            "Guan-Jun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jiong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China. Electronic address: jchen1975@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146636"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "General and comparative endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Gen Comp Endocrinol"
+          ],
+          "medlineAbbreviation": [
+            "Gen Comp Endocrinol"
+          ],
+          "NLMid": [
+            "0370735"
+          ],
+          "ISSN": [
+            "0016-6480"
+          ],
+          "ESSN": [
+            "1095-6840"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "113796"
+  ],
+  "abstractText": [
+    "Adrenocorticotropic hormone (ACTH), a bioactive peptide of the family of melanocortins, is generated from pro-opiomelanocortin (POMC). So far, the research on the specific functions of ACTH in the immune system of teleosts is limited. We determined two complementary DNA (cDNA) sequences of POMC in ayu (Plecoglossus altivelis), termed PaPOMC-A and PaPOMC-B. PaPOMCs transcripts occurred in all examined tissues, and their expression in immune tissues changed following experimental infection with Vibrio anguillarum. PaACTH-B, but not PaACTH-A, suppressed the phagocytosis of monocytes/macrophages (MO/MФ). Two isoforms of PaACTH increased the bactericidal capacity of MO/MФ. PaACTH-A increased anti-inflammatory cytokine expression, while PaACTH-B decreased pro-inflammatory cytokine expression in MO/MФ. Compared with PaACTH-B treatment, the PaACTH-A treatment improved survival rate and reduced the bacterial load in V. anguillarum-infected ayu through interleukin (IL)-10. Our results indicate that the two PaACTH isoforms exert different effects in the host defense against bacterial infection."
+  ],
+  "affiliation": [
+    "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Ningbo University, Ningbo 315211, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Ningbo University, Ningbo 315211, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phagocytosis",
+        "Monocytes/macrophages",
+        "Anti-inflammation",
+        "Pro-opiomelanocortin",
+        "Adrenocorticotropic Hormone",
+        "Ayu"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ygcen.2021.113796"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-26"
+  ],
+  "firstIndexDate": [
+    "2021-04-27"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-24"
+  ],
+  "firstPublicationDate": [
+    "2021-04-24"
+  ]
+}

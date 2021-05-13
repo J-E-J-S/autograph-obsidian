@@ -1,0 +1,515 @@
+{
+  "id": [
+    "33823392"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33823392"
+  ],
+  "doi": [
+    "10.1016/j.ejmech.2021.113398"
+  ],
+  "title": [
+    "Design, synthesis and biological activity of N-(amino)piperazine-containing benzothiazinones against Mycobacterium tuberculosis."
+  ],
+  "authorString": [
+    "Wang A, Xu S, Chai Y, Xia G, Wang B, Lv K, Ma C, Wang D, Wang A, Qin X, Liu M, Lu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang A"
+          ],
+          "firstName": [
+            "Apeng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu S"
+          ],
+          "firstName": [
+            "Shijie"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chai Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Chai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China; Institute of Medical Research, Northwestern Polytechnical University, 127 West Youyi Road, Xi'an, 710072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xia G"
+          ],
+          "firstName": [
+            "Guimin"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China. Electronic address: xiaguimin@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory of Drug Resistance Tuberculosis Research, Department of Pharmacology, Beijing Tuberculosis and Thoracic Tumor Research Institute, Beijing Chest Hospital, Capital College of Pharmacy, Medical University, Beijing, 100149, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang A"
+          ],
+          "firstName": [
+            "Aoyu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China; Hebei Medical University, Shijiazhuang, 050017, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qin X"
+          ],
+          "firstName": [
+            "Xiaoyu"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mingliang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China. Electronic address: lmllyx@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory of Drug Resistance Tuberculosis Research, Department of Pharmacology, Beijing Tuberculosis and Thoracic Tumor Research Institute, Beijing Chest Hospital, Capital College of Pharmacy, Medical University, Beijing, 100149, China. Electronic address: luyu4876@hotmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "218"
+      ],
+      "journalIssueId": [
+        "3166050"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Med Chem"
+          ],
+          "NLMid": [
+            "0420510"
+          ],
+          "ISSN": [
+            "0223-5234"
+          ],
+          "ESSN": [
+            "1768-3254"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "113398"
+  ],
+  "abstractText": [
+    "A series of novel benzothiazinone derivatives containing a N-(amino)piperazine moiety, based on the structure of WAP-1902 discovered in our lab, were designed and synthesized as new anti-TB agents. Many of the compounds exhibited excellent in vitro activity against both drug-sensitive MTB strain H37Rv and multidrug-resistant clinical isolates (MIC: < 0.016 μg/mL), and good safety index (CC<sub>50</sub>: >64 μg/mL). Especially compound 1o displayed low hERG cardiac toxicity and acceptable oral pharmacokinetic profiles, indicating its promising potential to be a lead compound for future antitubercular drug discovery."
+  ],
+  "affiliation": [
+    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Synthesis",
+        "Antitubercular Activity",
+        "Benzothiazinones",
+        "N-(amino)piperazine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ejmech.2021.113398"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-06"
+  ],
+  "firstIndexDate": [
+    "2021-04-07"
+  ],
+  "dateOfRevision": [
+    "2021-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-28"
+  ],
+  "firstPublicationDate": [
+    "2021-03-28"
+  ]
+}

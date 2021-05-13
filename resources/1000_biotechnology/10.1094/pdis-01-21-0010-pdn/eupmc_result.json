@@ -1,0 +1,493 @@
+{
+  "id": [
+    "33926200"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33926200"
+  ],
+  "doi": [
+    "10.1094/pdis-01-21-0010-pdn"
+  ],
+  "title": [
+    "First report of wild tomato mosaic virus infecting chilli pepper in China."
+  ],
+  "authorString": [
+    "Hu Y, Fa L, Su X, Chen Y, Huang J, Yin H, Ma G, Wang Y, Zhang J, Zhang ZK, Zheng KY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yongliang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan., Ruili, China; 314879433@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fa L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Fa"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Kunming, China; 1846734553@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Su X"
+          ],
+          "firstName": [
+            "Xiaoxia"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Kunming, China; sxx919@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yuqin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan, Ruili, China; 15987146028@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang J"
+          ],
+          "firstName": [
+            "Jiawei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan, Ruili, China; 735365686@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin H"
+          ],
+          "firstName": [
+            "Hongxing"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan, Ruili, China; 469931603@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma G"
+          ],
+          "firstName": [
+            "Guanrun"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan., Ruili, China; 403099601@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yingqing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Dehong Tropical Agriculture Research Institute of Yannan, Ruili, China; 393722012@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Kunming, China; zhengjun2314@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang ZK"
+          ],
+          "firstName": [
+            "Zhong-Kai"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "ZK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences , Kunming, Yunnan, China; zhongkai99@sina.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng KY"
+          ],
+          "firstName": [
+            "Kuan Yu"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences , Kunming, Yunnan, China; zhengkuanyu@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143091"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant disease"
+          ],
+          "ISOAbbreviation": [
+            "Plant Dis"
+          ],
+          "medlineAbbreviation": [
+            "Plant Dis"
+          ],
+          "NLMid": [
+            "9882809"
+          ],
+          "ISSN": [
+            "0191-2917"
+          ],
+          "ESSN": [
+            "1943-7692"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Chilli pepper is an important economic crop and virus diseases are constraints on its production. In 2018, disease surveys were conducted at a 15-ha chilli pepper plantation in Dehong, southwest of Yunnan Province, China. Throughout the chilli pepper growing season from March to September, pepper plants developed three different virus-like symptoms on leaves, including mosaic, yellow mottle and shrinkage (Fig. S1). Based on observation of virus-like symptomatic phenotypes, the field surveys indicated that the disease incidence ranged from 30% in March to a peak 100% in July, resulting in a significant loss of pepper fruit from 30 to 100% depending on plot of the field. Potyvirus-like filamentous particles, around 11*760 nm, were observed under electron microscopy in the sap of symptomatic leaves (Fig. S1). To further determine the viral species in these samples, total RNA was extracted from three symptomatic samples using a Trans ZolUp Plus RNA Kit (Trans Gene, Beijing, China). Complementary DNA (cDNA) was synthesized using oligo (dT) and M-MLV reverse transcriptase (Promega, Madison, Wisconsin, USA) according to the manufacturer's instructions, and the polymerase chain reaction (PCR) was performed using degenerate primers specific to genus Potyvirus targeting HC-Pro region (HPFor: 5-TGYGAYAAYCARYTIGAYIIIAAYG-3; HPRev: 5-GAICCRWAIGARTCIAIIACRTG-3) (Ha et al. 2008) under the following conditions: an initial denaturation at 94°C for 4min, 30 cycles of denaturation at 94°C for 30 s, annealing at 56°C for 30 s, extension at 72°C for 30s, and a 10min final extension at 72°C. An expected 683-bp DNA fragment was amplified and cloned into the pMD 18-T Vector (Takara, Japan) for sequencing. Sequence analysis using BLAST revealed that the amplicons of phenotype I (Fig. S1a) shared highest nucleotide identity (85.6%) with wild tomato mosaic virus (WTMV) isolate from Vietnam (GenBank no. DQ851495) while the amplicons of phenotype III (Fig. S1c) showed the highest nucleotide identity (93%) with chilli veinal mottle virus (ChiVMV) isolate from Sichuan, China. (GenBank no. MK405594). Amplicons of phenotype II included both sequence of above WTMV and ChiVMV, indicating co-infection of phenotype II (Fig. S1b). Phenotype I sample was used for mechanical inoculation on chilli pepper as described previously (Yang et al.2013). After ten days, virus-like symptoms similar to phenotype I were observed on leaves, and WTMV infection, but not ChiVMV infection, was confirmed by RT-PCR tests on inoculated pepper plants (Fig. S1 e, f). To further ascertain the incidence of these two viruses in the field, primers WT-F: 5'-GTTGTTGAATGTGGTTTAGTT-3' and WT-R: 5'-AGATGTGCTTTGGAAGCGACC-3' were designed based on the WTMV sequence (GenBank no. DQ851495) to amplify a 476 bp product, and primers Ch-F/Ch-R (Ch-F: 5'-AAAGAAGAACAAGCGACAGAA-3', Ch-R: 5'-CATCACGCAAATATTCAAAGC-3') were designed based on ChiVMV sequence (GenBank no. MK405594.1) to amplify a 332 bp product. RT-PCR was conducted on 31 field-collected samples, and amplicons of expected sizes, 476bp and 332bp, corresponding to WTMV and ChiVMV, respectively, were obtained and sequenced to verify their identity. The results (Fig. S2) showed that 71% (22/31) of the samples tested positive for WTMV, 90% (28/31) tested positive for ChiVMV, and 65% (20/31) were co-infected with the two viruses. The WTMV was first reported infecting wild tomatoes in Vietnam in 2008 (Ha et al. 2008), and later reported in China in Nicotiana tabacum (Sun et al. 2015), Solanum nigrum (Zhang et al. 2019), and wild eggplant (Zhang et al. 2014). To our knowledge, this is the first report of WTMV infection on chilli pepper under natural conditions. Our study revealed that the chilli pepper disease in Dehong was caused by single or co-infection of WTMV and ChiVMV. It is necessary to find effective methods to control these two viruses."
+  ],
+  "affiliation": [
+    "Dehong Tropical Agriculture Research Institute of Yannan., Ruili, China; 314879433@qq.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "vegetables",
+        "Pathogen Detection",
+        "Crop Type",
+        "Causal Agent",
+        "Subject Areas",
+        "Viruses And Viroids"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1094/PDIS-01-21-0010-PDN"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

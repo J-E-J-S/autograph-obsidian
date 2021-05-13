@@ -1,0 +1,387 @@
+{
+  "id": [
+    "33971948"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33971948"
+  ],
+  "doi": [
+    "10.1186/s13068-021-01966-2"
+  ],
+  "title": [
+    "Production of the biocommodities butanol and acetone from methanol with fluorescent FAST-tagged proteins using metabolically engineered strains of Eubacterium limosum."
+  ],
+  "authorString": [
+    "Flaiz M, Ludwig G, Bengelsdorf FR, Dürre P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Flaiz M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Flaiz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0238-4995",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Biotechnology, Ulm University, Albert-Einstein-Allee 11, 89081, Ulm, Germany. maximilian.flaiz@uni-ulm.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ludwig G"
+          ],
+          "firstName": [
+            "Gideon"
+          ],
+          "lastName": [
+            "Ludwig"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Biotechnology, Ulm University, Albert-Einstein-Allee 11, 89081, Ulm, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bengelsdorf FR"
+          ],
+          "firstName": [
+            "Frank R"
+          ],
+          "lastName": [
+            "Bengelsdorf"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3802-9485",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Biotechnology, Ulm University, Albert-Einstein-Allee 11, 89081, Ulm, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dürre P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Dürre"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5586-221X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Microbiology and Biotechnology, Ulm University, Albert-Einstein-Allee 11, 89081, Ulm, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5586-221X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0238-4995",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3802-9485",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "3162071"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology for biofuels"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "NLMid": [
+            "101316935"
+          ],
+          "ISSN": [
+            "1754-6834"
+          ],
+          "ESSN": [
+            "1754-6834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "117"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>The interest in using methanol as a substrate to cultivate acetogens increased in recent years since it can be sustainably produced from syngas and has the additional benefit of reducing greenhouse gas emissions. Eubacterium limosum is one of the few acetogens that can utilize methanol, is genetically accessible and, therefore, a promising candidate for the recombinant production of biocommodities from this C1 carbon source. Although several genetic tools are already available for certain acetogens including E. limosum, the use of brightly fluorescent reporter proteins is still limited.<h4>Results</h4>In this study, we expanded the genetic toolbox of E. limosum by implementing the fluorescence-activating and absorption shifting tag (FAST) as a fluorescent reporter protein. Recombinant E. limosum strains that expressed the gene encoding FAST in an inducible and constitutive manner were constructed. Cultivation of these recombinant strains resulted in brightly fluorescent cells even under anaerobic conditions. Moreover, we produced the biocommodities butanol and acetone from methanol with recombinant E. limosum strains. Therefore, we used E. limosum cultures that produced FAST-tagged fusion proteins of the bifunctional acetaldehyde/alcohol dehydrogenase or the acetoacetate decarboxylase, respectively, and determined the fluorescence intensity and product concentrations during growth.<h4>Conclusions</h4>The addition of FAST as an oxygen-independent fluorescent reporter protein expands the genetic toolbox of E. limosum. Moreover, our results show that FAST-tagged fusion proteins can be constructed without negatively impacting the stability, functionality, and productivity of the resulting enzyme. Finally, butanol and acetone can be produced from methanol using recombinant E. limosum strains expressing genes encoding fluorescent FAST-tagged fusion proteins."
+  ],
+  "affiliation": [
+    "Institute of Microbiology and Biotechnology, Ulm University, Albert-Einstein-Allee 11, 89081, Ulm, Germany. maximilian.flaiz@uni-ulm.de."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "161B0609A"
+          ],
+          "agency": [
+            "ERACoBioTech"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fusion protein",
+        "Anaerobes",
+        "Acetogens",
+        "C1-substrates",
+        "Fluorescence Reporter System",
+        "Fluorescence-activating And Absorption Shifting Tag"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13068-021-01966-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR278445"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-11"
+  ],
+  "firstIndexDate": [
+    "2021-05-12"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

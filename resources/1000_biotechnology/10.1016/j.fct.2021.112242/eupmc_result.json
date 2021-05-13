@@ -1,0 +1,384 @@
+{
+  "id": [
+    "33930482"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33930482"
+  ],
+  "doi": [
+    "10.1016/j.fct.2021.112242"
+  ],
+  "title": [
+    "Low-dose bisphenol A impairs the function of mouse decidual stromal cells by activating LUMAN-mediated unfolded protein response."
+  ],
+  "authorString": [
+    "Zhao F, Liu H, Li Z, Lin P, Wang A, Jin Y, Yi Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao F"
+          ],
+          "firstName": [
+            "Fan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Food Science and Engineering, Northwest A&F University, Yangling, Shaanxi, China; College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhanghuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Food Science and Engineering, Northwest A&F University, Yangling, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin P"
+          ],
+          "firstName": [
+            "Pengfei"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang A"
+          ],
+          "firstName": [
+            "Aihua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin Y"
+          ],
+          "firstName": [
+            "Yaping"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China. Electronic address: yapingjin@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yi Y"
+          ],
+          "firstName": [
+            "Yanglei"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Food Science and Engineering, Northwest A&F University, Yangling, Shaanxi, China. Electronic address: yyi@nwafu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "153"
+      ],
+      "journalIssueId": [
+        "3166069"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association"
+          ],
+          "ISOAbbreviation": [
+            "Food Chem Toxicol"
+          ],
+          "medlineAbbreviation": [
+            "Food Chem Toxicol"
+          ],
+          "NLMid": [
+            "8207483"
+          ],
+          "ISSN": [
+            "0278-6915"
+          ],
+          "ESSN": [
+            "1873-6351"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "112242"
+  ],
+  "abstractText": [
+    "The nonsteroidal estrogenic compound bisphenol A (BPA) is widely present in several industrial and medical products including plastic food containers and sealants in dentistry. There are growing concerns on the toxic effects of this compounds since BPA is known to have reproductive toxicity. This study evaluated the effects of low-dose BPA exposure on decidual stromal cells (DSCs) of mice. The results showed that although 10 nM of BPA have no significant effect on the cell viability, it alters the expression of decidualization-related genes including Prl8a2, Prl3c1, Ptgs2, and Mmp2. Moreover, we found that low-dose BPA exposure induces UPR response in DSCs. However, the expression of the three major UPR receptors (Perk, Ire 1, and Xbp1) did not change significantly. Interestingly, the expression of Luman, a novel receptor of UPR, was significantly upregulated in a dose-dependent manner. Lentivirus containing shLuman sequence was used to generate stable Luman silencing DSCs. It's showed that Luman knockdown could affect the expression of decidualization-related genes in decidual cells after BPA treatment. In summary, these results suggest that Luman plays a key role in low dose BPA-induced decidual toxicity of DSCs in mouse."
+  ],
+  "affiliation": [
+    "College of Food Science and Engineering, Northwest A&F University, Yangling, Shaanxi, China; College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China; Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&F University, Yangling, Shaanxi, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Decidualization",
+        "Bisphenol A",
+        "ER stress",
+        "Endometrial stromal cells",
+        "Upr"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.fct.2021.112242"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-27"
+  ],
+  "firstPublicationDate": [
+    "2021-04-27"
+  ]
+}

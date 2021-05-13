@@ -1,0 +1,384 @@
+{
+  "id": [
+    "33798719"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33798719"
+  ],
+  "doi": [
+    "10.1016/j.fsi.2021.03.017"
+  ],
+  "title": [
+    "Immuno-stimulatory effect and toxicology studies of salt pan bacteria as probiotics to combat shrimp diseases in aquaculture."
+  ],
+  "authorString": [
+    "Fernandes S, Kerkar S, D'Costa A, Costa M, Mishra A, Shyama SK, Das KR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fernandes S"
+          ],
+          "firstName": [
+            "Samantha"
+          ],
+          "lastName": [
+            "Fernandes"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: sam.fdes89@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kerkar S"
+          ],
+          "firstName": [
+            "Savita"
+          ],
+          "lastName": [
+            "Kerkar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: drsavitakerkar@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "D'Costa A"
+          ],
+          "firstName": [
+            "Avelyno"
+          ],
+          "lastName": [
+            "D'Costa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Zoology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: avelynodc@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Costa M"
+          ],
+          "firstName": [
+            "Moreska"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: moreskacosta@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mishra A"
+          ],
+          "firstName": [
+            "Abhishek"
+          ],
+          "lastName": [
+            "Mishra"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: ab.mish@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shyama SK"
+          ],
+          "firstName": [
+            "Soorambail K"
+          ],
+          "lastName": [
+            "Shyama"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Zoology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: skshyama@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Das KR"
+          ],
+          "firstName": [
+            "Kirti Ranjan"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "KR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: kirtidas.das@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "113"
+      ],
+      "journalIssueId": [
+        "3167471"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Fish & shellfish immunology"
+          ],
+          "ISOAbbreviation": [
+            "Fish Shellfish Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Fish Shellfish Immunol"
+          ],
+          "NLMid": [
+            "9505220"
+          ],
+          "ISSN": [
+            "1050-4648"
+          ],
+          "ESSN": [
+            "1095-9947"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "69-78"
+  ],
+  "abstractText": [
+    "The shrimp aquaculture industry has experienced serious economic losses due to diseases caused by Vibrio species. The application of antibiotics to combat diseases has led to environmental hazards, antibiotic-resistance in pathogens and accumulation of antibiotics in tissues. This study explores the use of probiotics as an alternative to antibiotics. A probiotic consortium SFSK4 (comprising salt pan bacteria Bacillus licheniformis TSK71, Bacillus amyloliquefaciens SK27, Bacillus subtilis SK07, Pseudomonas sp. ABSK55) was used as a water additive during shrimp culture. It significantly increased shrimp (Litopenaeus vannamei) immunity i.e. total hemocyte count, phagocytosis, total plasma protein, respiratory burst and bactericidal activity as compared to the control. It also stimulated the phenoloxidase activity by two-fold. Proteomic analysis revealed the differential expression of 50 immune proteins (39 up-regulated and 11 down-regulated) in SFSK4 treated shrimps. Four major immune modulation proteins viz. Caspase2, GTPase activating protein, Hemocyanin and Glucan pattern-recognition lipoprotein involved in cell mediated immune response were identified in SFSK4 treated shrimp hemolymph. SFSK4 decreased shrimp mortality by more than 50% against pathogens. Toxicology studies revealed that administration of the highest dose of probiotic (10<sup>12</sup> CFU/mL) showed no adverse effect on shrimp survival (LC<sub>50</sub> analysis) and neither exhibited cytotoxicity. Genotoxicity study confirmed that the probiotic did not cause DNA damage in shrimps. The findings suggest that the probiotic SFSK4 is an eco-friendly water additive to enhance shrimp immunity against diseases in aquaculture, which could help curtail environmental hazards as an effective alternative to antibiotics."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Goa University, Taleigao Plateau, Goa, 403206, India. Electronic address: sam.fdes89@gmail.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytotoxicity",
+        "Comet assay",
+        "litopenaeus vannamei",
+        "Proteomic",
+        "innate immunity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.fsi.2021.03.017"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-31"
+  ],
+  "firstPublicationDate": [
+    "2021-03-31"
+  ]
+}

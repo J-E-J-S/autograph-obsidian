@@ -1,0 +1,431 @@
+{
+  "id": [
+    "33771600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33771600"
+  ],
+  "doi": [
+    "10.1016/j.freeradbiomed.2021.03.019"
+  ],
+  "title": [
+    "Black pepper prevents anemia of inflammation by inhibiting hepcidin over-expression through BMP6-SMAD1/ IL6-STAT3 signaling pathway."
+  ],
+  "authorString": [
+    "Banerjee S, Katiyar P, Kumar L, Kumar V, Saini SS, Krishnan V, Sircar D, Roy P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Banerjee S"
+          ],
+          "firstName": [
+            "Somesh"
+          ],
+          "lastName": [
+            "Banerjee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Endocrinology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: sbanerjee1@bt.iitr.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Katiyar P"
+          ],
+          "firstName": [
+            "Parul"
+          ],
+          "lastName": [
+            "Katiyar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Endocrinology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: pkatiyar@bt.iitr.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar L"
+          ],
+          "firstName": [
+            "Lokesh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Endocrinology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: alnigam10@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar V"
+          ],
+          "firstName": [
+            "Vijay"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Structural Microbiology, Regional Centre for Biotechnology, Faridabad, 121001, Haryana, India. Electronic address: vijay.kumar@rcb.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saini SS"
+          ],
+          "firstName": [
+            "Shashank Sagar"
+          ],
+          "lastName": [
+            "Saini"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Molecular Biology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: shashanksagarsaini@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krishnan V"
+          ],
+          "firstName": [
+            "Vengadesan"
+          ],
+          "lastName": [
+            "Krishnan"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8083-0121",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Structural Microbiology, Regional Centre for Biotechnology, Faridabad, 121001, Haryana, India. Electronic address: kvengadesan@rcb.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sircar D"
+          ],
+          "firstName": [
+            "Debabrata"
+          ],
+          "lastName": [
+            "Sircar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Molecular Biology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: debabrata.sircar@bt.iitr.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roy P"
+          ],
+          "firstName": [
+            "Partha"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Endocrinology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: partha.roy@bt.iitr.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8083-0121",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "168"
+      ],
+      "journalIssueId": [
+        "3155433"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Free radical biology & medicine"
+          ],
+          "ISOAbbreviation": [
+            "Free Radic Biol Med"
+          ],
+          "medlineAbbreviation": [
+            "Free Radic Biol Med"
+          ],
+          "NLMid": [
+            "8709159"
+          ],
+          "ISSN": [
+            "0891-5849"
+          ],
+          "ESSN": [
+            "1873-4596"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "189-202"
+  ],
+  "abstractText": [
+    "Hepcidin, a circulatory hepatic peptide hormone, is associated with systemic iron homeostasis. Inflammation leads to an increase in hepcidin expression, which dysregulates body iron level. The related disorder, anemia of inflammation, is the second most prevalent anemia-related disorder worldwide. In the present study, we conducted in vitro and in vivo studies to evaluate the effect of black pepper (BP) and its major bioactive alkaloid, piperine, on anemia of inflammation. The initial in vitro study using human hepatocyte cell line, HepG2, confirmed that among different black pepper extracts: methanol (BPME), ethanol (BPEE) and aqueous (BPAE), BPME to be most effective in downregulating transcription of hepcidin gene. Further, BPME and piperine significantly downregulated hepcidin protein expression at 200 μg/ml and 100 μM concentrations, respectively. In the next phase, BPME and piperine were found to significantly attenuate BMP-6 and IL-6 induced hepcidin overexpression by downregulating the increased level of pSMAD1 and pSTAT3 proteins, respectively. For in vivo study, we first subcutaneously injected male BALB/c mice with oil of turpentine, thrice within a period of two weeks, in order to enhance the expression of hepcidin. After that, the intraperitoneal administration of BPME and piperine at 70 and 25 mg/kg body weight, respectively, on alternate days for a period of another two weeks resulted in downregulation of hepcidin overexpression in diseased mice, as confirmed by RT-PCR and immunoblot analysis. The histopathology of liver tissue confirmed increased iron bioavailability in BPME and piperine treated animals. The molecular docking-based interaction studies demonstrated the binding potential of piperine with SMAD1 and STAT3 proteins. The binding patterns supported the proposed inhibition of hepcidin activating proteins. All together, these findings suggest black pepper as a therapeutic candidate for the treatment of anemia of inflammation."
+  ],
+  "affiliation": [
+    "Molecular Endocrinology Laboratory, Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee, 247667, Uttarakhand, India. Electronic address: sbanerjee1@bt.iitr.ac.in."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Interleukin-6",
+        "Hepcidin",
+        "Black pepper",
+        "BALB/C Mice",
+        "piperine",
+        "Bone Morphogenetic Protein-6",
+        "Anemia Of Inflammation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.freeradbiomed.2021.03.019"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-27"
+  ],
+  "firstIndexDate": [
+    "2021-03-28"
+  ],
+  "dateOfRevision": [
+    "2021-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-23"
+  ],
+  "firstPublicationDate": [
+    "2021-03-23"
+  ]
+}

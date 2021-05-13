@@ -1,0 +1,282 @@
+{
+  "id": [
+    "33905824"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33905824"
+  ],
+  "doi": [
+    "10.1016/j.cbpc.2021.109064"
+  ],
+  "title": [
+    "Immunotoxicological effects of insecticides in exposed fishes."
+  ],
+  "authorString": [
+    "Yang C, Lim W, Song G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Changwon"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim W"
+          ],
+          "firstName": [
+            "Whasun"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food and Nutrition, Kookmin University, Seoul 02707, Republic of Korea. Electronic address: wlim@kookmin.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song G"
+          ],
+          "firstName": [
+            "Gwonhwa"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea. Electronic address: ghsong@korea.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "247"
+      ],
+      "journalIssueId": [
+        "3161623"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP"
+          ],
+          "ISOAbbreviation": [
+            "Comp Biochem Physiol C Toxicol Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Comp Biochem Physiol C Toxicol Pharmacol"
+          ],
+          "NLMid": [
+            "100959500"
+          ],
+          "ISSN": [
+            "1532-0456"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "109064"
+  ],
+  "abstractText": [
+    "Biologically active compounds used in agriculture that develop near aquatic environments easily spill into rivers or lakes. As a result, insecticides, herbicides and fungicides are observed worldwide in aquatic environments and accumulated in aquatic organism. Many insecticides, including organochlorine and organophosphate, have long been banned long ago because of their high persistence and non-target toxicity. However, previous studies have shown that persistent pesticides remain in aquatic organisms. The immune system is the first defense mechanism against exposure to persistent organic pollutants or pesticides that have been released into the aquatic environment. Many insecticides have been reported to cause immunotoxicity, which is represented by alteration of phagocytic and lysozyme activity. Recent studies show that immunotoxicity by insecticides exerts a more complex mechanism in fish. Insecticides induce immunotoxic effects, such as the release of inflammatory cytokines from head kidney macrophages and inhibition of immune cell proliferation in fish, which can lead to death in severe cases. Even currently used pesticides, such as pyrethroid, with low bioaccumulation have been shown to induce immunotoxicological effects in fish when exposed continuously. Therefore, this review describes the types and bioaccumulation of insecticides that cause immunotoxicity and detailed immunotoxicological mechanisms in fish tissues."
+  ],
+  "affiliation": [
+    "Institute of Animal Molecular Biotechnology and Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul 02841, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pesticides",
+        "Insecticides",
+        "Pyrethroid",
+        "Immunotoxicity",
+        "chlorpyrifos"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.cbpc.2021.109064"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-27"
+  ],
+  "firstIndexDate": [
+    "2021-04-28"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-24"
+  ],
+  "firstPublicationDate": [
+    "2021-04-24"
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": [
+    "33876719"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33876719"
+  ],
+  "doi": [
+    "10.1080/19336896.2021.1910468"
+  ],
+  "title": [
+    "Hypothesis: AA amyloidosis is a factor causing systemic complications after coronavirus disease."
+  ],
+  "authorString": [
+    "Galkin AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Galkin AP"
+          ],
+          "firstName": [
+            "Alexey P"
+          ],
+          "lastName": [
+            "Galkin"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7362-8857",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "St. Petersburg Branch, Vavilov Institute of General Genetics, St. Petersburg, Russian Federation."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Genetics and Biotechnology, St. Petersburg State University, St. Petersburg, Russian Federation."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7362-8857",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3083930"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Prion"
+          ],
+          "ISOAbbreviation": [
+            "Prion"
+          ],
+          "medlineAbbreviation": [
+            "Prion"
+          ],
+          "NLMid": [
+            "101472305"
+          ],
+          "ISSN": [
+            "1933-6896"
+          ],
+          "ESSN": [
+            "1933-690X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "53-55"
+  ],
+  "abstractText": [
+    "The severe course of COVID-19 causes systemic chronic inflammation and thrombosis in a wide variety of organs and tissues. The nature of these inflammations remains a mystery, although they are known to occur against the background of a high level of cytokine production. The high level of cytokines provokes overproduction of the Serum amyloid A (SAA) protein. Moreover, the number of studies has shown that the severe COVID-19 causes SAA overproduction. The authors of these works regard a high level of SAA exclusively as a biomarker of COVID-19. However, it should be borne in mind that overproduction of SAA can cause systemic AA amyloidosis. SAA forms cytotoxic amyloid deposits in various organs and induces inflammation and thrombosis. The consequences of COVID-19 infection are surprisingly similar to the clinical picture that is observed in AA amyloidosis. Here I present the hypothesis that AA amyloidosis is a factor causing systemic complications after coronavirus disease."
+  ],
+  "affiliation": [
+    "St. Petersburg Branch, Vavilov Institute of General Genetics, St. Petersburg, Russian Federation."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Amyloidosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Serum Amyloid A Protein"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "COVID-19"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Coronavirus",
+        "serum amyloid A",
+        "Chronic Inflammation",
+        "Aa Amyloidosis",
+        "Covid-19"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Serum Amyloid A Protein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336896.2021.1910468"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-28"
+  ],
+  "dateOfCreation": [
+    "2021-04-20"
+  ],
+  "firstIndexDate": [
+    "2021-04-21"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": [
+    "33878391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33878391"
+  ],
+  "doi": [
+    "10.1016/j.jbiotec.2021.04.004"
+  ],
+  "title": [
+    "Enhancement of catabolite regulatory genes in Saccharomyces cerevisiae to increase ethanol production using hydrolysate from red seaweed Gloiopeltis furcata."
+  ],
+  "authorString": [
+    "Park YR, Yang JW, Sunwoo IY, Jang BK, Kim SR, Jeong GT, Kim SK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park YR"
+          ],
+          "firstName": [
+            "Yu Rim"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "YR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Pukyong National University, Busan, 48513, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang JW"
+          ],
+          "firstName": [
+            "Ji Won"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Pukyong National University, Busan, 48513, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sunwoo IY"
+          ],
+          "firstName": [
+            "In Yung"
+          ],
+          "lastName": [
+            "Sunwoo"
+          ],
+          "initials": [
+            "IY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemistry, Umeå University, SE-90187, Umeå, Sweden."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jang BK"
+          ],
+          "firstName": [
+            "Byeong-Kwan"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SR"
+          ],
+          "firstName": [
+            "Soo Rin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Food Science and Biotechnology, Kyungpook National University, Daegu, 41566, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong GT"
+          ],
+          "firstName": [
+            "Gwi-Taek"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "GT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Pukyong National University, Busan, 48513, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SK"
+          ],
+          "firstName": [
+            "Sung-Koo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Pukyong National University, Busan, 48513, Republic of Korea. Electronic address: skkim@pknu.ac.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "333"
+      ],
+      "journalIssueId": [
+        "3162490"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Biotechnol"
+          ],
+          "NLMid": [
+            "8411927"
+          ],
+          "ISSN": [
+            "0168-1656"
+          ],
+          "ESSN": [
+            "1873-4863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1-9"
+  ],
+  "abstractText": [
+    "Glucose and galactose are monosaccharides obtained from Gloiopeltis furcata (Red algae). A total monosaccharide yield of 62.3 g/L was obtained from G. furcata using thermal acid hydrolysis and enzymatic saccharification. Activated carbon was used to eliminate hydroxymethylfurfural (HMF) from the hydrolysate. Previously obtained monosaccharides are used for ethanol production by Saccharomyces cerevisiae. S. cerevisiae consumes glucose first, then galactose. The methods for reducing fermentation time and increasing the ethanol yield coefficient using the simultaneous consumption of glucose and galactose have been evaluated. Gal3p and Gal80p of S. cerevisiae act as signal transducers that govern the galactose inducer Gal4p mediated transcriptional activation of the Gal gene family. Gal80p binds to Gal4p for transcription deactivation. Therefore, Gal80p was deleted for Gal4p expression without interruption."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Pukyong National University, Busan, 48513, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Bioethanol",
+        "Gloiopeltis furcata",
+        "Crispr Cas-9"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbiotec.2021.04.004"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-20"
+  ],
+  "firstIndexDate": [
+    "2021-04-22"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-18"
+  ],
+  "firstPublicationDate": [
+    "2021-04-18"
+  ]
+}

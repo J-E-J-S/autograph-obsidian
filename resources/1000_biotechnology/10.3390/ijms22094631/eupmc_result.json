@@ -1,0 +1,580 @@
+{
+  "id": [
+    "33924895"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33924895"
+  ],
+  "doi": [
+    "10.3390/ijms22094631"
+  ],
+  "title": [
+    "Nitrogen Signaling Genes and <i>SOC1</i> Determine the Flowering Time in a Reciprocal Negative Feedback Loop in Chinese Cabbage (<i>Brassica rapa</i> L.) Based on CRISPR/Cas9-Mediated Mutagenesis of Multiple <i>BrSOC1</i> Homologs."
+  ],
+  "authorString": [
+    "Jung H, Lee A, Jo SH, Park HJ, Jung WY, Kim HS, Lee HJ, Jeong SG, Kim YS, Cho HS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jung H"
+          ],
+          "firstName": [
+            "Haemyeong"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4914-610X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biosystems and Bioengineering, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee A"
+          ],
+          "firstName": [
+            "Areum"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7610-2773",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biosystems and Bioengineering, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jo SH"
+          ],
+          "firstName": [
+            "Seung Hee"
+          ],
+          "lastName": [
+            "Jo"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biosystems and Bioengineering, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park HJ"
+          ],
+          "firstName": [
+            "Hyun Ji"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jung WY"
+          ],
+          "firstName": [
+            "Won Yong"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1751-8418",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HS"
+          ],
+          "firstName": [
+            "Hyun-Soon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biosystems and Bioengineering, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HJ"
+          ],
+          "firstName": [
+            "Hyo-Jun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Functional Genomics, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong SG"
+          ],
+          "firstName": [
+            "Seon-Geum"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, NongWoo Bio, Anseong 17558, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YS"
+          ],
+          "firstName": [
+            "Youn-Sung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, NongWoo Bio, Anseong 17558, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cho HS"
+          ],
+          "firstName": [
+            "Hye Sun"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0469-7186",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biosystems and Bioengineering, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), Daejeon 34113, Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7610-2773",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1751-8418",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0469-7186",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4914-610X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3161097"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Precise flowering timing is critical for the plant life cycle. Here, we examined the molecular mechanisms and regulatory network associated with flowering in Chinese cabbage (<i>Brassica rapa</i> L.) by comparative transcriptome profiling of two Chinese cabbage inbred lines, \"4004\" (early bolting) and \"50\" (late bolting). RNA-Seq and quantitative reverse transcription PCR (qPCR) analyses showed that two positive nitric oxide (NO) signaling regulator genes, <i>nitrite reductase</i> (<i>BrNIR</i>) and <i>nitrate reductase</i> (<i>BrNIA</i>), were up-regulated in line \"50\" with or without vernalization. In agreement with the transcription analysis, the shoots in line \"50\" had substantially higher nitrogen levels than those in \"4004\". Upon vernalization, the flowering repressor gene <i>Circadian 1</i> (<i>BrCIR1</i>) was significantly up-regulated in line \"50\", whereas the flowering enhancer genes named <i>SUPPRESSOR OF OVEREXPRESSION OF CONSTANCE 1</i> homologs (<i>BrSOC1s</i>) were substantially up-regulated in line \"4004\". CRISPR/Cas9-mediated mutagenesis in Chinese cabbage demonstrated that the <i>BrSOC1-1/1-2/1-3</i> genes were involved in late flowering, and their expression was mutually exclusive with that of the nitrogen signaling genes. Thus, we identified two flowering mechanisms in Chinese cabbage: a reciprocal negative feedback loop between nitrogen signaling genes (<i>BrNIA1</i> and <i>BrNIR1</i>) and <i>BrSOC1s</i> to control flowering time and positive feedback control of the expression of <i>BrSOC1s</i>."
+  ],
+  "affiliation": [
+    "Plant Systems Engineering Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "KGM5372012, KGM9942011"
+          ],
+          "agency": [
+            "KRIBB Initiative Programs"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vernalization",
+        "Flowering time",
+        "Rna-seq",
+        "Crispr/cas9",
+        "Nitric Oxide Signaling",
+        "Late Bolting",
+        "Brnia1",
+        "Brnir1",
+        "Brsoc1",
+        "Chinese Cabbage (Brassica Rapa L.)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms22094631"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-28"
+  ],
+  "firstPublicationDate": [
+    "2021-04-28"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": [
+    "33610607"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33610607"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.02.122"
+  ],
+  "title": [
+    "Chitosan/polycaprolactone multilayer hydrogel: A sustained Kartogenin delivery model for cartilage regeneration."
+  ],
+  "authorString": [
+    "Baharlou Houreh A, Masaeli E, Nasr-Esfahani MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baharlou Houreh A"
+          ],
+          "firstName": [
+            "Arezou"
+          ],
+          "lastName": [
+            "Baharlou Houreh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Masaeli E"
+          ],
+          "firstName": [
+            "Elahe"
+          ],
+          "lastName": [
+            "Masaeli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran. Electronic address: elahe.masaeli@royan-rc.ac.ir."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nasr-Esfahani MH"
+          ],
+          "firstName": [
+            "Mohammad Hossein"
+          ],
+          "lastName": [
+            "Nasr-Esfahani"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran. Electronic address: mh.nasr-esfahani@royan-rc.ac.ir."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "177"
+      ],
+      "journalIssueId": [
+        "3152512"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "589-600"
+  ],
+  "abstractText": [
+    "Cartilage regeneration using biomaterial-guided delivery systems presents improved therapeutic efficacy of the biomolecules while minimizing side effects. Here, our hypothesis was to design a multilayer scaffold of chitosan (CS) hydrogel and polycaprolactone (PCL) mat to enhance the mechanical properties, integrity and stability of CS, especially for subsequent in vivo transplantation. After conjugation of the Kartogenin (KGN) into this structure, its gradual release can promote chondrogenesis of mesenchymal stem cells (MSCs). Initially, a thin electrospun PCL layer was sandwiched between two CS hydrogels. Subsequently, KGN was superficially immobilized onto the CS matrix. The successful conjugation was confirmed by scanning electron microscopy (SEM) and infrared spectroscopy. These novel KGN-conjugated scaffolds possessed lower swelling and higher compressive modulus and showed gradual release of KGN in longer retention times. Immunofluorescent and histological staining represented more cells located in lacunae as well as more Coll2 and Sox9 positive cells on KGN-conjugated scaffolds. Gene expression analysis also revealed that SOX9, COLL2 and ACAN expression levels were higher in the presence of KGN, while COLLX expression was down-regulated, indicating a hypertrophy phenomenon with synergistic effect of TGF-β. This multilayer structure not only facilitates the effective treatment, but also provides a proper mechanical structure for cartilage engineering."
+  ],
+  "affiliation": [
+    "Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chitosan",
+        "Chondrogenic Differentiation",
+        "Kartogenin",
+        "Multilayer Hydrogel"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.02.122"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-21"
+  ],
+  "firstIndexDate": [
+    "2021-02-23"
+  ],
+  "dateOfRevision": [
+    "2021-04-19"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-18"
+  ],
+  "firstPublicationDate": [
+    "2021-02-18"
+  ]
+}

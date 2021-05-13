@@ -1,0 +1,294 @@
+{
+  "id": [
+    "33832356"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33832356"
+  ],
+  "doi": [
+    "10.1080/07388551.2021.1901647"
+  ],
+  "title": [
+    "Colors of life: a review on fungal pigments."
+  ],
+  "authorString": [
+    "Meruvu H, Dos Santos JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meruvu H"
+          ],
+          "firstName": [
+            "Haritha"
+          ],
+          "lastName": [
+            "Meruvu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4494-5511",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Andhra University College of Engineering - AU North Campus, Andhra University, Visakhapatnam, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, National Institute of Technology Andhra Pradesh, Tadepalligudem, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Bioengineering, Faculty of Engineering and Natural Sciences, Gaziosmanpaşa University, Tokat, Turkey."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dos Santos JC"
+          ],
+          "firstName": [
+            "Júlio César"
+          ],
+          "lastName": [
+            "Dos Santos"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Engineering School of Lorena (EEL), University of São Paulo (USP), Estrada Municipal do Campinho, Lorena/SP, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4494-5511",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3146468"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Critical reviews in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "NLMid": [
+            "8505177"
+          ],
+          "ISSN": [
+            "0738-8551"
+          ],
+          "ESSN": [
+            "1549-7801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1-25"
+  ],
+  "abstractText": [
+    "Colorants find social and commercial applications in cosmetics, food, pharmaceuticals, textiles, and other industrial sectors. Among the available options, chemically synthesized colorants are popular due to their low-cost and flexible production modes, but health and environmental concerns have encouraged the valorization of biopigments that are natural and ecofriendly. Among natural biopigment producers, microorganisms are noteworthy for their all-seasonal production of stable and low-cost pigments with high-yield titers. Fungi are paramount sources of natural pigments. They occupy diverse ecological niches with adaptive metabolisms and biocatalytic pathways, making them entities with an industrial interest. Industrially important biopigments like carotenoids, melanins, riboflavins, azaphilones, and quinones produced by filamentous fungi are described within the context of this review. Most recent information about fungal pigment characteristics, biochemical production routes and pathways, potential applications, limitations, and future research perspectives are described."
+  ],
+  "affiliation": [
+    "Department of Chemical Engineering, Andhra University College of Engineering - AU North Campus, Andhra University, Visakhapatnam, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fungi",
+        "Pigments",
+        "Solid state fermentation",
+        "Submerged fermentation",
+        "Color",
+        "Biopigments"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/07388551.2021.1901647"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-09"
+  ],
+  "firstIndexDate": [
+    "2021-04-10"
+  ],
+  "dateOfRevision": [
+    "2021-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-08"
+  ],
+  "firstPublicationDate": [
+    "2021-04-08"
+  ]
+}

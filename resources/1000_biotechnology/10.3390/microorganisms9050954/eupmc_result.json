@@ -1,0 +1,514 @@
+{
+  "id": [
+    "33946643"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33946643"
+  ],
+  "doi": [
+    "10.3390/microorganisms9050954"
+  ],
+  "title": [
+    "Cracking the Challenge of Antimicrobial Drug Resistance with CRISPR/Cas9, Nanotechnology and Other Strategies in ESKAPE Pathogens."
+  ],
+  "authorString": [
+    "Zohra T, Numan M, Ikram A, Salman M, Khan T, Din M, Salman M, Farooq A, Amir A, Ali M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zohra T"
+          ],
+          "firstName": [
+            "Tanzeel"
+          ],
+          "lastName": [
+            "Zohra"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Numan M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Numan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Molecular Biology and Biotechnology, Environmental and Health Sciences, University of North Carolina, Greensboro, NC 27412, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ikram A"
+          ],
+          "firstName": [
+            "Aamer"
+          ],
+          "lastName": [
+            "Ikram"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6440-750X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salman M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Salman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan T"
+          ],
+          "firstName": [
+            "Tariq"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9194-9240",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, University of Malakand Chakdara Dir Lower, Chakdara 18000, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Din M"
+          ],
+          "firstName": [
+            "Misbahud"
+          ],
+          "lastName": [
+            "Din"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6248-5942",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, Islamabad 45320, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salman M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Salman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Sarhad University, Peshawar 24755, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Farooq A"
+          ],
+          "firstName": [
+            "Ayesha"
+          ],
+          "lastName": [
+            "Farooq"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Amir A"
+          ],
+          "firstName": [
+            "Afreenish"
+          ],
+          "lastName": [
+            "Amir"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ali M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7835-0663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, Islamabad 45320, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6248-5942",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6440-750X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7835-0663",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9194-9240",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3161083"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microorganisms"
+          ],
+          "ISOAbbreviation": [
+            "Microorganisms"
+          ],
+          "medlineAbbreviation": [
+            "Microorganisms"
+          ],
+          "NLMid": [
+            "101625893"
+          ],
+          "ISSN": [
+            "2076-2607"
+          ],
+          "ESSN": [
+            "2076-2607"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Antimicrobial resistance is mushrooming as a silent pandemic. It is considered among the most common priority areas identified by both national and international agencies. The global development of multidrug-resistant strains now threatens public health care improvement by introducing antibiotics against infectious agents. These strains are the product of both continuous evolution and unchecked antimicrobial usage (AMU). The ESKAPE pathogens (<i>Enterococcus faecium</i>, <i>Staphylococcus aureus</i>, <i>Klebsiella pneumoniae</i>, <i>Acinetobacter baumannii</i>, <i>Pseudomonas aeruginosa</i>, and <i>Enterobacter species</i>) are the leading cause of nosocomial infections throughout the world. Most of them are now multidrug-resistant, which pose significant challenges in clinical practice. Understanding these bacteria's resistance mechanisms is crucial for developing novel antimicrobial agents or other alternative tools to fight against these pathogens. A mechanistic understanding of resistance in these pathogens would also help predict underlying or even unknown mechanisms of resistance of other emerging multidrug-resistant pathogens. Research and development to find better antibacterial drugs and research on tools like CRISPER-Cas9, vaccines, and nanoparticles for treatment of infections that can be further explored in the clinical practice health sector have recognized these alternatives as essential and highly effective tools to mitigate antimicrobial resistance. This review summarizes the known antimicrobial resistance mechanisms of ESKAPE pathogens and strategies for overcoming this resistance with an extensive overview of efforts made in this research area."
+  ],
+  "affiliation": [
+    "Public Health Laboratories Division, National Institute of Health, Islamabad 45500, Pakistan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacteria",
+        "Antibiotics",
+        "Antimicrobial resistance",
+        "Eskape"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/microorganisms9050954"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

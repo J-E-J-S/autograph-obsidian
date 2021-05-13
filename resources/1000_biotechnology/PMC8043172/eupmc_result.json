@@ -1,0 +1,452 @@
+{
+  "id": [
+    "33834939"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33834939"
+  ],
+  "pmcid": [
+    "PMC8043172"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC8043172"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/19336896.2021.1910177"
+  ],
+  "title": [
+    "Characterization of the prion protein gene in axis deer (<i>Axis axis</i>) and implications for susceptibility to chronic wasting disease."
+  ],
+  "authorString": [
+    "Buchholz MJ, Wright EA, Grisham BA, Bradley RD, Arsuffi TL, Conway WC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Buchholz MJ"
+          ],
+          "firstName": [
+            "Matthew J"
+          ],
+          "lastName": [
+            "Buchholz"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5632-0666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Natural Resources Management, Texas Tech University,Lubbock, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wright EA"
+          ],
+          "firstName": [
+            "Emily A"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences, Texas Tech University, Lubbock, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grisham BA"
+          ],
+          "firstName": [
+            "Blake A"
+          ],
+          "lastName": [
+            "Grisham"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Natural Resources Management, Texas Tech University,Lubbock, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bradley RD"
+          ],
+          "firstName": [
+            "Robert D"
+          ],
+          "lastName": [
+            "Bradley"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences, Texas Tech University, Lubbock, TX USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Natural Science Research Laboratory, Museum of Texas Tech University, Lubbock, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Arsuffi TL"
+          ],
+          "firstName": [
+            "Thomas L"
+          ],
+          "lastName": [
+            "Arsuffi"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Llano River Field Station, Texas Tech University, Junction, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Conway WC"
+          ],
+          "firstName": [
+            "Warren C"
+          ],
+          "lastName": [
+            "Conway"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Natural Resources Management, Texas Tech University,Lubbock, TX USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5632-0666",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3083930"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Prion"
+          ],
+          "ISOAbbreviation": [
+            "Prion"
+          ],
+          "medlineAbbreviation": [
+            "Prion"
+          ],
+          "NLMid": [
+            "101472305"
+          ],
+          "ISSN": [
+            "1933-6896"
+          ],
+          "ESSN": [
+            "1933-690X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "44-52"
+  ],
+  "abstractText": [
+    "Axis deer (<i>Axis axis</i>) occur both in captivity and free-ranging populations in portions of North America, but to-date, no data exist pertaining to the species' susceptibility to CWD. We sequenced the prion protein gene (<i>PRNP</i>) from axis deer. We then compared axis deer PrP<sup>C</sup> sequences and amino acid polymorphisms to those of CWD susceptible species. A single <i>PRNP</i> allele with no evidence of intraspecies variation was identified in axis deer that indicates axis deer <i>PRNP</i> is most similar to North American elk (<i>Cervus canadensis</i>) <i>PRNP</i>. Therefore, axis deer may be susceptible to CWD. We recommend proactively increasing CWD surveillance for axis deer, particularly where CWD has been detected and axis deer are sympatric with native North American CWD susceptible species."
+  ],
+  "affiliation": [
+    "Department of Natural Resources Management, Texas Tech University,Lubbock, TX USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "PrP",
+        "PRNP",
+        "prion protein",
+        "Chronic Wasting Disease",
+        "Axis Axis",
+        "Chital",
+        "Axis Deer"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336896.2021.1910177"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC8043172"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC8043172?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2021-04-09"
+  ],
+  "firstIndexDate": [
+    "2021-04-10"
+  ],
+  "fullTextReceivedDate": [
+    "2021-04-27"
+  ],
+  "dateOfRevision": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

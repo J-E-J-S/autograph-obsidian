@@ -1,0 +1,341 @@
+{
+  "id": [
+    "33954990"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33954990"
+  ],
+  "doi": [
+    "10.1111/jfbc.13750"
+  ],
+  "title": [
+    "Trachyspermum ammi and Cinnamomum verum as nutraceuticals: Spices rich in therapeutically significant protein tyrosine phosphatases."
+  ],
+  "authorString": [
+    "Selvaraj K, Katare DP, Chand S, Chaudhary N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Selvaraj K"
+          ],
+          "firstName": [
+            "Kanagarethinam"
+          ],
+          "lastName": [
+            "Selvaraj"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Biotechnology and Biochemical Engineering, Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Katare DP"
+          ],
+          "firstName": [
+            "Deepshikha Pande"
+          ],
+          "lastName": [
+            "Katare"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1881-3566",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Biotechnology and Biochemical Engineering, Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chand S"
+          ],
+          "firstName": [
+            "Subhash"
+          ],
+          "lastName": [
+            "Chand"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biochemical Engineering and Biotechnology, Indian Institute of Technology Delhi, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chaudhary N"
+          ],
+          "firstName": [
+            "Nidhee"
+          ],
+          "lastName": [
+            "Chaudhary"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1295-3330",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Biotechnology and Biochemical Engineering, Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1295-3330",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1881-3566",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162226"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of food biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Food Biochem"
+          ],
+          "medlineAbbreviation": [
+            "J Food Biochem"
+          ],
+          "NLMid": [
+            "7706045"
+          ],
+          "ISSN": [
+            "0145-8884"
+          ],
+          "ESSN": [
+            "1745-4514"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e13750"
+  ],
+  "abstractText": [
+    "Nutraceuticals need special attention as preventive molecules to create a natural barrier against various dreadful diseases like cancer and to regulate metabolism. In the present study, two spices, Trachyspermum ammi and Cinnamomum verum, been identified as excellent Protein Tyrosine Phosphatases (PTPases) sources that play significant role in the regulation of cell signal transduction and developmental processes in plants as well as animals, being lucrative and potential targets for pharmacological modulation. PTPases from both cases were partially purified into 0%-40% and 40%-80% fractions based on ammonium sulfate saturation levels. Fraction (40%-80%) exhibited a purification level of 4.44-fold and 2.86-fold with specific activity of 44.06 and 23.33 U/mg for PTPases from T. ammi and C. verum, respectively. PTPases being found to be thermally stable up to 70°C imply their industrial significance. Kinetic studies showed K<sub>m</sub> values to be 7.14 and 8.33 mM, whereas the activation energy (E<sub>a</sub> ) values were 25.89 and 29.13 kJ/mol, respectively. Divalent cations: Cu<sup>2+</sup> , Zn<sup>2+</sup> , and Mn<sup>2+</sup> acted as inhibitors of PTPases, from both sources. The K<sub>i</sub> values of inhibitors varied from 0.014-0.125 mM in the descending order Cu<sup>2+</sup>  > Zn<sup>2+</sup>  > Mn<sup>2+</sup> and Mn<sup>2+</sup>  > Cu<sup>2+</sup>  > Zn<sup>2+</sup> for PTPases from T. ammi and C. verum, respectively. The inhibitory effect of sodium metavanadate aligns with prominent PTPase characteristics. In addition to these properties, the thermostability of PTPases from two spices enhances their significance in industries with therapeutically vital products. Although the source of PTPases is culinary spices, further studies are required to establish the utilization of PTPases as nutraceuticals and in therapeutic formulations. PRACTICAL APPLICATIONS: For a healthy lifestyle, awareness needs to be created by humankind towards food habits to minimize illnesses. Numerous studies have explored the consumption of nutraceutical products acts as a natural barrier and immune booster for various human ailments including SARS-COV-2. PTPases play important roles in regulating intracellular signaling and, ultimately, biological function along with their structural features. The importance of PTPases and their inhibitors has been implicated in various diseases like cancer, diabetes, and obesity. Further investigations need to be undertaken to explore the therapeutic properties of PTPases in both in vivo and in vitro for their clinical significance."
+  ],
+  "affiliation": [
+    "Centre for Biotechnology and Biochemical Engineering, Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inhibitors",
+        "Cancer",
+        "Drug target",
+        "PTPases",
+        "Therapeutic Formulations",
+        "Kinetic Studies"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/jfbc.13750"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-06"
+  ],
+  "firstIndexDate": [
+    "2021-05-07"
+  ],
+  "dateOfRevision": [
+    "2021-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-05"
+  ],
+  "firstPublicationDate": [
+    "2021-05-05"
+  ]
+}

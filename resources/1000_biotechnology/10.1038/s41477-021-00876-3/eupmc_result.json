@@ -1,0 +1,775 @@
+{
+  "id": [
+    "33731920"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33731920"
+  ],
+  "doi": [
+    "10.1038/s41477-021-00876-3"
+  ],
+  "title": [
+    "How the O<sub>2</sub>-dependent Mg-protoporphyrin monomethyl ester cyclase forms the fifth ring of chlorophylls."
+  ],
+  "authorString": [
+    "Chen GE, Adams NBP, Jackson PJ, Dickman MJ, Hunter CN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen GE"
+          ],
+          "firstName": [
+            "Guangyu E"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "GE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8457-819X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield, UK. guangyu.chen@sjtu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China. guangyu.chen@sjtu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Adams NBP"
+          ],
+          "firstName": [
+            "Nathan B P"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "NBP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3080-3448",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jackson PJ"
+          ],
+          "firstName": [
+            "Philip J"
+          ],
+          "lastName": [
+            "Jackson"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9671-2472",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield, UK."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, University of Sheffield, Sheffield, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dickman MJ"
+          ],
+          "firstName": [
+            "Mark J"
+          ],
+          "lastName": [
+            "Dickman"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, University of Sheffield, Sheffield, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hunter CN"
+          ],
+          "firstName": [
+            "C Neil"
+          ],
+          "lastName": [
+            "Hunter"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2533-9783",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield, UK. c.n.hunter@sheffield.ac.uk."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8457-819X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9671-2472",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2533-9783",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3080-3448",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "3134924"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature plants"
+          ],
+          "ISOAbbreviation": [
+            "Nat Plants"
+          ],
+          "medlineAbbreviation": [
+            "Nat Plants"
+          ],
+          "NLMid": [
+            "101651677"
+          ],
+          "ISSN": [
+            "2055-0278"
+          ],
+          "ESSN": [
+            "2055-0278"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "365-375"
+  ],
+  "abstractText": [
+    "Mg-protoporphyrin IX monomethyl ester (MgPME) cyclase catalyses the formation of the isocyclic ring, producing protochlorophyllide a and contributing substantially to the absorption properties of chlorophylls and bacteriochlorophylls. The O<sub>2</sub>-dependent cyclase is found in both oxygenic phototrophs and some purple bacteria. We overproduced the simplest form of the cyclase, AcsF, from Rubrivivax gelatinosus, in Escherichia coli. In biochemical assays the di-iron cluster within AcsF is reduced by ferredoxin furnished by NADPH and ferredoxin:NADP<sup>+</sup> reductase, or by direct coupling to Photosystem I photochemistry, linking cyclase to the photosynthetic electron transport chain. Kinetic analyses yielded a turnover number of 0.9 min<sup>-1</sup>, a Michaelis-Menten constant of 7.0 µM for MgPME and a dissociation constant for MgPME of 0.16 µM. Mass spectrometry identified 13<sup>1</sup>-hydroxy-MgPME and 13<sup>1</sup>-keto-MgPME as cyclase reaction intermediates, revealing the steps that form the isocyclic ring and completing the work originated by Sam Granick in 1950."
+  ],
+  "affiliation": [
+    "Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield, UK. guangyu.chen@sjtu.edu.cn."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/M012166/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/M000265/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlorophyll"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protoporphyrins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metalloproteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cloning, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electron Transport"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Burkholderiales"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "protoporphyrin IX monomethyl ester"
+          ],
+          "registryNumber": [
+            "16053-68-2"
+          ]
+        },
+        {
+          "name": [
+            "AcsF protein, Rubrivivax gelatinosus"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Metalloproteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Protoporphyrins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Chlorophyll"
+          ],
+          "registryNumber": [
+            "1406-65-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41477-021-00876-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "Y"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "manuscriptId": [
+    "EMS116175"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-04-29"
+  ],
+  "dateOfCreation": [
+    "2021-03-18"
+  ],
+  "firstIndexDate": [
+    "2021-03-19"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-15"
+  ],
+  "firstPublicationDate": [
+    "2021-03-15"
+  ],
+  "embargoDate": [
+    "2021-09-15"
+  ]
+}

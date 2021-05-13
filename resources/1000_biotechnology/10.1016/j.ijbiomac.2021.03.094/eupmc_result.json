@@ -1,0 +1,460 @@
+{
+  "id": [
+    "33745974"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33745974"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.03.094"
+  ],
+  "title": [
+    "Dissecting biological activities of fibroblast growth factor receptors by the coiled-coil-mediated oligomerization of FGF1."
+  ],
+  "authorString": [
+    "Porebska N, Pozniak M, Krzyscik MA, Knapik A, Czyrek A, Kucinska M, Jastrzebski K, Zakrzewska M, Otlewski J, Opalinski L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Porebska N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Porebska"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pozniak M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Pozniak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krzyscik MA"
+          ],
+          "firstName": [
+            "Mateusz Adam"
+          ],
+          "lastName": [
+            "Krzyscik"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Knapik A"
+          ],
+          "firstName": [
+            "Agata"
+          ],
+          "lastName": [
+            "Knapik"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Czyrek A"
+          ],
+          "firstName": [
+            "Aleksandra"
+          ],
+          "lastName": [
+            "Czyrek"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland; Faculty of Biotechnology, Department of Protein Biotechnology, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kucinska M"
+          ],
+          "firstName": [
+            "Marika"
+          ],
+          "lastName": [
+            "Kucinska"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jastrzebski K"
+          ],
+          "firstName": [
+            "Kamil"
+          ],
+          "lastName": [
+            "Jastrzebski"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Cell Biology, International Institute of Molecular and Cell Biology, Warsaw 02-109, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zakrzewska M"
+          ],
+          "firstName": [
+            "Malgorzata"
+          ],
+          "lastName": [
+            "Zakrzewska"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Otlewski J"
+          ],
+          "firstName": [
+            "Jacek"
+          ],
+          "lastName": [
+            "Otlewski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Opalinski L"
+          ],
+          "firstName": [
+            "Lukasz"
+          ],
+          "lastName": [
+            "Opalinski"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland. Electronic address: lukasz.opalinski@uwr.edu.pl."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "180"
+      ],
+      "journalIssueId": [
+        "3168731"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "470-483"
+  ],
+  "abstractText": [
+    "Fibroblast growth factor receptors (FGFRs) are integral membrane proteins involved in various biological processes including proliferation, migration and apoptosis. There are a number of regulatory mechanisms of FGFR signaling, which tightly control the specificity and duration of transmitted signals. The effect of the FGFRs spatial distribution in the plasma membrane on receptor-dependent functions is still largely unknown. We have demonstrated that oligomerization of FGF1 with coiled-coil motifs largely improves FGF1 affinity for FGFRs and heparin. Set of developed FGF1 oligomers evoked prolonged activation of FGFR1 and receptor-downstream signaling pathways, as compared to the wild type FGF1. The majority of obtained oligomeric FGF1 variants showed increased stability, enhanced mitogenic activity and largely improved internalization via FGFR1-dependent endocytosis. Importantly, FGF1 oligomers with the highest oligomeric state exhibited reduced ability to stimulate FGFR-dependent glucose uptake, while at the same time remained hyperactive in the induction of cell proliferation. Our data implicate that oligomerization of FGF1 alters the biological activity of the FGF/GFR1 signaling system. Furthermore, developed FGF1 oligomers, due to improved stability and proliferative potential, can be applied in the regenerative medicine or as drug delivery vehicles in the ADC approach against FGFR1-overproducing cancers."
+  ],
+  "affiliation": [
+    "Faculty of Biotechnology, Department of Protein Engineering, University of Wroclaw, Joliot-Curie 14a, 50-383 Wroclaw, Poland."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell division",
+        "Metabolism",
+        "Signaling",
+        "Oligomerization",
+        "Protein transport",
+        "Fgfr"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.03.094"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-22"
+  ],
+  "firstIndexDate": [
+    "2021-03-23"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-18"
+  ],
+  "firstPublicationDate": [
+    "2021-03-18"
+  ]
+}

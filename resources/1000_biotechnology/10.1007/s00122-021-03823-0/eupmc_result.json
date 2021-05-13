@@ -1,0 +1,441 @@
+{
+  "id": [
+    "33821294"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33821294"
+  ],
+  "doi": [
+    "10.1007/s00122-021-03823-0"
+  ],
+  "title": [
+    "Gain-of-function mutagenesis through activation tagging identifies XPB2 and SEN1 helicase genes as potential targets for drought stress tolerance in rice."
+  ],
+  "authorString": [
+    "Dutta M, Moin M, Saha A, Dutta D, Bakshi A, Kirti PB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dutta M"
+          ],
+          "firstName": [
+            "Mouboni"
+          ],
+          "lastName": [
+            "Dutta"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1714-0435",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Sciences, University of Hyderabad, Hyderabad, 500046, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moin M"
+          ],
+          "firstName": [
+            "Mazahar"
+          ],
+          "lastName": [
+            "Moin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0606-8885",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Division, Indian Institute of Rice Research, Hyderabad, 500030, India. moinmazahar@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saha A"
+          ],
+          "firstName": [
+            "Anusree"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Sciences, University of Hyderabad, Hyderabad, 500046, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dutta D"
+          ],
+          "firstName": [
+            "Dibyendu"
+          ],
+          "lastName": [
+            "Dutta"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1715-173X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology, Bombay, Mumbai, 400076, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bakshi A"
+          ],
+          "firstName": [
+            "Achala"
+          ],
+          "lastName": [
+            "Bakshi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Division, Indian Institute of Rice Research, Hyderabad, 500030, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kirti PB"
+          ],
+          "firstName": [
+            "P B"
+          ],
+          "lastName": [
+            "Kirti"
+          ],
+          "initials": [
+            "PB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agri Biotech Foundation, PJTS Agricultural University Campus, Hyderabad, 500030, India. pbkirti@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1714-0435",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0606-8885",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1715-173X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143226"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik"
+          ],
+          "ISOAbbreviation": [
+            "Theor Appl Genet"
+          ],
+          "medlineAbbreviation": [
+            "Theor Appl Genet"
+          ],
+          "NLMid": [
+            "0145600"
+          ],
+          "ISSN": [
+            "0040-5752"
+          ],
+          "ESSN": [
+            "1432-2242"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<h4>Key message</h4>XPB2 and SEN1 helicases were identified through activation tagging as potential candidate genes in rice for inducing high water-use efficiency (WUE) and maintaining sustainable yield under drought stress. As a follow-up on the high-water-use-efficiency screening and physiological analyses of the activation-tagged gain-of-function mutant lines that were developed in an indica rice variety, BPT-5204 (Moin et al. in Plant Cell Environ 39:2440-2459, 2016a, https://doi.org/10.1111/pce.12796 ), we have identified two gain-of-function mutant lines (XM3 and SM4), which evidenced the activation of two helicases, ATP-dependent DNA helicase (XPB2) and RNA helicase (SEN1), respectively. We performed the transcript profiling of XPB2 and SEN1 upon exposure to various stress conditions and found their significant upregulation, particularly in ABA and PEG treatments. Extensive morpho-physiological and biochemical analyses based on 24 metrics were performed under dehydration stress (PEG) and phytohormone (ABA) treatments for the wild-type and the two mutant lines. Principal component analysis (PCA) performed on the dataset captured 72.73% of the cumulative variance using the parameters influencing the first two principal components. The tagged mutants exhibited reduced leaf wilting, improved revival efficiency, constant amylose:amylopectin ratio, high chlorophyll and proline contents, profuse tillering, high quantum efficiency and yield-related traits with respect to their controls. These observations were further validated under greenhouse conditions by the periodic withdrawal of water at the pot level. Germination of the seeds of these mutant lines indicated their insensitivity to high ABA concentration. The associated upregulation of stress-specific genes further suggests that their drought tolerance might be because of the coordinated expression of several stress-responsive genes in these two mutants. Altogether, our results provided a firm basis for SEN1 and XPB2 as potential candidates for manipulation of drought tolerance and improving rice performance and yield under limited water conditions."
+  ],
+  "affiliation": [
+    "Department of Plant Sciences, University of Hyderabad, Hyderabad, 500046, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "IFA17-LSPA67"
+          ],
+          "agency": [
+            "Department of Science and Technology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/PR13105/AGR/02/684/2009"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00122-021-03823-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR163047"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-06"
+  ],
+  "firstIndexDate": [
+    "2021-04-07"
+  ],
+  "dateOfRevision": [
+    "2021-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-05"
+  ],
+  "firstPublicationDate": [
+    "2021-04-05"
+  ]
+}

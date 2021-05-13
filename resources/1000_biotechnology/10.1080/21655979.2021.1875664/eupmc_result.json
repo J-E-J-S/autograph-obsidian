@@ -1,0 +1,374 @@
+{
+  "id": [
+    "33509033"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33509033"
+  ],
+  "doi": [
+    "10.1080/21655979.2021.1875664"
+  ],
+  "title": [
+    "Peripheral immune tolerance by prolactin-induced protein originated from human invariant natural killer T cells."
+  ],
+  "authorString": [
+    "Lee HW, Shin J, Wilson BS, Oh JW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee HW"
+          ],
+          "firstName": [
+            "Hyeong-Woo"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6161-5856",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Science and Technology, Konkuk University , Seoul, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Speegenebio, Co., Ltd , Seongnam, Republic of Korea."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, Immunology, and Laboratory Medicine, University of Florida , Gainesville, FL, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shin J"
+          ],
+          "firstName": [
+            "Juhyun"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3434-658X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Stem Cell and Regenerative Biotechnology and Animal Resources Research Center, Konkuk University , Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson BS"
+          ],
+          "firstName": [
+            "Brian S"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Immunology, and Laboratory Medicine, University of Florida , Gainesville, FL, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh JW"
+          ],
+          "firstName": [
+            "Jae-Wook"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2439-0499",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Stem Cell and Regenerative Biotechnology and Animal Resources Research Center, Konkuk University , Seoul, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6161-5856",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2439-0499",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3434-658X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "461-475"
+  ],
+  "abstractText": [
+    "invariant natural killer T (iNKT) cells have been reported to regulate a diverse set of immunological responses. iNKT cell dysfunction in cytokine secretion is linked to the development of autoimmunity, an immune response against its own tissue. Interestingly, CD4<sup>+</sup> iNKT cells preferentially secrete regulatory cytokines. Here we investigated what kind of secreting factors of it are involved in dendritic cell (DC) maturation to regulate immune responses. We found one of them, prolactin induced protein (PIP), from the supernatants of cultured CD4<sup>+</sup> iNKT cells. It was validated using RT-quantitative real-time polymerase chain reaction (RT-qPCR) and western blot analysis. Subsequent analysis upon PIP treatment was performed using fluorescence-activated cell sorting (FACS) analysis. We identified PIP as one of strong candidates for inducing DC maturation, to similar level to lipopolysaccharide, an already known candidate molecule. Recombinant PIP recapitulated natural function, and induction of DC differentiation by both recombinant and purified PIP was blocked by anti-Toll-like receptor (TLR)2 antibody (Ab), but not by anti-TLR4/5 or anti-receptor Ab for advanced glycation end product Ab. Interestingly, PIP induced the differentiation of naïve T cells into CD4<sup>+</sup> CD25<sup>+</sup> Foxp3<sup>+</sup> regulatory T cells and reduced the number of helper T (Th)1 and Th17 cells produced by Pam3CysSerLys4. Take in together, these results suggest that PIP is an important factor that mediates immunoregulation by iNKT cells through TLR2-mediated signaling."
+  ],
+  "affiliation": [
+    "Department of Animal Science and Technology, Konkuk University , Seoul, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immune tolerance",
+        "natural killer T cell",
+        "regulatory T cell",
+        "Dendritic Cell",
+        "Prolactin-induced Protein"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2021.1875664"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-29"
+  ],
+  "firstIndexDate": [
+    "2021-01-30"
+  ],
+  "dateOfRevision": [
+    "2021-01-29"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "id": [
+    "33947113"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33947113"
+  ],
+  "doi": [
+    "10.3390/biom11050661"
+  ],
+  "title": [
+    "Cardamonin Attenuates Experimental Colitis and Associated Colorectal Cancer."
+  ],
+  "authorString": [
+    "James S, Aparna JS, Babu A, Paul AM, Lankadasari MB, Athira SR, Kumar SS, Vijayan Y, Namitha NN, Mohammed S, Reshmi G, Harikumar KB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "James S"
+          ],
+          "firstName": [
+            "Shirley"
+          ],
+          "lastName": [
+            "James"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aparna JS"
+          ],
+          "firstName": [
+            "Jayasekharan S"
+          ],
+          "lastName": [
+            "Aparna"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Babu A"
+          ],
+          "firstName": [
+            "Anu"
+          ],
+          "lastName": [
+            "Babu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paul AM"
+          ],
+          "firstName": [
+            "Aswathy Mary"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Manipal Academy of Higher education (MAHE), Manipal 576104, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lankadasari MB"
+          ],
+          "firstName": [
+            "Manendra Babu"
+          ],
+          "lastName": [
+            "Lankadasari"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Athira SR"
+          ],
+          "firstName": [
+            "Subha R"
+          ],
+          "lastName": [
+            "Athira"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar SS"
+          ],
+          "firstName": [
+            "Sreesha S"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vijayan Y"
+          ],
+          "firstName": [
+            "Yadu"
+          ],
+          "lastName": [
+            "Vijayan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Manipal Academy of Higher education (MAHE), Manipal 576104, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Namitha NN"
+          ],
+          "firstName": [
+            "Narayanan N"
+          ],
+          "lastName": [
+            "Namitha"
+          ],
+          "initials": [
+            "NN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammed S"
+          ],
+          "firstName": [
+            "Sabira"
+          ],
+          "lastName": [
+            "Mohammed"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reshmi G"
+          ],
+          "firstName": [
+            "Girijadevi"
+          ],
+          "lastName": [
+            "Reshmi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harikumar KB"
+          ],
+          "firstName": [
+            "Kuzhuvelil B"
+          ],
+          "lastName": [
+            "Harikumar"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1763-4179",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1763-4179",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3161089"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biomolecules"
+          ],
+          "ISOAbbreviation": [
+            "Biomolecules"
+          ],
+          "medlineAbbreviation": [
+            "Biomolecules"
+          ],
+          "NLMid": [
+            "101596414"
+          ],
+          "ISSN": [
+            "2218-273X"
+          ],
+          "ESSN": [
+            "2218-273X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Cardamonin is a naturally occurring chalcone, majorly from the Zingiberaceae family, which includes a wide range of spices from India. Herein, we investigated the anti-inflammatory property of cardamonin using different in vitro and in vivo systems. In RAW 264.7 cells, treatment with cardamonin showed a reduced nitrous oxide production without affecting the cell viability and decreased the expression of iNOS, TNF-α, and IL-6, and inhibited NF-kB signaling which emphasizes the role of cardamonin as an anti-inflammatory molecule. In a mouse model of dextran sodium sulfate (DSS)-induced colitis, cardamonin treatment protected the mice from colitis. Subsequently, we evaluated the therapeutic potential of this chalcone in a colitis-associated colon cancer model. We performed microRNA profiling in the different groups and observed that cardamonin modulates miRNA expression, thereby inhibiting tumor formation. Together, our findings indicate that cardamonin has the potential to be considered for future therapy against colorectal cancer."
+  ],
+  "affiliation": [
+    "Cancer Research Program, Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram 695014, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/RLF/Re-entry/38/2011"
+          ],
+          "agency": [
+            "Department of Biotechnology, Ministry of Science and Technology, India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Colitis",
+        "Colorectal Cancer",
+        "MicroRNA",
+        "Nutraceutical",
+        "Azoxymethane",
+        "Cardamonin"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/biom11050661"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

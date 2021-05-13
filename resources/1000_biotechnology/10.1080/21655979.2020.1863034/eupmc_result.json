@@ -1,0 +1,454 @@
+{
+  "id": [
+    "33356799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33356799"
+  ],
+  "doi": [
+    "10.1080/21655979.2020.1863034"
+  ],
+  "title": [
+    "A critical review on advances in the practices and perspectives for the treatment of dye industry wastewater."
+  ],
+  "authorString": [
+    "Shindhal T, Rakholiya P, Varjani S, Pandey A, Ngo HH, Guo W, Ng HY, Taherzadeh MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shindhal T"
+          ],
+          "firstName": [
+            "Toral"
+          ],
+          "lastName": [
+            "Shindhal"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Paryavaran Bhavan, Gujarat Pollution Control Board , Gandhinagar, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biotechnology Department, Kadi Sarva Vishwavidyalaya , Gandhinagar, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rakholiya P"
+          ],
+          "firstName": [
+            "Parita"
+          ],
+          "lastName": [
+            "Rakholiya"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Paryavaran Bhavan, Gujarat Pollution Control Board , Gandhinagar, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biotechnology Department, Kadi Sarva Vishwavidyalaya , Gandhinagar, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Varjani S"
+          ],
+          "firstName": [
+            "Sunita"
+          ],
+          "lastName": [
+            "Varjani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6966-7768",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Paryavaran Bhavan, Gujarat Pollution Control Board , Gandhinagar, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pandey A"
+          ],
+          "firstName": [
+            "Ashok"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre of Innovation and Translation Research, CSIR-Indian Institute of Toxicology Research , Lucknow, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ngo HH"
+          ],
+          "firstName": [
+            "Huu Hao"
+          ],
+          "lastName": [
+            "Ngo"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Technology in Water and Wastewater, School of Civil and Environmental Engineering, University of Technology Sydney , Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo W"
+          ],
+          "firstName": [
+            "Wenshan"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Technology in Water and Wastewater, School of Civil and Environmental Engineering, University of Technology Sydney , Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ng HY"
+          ],
+          "firstName": [
+            "How Yong"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Civil & Environmental Engineering, National University of Singapore, Environmental Research Institute , Singapore, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taherzadeh MJ"
+          ],
+          "firstName": [
+            "Mohammad J"
+          ],
+          "lastName": [
+            "Taherzadeh"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4887-2433",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Swedish Centre for Resource Recovery, University of Borås , Borås, Sweden."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6966-7768",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4887-2433",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "70-87"
+  ],
+  "abstractText": [
+    "Rapid industrialization has provided comforts to mankind but has also impacted the environment harmfully. There has been severe increase in the pollution due to several industries, in particular due to dye industry, which generate huge quantities of wastewater containing hazardous chemicals. Although tremendous developments have taken place for the treatment and management of such wastewater through chemical or biological processes, there is an emerging shift in the approach, with focus shifting on resource recovery from such wastewater and also their management in sustainable manner. This review article aims to present and discuss the most advanced and state-of-art technical and scientific developments about the treatment of dye industry wastewater, which include advanced oxidation process, membrane filtration technique, microbial technologies, bio-electrochemical degradation, photocatalytic degradation, etc. Among these technologies, microbial degradation seems highly promising for resource recovery and sustainability and has been discussed in detail as a promising approach. This paper also covers the challenges and future perspectives in this field."
+  ],
+  "affiliation": [
+    "Paryavaran Bhavan, Gujarat Pollution Control Board , Gandhinagar, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbial degradation",
+        "Resource Recovery",
+        "Industrial Process",
+        "Waste Generation",
+        "Dye Industry Wastewater",
+        "Advanced Wastewater Treatments"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2020.1863034"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-12-28"
+  ],
+  "firstIndexDate": [
+    "2020-12-29"
+  ],
+  "dateOfRevision": [
+    "2020-12-28"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

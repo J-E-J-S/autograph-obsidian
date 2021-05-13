@@ -1,0 +1,415 @@
+{
+  "id": [
+    "33356808"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33356808"
+  ],
+  "doi": [
+    "10.1080/21655979.2020.1868733"
+  ],
+  "title": [
+    "Puerarin induces apoptosis in prostate cancer cells via inactivation of the Keap1/Nrf2/ARE signaling pathway."
+  ],
+  "authorString": [
+    "Li J, Xiong C, Xu P, Luo Q, Zhang R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5283-0394",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Urology Surgery Department, The Second Affiliated Hospital of Chongqing Medical University , Chongqing, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Urology Surgery Department, Traditional Chinese Medicine Hospital of Fengjie , Chongqing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong C"
+          ],
+          "firstName": [
+            "Chuan"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0730-1845",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology and Nuclear Technology Research Institute, Sichuan Academy of Agricultural Sciences , Chengdu,China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu P"
+          ],
+          "firstName": [
+            "Pan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8376-457X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for Viral Hepatitis, Chongqing Medical University, Key Laboratory of Molecular Biology for Infectious Diseases, Ministry of Education, the Second Affiliated Hospital of Chongqing Medical University , Chongqing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Q"
+          ],
+          "firstName": [
+            "Qiang"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1454-0131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for Viral Hepatitis, Chongqing Medical University, Key Laboratory of Molecular Biology for Infectious Diseases, Ministry of Education, the Second Affiliated Hospital of Chongqing Medical University , Chongqing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Ronggui"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5266-0276",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Urology Surgery Department, The Second Affiliated Hospital of Chongqing Medical University , Chongqing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5266-0276",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5283-0394",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8376-457X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0730-1845",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1454-0131",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3075554"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioengineered"
+          ],
+          "ISOAbbreviation": [
+            "Bioengineered"
+          ],
+          "medlineAbbreviation": [
+            "Bioengineered"
+          ],
+          "NLMid": [
+            "101581063"
+          ],
+          "ISSN": [
+            "2165-5979"
+          ],
+          "ESSN": [
+            "2165-5987"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "402-413"
+  ],
+  "abstractText": [
+    "In this study, we examined the antitumor effects of Puerarin (PEU) on androgen-independent (DU145 and PC-3) and androgen-dependent (LNCaP) prostate cancer cells, and explored its potential mechanisms. Supplement with PEU (2.5 μM, 5 μM, and 10 μM) exhibited a marked inhibitory effect against the growth of DU145 and PC-3 cells, especially beyond 24 h, whereas there is only slight growth inhibitory effect on LNCaP cells at the high concentration of 10 μM at 72 h. This loss of cell viability in DU145 and PC-3 cells by PEU was mediated by the induction of apoptosis via up-regulation of Bax and cleaved-caspase-3, but downregulation of Bcl-2. Moreover, more intracellular ROS and LDH production were observed in DU145 and PC-3 cells upon PEU treatment. Meanwhile, the amount of pro-inflammatory cytokines (IL-1β and IL-6) was increased, but the content of anti-inflammatory cytokines IL-10 was attenuated. Additionally, PEU pretreatment resulted in an increase of Keap1 protein expression, and a decline of Nrf2, HO-1 and NQO1 protein expression in DU145 and PC3 cells. The present findings indicated that PEU exerted its antitumor activities toward androgen-independent prostate cancer cells via inactivation of Keap1/NrF2/ARE signaling pathway."
+  ],
+  "affiliation": [
+    "Urology Surgery Department, The Second Affiliated Hospital of Chongqing Medical University , Chongqing, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Puerarin",
+        "prostate cancer cells",
+        "Androgen-independent",
+        "Keap1/nrf2/are Signaling Pathway"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21655979.2020.1868733"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-12-28"
+  ],
+  "firstIndexDate": [
+    "2020-12-29"
+  ],
+  "dateOfRevision": [
+    "2021-01-18"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

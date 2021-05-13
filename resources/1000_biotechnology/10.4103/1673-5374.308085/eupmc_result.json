@@ -1,0 +1,263 @@
+{
+  "id": [
+    "33642389"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33642389"
+  ],
+  "doi": [
+    "10.4103/1673-5374.308085"
+  ],
+  "title": [
+    "Therapeutic potential of trehalose in neurodegenerative diseases: the knowns and unknowns."
+  ],
+  "authorString": [
+    "Khalifeh M, Barreto GE, Sahebkar A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khalifeh M"
+          ],
+          "firstName": [
+            "Masoomeh"
+          ],
+          "lastName": [
+            "Khalifeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology and Nanotechnology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barreto GE"
+          ],
+          "firstName": [
+            "George E"
+          ],
+          "lastName": [
+            "Barreto"
+          ],
+          "initials": [
+            "GE"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences; Health Research Institute, University of Limerick, Limerick, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sahebkar A"
+          ],
+          "firstName": [
+            "Amirhossein"
+          ],
+          "lastName": [
+            "Sahebkar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Applied Biomedical Research Center; Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran; Polish Mother's Memorial Hospital Research Institute (PMMHRI), Lodz, Poland; School of Pharmacy Mashhad University of Medical Sciences, Mashhad, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3120640"
+      ],
+      "dateOfPublication": [
+        "2021 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "2026-2027"
+  ],
+  "affiliation": [
+    "Department of Medical Biotechnology and Nanotechnology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.308085"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-01"
+  ],
+  "firstIndexDate": [
+    "2021-03-02"
+  ],
+  "dateOfRevision": [
+    "2021-03-01"
+  ],
+  "firstPublicationDate": [
+    "2021-10-01"
+  ]
+}

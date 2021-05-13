@@ -1,0 +1,401 @@
+{
+  "id": [
+    "33937928"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33937928"
+  ],
+  "doi": [
+    "10.1007/s00253-021-11321-y"
+  ],
+  "title": [
+    "Molecular strategies to increase keratinase production in heterologous expression systems for industrial applications."
+  ],
+  "authorString": [
+    "Yahaya RSR, Normi YM, Phang LY, Ahmad SA, Abdullah JO, Sabri S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yahaya RSR"
+          ],
+          "firstName": [
+            "Radin Shafierul Radin"
+          ],
+          "lastName": [
+            "Yahaya"
+          ],
+          "initials": [
+            "RSR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Normi YM"
+          ],
+          "firstName": [
+            "Yahaya M"
+          ],
+          "lastName": [
+            "Normi"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Phang LY"
+          ],
+          "firstName": [
+            "Lai Yee"
+          ],
+          "lastName": [
+            "Phang"
+          ],
+          "initials": [
+            "LY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmad SA"
+          ],
+          "firstName": [
+            "Siti Aqlima"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abdullah JO"
+          ],
+          "firstName": [
+            "Janna Ong"
+          ],
+          "lastName": [
+            "Abdullah"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sabri S"
+          ],
+          "firstName": [
+            "Suriana"
+          ],
+          "lastName": [
+            "Sabri"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4027-5730",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia. suriana@upm.edu.my."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia. suriana@upm.edu.my."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4027-5730",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162694"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "8406612"
+          ],
+          "ISSN": [
+            "0175-7598"
+          ],
+          "ESSN": [
+            "1432-0614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Keratinase is an important enzyme that can degrade recalcitrant keratinous wastes to form beneficial recyclable keratin hydrolysates. Keratinase is not only important as an alternative to reduce environmental pollution caused by chemical treatments of keratinous wastes, but it also has industrial significance. Currently, the bioproduction of keratinase from native keratinolytic host is considered low, and this hampers large-scale usage of the enzyme. Straightforward approaches of cloning and expression of recombinant keratinases from native keratinolytic host are employed to elevate the amount of keratinase produced. However, this is still insufficient to compensate for the lack of its large-scale production to meet the industrial demands. Hence, this review aimed to highlight the various sources of keratinase and the strategies to increase its production in native keratinolytic hosts. Molecular strategies to increase the production of recombinant keratinase such as plasmid selection, promoter engineering, chromosomal integration, signal peptide and propeptide engineering, codon optimization, and glycoengineering were also described. These mentioned strategies have been utilized in heterologous expression hosts, namely, Escherichia coli, Bacillus sp., and Pichia pastoris, as they are most widely used for the heterologous propagations of keratinases to further intensify the production of recombinant keratinases adapted to better suit the large-scale demand for them. KEY POINTS: • Molecular strategies to enhance keratinase production in heterologous hosts. • Construction of a prominent keratinolytic host from a native strain. • Patent analysis of keratinase production shows rapid high interest in molecular field."
+  ],
+  "affiliation": [
+    "Enzyme and Microbial Technology Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, UPM, 43400, Serdang, Selangor, Malaysia."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GP-IPS/2021/9696100"
+          ],
+          "agency": [
+            "Universiti Putra Malaysia"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pichia pastoris",
+        "Bacillus sp.",
+        "Molecular strategies",
+        "Escherichia Coli",
+        "keratinase"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00253-021-11321-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-03"
+  ],
+  "firstIndexDate": [
+    "2021-05-04"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-03"
+  ],
+  "firstPublicationDate": [
+    "2021-05-03"
+  ]
+}

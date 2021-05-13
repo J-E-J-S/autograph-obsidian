@@ -1,0 +1,458 @@
+{
+  "id": [
+    "33331196"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33331196"
+  ],
+  "doi": [
+    "10.1080/21691401.2020.1862134"
+  ],
+  "title": [
+    "Carbon dots from Artemisiae Argyi Folium Carbonisata: strengthening the anti-frostbite ability."
+  ],
+  "authorString": [
+    "Kong H, Zhao Y, Zhu Y, Xiong W, Luo J, Cheng J, Zhang Y, Zhang M, Qu H, Zhao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kong H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yusheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yafan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luo J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng J"
+          ],
+          "firstName": [
+            "Jinjun"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Life Sciences, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang M"
+          ],
+          "firstName": [
+            "Meiling"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qu H"
+          ],
+          "firstName": [
+            "Huihua"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Institute of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "11-19"
+  ],
+  "abstractText": [
+    "In this study, novel carbon dots (CDs) were discovered and separated from <i>Artemisiae Argyi Folium Carbonisata</i> (AAFC) aqueous extract. AAFC-CDs were characterised by a series of methods, mainly including electron microscopy, optical technology and X-ray photoelectron spectroscopy (XPS). Results displayed that AAFC-CDs with a quantum yield (QY) around 0.19% had a size distribution between 6.0 and 10.0 nm and possessed a nearly spherical shape, with a lattice spacing of 0.369 nm. In mice, AAFC-CDs reduced the tissue damage, ear frostbite, and body stiffness caused by cold, and provided energy by increasing the use of blood glucose. The mechanism may be by decreasing concentration of IL-1βk, TNF-α and reducing the rise in blood glucose levels caused by frostbite. This study is the first to indicate that CDs may be the active constituent of AAFC against frostbite, suggesting their potential for clinical applications."
+  ],
+  "affiliation": [
+    "Beijing Key Laboratory, School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Blood Glucose Levels",
+        "Carbon Dots",
+        "Artemisiae Argyi Folium Carbonisata",
+        "Anti-frostbite"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2020.1862134"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-12-17"
+  ],
+  "firstIndexDate": [
+    "2020-12-24"
+  ],
+  "dateOfRevision": [
+    "2020-12-17"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

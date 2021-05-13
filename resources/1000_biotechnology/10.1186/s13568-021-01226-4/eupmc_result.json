@@ -1,0 +1,474 @@
+{
+  "id": [
+    "33970365"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970365"
+  ],
+  "doi": [
+    "10.1186/s13568-021-01226-4"
+  ],
+  "title": [
+    "Effects of Bacillus subtilis iturin A on HepG2 cells in vitro and vivo."
+  ],
+  "authorString": [
+    "Zhao H, Yan L, Guo L, Sun H, Huang Q, Shao D, Jiang C, Shi J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao H"
+          ],
+          "firstName": [
+            "Haobin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Hospitality Management, Yanshan District, Guilin Tourism University, 26 Liangfeng Road, Guilin, 541006, Guangxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Q"
+          ],
+          "firstName": [
+            "Qingsheng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shao D"
+          ],
+          "firstName": [
+            "Dongyan"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang C"
+          ],
+          "firstName": [
+            "Chunmei"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China. jiangcm@nwpu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi J"
+          ],
+          "firstName": [
+            "Junling"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4643-1792",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China. sjlshi2004@nwpu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4643-1792",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3165206"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "AMB Express"
+          ],
+          "ISOAbbreviation": [
+            "AMB Express"
+          ],
+          "medlineAbbreviation": [
+            "AMB Express"
+          ],
+          "NLMid": [
+            "101561785"
+          ],
+          "ISSN": [
+            "2191-0855"
+          ],
+          "ESSN": [
+            "2191-0855"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "67"
+  ],
+  "abstractText": [
+    "Iturin A with cyclic peptide and fatty acid chain isolated from Bacillus subtilis fermentation shows a variety of biological activities. Among them, the anticancer activity attracted much attention. However, the molecular mechanism of its inhibitory effect on hepatocellular carcinoma was still unclear. Thus its effect on hepatocellular carcinoma was tested in this research. It was found that iturin A could enter HepG2 cells immediately and cause reactive oxygen species burst, disrupt cell cycle and induce apoptosis, paraptosis and autophagy in vitro. The iturin A without fatty acid chain showed no antitumor activity. Amphiphilic is critical to the activity of iturin A. The anticancer activity of iturin A to hepatocellular carcinoma was also verified in mice models carrying xenograft tumors constructed by HepG2 cells. At a dosage of 3 mg/kg/day, iturin A significantly inhibited the further increase of the tumor weight by 58.55%, and reduced the expression of Ki67 in tumor. In the tumor treated with iturin A, lymphocyte infiltration was found, and the expressions of TGF-β1and PD-L1 were decreased, which indicated that the tumor immune microenvironment was improved. Besides, iturin A showed no significant harm on the health of mice except slight disturbance of liver function. These results suggested that iturin A had significant antitumor effect in vitro and vivo, and provide a basis for the application of iturin A as anticancer agent."
+  ],
+  "affiliation": [
+    "Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, 127 Youyi West Road, Xi'an, 710072, Shaanxi, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017ZDXL-NY-0304, 2019ZDLNY01-02-02"
+          ],
+          "agency": [
+            "Key Research and Development Plan of Shanxi Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CARS-29-jg-3"
+          ],
+          "agency": [
+            "the China Agriculture Research System"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFE0105300"
+          ],
+          "agency": [
+            "National Key Research and Development of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31701722"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacillus subtilis",
+        "Proliferation",
+        "HepG2",
+        "Immune Microenvironment",
+        "Iturin A",
+        "Physiological Toxicity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13568-021-01226-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": [
+    "33906049"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33906049"
+  ],
+  "doi": [
+    "10.1016/j.ejmech.2021.113450"
+  ],
+  "title": [
+    "Design and evaluation of novel piperidine HIV-1 protease inhibitors with potency against DRV-resistant variants."
+  ],
+  "authorString": [
+    "Zhu M, Zhou H, Ma L, Dong B, Zhou J, Zhang G, Wang M, Wang J, Cen S, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu M"
+          ],
+          "firstName": [
+            "Mei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou H"
+          ],
+          "firstName": [
+            "Huiyu"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dong B"
+          ],
+          "firstName": [
+            "Biao"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jinming"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of the Ministry of Education for Advanced Catalysis Materials, Department of Chemistry, Zhejiang Normal University, Jinhua, 321004, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Guoning"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Minghua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Juxian"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China. Electronic address: imbjxwang@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cen S"
+          ],
+          "firstName": [
+            "Shan"
+          ],
+          "lastName": [
+            "Cen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China. Electronic address: shancen@imb.pumc.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yucheng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China. Electronic address: wangyucheng@imb.pumc.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "220"
+      ],
+      "journalIssueId": [
+        "3155265"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Med Chem"
+          ],
+          "NLMid": [
+            "0420510"
+          ],
+          "ISSN": [
+            "0223-5234"
+          ],
+          "ESSN": [
+            "1768-3254"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "113450"
+  ],
+  "abstractText": [
+    "A novel class of HIV-1 protease inhibitors with flexible piperidine as the P2 ligand was designed with the aim of improving extensive interactions with the active subsites. Many inhibitors exhibited good to excellent inhibitory effect on enzymatic activity and viral infectivity. In particular, inhibitor 3a with (R)-piperidine-3-carboxamide as the P2 ligand and 4-methoxybenzenesulfonamide as the P2' ligand showed an enzyme K<sub>i</sub> value of 29 pM and antiviral IC<sub>50</sub> value of 0.13 nM, more than six-fold enhancement of activity compared to DRV. Furthermore, there was no significant change in potency against DRV-resistant mutations and HIV-1<sub>NL4-3</sub> variant for 3a. Besides, inhibitor 3a exhibited potent antiviral activity against subtype C variants with low nanomole EC<sub>50</sub> values. In addition, the molecular modeling revealed important hydrogen bonds and other favorable van der Waals interactions with the backbone atoms of the protease and provided insight for designing and optimizing more potent HIV-1 protease inhibitors."
+  ],
+  "affiliation": [
+    "Institute of Medicinal Biotechnology, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, 100050, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular modeling",
+        "Antiviral Activity",
+        "Piperidine",
+        "Hiv-1 Protease Inhibitors",
+        "Enzymatic Inhibitory Activity",
+        "Drv-resistant Hiv-1 Variants",
+        "Subtype C Variants"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ejmech.2021.113450"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-27"
+  ],
+  "firstIndexDate": [
+    "2021-04-28"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

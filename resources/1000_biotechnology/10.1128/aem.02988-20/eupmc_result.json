@@ -1,0 +1,574 @@
+{
+  "id": [
+    "33741627"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33741627"
+  ],
+  "doi": [
+    "10.1128/aem.02988-20"
+  ],
+  "title": [
+    "Exposure to 1-Butanol Exemplifies the Response of the Thermoacidophilic Archaeon Sulfolobus acidocaldarius to Solvent Stress."
+  ],
+  "authorString": [
+    "Benninghoff JC, Kuschmierz L, Zhou X, Albersmeier A, Pham TK, Busche T, Wright PC, Kalinowski J, Makarova KS, Bräsen C, Flemming HC, Wingender J, Siebers B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Benninghoff JC"
+          ],
+          "firstName": [
+            "Jens C"
+          ],
+          "lastName": [
+            "Benninghoff"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kuschmierz L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Kuschmierz"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xiaoxiao"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Albersmeier A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Albersmeier"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Genomic and Biotechnology, Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pham TK"
+          ],
+          "firstName": [
+            "Trong Khoa"
+          ],
+          "lastName": [
+            "Pham"
+          ],
+          "initials": [
+            "TK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, the University of Sheffield, Sheffield, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Busche T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Busche"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Genomic and Biotechnology, Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wright PC"
+          ],
+          "firstName": [
+            "Phillip C"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biological Engineering, the University of Sheffield, Sheffield, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kalinowski J"
+          ],
+          "firstName": [
+            "Jörn"
+          ],
+          "lastName": [
+            "Kalinowski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbial Genomic and Biotechnology, Center for Biotechnology (CeBiTec), Bielefeld University, Bielefeld, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Makarova KS"
+          ],
+          "firstName": [
+            "Kira S"
+          ],
+          "lastName": [
+            "Makarova"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bräsen C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Bräsen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Flemming HC"
+          ],
+          "firstName": [
+            "Hans-Curt"
+          ],
+          "lastName": [
+            "Flemming"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Aquatic Microbiology, Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Singapore Center for Environmental Life Science Engineering (SCELSE), Nanyang Technological University, Singapore, Republic of Singapore."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Water Academy, Friedrichshafen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wingender J"
+          ],
+          "firstName": [
+            "Jost"
+          ],
+          "lastName": [
+            "Wingender"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Aquatic Microbiology, Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany jost.wingender@uni-due.de bettina.siebers@uni-due.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Siebers B"
+          ],
+          "firstName": [
+            "Bettina"
+          ],
+          "lastName": [
+            "Siebers"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9905-541X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany jost.wingender@uni-due.de bettina.siebers@uni-due.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9905-541X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "87"
+      ],
+      "journalIssueId": [
+        "3168739"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied and environmental microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Environ Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Environ Microbiol"
+          ],
+          "NLMid": [
+            "7605801"
+          ],
+          "ISSN": [
+            "0099-2240"
+          ],
+          "ESSN": [
+            "1098-5336"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<i>Sulfolobus acidocaldarius</i> is a thermoacidophilic crenarchaeon with optimal growth at 80°C and pH 2 to 3. Due to its unique physiological properties, allowing life at environmental extremes, and the recent availability of genetic tools, this extremophile has received increasing interest for biotechnological applications. In order to elucidate the potential of tolerating process-related stress conditions, we investigated the response of <i>S. acidocaldarius</i> toward the industrially relevant organic solvent 1-butanol. In response to butanol exposure, biofilm formation of <i>S. acidocaldarius</i> was enhanced and occurred at up to 1.5% (vol/vol) 1-butanol, while planktonic growth was observed at up to 1% (vol/vol) 1-butanol. Confocal laser-scanning microscopy revealed that biofilm architecture changed with the formation of denser and higher tower-like structures. Concomitantly, changes in the extracellular polymeric substances with enhanced carbohydrate and protein content were determined in 1-butanol-exposed biofilms. Using scanning electron microscopy, three different cell morphotypes were observed in response to 1-butanol. Transcriptome and proteome analyses were performed comparing the response of planktonic and biofilm cells in the absence and presence of 1-butanol. In response to 1% (vol/vol) 1-butanol, transcript levels of genes encoding motility and cell envelope structures, as well as membrane proteins, were reduced. Cell division and/or vesicle formation were upregulated. Furthermore, changes in immune and defense systems, as well as metabolism and general stress responses, were observed. Our findings show that the extreme lifestyle of <i>S.</i> <i>acidocaldarius</i> coincided with a high tolerance to organic solvents. This study provides what may be the first insights into biofilm formation and membrane/cell stress caused by organic solvents in <i>S. acidocaldarius</i> <b>IMPORTANCE</b> <i>Archaea</i> are unique in terms of metabolic and cellular processes, as well as the adaptation to extreme environments. In the past few years, the development of genetic systems and biochemical, genetic, and polyomics studies has provided deep insights into the physiology of some archaeal model organisms. In this study, we used <i>S. acidocaldarius</i>, which is adapted to the two extremes of low pH and high temperature, to study its tolerance and robustness as well as its global cellular response toward organic solvents, as exemplified by 1-butanol. We were able to identify biofilm formation as a primary cellular response to 1-butanol. Furthermore, the triggered cell/membrane stress led to significant changes in culture heterogeneity accompanied by changes in central cellular processes, such as cell division and cellular defense systems, thus suggesting a global response for the protection at the population level."
+  ],
+  "affiliation": [
+    "Molecular Enzyme Technology and Biochemistry (MEB), Environmental Microbiology and Biotechnology (EMB), Centre for Water and Environmental Research (CWE), University of Duisburg-Essen, Essen, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Archaea",
+        "Biofilm",
+        "Organic solvent",
+        "Stress response",
+        "Extremophiles",
+        "Extracellular Polymeric Substances",
+        "Sulfolobus Acidocaldarius",
+        "1-Butanol"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/AEM.02988-20"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-20"
+  ],
+  "firstIndexDate": [
+    "2021-03-21"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-11"
+  ],
+  "firstPublicationDate": [
+    "2021-05-11"
+  ]
+}

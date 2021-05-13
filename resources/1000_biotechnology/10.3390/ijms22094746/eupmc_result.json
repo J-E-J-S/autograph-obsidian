@@ -1,0 +1,597 @@
+{
+  "id": [
+    "33947104"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33947104"
+  ],
+  "doi": [
+    "10.3390/ijms22094746"
+  ],
+  "title": [
+    "Investigation of Neuropathology after Nerve Release in Chronic Constriction Injury of Rat Sciatic Nerve."
+  ],
+  "authorString": [
+    "Chen SH, Wu CC, Lin SC, Tseng WL, Huang TC, Yadav A, Lu FI, Liu YH, Lin SP, Hsueh YY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen SH"
+          ],
+          "firstName": [
+            "Szu-Han"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1688-3026",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Plastic and Reconstructive Surgery, Department of Surgery, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center of Cell Therapy, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "International Research Center for Wound Repair and Regeneration, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu CC"
+          ],
+          "firstName": [
+            "Chia-Ching"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "International Research Center for Wound Repair and Regeneration, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Cell Biology and Anatomy, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin SC"
+          ],
+          "firstName": [
+            "Sheng-Che"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Plastic and Reconstructive Surgery, Department of Surgery, Tainan Municipal An-Nan Hospital, China Medical University, Tainan 709, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tseng WL"
+          ],
+          "firstName": [
+            "Wan-Ling"
+          ],
+          "lastName": [
+            "Tseng"
+          ],
+          "initials": [
+            "WL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Plastic and Reconstructive Surgery, Department of Surgery, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center of Cell Therapy, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang TC"
+          ],
+          "firstName": [
+            "Tzu-Chieh"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Cell Biology and Anatomy, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yadav A"
+          ],
+          "firstName": [
+            "Anjali"
+          ],
+          "lastName": [
+            "Yadav"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Cell Biology and Anatomy, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu FI"
+          ],
+          "firstName": [
+            "Fu-I"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "FI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2401-7360",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology and Bioindustry Science, College of Bioscience and Biotechnology, National Cheng-Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "The iEGG and Animal Biotechnology Center, National Chung Hsing University, Taichung 402, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu YH"
+          ],
+          "firstName": [
+            "Ya-Hsin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Life Sciences, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin SP"
+          ],
+          "firstName": [
+            "Shau-Ping"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3423-991X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, National Taiwan University, Taipei 106, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hsueh YY"
+          ],
+          "firstName": [
+            "Yuan-Yu"
+          ],
+          "lastName": [
+            "Hsueh"
+          ],
+          "initials": [
+            "YY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8968-694X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Plastic and Reconstructive Surgery, Department of Surgery, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center of Cell Therapy, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "International Research Center for Wound Repair and Regeneration, National Cheng Kung University, Tainan 701, Taiwan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8968-694X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1688-3026",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2401-7360",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3423-991X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "3161097"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Peripheral compressive neuropathy causes significant neuropathic pain, muscle weakness and prolong neuroinflammation. Surgical decompression remains the gold standard of treatment but the outcome is suboptimal with a high recurrence rate. From mechanical compression to chemical propagation of the local inflammatory signals, little is known about the distinct neuropathologic patterns and the genetic signatures after nerve decompression. In this study, controllable mechanical constriction forces over rat sciatic nerve induces irreversible sensorimotor dysfunction with sustained local neuroinflammation, even 4 weeks after nerve release. Significant gene upregulations are found in the dorsal root ganglia, regarding inflammatory, proapoptotic and neuropathic pain signals. Genetic profiling of neuroinflammation at the local injured nerve reveals persistent upregulation of multiple genes involving oxysterol metabolism, neuronal apoptosis, and proliferation after nerve release. Further validation of the independent roles of each signal pathway will contribute to molecular therapies for compressive neuropathy in the future."
+  ],
+  "affiliation": [
+    "Division of Plastic and Reconstructive Surgery, Department of Surgery, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan 701, Taiwan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MOST 109-2628-B-006-034"
+          ],
+          "agency": [
+            "Ministry of Science and Technology (Taiwan)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MOST 109-2311-B-006-007"
+          ],
+          "agency": [
+            "Ministry of Science and Technology (Taiwan)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NCKUH-10909047"
+          ],
+          "agency": [
+            "National Cheng Kung University Hospital (Taiwan)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuropathic pain",
+        "Decompression",
+        "neuroinflammation",
+        "Rat Sciatic Nerve",
+        "Chronic Constriction Injury",
+        "Compressive Neuropathy",
+        "Nerve Release"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms22094746"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

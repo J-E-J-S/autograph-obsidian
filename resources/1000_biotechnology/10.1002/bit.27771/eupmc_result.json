@@ -1,0 +1,469 @@
+{
+  "id": [
+    "33788275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33788275"
+  ],
+  "doi": [
+    "10.1002/bit.27771"
+  ],
+  "title": [
+    "Engineered pro-peptide enhances the catalytic activity of keratinase to improve the conversion ability of feather waste."
+  ],
+  "authorString": [
+    "Peng Z, Zhang J, Song Y, Guo R, Du G, Chen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Peng Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8359-9172",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangnan University, Wuxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5425-2412",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangnan University, Wuxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangnan University, Wuxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo R"
+          ],
+          "firstName": [
+            "Rong"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Wuhan Institute of Industrial Control Technology Co., Ltd., Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du G"
+          ],
+          "firstName": [
+            "Guocheng"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangnan University, Wuxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jiangnan University, Wuxi, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan University, Wuxi, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5425-2412",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8359-9172",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3122365"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and bioengineering"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "NLMid": [
+            "7502021"
+          ],
+          "ISSN": [
+            "0006-3592"
+          ],
+          "ESSN": [
+            "1097-0290"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Keratinase is an attractive industrial enzyme that can specifically catalyze keratin waste to obtain value-added products. A challenge to the application of keratinase is improving catalytic capacity to achieve efficient hydrolysis. In this study, we effectively expressed the keratinase gene from Bacillus licheniformis BBE11-1 in Bacillus subtilis WB600 based on pro-peptide engineering. Partial deletion of the pro-peptide sequence and the substitution of amino acid at the pro-peptide cleavage site (P1) suggested that the \"chaperone effect\" and \"cleavage efficiency\" of the pro-peptide determine the activity of the mature enzyme. Subsequently, seven target sites that can increase the activity of the mature enzyme by 16%-66% were obtained through the multiple sequence alignment of pro-peptides and site-directed mutation. We further performed combinatorial mutations at six sites based on the design principle of three-codon saturation mutations and obtained mutant 2-D12 (236.8 KU/mg) with a mature enzyme activity of 186% of the original (127.6 KU/mg). Finally, continuous fermentation was carried out in a 5-L bioreactor for 22 h, and the activity of the 2-D12 mature enzyme was increased to 391.6 KU/mg. Most importantly, 2-D12 could degrade more than 90% of feather waste into amino acids and peptides within 12 h with the aid of sulfite."
+  ],
+  "affiliation": [
+    "Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "111-2-06"
+          ],
+          "agency": [
+            "111 Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "grant from Pioneer Innovative Research Team of Dezhou"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFB0308401"
+          ],
+          "agency": [
+            "National Key Research and Development Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "LITE2018-08"
+          ],
+          "agency": [
+            "National First-class Discipline Program of Light Industry Technology and Engineering"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KLIB-KF201706"
+          ],
+          "agency": [
+            "Open Project of Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Enzymatic catalysis",
+        "keratinase",
+        "Waste Prevention",
+        "Pro-peptide Engineering"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bit.27771"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-31"
+  ],
+  "firstIndexDate": [
+    "2021-04-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-31"
+  ],
+  "firstPublicationDate": [
+    "2021-03-31"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": [
+    "33938972"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33938972"
+  ],
+  "doi": [
+    "10.1007/s00203-021-02336-0"
+  ],
+  "title": [
+    "Changes in growth kinetic parameters, morphology and mitotic activity of yeasts Candida guilliermondii exposed to the low-intensity waves of 51.8-GHz frequency."
+  ],
+  "authorString": [
+    "Marutyan S, Marutyan S, Navasardyan L, Hovnanyan K, Trchounian A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Marutyan S"
+          ],
+          "firstName": [
+            "Seda"
+          ],
+          "lastName": [
+            "Marutyan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Microbiology and Biotechnology, Yerevan State University, 1 A. Manoogyan Str, 0025, Yerevan, Armenia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Marutyan S"
+          ],
+          "firstName": [
+            "Syuzan"
+          ],
+          "lastName": [
+            "Marutyan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Microbiology and Biotechnology, Yerevan State University, 1 A. Manoogyan Str, 0025, Yerevan, Armenia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Navasardyan L"
+          ],
+          "firstName": [
+            "Liparit"
+          ],
+          "lastName": [
+            "Navasardyan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Microbiology and Biotechnology, Yerevan State University, 1 A. Manoogyan Str, 0025, Yerevan, Armenia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hovnanyan K"
+          ],
+          "firstName": [
+            "Karlen"
+          ],
+          "lastName": [
+            "Hovnanyan"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Scientific and Technological Center of Organic and Pharmaceutical Chemistry, National Academy of Sciences of RA, 26 Azatutyan Str, 0014, Yerevan, Armenia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Trchounian A"
+          ],
+          "firstName": [
+            "Armen"
+          ],
+          "lastName": [
+            "Trchounian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0901-4893",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Microbiology and Biotechnology, Yerevan State University, 1 A. Manoogyan Str, 0025, Yerevan, Armenia. Trchounian@ysu.am."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0901-4893",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161751"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Arch Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Arch Microbiol"
+          ],
+          "NLMid": [
+            "0410427"
+          ],
+          "ISSN": [
+            "0302-8933"
+          ],
+          "ESSN": [
+            "1432-072X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Under the influence of electromagnetic waves of millimeter range with the frequency of 51.8 GHz, changes in the morphology, growth parameters and mitotic activity of yeasts C. guilliermondii NP-4 are revealed. Filamentous and giant cells appeared in a population of exposed yeasts. The sigmoid shape of the growth curve remained but the lag phase duration was increased by 2 h in comparison with non-exposed yeasts; accordingly, the log and stationary phases followed 2 h later. The specific growth rate in the log growth phase and colony-forming ability of exposed yeasts was decreased. It is suggested that yeasts have some response mechanisms to 51.8-GHz frequency electromagnetic waves. The results can be used to understand the response mechanisms of microorganisms to non-ionizing radiation, as well as to develop approaches to protect living organisms from it. The effect of electromagnetic waves of 51.8-GHz frequency to suppress yeasts can be applied in biotechnology and medicine."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Microbiology and Biotechnology, Yerevan State University, 1 A. Manoogyan Str, 0025, Yerevan, Armenia."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Basic support"
+          ],
+          "agency": [
+            "State Committee of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morphology",
+        "Cell growth",
+        "Candida guilliermondii",
+        "yeasts",
+        "Colony Forming",
+        "Electromagnetic Waves Of Frequency Of 51.8 Ghz"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00203-021-02336-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-03"
+  ],
+  "firstIndexDate": [
+    "2021-05-04"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-03"
+  ],
+  "firstPublicationDate": [
+    "2021-05-03"
+  ]
+}

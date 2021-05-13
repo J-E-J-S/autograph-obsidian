@@ -1,0 +1,517 @@
+{
+  "id": [
+    "33966834"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33966834"
+  ],
+  "doi": [
+    "10.1016/j.carbpol.2021.118070"
+  ],
+  "title": [
+    "Modified lignocellulose and rich starch for complete saccharification to maximize bioethanol in distinct polyploidy potato straw."
+  ],
+  "authorString": [
+    "Madadi M, Zhao K, Wang Y, Wang Y, Tang SW, Xia T, Jin N, Xu Z, Li G, Qi Z, Peng L, Xiong Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Madadi M"
+          ],
+          "firstName": [
+            "Meysam"
+          ],
+          "lastName": [
+            "Madadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; Laboratory of Biomass Engineering & Nanomaterial Application in Automobiles, College of Food Science & Chemical Engineering, Hubei University of Arts & Science, Xiangyang, China. Electronic address: madadim2002@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao K"
+          ],
+          "firstName": [
+            "Kanglu"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: 15632709889@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Youmei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; College of Life Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: wym_quiet@yeah.net."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanting"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; Laboratory of Biomass Engineering & Nanomaterial Application in Automobiles, College of Food Science & Chemical Engineering, Hubei University of Arts & Science, Xiangyang, China. Electronic address: wyt@mail.hzau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang SW"
+          ],
+          "firstName": [
+            "Shang-Wen"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biomass Engineering & Nanomaterial Application in Automobiles, College of Food Science & Chemical Engineering, Hubei University of Arts & Science, Xiangyang, China. Electronic address: tsw830629@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xia T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; College of Life Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: xiatao@mail.hzau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin N"
+          ],
+          "firstName": [
+            "Nengzhou"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: 1283384057@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhijun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: xuzhijun0828@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li G"
+          ],
+          "firstName": [
+            "Guanhua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: liguanhua1984@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qi Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: qizhi@imu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng L"
+          ],
+          "firstName": [
+            "Liangcai"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; Laboratory of Biomass Engineering & Nanomaterial Application in Automobiles, College of Food Science & Chemical Engineering, Hubei University of Arts & Science, Xiangyang, China. Electronic address: lpeng@mail.hzau.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong Z"
+          ],
+          "firstName": [
+            "Zhiyong"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Herbage & Endemic Crop Biotechnology, Ministry of Education, State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock, College of Life Science, Inner Mongolia University, Hohhot, Inner Mongolia, 010021, China. Electronic address: xiongzy2003@aliyun.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "265"
+      ],
+      "journalIssueId": [
+        "3167743"
+      ],
+      "dateOfPublication": [
+        "2021 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Carbohydrate polymers"
+          ],
+          "ISOAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "medlineAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "NLMid": [
+            "8307156"
+          ],
+          "ISSN": [
+            "0144-8617"
+          ],
+          "ESSN": [
+            "1879-1344"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "118070"
+  ],
+  "abstractText": [
+    "Potato is a major food crop with enormous biomass straw, but lignocellulose recalcitrance causes a costly bioethanol conversion. Here, we selected the cytochimera (Cyt) potato samples showing significantly-modified lignocellulose and much increased soluble sugars and starch by 2-4 folds in mature straws. Under two pretreatments (8 min liquid hot water; 5% CaO) at minimized conditions, the potato Cyt straw showed complete enzymatic saccharification. Further performing yeast fermentation with all hexoses released from soluble sugars, starch and lignocellulose in the Cyt straw, this study achieved a maximum bioethanol yield of 24 % (% dry matter), being higher than those of other bioenergy crops as previously reported. Hence, this study has proposed a novel mechanism model on the reduction of major lignocellulose recalcitrance and regulation of carbon assimilation to achieve cost-effective bioethanol production under optimal pretreatments. This work also provides a sustainable strategy for utilization of potato straws with minimum waste release."
+  ],
+  "affiliation": [
+    "Biomass & Bioenergy Research Center, College of Plant Science & Technology, Huazhong Agricultural University, Wuhan, 430070, China; Laboratory of Biomass Engineering & Nanomaterial Application in Automobiles, College of Food Science & Chemical Engineering, Hubei University of Arts & Science, Xiangyang, China. Electronic address: madadim2002@gmail.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Starch",
+        "Bioethanol",
+        "Polyploidization",
+        "Biomass Pretreatment",
+        "Cellulose Feature",
+        "Potato Straw"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.carbpol.2021.118070"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

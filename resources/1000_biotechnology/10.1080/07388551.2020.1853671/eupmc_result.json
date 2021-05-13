@@ -1,0 +1,347 @@
+{
+  "id": [
+    "33622112"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33622112"
+  ],
+  "doi": [
+    "10.1080/07388551.2020.1853671"
+  ],
+  "title": [
+    "Cold atmospheric plasma as an interface biotechnology for enhancing surgical implants."
+  ],
+  "authorString": [
+    "Tan F, Fang Y, Zhu L, Al-Rubeai M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1010-0163",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of ORL-HNS, Affiliated East Hospital of Tongji University, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Medicine and Institute for Advanced Study, Tongji University, Shanghai, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "The Royal College of Surgeons of England, London, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Y"
+          ],
+          "firstName": [
+            "Yin"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Medicine and Institute for Advanced Study, Tongji University, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Liwei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of ORL-HNS, Affiliated East Hospital of Tongji University, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Rubeai M"
+          ],
+          "firstName": [
+            "Mohamed"
+          ],
+          "lastName": [
+            "Al-Rubeai"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Chemical and Bioprocess Engineering, and Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Dublin, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1010-0163",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "41"
+      ],
+      "journalIssueId": [
+        "3151866"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Critical reviews in biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Crit Rev Biotechnol"
+          ],
+          "NLMid": [
+            "8505177"
+          ],
+          "ISSN": [
+            "0738-8551"
+          ],
+          "ESSN": [
+            "1549-7801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "425-440"
+  ],
+  "abstractText": [
+    "Cold atmospheric plasma (CAP) has been intensively researched for direct treatment of living cells and tissues. Significant attention is now being given to its indirect applications in plasma medicine. Surgical implant is an exemplary conveyor to deliver the therapeutic effects of plasma to patients. There is a constant drive to enhance the clinical performance of surgical implants, targeting at the implant-tissue interface. As a versatile and potent tool, CAP is capable of ameliorating surgical implants using various strategies of interface biotechnology, such as surface modification, coating deposition, and drug delivery. Understanding the chemical, physical, mechanical, electrical, and pharmacological processes occurring at the implant-tissue interface is crucial to effective application of CAP as an interface biotechnology. This preclinical review focuses on the recent advances in CAP-assisted implant-based therapy for major surgical specialties. The ultimate goal here is to elicit unique opportunities and challenges for translating implant science to plasma medicine."
+  ],
+  "affiliation": [
+    "Department of ORL-HNS, Affiliated East Hospital of Tongji University, Shanghai, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Neurogenesis",
+        "Osteogenesis",
+        "Implant",
+        "surface modification",
+        "coating",
+        "Drug Delivery",
+        "Interface",
+        "Plasma Medicine",
+        "Atmospheric Plasma"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/07388551.2020.1853671"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-24"
+  ],
+  "firstIndexDate": [
+    "2021-02-25"
+  ],
+  "dateOfRevision": [
+    "2021-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2021-02-23"
+  ],
+  "firstPublicationDate": [
+    "2021-02-23"
+  ]
+}

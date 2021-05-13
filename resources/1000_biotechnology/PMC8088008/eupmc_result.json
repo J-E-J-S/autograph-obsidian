@@ -1,0 +1,1232 @@
+{
+  "id": [
+    "33931016"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33931016"
+  ],
+  "pmcid": [
+    "PMC8088008"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC8088008"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12884-021-03807-4"
+  ],
+  "title": [
+    "Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort."
+  ],
+  "authorString": [
+    "Vijayram R, Damaraju N, Xavier A, Desiraju BK, Thiruvengadam R, Misra S, Chopra S, Khurana A, Wadhwa N, GARBH-Ini Study Group, Rengaswamy R, Sinha H, Bhatnagar S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vijayram R"
+          ],
+          "firstName": [
+            "Ramya"
+          ],
+          "lastName": [
+            "Vijayram"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre for Integrative Biology and Systems Medicine, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Damaraju N"
+          ],
+          "firstName": [
+            "Nikhita"
+          ],
+          "lastName": [
+            "Damaraju"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre for Integrative Biology and Systems Medicine, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xavier A"
+          ],
+          "firstName": [
+            "Ashley"
+          ],
+          "lastName": [
+            "Xavier"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre for Integrative Biology and Systems Medicine, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Desiraju BK"
+          ],
+          "firstName": [
+            "Bapu Koundinya"
+          ],
+          "lastName": [
+            "Desiraju"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thiruvengadam R"
+          ],
+          "firstName": [
+            "Ramachandran"
+          ],
+          "lastName": [
+            "Thiruvengadam"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Misra S"
+          ],
+          "firstName": [
+            "Sumit"
+          ],
+          "lastName": [
+            "Misra"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chopra S"
+          ],
+          "firstName": [
+            "Shilpa"
+          ],
+          "lastName": [
+            "Chopra"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khurana A"
+          ],
+          "firstName": [
+            "Ashok"
+          ],
+          "lastName": [
+            "Khurana"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Ultrasound Lab, Defence Colony, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wadhwa N"
+          ],
+          "firstName": [
+            "Nitya"
+          ],
+          "lastName": [
+            "Wadhwa"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "collectiveName": [
+            "GARBH-Ini Study Group"
+          ]
+        },
+        {
+          "fullName": [
+            "Rengaswamy R"
+          ],
+          "firstName": [
+            "Raghunathan"
+          ],
+          "lastName": [
+            "Rengaswamy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Integrative Biology and Systems Medicine, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Robert Bosch Centre for Data Science and Artificial Intelligence, Indian Institute of Technology Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sinha H"
+          ],
+          "firstName": [
+            "Himanshu"
+          ],
+          "lastName": [
+            "Sinha"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India. sinha@iitm.ac.in."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre for Integrative Biology and Systems Medicine, Indian Institute of Technology Madras, Chennai, India. sinha@iitm.ac.in."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Robert Bosch Centre for Data Science and Artificial Intelligence, Indian Institute of Technology Madras, Chennai, India. sinha@iitm.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhatnagar S"
+          ],
+          "firstName": [
+            "Shinjini"
+          ],
+          "lastName": [
+            "Bhatnagar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Maternal and Child Health Program, Translational Health Science and Technology Institute, Faridabad, India. shinjini.bhatnagar@thsti.res.in."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Interdisciplinary Group for Advanced Research on Birth Outcomes - DBT India Initiative, Translational Health Science and Technology Institute, Faridabad, India. shinjini.bhatnagar@thsti.res.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Bal V"
+          ],
+          "firstName": [
+            "Vineeta"
+          ],
+          "lastName": [
+            "Bal"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Bhatnagar S"
+          ],
+          "firstName": [
+            "Shinjini"
+          ],
+          "lastName": [
+            "Bhatnagar"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Das B"
+          ],
+          "firstName": [
+            "Bhabatosh"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Dash M"
+          ],
+          "firstName": [
+            "Mahadev"
+          ],
+          "lastName": [
+            "Dash"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Desiraju BK"
+          ],
+          "firstName": [
+            "Bapu Koundinya"
+          ],
+          "lastName": [
+            "Desiraju"
+          ],
+          "initials": [
+            "BK"
+          ]
+        },
+        {
+          "fullName": [
+            "Kshetrapal P"
+          ],
+          "firstName": [
+            "Pallavi"
+          ],
+          "lastName": [
+            "Kshetrapal"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Misra S"
+          ],
+          "firstName": [
+            "Sumit"
+          ],
+          "lastName": [
+            "Misra"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Natchu UCM"
+          ],
+          "firstName": [
+            "Uma Chandra Mouli"
+          ],
+          "lastName": [
+            "Natchu"
+          ],
+          "initials": [
+            "UCM"
+          ]
+        },
+        {
+          "fullName": [
+            "Rath S"
+          ],
+          "firstName": [
+            "Satyajit"
+          ],
+          "lastName": [
+            "Rath"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Sachdeva K"
+          ],
+          "firstName": [
+            "Kanika"
+          ],
+          "lastName": [
+            "Sachdeva"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma D"
+          ],
+          "firstName": [
+            "Dharmendra"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Singh A"
+          ],
+          "firstName": [
+            "Amanpreet"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Sopory S"
+          ],
+          "firstName": [
+            "Shailaja"
+          ],
+          "lastName": [
+            "Sopory"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Thiruvengadam R"
+          ],
+          "firstName": [
+            "Ramachandran"
+          ],
+          "lastName": [
+            "Thiruvengadam"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Wadhwa N"
+          ],
+          "firstName": [
+            "Nitya"
+          ],
+          "lastName": [
+            "Wadhwa"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Maitra A"
+          ],
+          "firstName": [
+            "Arindam"
+          ],
+          "lastName": [
+            "Maitra"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Majumder PP"
+          ],
+          "firstName": [
+            "Partha P"
+          ],
+          "lastName": [
+            "Majumder"
+          ],
+          "initials": [
+            "PP"
+          ]
+        },
+        {
+          "fullName": [
+            "Mukherjee S"
+          ],
+          "firstName": [
+            "Souvik"
+          ],
+          "lastName": [
+            "Mukherjee"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Maiti TK"
+          ],
+          "firstName": [
+            "Tushar K"
+          ],
+          "lastName": [
+            "Maiti"
+          ],
+          "initials": [
+            "TK"
+          ]
+        },
+        {
+          "fullName": [
+            "Bahl M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Bahl"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Bansal S"
+          ],
+          "firstName": [
+            "Shubra"
+          ],
+          "lastName": [
+            "Bansal"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Mehta U"
+          ],
+          "firstName": [
+            "Umesh"
+          ],
+          "lastName": [
+            "Mehta"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma S"
+          ],
+          "firstName": [
+            "Sunita"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Sindhu B"
+          ],
+          "firstName": [
+            "Brahmdeep"
+          ],
+          "lastName": [
+            "Sindhu"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Arya S"
+          ],
+          "firstName": [
+            "Sugandha"
+          ],
+          "lastName": [
+            "Arya"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Bharti R"
+          ],
+          "firstName": [
+            "Rekha"
+          ],
+          "lastName": [
+            "Bharti"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Chellani H"
+          ],
+          "firstName": [
+            "Harish"
+          ],
+          "lastName": [
+            "Chellani"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Mittal P"
+          ],
+          "firstName": [
+            "Pratima"
+          ],
+          "lastName": [
+            "Mittal"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Garg A"
+          ],
+          "firstName": [
+            "Anju"
+          ],
+          "lastName": [
+            "Garg"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramji S"
+          ],
+          "firstName": [
+            "Siddharth"
+          ],
+          "lastName": [
+            "Ramji"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Khurana A"
+          ],
+          "firstName": [
+            "Ashok"
+          ],
+          "lastName": [
+            "Khurana"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Tripathi R"
+          ],
+          "firstName": [
+            "Reva"
+          ],
+          "lastName": [
+            "Tripathi"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Goyal A"
+          ],
+          "firstName": [
+            "Alpesh"
+          ],
+          "lastName": [
+            "Goyal"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta Y"
+          ],
+          "firstName": [
+            "Yashdeep"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Hari S"
+          ],
+          "firstName": [
+            "Smriti"
+          ],
+          "lastName": [
+            "Hari"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Tandon N"
+          ],
+          "firstName": [
+            "Nikhil"
+          ],
+          "lastName": [
+            "Tandon"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta R"
+          ],
+          "firstName": [
+            "Rakesh"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Salunke DM"
+          ],
+          "firstName": [
+            "Dinakar M"
+          ],
+          "lastName": [
+            "Salunke"
+          ],
+          "initials": [
+            "DM"
+          ]
+        },
+        {
+          "fullName": [
+            "Nair GB"
+          ],
+          "firstName": [
+            "G Balakrish"
+          ],
+          "lastName": [
+            "Nair"
+          ],
+          "initials": [
+            "GB"
+          ]
+        },
+        {
+          "fullName": [
+            "Kang G"
+          ],
+          "firstName": [
+            "Gagandeep"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "3144268"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC pregnancy and childbirth"
+          ],
+          "ISOAbbreviation": [
+            "BMC Pregnancy Childbirth"
+          ],
+          "medlineAbbreviation": [
+            "BMC Pregnancy Childbirth"
+          ],
+          "NLMid": [
+            "100967799"
+          ],
+          "ISSN": [
+            "1471-2393"
+          ],
+          "ESSN": [
+            "1471-2393"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "343"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Different formulae have been developed globally to estimate gestational age (GA) by ultrasonography in the first trimester of pregnancy. In this study, we develop an Indian population-specific dating formula and compare its performance with published formulae. Finally, we evaluate the implications of the choice of dating method on preterm birth (PTB) rate. This study's data was from GARBH-Ini, an ongoing pregnancy cohort of North Indian women to study PTB.<h4>Methods</h4>Comparisons between ultrasonography-Hadlock and last menstrual period (LMP) based dating methods were made by studying the distribution of their differences by Bland-Altman analysis. Using data-driven approaches, we removed data outliers more efficiently than by applying clinical parameters. We applied advanced machine learning algorithms to identify relevant features for GA estimation and developed an Indian population-specific formula (Garbhini-GA1) for the first trimester. PTB rates of Garbhini-GA1 and other formulae were compared by estimating sensitivity and accuracy.<h4>Results</h4>Performance of Garbhini-GA1 formula, a non-linear function of crown-rump length (CRL), was equivalent to published formulae for estimation of first trimester GA (LoA, - 0.46,0.96 weeks). We found that CRL was the most crucial parameter in estimating GA and no other clinical or socioeconomic covariates contributed to GA estimation. The estimated PTB rate across all the formulae including LMP ranged 11.27-16.50% with Garbhini-GA1 estimating the least rate with highest sensitivity and accuracy. While the LMP-based method overestimated GA by 3 days compared to USG-Hadlock formula; at an individual level, these methods had less than 50% agreement in the classification of PTB.<h4>Conclusions</h4>An accurate estimation of GA is crucial for the management of PTB. Garbhini-GA1, the first such formula developed in an Indian setting, estimates PTB rates with higher accuracy, especially when compared to commonly used Hadlock formula. Our results reinforce the need to develop population-specific gestational age formulae."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras, Chennai, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gestational Age",
+        "Preterm Birth",
+        "Machine Learning",
+        "Crl",
+        "Crown-rump Length",
+        "Last Menstrual Period",
+        "Garbh-ini",
+        "Garbhini-ga1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12884-021-03807-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC8088008"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC8088008?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR107738"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-01"
+  ],
+  "firstIndexDate": [
+    "2021-05-02"
+  ],
+  "fullTextReceivedDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

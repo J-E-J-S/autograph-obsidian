@@ -1,0 +1,383 @@
+{
+  "id": [
+    "33822646"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33822646"
+  ],
+  "doi": [
+    "10.1094/phyto-11-20-0490-r"
+  ],
+  "title": [
+    "Differential expression pattern of pathogenicity-related genes of <i>Ralstonia pseudosolanacearum</i> YQ responding to tissue debris of <i>Casuarina equisetifolia</i>."
+  ],
+  "authorString": [
+    "Zhou X, Wang Y, Li C, Xu Y, Su X, Yang T, Zhang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A&F Univiersity, No. 88 Wushu Road, Hangzhou, China, 311300; xzhou@zafu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, College of Forestry and Biotechnology, Hangzhou, Zhejiang, China; 2402883813@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chuqiao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, College of Forestry and Biotechnology, Hangzhou, Zhejiang, China; 673584537@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yuanyou"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, College of Forestry and Biotechnology, Hangzhou, Zhejiang, China; xyyxuyuanyou@foxmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Su X"
+          ],
+          "firstName": [
+            "Xiu"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, Hangzhou, Zhejiang, China; suxiu@zafu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang T"
+          ],
+          "firstName": [
+            "Tian"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, College of Forestry and Biotechnology, Hangzhou, Zhejiang, China; 793326631@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xinqi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Zhejiang A and F University, 12627, College of Forestry and Biotechnology, No. 666 Wusu Street, Lin'an District, Hangzhou, Zhejiang, China, 311300; zhangxq@zafu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3142774"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Phytopathology"
+          ],
+          "ISOAbbreviation": [
+            "Phytopathology"
+          ],
+          "medlineAbbreviation": [
+            "Phytopathology"
+          ],
+          "NLMid": [
+            "9427222"
+          ],
+          "ISSN": [
+            "0031-949X"
+          ],
+          "ESSN": [
+            "1943-7684"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<i>Ralstonia solanacearum</i> species complex (RSSC) contains a group of destructive plant pathogenic bacteria, causing bacterial wilt of over 200 species of crops and trees, such as <i>Casuarina equisetifolia</i>, worldwide. RSSC can survive in the soil environment for a long time and start infection after activated by host plants. This study conducted a transcriptome analysis on the expression pattern of the pathogenicity-related genes of a new isolated RSSC strain YQ (<i>Ralstonia pseduosolanacearum</i> phylotype I-16) in response to <i>C. equisetifolia</i> cladophyll (a branch of a stem that resembles and functions as a leaf) and root debris under <i>in vitro</i> culture. The cladophyll debris induced more genes upregulated than the root debris, including pathogenicity-related genes involved in motility, effectors, type III secretion systems, quorum sensing, and plant cell wall degradation. Besides, many differentially expressed genes were related to transcriptional regulator such as cyclic dimeric guanosine monophosphate. Moreover, the cultures with cladophyll debris induced a faster wilting in bioassays, and the cell swimming was enhanced by cladophyll exudate. <i>C. equisetifolia</i> cladophylls could activate the expression of pathogenicity-related genes of strain YQ and accelerate infection. Our findings suggest that litterfall management in <i>C. equisetifolia</i> forests, or even other plantations, should receive attention to prevent the induction of bacterial wilt disease caused by RSSC."
+  ],
+  "affiliation": [
+    "Zhejiang A&F Univiersity, No. 88 Wushu Road, Hangzhou, China, 311300; xzhou@zafu.edu.cn."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacterial Pathogens",
+        "Host Parasite Interactions",
+        "Forest Pathology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1094/PHYTO-11-20-0490-R"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-06"
+  ],
+  "firstIndexDate": [
+    "2021-04-07"
+  ],
+  "dateOfRevision": [
+    "2021-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-06"
+  ],
+  "firstPublicationDate": [
+    "2021-04-06"
+  ]
+}

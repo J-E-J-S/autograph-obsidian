@@ -1,0 +1,489 @@
+{
+  "id": [
+    "33753197"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33753197"
+  ],
+  "doi": [
+    "10.1016/j.ijbiomac.2021.03.058"
+  ],
+  "title": [
+    "Protein engineering of stable IsPETase for PET plastic degradation by Premuse."
+  ],
+  "authorString": [
+    "Meng X, Yang L, Liu H, Li Q, Xu G, Zhang Y, Guan F, Zhang Y, Zhang W, Wu N, Tian J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meng X"
+          ],
+          "firstName": [
+            "Xiangxi"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lixin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hanqing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qingbin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China; State Key Laboratory of Microbial Technology, Shandong University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu G"
+          ],
+          "firstName": [
+            "Guoshun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China; College of Food Science and Technology, Agricultural University of Hebei, Baoding, Hebei Province 071001, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guan F"
+          ],
+          "firstName": [
+            "Feifei"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuhong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu N"
+          ],
+          "firstName": [
+            "Ningfeng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China. Electronic address: wuningfeng@caas.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tian J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China. Electronic address: tianjian@caas.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "180"
+      ],
+      "journalIssueId": [
+        "3168731"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of biological macromolecules"
+          ],
+          "ISOAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Biol Macromol"
+          ],
+          "NLMid": [
+            "7909578"
+          ],
+          "ISSN": [
+            "0141-8130"
+          ],
+          "ESSN": [
+            "1879-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "667-676"
+  ],
+  "abstractText": [
+    "Poly(ethylene terephthalate) (PET) is used widely by human beings, but is very difficult to degrade. Up to now, the PET degradation effect of PETase from Ideonella sakaiensis 201-F6 (IsPETase) variants with low stability and activity was not ideal. In this study, a mutation design tool, Premuse, was developed to integrate the sequence alignment and quantitative selection of the preferred mutations based on natural sequence evolution. Ten single point mutants were selected from 1486 homologous sequences using Premuse, and then two mutations (W159H and F229Y) with improved stability were screened from them. The derived double point mutant, W159H/F229Y, exhibited a strikingly enhanced enzymatic performance. Its T<sub>m</sub> and catalytic efficiency values (k<sub>cat</sub>/K<sub>m</sub>) respectively increased by 10.4 °C and 2.0-fold using p-NPP as the substrate compared with wild type. The degradation activity for amorphous PET was increased by almost 40-fold in comparison with wild type at 40 °C in 24 h. Additionally, the variant could catalyze biodegradation of PET bottle preform at a mean rate of 23.4 mg<sub>PET</sub>/h/mg<sub>enzyme</sub>. This study allowed us to design the mutation more efficiently, and provides a tool for achieving biodegradation of PET pollution under mild natural environments."
+  ],
+  "affiliation": [
+    "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein engineering",
+        "Ispetase (Petase From Ideonella Sakaiensis)",
+        "Poly(ethylene Terephthalate) (Pet) Biodegradation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijbiomac.2021.03.058"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-23"
+  ],
+  "firstIndexDate": [
+    "2021-03-24"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-19"
+  ],
+  "firstPublicationDate": [
+    "2021-03-19"
+  ]
+}

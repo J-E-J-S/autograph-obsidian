@@ -1,0 +1,392 @@
+{
+  "id": [
+    "33756223"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33756223"
+  ],
+  "doi": [
+    "10.1016/j.intimp.2021.107513"
+  ],
+  "title": [
+    "Immunoregulatory properties of a crude extraction fraction rich in polysaccharide from Chrysanthemum zawadskii Herbich var. latilobum and its potential role as a vaccine adjuvant."
+  ],
+  "authorString": [
+    "Han JM, Song HY, Seo HS, Byun EH, Lim ST, Kim WS, Byun EB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Han JM"
+          ],
+          "firstName": [
+            "Jeong Moo"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 136-701, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song HY"
+          ],
+          "firstName": [
+            "Ha-Yeon"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 136-701, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seo HS"
+          ],
+          "firstName": [
+            "Ho Seong"
+          ],
+          "lastName": [
+            "Seo"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byun EH"
+          ],
+          "firstName": [
+            "Eui-Hong"
+          ],
+          "lastName": [
+            "Byun"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Food Science and Technology, Kongju National University, Yesan 340-800, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim ST"
+          ],
+          "firstName": [
+            "Seung-Taik"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 136-701, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim WS"
+          ],
+          "firstName": [
+            "Woo Sik"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Functional Biomaterial Research Center, Korea Research Institute of Bioscience and Biotechnology, Jeongeup-si, Jeollabuk-do 56212, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byun EB"
+          ],
+          "firstName": [
+            "Eui-Baek"
+          ],
+          "lastName": [
+            "Byun"
+          ],
+          "initials": [
+            "EB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Republic of Korea. Electronic address: ebbyun80@kaeri.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "95"
+      ],
+      "journalIssueId": [
+        "3168735"
+      ],
+      "dateOfPublication": [
+        "2021 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International immunopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Int Immunopharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Int Immunopharmacol"
+          ],
+          "NLMid": [
+            "100965259"
+          ],
+          "ISSN": [
+            "1567-5769"
+          ],
+          "ESSN": [
+            "1878-1705"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107513"
+  ],
+  "abstractText": [
+    "The objective of the current study was to demonstrate the immunostimulatory effects of a polysaccharide isolated from Chrysanthemum zawadskii Herbich var. latilobum leaves (CP) and evaluate its potential as a vaccine adjuvant. Results showed that CP induced maturation of the dendritic cells (DCs). In addition, CP-treated DCs activated naïve T cells to polarized CD4<sup>+</sup> and CD8<sup>+</sup> T cells and substantially induced the production of IFN-γ and IL-2 in vitro. Furthermore, CP initiated the maturation of DCs via the activation of MAPK and NF-κB signaling pathways. Interestingly, systemic administration of CP-treated DCs pulsed with ovalbumin (OVA) peptides significantly enhanced the immune response in vivo, which included the generation of antigen (OVA)-specific polyfunctional T cells, increased cytotoxic T lymphocyte activity, induction of Th1-mediated humoral immunity, and suppression of tumor growth. Taken together, our study highlighted the immunoregulatory activity of CP as well as its potential as a candidate vaccine adjuvant."
+  ],
+  "affiliation": [
+    "Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup 580-185, Republic of Korea; Department of Biotechnology, College of Life Science and Biotechnology, Korea University, Seoul 136-701, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural product",
+        "Adjuvant",
+        "Anti-tumor immunity",
+        "Dendritic Cell",
+        "Polyfunctional T Cell",
+        "Chrysanthemum Zawadskii Herbich Var. Latilobum"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.intimp.2021.107513"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-23"
+  ],
+  "firstIndexDate": [
+    "2021-03-24"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-20"
+  ],
+  "firstPublicationDate": [
+    "2021-03-20"
+  ]
+}

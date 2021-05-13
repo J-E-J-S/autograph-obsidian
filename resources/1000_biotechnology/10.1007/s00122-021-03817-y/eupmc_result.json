@@ -1,0 +1,613 @@
+{
+  "id": [
+    "33787961"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33787961"
+  ],
+  "doi": [
+    "10.1007/s00122-021-03817-y"
+  ],
+  "title": [
+    "Correction to: High‑depth resequencing of 312 accessions reveals the local adaptation of foxtail millet."
+  ],
+  "authorString": [
+    "Li C, Wang G, Li H, Wang G, Ma J, Zhao X, Huo L, Zhang L, Jiang Y, Zhang J, Liu G, Liu G, Cheng R, Wei J, Yao L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Congcong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Genping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Millet Crops, Key Laboratory of Minor Crops in Hebei Province, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050035, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Haiquan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Millet Crops, Key Laboratory of Minor Crops in Hebei Province, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050035, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guoliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Vegetable Research Center, Beijing Key Laboratory of Vegetable Germplasms Improvement, National Engineering Research Center for Vegetables, Beijing Academy of Agriculture and Forestry Science, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huo L"
+          ],
+          "firstName": [
+            "Linhe"
+          ],
+          "lastName": [
+            "Huo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liquan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yanmiao"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Millet Crops, Key Laboratory of Minor Crops in Hebei Province, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050035, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiewei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guiming"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guoqing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Millet Crops, Key Laboratory of Minor Crops in Hebei Province, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050035, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng R"
+          ],
+          "firstName": [
+            "Ruhong"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Millet Crops, Key Laboratory of Minor Crops in Hebei Province, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050035, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei J"
+          ],
+          "firstName": [
+            "Jianhua"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China. weijianhua@baafs.net.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9996-4149",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China. yaolei@baafs.net.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9996-4149",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "134"
+      ],
+      "journalIssueId": [
+        "3160285"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik"
+          ],
+          "ISOAbbreviation": [
+            "Theor Appl Genet"
+          ],
+          "medlineAbbreviation": [
+            "Theor Appl Genet"
+          ],
+          "NLMid": [
+            "0145600"
+          ],
+          "ISSN": [
+            "0040-5752"
+          ],
+          "ESSN": [
+            "1432-2242"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1603"
+  ],
+  "affiliation": [
+    "Beijing Agro-Biotechnology Research Center, Beijing Key Laboratory of Agricultural Genetic Resources and Biotechnology, Beijing Academy of Agriculture and Forestry Sciences, Beijing, 100097, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00122-021-03817-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "33566123"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Theor Appl Genet. 2021 May;134(5):1303-1317"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-31"
+  ],
+  "firstIndexDate": [
+    "2021-04-01"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-05-01"
+  ]
+}

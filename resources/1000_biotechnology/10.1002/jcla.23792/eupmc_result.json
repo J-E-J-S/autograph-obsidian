@@ -1,0 +1,361 @@
+{
+  "id": [
+    "33942382"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33942382"
+  ],
+  "doi": [
+    "10.1002/jcla.23792"
+  ],
+  "title": [
+    "Identification of a novel heterozygous mutation in the MITF gene in an Iranian family with Waardenburg syndrome type II using next-generation sequencing."
+  ],
+  "authorString": [
+    "Nasirshalal M, Panahi M, Javanshir N, Salmani H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nasirshalal M"
+          ],
+          "firstName": [
+            "Mahzad"
+          ],
+          "lastName": [
+            "Nasirshalal"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6097-3168",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Genetics, School of Medicine, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Panahi M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Panahi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Biotechnology, Faculty of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Javanshir N"
+          ],
+          "firstName": [
+            "Nahid"
+          ],
+          "lastName": [
+            "Javanshir"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tabriz, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salmani H"
+          ],
+          "firstName": [
+            "Hamzeh"
+          ],
+          "lastName": [
+            "Salmani"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9982-0807",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Genetics, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9982-0807",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6097-3168",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161808"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical laboratory analysis"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Lab Anal"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Lab Anal"
+          ],
+          "NLMid": [
+            "8801384"
+          ],
+          "ISSN": [
+            "0887-8013"
+          ],
+          "ESSN": [
+            "1098-2825"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "e23792"
+  ],
+  "abstractText": [
+    "<h4>Background</h4>Waardenburg syndrome (WS) is a genetically heterogeneous syndrome with both autosomal recessive and dominant inheritance. WS causes skin and iris pigmentation accumulation and sensorineural hearing loss, in varying degrees. There are four WS types with different characteristics. WS1 and WS2 are the most common and have a dominant inheritance. WS2 is caused by mutations in the microphthalmia-associated transcription factor (MITF) gene.<h4>Methods</h4>An Iranian couple with hearing loss was recruited in the present study. First, they were screened for GJB2 and GJB6 gene mutations, and then whole-exome sequencing 100X was performed along with bioinformatics analysis.<h4>Results</h4>A novel pathogenic heterozygous mutation, c.425T>A; p.L142Ter, was detected in the MITF gene's exon 4. Bioinformatics analysis predicted c.425T>A; p.L142Ter as a possible pathogenic variation. It appears that the mutated transcript level declines through nonsense-mediated decay. It probably created a significantly truncated protein and lost conserved and functional domains like basic helix-loop-helix-zipper proteins. Besides, the variant was utterly co-segregated with the disease within the family.<h4>Conclusions</h4>We investigated an Iranian family with congenital hearing loss and identified a novel pathogenic variant c.425T>A; p. L142Ter in the MITF gene related to WS2. This variant is a nonsense mutation, probably leading to a premature stop codon. Our data may be beneficial in upgrading gene mutation databases and identifying WS2 causes."
+  ],
+  "affiliation": [
+    "Department of Medical Genetics, School of Medicine, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Genomefan Company"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mutation",
+        "Waardenburg Syndrome",
+        "Wes",
+        "Type 2A",
+        "Mitf Gene"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jcla.23792"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-04"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-04"
+  ],
+  "firstPublicationDate": [
+    "2021-05-04"
+  ]
+}

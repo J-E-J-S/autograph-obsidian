@@ -1,0 +1,512 @@
+{
+  "id": [
+    "33944994"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33944994"
+  ],
+  "doi": [
+    "10.1007/s00705-021-05087-x"
+  ],
+  "title": [
+    "Complete genome sequence analysis of a novel coguvirus isolated from Paris polyphylla var. yunnanensis."
+  ],
+  "authorString": [
+    "Chen Z, Anane RF, Wang Z, Gao L, Chen L, Li S, Wen G, Zhao M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zeli"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1913-1364",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Anane RF"
+          ],
+          "firstName": [
+            "Rex Frimpong"
+          ],
+          "lastName": [
+            "Anane"
+          ],
+          "initials": [
+            "RF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3525-0758",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "CAS Center for Excellence in Animal Evolution and Genetics, Kunming Institute of Zoology, Chinese Academy of Sciences, 32 Jiaochang Donglu, Kunming, 650223, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory for Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, 32 Jiaochang Donglu, Kunming, 650223, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gao L"
+          ],
+          "firstName": [
+            "Like"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shangyun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wen G"
+          ],
+          "firstName": [
+            "Guosong"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao M"
+          ],
+          "firstName": [
+            "Mingfu"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1186-7203",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China. zhaomingfu@163.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Research and Development Center for Heath Product, College of Agronomy and Biotechnology, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China. zhaomingfu@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1186-7203",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1913-1364",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3525-0758",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162142"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of virology"
+          ],
+          "ISOAbbreviation": [
+            "Arch Virol"
+          ],
+          "medlineAbbreviation": [
+            "Arch Virol"
+          ],
+          "NLMid": [
+            "7506870"
+          ],
+          "ISSN": [
+            "0304-8608"
+          ],
+          "ESSN": [
+            "1432-8798"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "A novel negative-stranded (ns) RNA virus tentatively named \"Yunnan paris negative-stranded virus\" (YPNSV), was isolated from Paris polyphylla var. yunnanensis plants exhibiting leaf chlorosis and mosaic symptoms in Yunnan. Its complete genome sequence was determined using Illumina and Sanger sequencing. YPNSV has a bipartite genome that consists of a negative-stranded (ns) RNA1 encoding the viral RNA-dependent RNA polymerase (RdRp, p251), an ambisense RNA2 coding for the putative movement protein (MP, p46) and nucleocapsid protein (NP, p39), with the two open reading frames separated by a long intergenic region that is rich in A and U. Sequence comparisons showed that the RdRp, MP, and NP of YPNSV are most similar to those of watermelon crinkle leaf-associated virus 2 (WCLaV-2), with 69.1%, 50.4%, and 60.9% amino acid sequence identity, respectively. Phylogenetic analysis based on deduced amino acid sequences of RdRp and NP showed that YPNSV clustered in a clade with coguviruses and that its closest known relative is WCLaV-2. Based on the above results, YPNSV should be regarded as a new member of genus Coguvirus, family Phenuiviridae."
+  ],
+  "affiliation": [
+    "Key Laboratory for Agricultural Biodiversity for Pest Management of China, Ministry of Education, Yunnan Agricultural University, No. 95, Jinhei Road, Panlong District, Kunming, 650201, Yunnan, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "81860774"
+          ],
+          "agency": [
+            "the National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00705-021-05087-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-04"
+  ],
+  "firstIndexDate": [
+    "2021-05-05"
+  ],
+  "dateOfRevision": [
+    "2021-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-04"
+  ],
+  "firstPublicationDate": [
+    "2021-05-04"
+  ]
+}

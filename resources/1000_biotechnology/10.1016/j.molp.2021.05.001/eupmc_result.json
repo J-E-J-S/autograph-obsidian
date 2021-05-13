@@ -1,0 +1,610 @@
+{
+  "id": [
+    "33962060"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33962060"
+  ],
+  "doi": [
+    "10.1016/j.molp.2021.05.001"
+  ],
+  "title": [
+    "Nuclear Translocation of OsMFT1 That is Impeded by OsFTIP1 Promotes Drought Tolerance in Rice."
+  ],
+  "authorString": [
+    "Chen Y, Shen J, Zhang L, Qi H, Yang L, Wang H, Wang J, Wang Y, Du H, Tao Z, Zhao T, Deng P, Shu Q, Qian Q, Yu H, Song S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shen J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qi H"
+          ],
+          "firstName": [
+            "Haoyue"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lijia"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Huanyu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jiaxuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yuexing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, China National Rice Research Institute, Hangzhou, 311400, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tao Z"
+          ],
+          "firstName": [
+            "Zeng"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng P"
+          ],
+          "firstName": [
+            "Pingchuan"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Crop Stress Biology in Arid Areas, College of Agronomy, Northwest A&F University, Yangling, Shaanxi, 712100, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shu Q"
+          ],
+          "firstName": [
+            "Qingyao"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, China National Rice Research Institute, Hangzhou, 311400, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences and Temasek Life Sciences Laboratory, National University of Singapore, 117543, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song S"
+          ],
+          "firstName": [
+            "Shiyong"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China. Electronic address: shiyongsong@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3165496"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular plant"
+          ],
+          "ISOAbbreviation": [
+            "Mol Plant"
+          ],
+          "medlineAbbreviation": [
+            "Mol Plant"
+          ],
+          "NLMid": [
+            "101465514"
+          ],
+          "ISSN": [
+            "1674-2052"
+          ],
+          "ESSN": [
+            "1752-9867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Drought has been the leading environmental threat affecting the productivity of crops, and plants have evolved a series of mechanisms to adapt to drought stress. The FT-INTERACTING PROTEINs (FTIPs) and phosphatidylethanolamine-binding proteins (PEBPs) play key roles in developmental processes, whereas their roles in the regulation of stress response are still largely unknown. Here, we report that OsFTIP1 negatively affects drought response. Further study reveals that OsFTIP1 interacts with a PEBP, rice MOTHER OF FT AND TFL1 (OsMFT1), which promotes rice tolerance to drought treatment. OsMFT1 was found to interact with two key drought-related transcription factors, OsbZIP66 and OsMYB26, and regulates their binding capacity on drought-related genes, thus enhancing drought tolerance in rice. We further revealed that OsFTIP1 impedes the nucleocytoplasmic translocation of OsMFT1. These results demonstrate that dynamic modulation of drought responsive genes by OsMFT1-OsMYB26 complex and OsMFT1-OsbZIP66 complex is integral to OsFTIP1 effect on impeding nuclear translocation of OsMFT1. Our findings suggest that OsMFT1 acts as a hitherto unknown nucleocytoplasmic trafficking signal that regulates drought tolerance in rice in response to environmental signals."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Rice Biology, Zhejiang Provincial Key Laboratory of Crop Genetic Resources, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Nucleocytoplasmic Trafficking",
+        "Drought Response",
+        "Osftip1",
+        "Osmft1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.molp.2021.05.001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-07"
+  ],
+  "firstIndexDate": [
+    "2021-05-08"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-04"
+  ],
+  "firstPublicationDate": [
+    "2021-05-04"
+  ]
+}

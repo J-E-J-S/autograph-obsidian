@@ -1,0 +1,466 @@
+{
+  "id": [
+    "33839473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33839473"
+  ],
+  "doi": [
+    "10.1016/j.colsurfb.2021.111746"
+  ],
+  "title": [
+    "Multiplexing surface anchored functionalized iron carbide nanoparticle: A low molecular weight proteome responsive nano-tracer."
+  ],
+  "authorString": [
+    "Hasan M, Gulzar H, Zafar A, Ul Haq A, Mustafa G, Tariq T, Khalid A, Mahmmod A, Shu X, Mahmood N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hasan M"
+          ],
+          "firstName": [
+            "Murtaza"
+          ],
+          "lastName": [
+            "Hasan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry and Chemical Engineering, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, China; Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan. Electronic address: murtaza@iub.edu.pk."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gulzar H"
+          ],
+          "firstName": [
+            "Huma"
+          ],
+          "lastName": [
+            "Gulzar"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zafar A"
+          ],
+          "firstName": [
+            "Ayesha"
+          ],
+          "lastName": [
+            "Zafar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan; Department of Biomedical Engineering, College of Engineering, Peking University, Beijing, 100871, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ul Haq A"
+          ],
+          "firstName": [
+            "Ain"
+          ],
+          "lastName": [
+            "Ul Haq"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mustafa G"
+          ],
+          "firstName": [
+            "Ghazala"
+          ],
+          "lastName": [
+            "Mustafa"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Plant Sciences, Quaid-i-Azam University, Islamabad, 45320, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tariq T"
+          ],
+          "firstName": [
+            "Tuba"
+          ],
+          "lastName": [
+            "Tariq"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khalid A"
+          ],
+          "firstName": [
+            "Asma"
+          ],
+          "lastName": [
+            "Khalid"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Engineering, RMIT University 124 La Trobe Street, 3001, Melbourne, Victoria, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahmmod A"
+          ],
+          "firstName": [
+            "Asif"
+          ],
+          "lastName": [
+            "Mahmmod"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Chemical and Biomolecular Engineering, The University of Sydney, 2006, Sydney, Australia. Electronic address: asif.mahmood@sydney.edu.au."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shu X"
+          ],
+          "firstName": [
+            "Xugang"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry and Chemical Engineering, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, China. Electronic address: xgshu@21cn.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahmood N"
+          ],
+          "firstName": [
+            "Nasir"
+          ],
+          "lastName": [
+            "Mahmood"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Engineering, RMIT University 124 La Trobe Street, 3001, Melbourne, Victoria, Australia. Electronic address: nasir.mahmood@rmit.edu.au."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "203"
+      ],
+      "journalIssueId": [
+        "3149211"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Colloids and surfaces. B, Biointerfaces"
+          ],
+          "ISOAbbreviation": [
+            "Colloids Surf B Biointerfaces"
+          ],
+          "medlineAbbreviation": [
+            "Colloids Surf B Biointerfaces"
+          ],
+          "NLMid": [
+            "9315133"
+          ],
+          "ISSN": [
+            "0927-7765"
+          ],
+          "ESSN": [
+            "1873-4367"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "111746"
+  ],
+  "abstractText": [
+    "Harvesting the low molecular weight (LMW) proteins from the cellular exudates is a big challenge for early disease detection. Here, we introduce a unique probe composed of surface-functionalized Fe<sub>2</sub>C NPs with different functional groups to harvest, identify and profile differentially expressed biomarker proteins. Three different functionalization of Fe<sub>2</sub>C NPs with Fe<sub>2</sub>C@NH<sub>2,</sub> Fe<sub>2</sub>C@COOH and Fe<sub>2</sub>C@PEG enabled to harvest 119 differentially expressed proteins from HeLa cell exudates. Among these proteins, 57 were LMW which 82.46 % were up-regulated and 17.54 % were down-regulated. The Fe<sub>2</sub>C@NH<sub>2</sub> were able to separate 60S ribosomal proteins L7a, and L11, and leucine-rich repeat-containing protein 59. These proteins play a vital role in the maturation of large subunit ribosomal ribonucleic acid, mRNA splicing via spliceosome and cancer cell inhibitor, respectively. While, Fe<sub>2</sub>C@COOH identifies the 60S ribosomal protein types L7, 40S ribosomal protein S11, and 60S ribosomal protein L24. These proteins were important for large ribosomal subunit biogenesis, translational initiation, and assembly of large subunit precursor of pre-ribosome. Finally, the Fe<sub>2</sub>C@PEG extracted 40S ribosomal protein S2, splicing factor, arginine/serine-rich and 40S ribosomal protein S4, X isoform which were responsible for nonsense-mediated decay, oligodendrocyte differentiation and multicellular organism development. Thus, these results help us in defining oncogenic biomarkers for early disease detection."
+  ],
+  "affiliation": [
+    "College of Chemistry and Chemical Engineering, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, China; Department of Biotechnology, The Institute of Biochemistry, Biotechnology and Bioinformatics, The Islamia University, Bahawalpur, 63100, Pakistan. Electronic address: murtaza@iub.edu.pk."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarkers",
+        "Early Disease Detection",
+        "Proteome Harvesting",
+        "Iron Carbide",
+        "Functionalized Particles"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.colsurfb.2021.111746"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-11"
+  ],
+  "firstIndexDate": [
+    "2021-04-12"
+  ],
+  "dateOfRevision": [
+    "2021-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-06"
+  ],
+  "firstPublicationDate": [
+    "2021-04-06"
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": [
+    "33830386"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33830386"
+  ],
+  "doi": [
+    "10.1007/s10529-021-03082-5"
+  ],
+  "title": [
+    "Efficient strategies to enhance plasmid stability for fermentation of recombinant Escherichia coli harboring tyrosine phenol lyase."
+  ],
+  "authorString": [
+    "Tang XL, Hu WY, Wang ZC, Zheng RC, Zheng YG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang XL"
+          ],
+          "firstName": [
+            "Xiao-Ling"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "XL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu WY"
+          ],
+          "firstName": [
+            "Wen-Ye"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang ZC"
+          ],
+          "firstName": [
+            "Zhi-Chao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "ZC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng RC"
+          ],
+          "firstName": [
+            "Ren-Chao"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9682-1759",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China. zhengrc@zjut.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China. zhengrc@zjut.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng YG"
+          ],
+          "firstName": [
+            "Yu-Guo"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "YG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9682-1759",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3144559"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology letters"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Lett"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Lett"
+          ],
+          "NLMid": [
+            "8008051"
+          ],
+          "ISSN": [
+            "0141-5492"
+          ],
+          "ESSN": [
+            "1573-6776"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<h4>Objective</h4>To solve the bottleneck of plasmid instability during microbial fermentation of L-DOPA with recombinant Escherichia coli expressing heterologous tyrosine phenol lyase.<h4>Results</h4>The tyrosine phenol lyase from Fusobacterium nucleatum was constitutively expressed in E. coli and a fed-batch fermentation process with temperature down-shift cultivation was performed. Efficient strategies including replacing the original ampicillin resistance gene, as well as inserting cer site that is active for resolving plasmid multimers were applied. As a result, the plasmid stability was increased. The co-use of cer site on plasmid and kanamycin in culture medium resulted in proportion of plasmid containing cells maintained at 100% after fermentation for 35 h. The specific activity of tyrosine phenol lyase reached 1493 U/g dcw, while the volumetric activity increased from 2943 to 14,408 U/L for L-DOPA biosynthesis.<h4>Conclusions</h4>The established strategies for plasmid stability is not only promoted the applicability of the recombinant cells for L-DOPA production, but also provides important guidance for industrial fermentation with improved microbial productivity."
+  ],
+  "affiliation": [
+    "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31900912"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fed-batch fermentation",
+        "Plasmid stability",
+        "Tyrosine phenol lyase",
+        "Temperature Down-shift Cultivation",
+        "Cis-acting Plasmid Site"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10529-021-03082-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-08"
+  ],
+  "firstIndexDate": [
+    "2021-04-09"
+  ],
+  "dateOfRevision": [
+    "2021-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-08"
+  ],
+  "firstPublicationDate": [
+    "2021-04-08"
+  ]
+}

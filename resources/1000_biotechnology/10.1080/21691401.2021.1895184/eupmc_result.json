@@ -1,0 +1,335 @@
+{
+  "id": [
+    "33739906"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33739906"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1895184"
+  ],
+  "title": [
+    "Nanodelivery of triamcinolone acetonide with PLGA-chitosan nanoparticles for the treatment of ocular inflammation."
+  ],
+  "authorString": [
+    "Xing Y, Zhu L, Zhang K, Li T, Huang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xing Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ophthalmology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Lijuan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ophthalmology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang K"
+          ],
+          "firstName": [
+            "Ke"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ophthalmology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li T"
+          ],
+          "firstName": [
+            "Teng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shaohua"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Ophthalmology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "308-316"
+  ],
+  "abstractText": [
+    "Triamcinolone acetonide (TA) is widely indicated in the treatment of several ocular disorders, but the free drug suspension limits its clinical benefits and commercial compositions cause adverse ocular effects. In this study, TA was formulated in poly(d,l-lactide-co-glycolide) (PLGA)-chitosan (PLC) nanoparticles (NPs) for the treatment of ocular inflammatory diseases. TA-loaded PLC NPs exhibited excellent anti-inflammatory activity against human corneal epithelial (HCE) cells and significantly reduced the secretion of interleukin (IL)-6 in tumour necrosis factor (TNF)-α activated cells. In a rabbit model, TA-loaded PLC NPs did not show any typical clinical signs of eye inflammation and significantly alleviated inflammatory signs, compared with free TA suspension, at 24 h after a single dose. TA-loaded PLC NPs exhibited a greater aqueous humour transparency (%AHT), compared with that of normal saline (NS) or free TA suspension, indicating reduction in anterior chamber fogginess. Pharmacokinetic analysis of rabbit eyes revealed that TA-loaded PLC NPs peaked at 6 h. Substantial concentrations of TA were observed until 24 h, indicating the superiority of this PLC-based nanocarrier system. Overall, PLC-based NP formulations offer a new approach for the treatment of ocular inflammatory diseases."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chitosan",
+        "Inflammation",
+        "Nanoparticles",
+        "PLGA",
+        "Cataracts",
+        "Ocular Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1895184"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-19"
+  ],
+  "firstIndexDate": [
+    "2021-03-20"
+  ],
+  "dateOfRevision": [
+    "2021-03-22"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

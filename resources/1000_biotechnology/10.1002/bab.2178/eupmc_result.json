@@ -1,0 +1,298 @@
+{
+  "id": [
+    "33932249"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33932249"
+  ],
+  "doi": [
+    "10.1002/bab.2178"
+  ],
+  "title": [
+    "Hyaluronic acid-graphene quantum dot nanocomposite: Potential target drug delivery and cancer cell imaging."
+  ],
+  "authorString": [
+    "Vahedi N, Tabandeh F, Mahmoudifard M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vahedi N"
+          ],
+          "firstName": [
+            "Nasrin"
+          ],
+          "lastName": [
+            "Vahedi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tabandeh F"
+          ],
+          "firstName": [
+            "Fatemeh"
+          ],
+          "lastName": [
+            "Tabandeh"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahmoudifard M"
+          ],
+          "firstName": [
+            "Matin"
+          ],
+          "lastName": [
+            "Mahmoudifard"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2564-5983",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2564-5983",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161805"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and applied biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Appl Biochem"
+          ],
+          "NLMid": [
+            "8609465"
+          ],
+          "ISSN": [
+            "0885-4513"
+          ],
+          "ESSN": [
+            "1470-8744"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Nowadays, the use of nanoparticle-based drug delivery systems has received much more attention. In this regard, here, graphene quantum dots (GQD) were used as drug carriers as well as imaging agents for cancer cells. In order to optimize the dose of the drug and reduce its side effects for healthy cells, hyaluronic acid was decorated on the surface of GQD to target cancer cells. The morphology and size of the synthesized nanoparticles alone and conjugated with hyaluronic acid were investigated using scanning electron microscopy (SEM) and transmission electron microscopy (TEM); TEM images revealed a particles size of ∼5.67 and ∼8.69 nm, respectively. In the presence of 1-ethyl-3-[3(dimethylamino)propyl]carbodiimide hydrochloride/N-hydroxysuccinimide (EDC/NHS), hyaluronic acid was bounded to dopamine hydrochloride and was prepared to react with GQD. After synthesis of graphene quantum dot-hyaluronic acid nanocomposite, curcumin (CUR) as a drug model was loaded on the synthesized nanocarriers, and its loading percentage was measured. The results showed that 98.02% of the drug was loaded on the nanocarriers. Also, the conjugation of each agent on the nanocarrier was approved by photoluminescence spectroscopy, Fourier transform infrared spectroscopy (FTIR), and UV-visible absorption techniques, and the results showed that the reactions were performed correctly. The effect of GQD, graphene quantum dot-hyaluronic acid, CUR, graphene quantum dot-hyaluronic acid-CUR on the viability of HeLa and L929 cells was evaluated by the MTT test. The results showed that the synthesized nanocarrier is completely biocompatible, and the drug nanocarriers reduce HeLa cell viability significantly due to the mediation of hyaluronic acid-CD44 for drug cell uptake. Simultaneously with drug delivery, the other goal of these nanocarriers is to image cancer cells by emitting fluorescent light. Fluorescent microscopy showed that these nanocarriers were adsorbed on HeLa cells, unlike L929 cells."
+  ],
+  "affiliation": [
+    "Department of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hyaluronic acid",
+        "CD44",
+        "Target Drug Delivery",
+        "Graphene Quantum Dots",
+        "Cancer Cell Imaging"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bab.2178"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-01"
+  ],
+  "firstIndexDate": [
+    "2021-05-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-01"
+  ],
+  "firstPublicationDate": [
+    "2021-05-01"
+  ]
+}

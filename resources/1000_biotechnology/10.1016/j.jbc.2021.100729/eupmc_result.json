@@ -1,0 +1,357 @@
+{
+  "id": [
+    "33933446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33933446"
+  ],
+  "doi": [
+    "10.1016/j.jbc.2021.100729"
+  ],
+  "title": [
+    "Calcium-dependent and -independent lipid transfer mediated by tricalbins in yeast."
+  ],
+  "authorString": [
+    "Qian T, Li C, He R, Wan C, Liu Y, Yu H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qian T"
+          ],
+          "firstName": [
+            "Tiantian"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chenlu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He R"
+          ],
+          "firstName": [
+            "Ruyue"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wan C"
+          ],
+          "firstName": [
+            "Chun"
+          ],
+          "lastName": [
+            "Wan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular, Cellular and Developmental Biology, University of Colorado, Boulder, CO, 80309, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yinghui"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China. Electronic address: yinghuiliu@njnu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Haijia"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China. Electronic address: yuhaijia@njnu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3145994"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of biological chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Biol Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Biol Chem"
+          ],
+          "NLMid": [
+            "2985121R"
+          ],
+          "ISSN": [
+            "0021-9258"
+          ],
+          "ESSN": [
+            "1083-351X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "100729"
+  ],
+  "abstractText": [
+    "Membrane contact sites (MCSs) formed between the endoplasmic reticulum (ER) and the plasma membrane (PM) provide a platform for non-vesicular lipid exchange. The ER-anchored tricalbins (Tcb1, Tcb2, and Tcb3) are critical tethering factors at ER-PM MCSs in yeast. Tricalbins possess a synaptotagmin-like mitochondrial-lipid-binding protein (SMP) domain and multiple Ca<sup>2+</sup>-binding C2 domains. Although tricalbins have been suggested to be involved in lipid exchange at the ER-PM MCSs, it remains unclear whether they directly mediate lipid transport. Here, using in vitro lipid transfer assays, we discovered that tricalbins are capable of transferring phospholipids between membranes. Unexpectedly, while its lipid transfer activity was markedly elevated by Ca<sup>2+</sup>, Tcb3 constitutively transferred lipids even in the absence of Ca<sup>2+</sup>. The stimulatory activity of Ca<sup>2+</sup> on Tcb3 required intact Ca<sup>2+</sup>-binding sites on both the C2C and C2D domains of Tcb3, while Ca<sup>2+</sup>-independent lipid transport was mediated by the SMP domain that transferred lipids via direct interactions with phosphatidylserine and other negatively charged lipid molecules. These findings establish tricalbins as lipid transfer proteins, and reveal Ca<sup>2+</sup>-dependent and -independent lipid transfer activities mediated by these tricalbins, providing new insights into their mechanism in maintaining PM integrity at ER-PM MCSs."
+  ],
+  "affiliation": [
+    "Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Endoplasmic reticulum",
+        "Plasma membrane",
+        "SMP",
+        "Lipid Transfer",
+        "Membrane Contact Sites",
+        "Tricalbin"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbc.2021.100729"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-02"
+  ],
+  "firstIndexDate": [
+    "2021-05-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

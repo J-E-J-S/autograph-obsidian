@@ -1,0 +1,415 @@
+{
+  "id": [
+    "33864999"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33864999"
+  ],
+  "doi": [
+    "10.1016/j.foodchem.2021.129625"
+  ],
+  "title": [
+    "Development of a defined autochthonous starter through dissecting the seasonal microbiome of broad bean paste."
+  ],
+  "authorString": [
+    "Jia Y, Niu CT, Zheng FY, Liu CF, Wang JJ, Lu ZM, Xu ZH, Li Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jia Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Niu CT"
+          ],
+          "firstName": [
+            "Cheng-Tuo"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng FY"
+          ],
+          "firstName": [
+            "Fei-Yun"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "FY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CF"
+          ],
+          "firstName": [
+            "Chun-Feng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang JJ"
+          ],
+          "firstName": [
+            "Jin-Jing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu ZM"
+          ],
+          "firstName": [
+            "Zhen-Ming"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "ZM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan University, Wuxi 214122, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu ZH"
+          ],
+          "firstName": [
+            "Zheng-Hong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "ZH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China; National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan University, Wuxi 214122, China. Electronic address: zhenghxu@jiangnan.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China; Synergetic Innovation Center of Jiangsu Modern Industrial Fermentation, Jiangnan University, Wuxi 214122, China. Electronic address: liqi@jiangnan.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "357"
+      ],
+      "journalIssueId": [
+        "3152637"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Food Chem"
+          ],
+          "medlineAbbreviation": [
+            "Food Chem"
+          ],
+          "NLMid": [
+            "7702639"
+          ],
+          "ISSN": [
+            "0308-8146"
+          ],
+          "ESSN": [
+            "1873-7072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "129625"
+  ],
+  "abstractText": [
+    "Bean-based fermentation foods are usually ripened in open environment, which would lead to inconsistencies in flavor and quality between batches. The physicochemical metabolism and microbial community of seasonal broad bean paste (BBP) were compared to distinguish discriminant metabolites and unique taxa, as well as their specific reasons for different flavor and quality in this study. Here, we found that environmental variables led to the seasonal distribution of microbiota, and differential microorganisms further contributed to the inconsistency of flavor quality, in which Lactobacillales was responsible for the higher titratable acid and amino acid nitrogen concentration in winter pei, while Saccharomycetales benefited the formation of volatile flavor substances in autumn pei. Additionally, we compared the effect of different combinations of Lactobacillales with Zygosaccharomyces rouxii on the quality of BBP, and found that W. confusa was more suitable for BBP fermentation rather than T. halophilus in terms of sensory characteristics and physicochemical metabolites."
+  ],
+  "affiliation": [
+    "Key Laboratory of Industrial Biotechnology, Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbial community",
+        "Seasonal Variability",
+        "Chinese Broad Bean Paste",
+        "Bioaugmented Co-inoculation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.foodchem.2021.129625"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-17"
+  ],
+  "firstIndexDate": [
+    "2021-04-19"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-20"
+  ],
+  "firstPublicationDate": [
+    "2021-03-20"
+  ]
+}

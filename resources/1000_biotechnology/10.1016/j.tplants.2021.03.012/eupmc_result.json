@@ -1,0 +1,470 @@
+{
+  "id": [
+    "33893049"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33893049"
+  ],
+  "doi": [
+    "10.1016/j.tplants.2021.03.012"
+  ],
+  "title": [
+    "Europe's Farm to Fork Strategy and Its Commitment to Biotechnology and Organic Farming: Conflicting or Complementary Goals?"
+  ],
+  "authorString": [
+    "Purnhagen KP, Clemens S, Eriksson D, Fresco LO, Tosun J, Qaim M, Visser RGF, Weber APM, Wesseler JHH, Zilberman D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Purnhagen KP"
+          ],
+          "firstName": [
+            "Kai P"
+          ],
+          "lastName": [
+            "Purnhagen"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Life Science, Faculty of Law, Research Unit for German and European Food Law, University of Bayreuth, Kulmbach and Bayreuth, Germany. Electronic address: kai.purnhagen@uni-bayreuth.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clemens S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Clemens"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0570-1060",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Life Science, Plant Physiology, University of Bayreuth, Kulmbach and Bayreuth, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Eriksson D"
+          ],
+          "firstName": [
+            "Dennis"
+          ],
+          "lastName": [
+            "Eriksson"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Swedish University of Agricultural Sciences, Alnarp, Sweden."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fresco LO"
+          ],
+          "firstName": [
+            "Louise O"
+          ],
+          "lastName": [
+            "Fresco"
+          ],
+          "initials": [
+            "LO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Wageningen University and Research, Wageningen, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tosun J"
+          ],
+          "firstName": [
+            "Jale"
+          ],
+          "lastName": [
+            "Tosun"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Political Science, Heidelberg University, Heidelberg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qaim M"
+          ],
+          "firstName": [
+            "Matin"
+          ],
+          "lastName": [
+            "Qaim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "International Food Economics and Rural Development, University of Göttingen, Göttingen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Visser RGF"
+          ],
+          "firstName": [
+            "Richard G F"
+          ],
+          "lastName": [
+            "Visser"
+          ],
+          "initials": [
+            "RGF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Plant Breeding, Wageningen University and Research, Wageningen, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weber APM"
+          ],
+          "firstName": [
+            "Andreas P M"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "APM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Plant Biochemistry, Cluster of Excellence on Plant Science (CEPLAS), Heinrich-Heine-University, Düsseldorf, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wesseler JHH"
+          ],
+          "firstName": [
+            "Justus H H"
+          ],
+          "lastName": [
+            "Wesseler"
+          ],
+          "initials": [
+            "JHH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agricultural Economics and Rural Development, Wageningen University, Wageningen, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zilberman D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Zilberman"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Agricultural and Resource Economics, University of California, Berkeley, Berkeley, CA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0570-1060",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3152292"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trends in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Trends Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Trends Plant Sci"
+          ],
+          "NLMid": [
+            "9890299"
+          ],
+          "ISSN": [
+            "1360-1385"
+          ],
+          "ESSN": [
+            "1878-4372"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The European Commission's Farm to Fork (F2F) strategy, under the European Green Deal, acknowledges that innovative techniques, including biotechnology, may play a role in increasing sustainability. At the same time, organic farming will be promoted, and at least 25% of the EU's agricultural land shall be under organic farming by 2030. How can both biotechnology and organic farming be developed and promoted simultaneously to contribute to achieving the Sustainable Development Goals (SDGs)? We illustrate that achieving the SDGs benefits from the inclusion of recent innovations in biotechnology in organic farming. This requires a change in the law. Otherwise, the planned increase of organic production in the F2F strategy may result in less sustainable, not more sustainable, food systems."
+  ],
+  "affiliation": [
+    "Faculty of Life Science, Faculty of Law, Research Unit for German and European Food Law, University of Bayreuth, Kulmbach and Bayreuth, Germany. Electronic address: kai.purnhagen@uni-bayreuth.de."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tplants.2021.03.012"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-24"
+  ],
+  "firstIndexDate": [
+    "2021-04-25"
+  ],
+  "dateOfRevision": [
+    "2021-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": [
+    "33786661"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33786661"
+  ],
+  "doi": [
+    "10.1007/s11274-021-03040-3"
+  ],
+  "title": [
+    "Effect of chlorpyrifos on the earthworm Eudrilus euginae and their gut microbiome by toxicological and metagenomic analysis."
+  ],
+  "authorString": [
+    "Krishnaswamy VG, Jaffar MF, Sridharan R, Ganesh S, Kalidas S, Palanisamy V, Mani K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Krishnaswamy VG"
+          ],
+          "firstName": [
+            "Veena Gayathri"
+          ],
+          "lastName": [
+            "Krishnaswamy"
+          ],
+          "initials": [
+            "VG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3012-8561",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Stella Maris College (Autonomous), Affiliated to University of Madras, Chennai, India. veenagayathri@stellamariscollege.edu.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaffar MF"
+          ],
+          "firstName": [
+            "Mariyam Fathima"
+          ],
+          "lastName": [
+            "Jaffar"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Stella Maris College (Autonomous), Affiliated to University of Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sridharan R"
+          ],
+          "firstName": [
+            "Rajalakshmi"
+          ],
+          "lastName": [
+            "Sridharan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Stella Maris College (Autonomous), Affiliated to University of Madras, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ganesh S"
+          ],
+          "firstName": [
+            "Shruthi"
+          ],
+          "lastName": [
+            "Ganesh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Molecular Medicine and Therapeutics, PSG Institute of Medical Sciences and Research, Coimbatore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kalidas S"
+          ],
+          "firstName": [
+            "Suryasri"
+          ],
+          "lastName": [
+            "Kalidas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Molecular Medicine and Therapeutics, PSG Institute of Medical Sciences and Research, Coimbatore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Palanisamy V"
+          ],
+          "firstName": [
+            "Vignesh"
+          ],
+          "lastName": [
+            "Palanisamy"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, PSG College of Technology, Coimbatore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mani K"
+          ],
+          "firstName": [
+            "Kabilan"
+          ],
+          "lastName": [
+            "Mani"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Molecular Medicine and Therapeutics, PSG Institute of Medical Sciences and Research, Coimbatore, India. kabilan_mani@rediffmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3012-8561",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "3141248"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "World journal of microbiology & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "World J Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "World J Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "9012472"
+          ],
+          "ISSN": [
+            "0959-3993"
+          ],
+          "ESSN": [
+            "1573-0972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "76"
+  ],
+  "abstractText": [
+    "The earthworms are important soil invertebrates and play a crucial role in pedogenesis. The application of pesticides and prolonged exposure to pesticides causes mortality of earthworms apart from profoundly affecting the resident gut microbiome. The microbiome plays a significant effect on the metabolic processes associated with earthworms. The pesticide Chlorpyrifos (CPF) was studied for its toxicity on Eudrilus euginae by toxicity studies. The LC<sub>50</sub> value of filter paper contact test and acute toxicity test was 3.8 mg/mL and 180 mg/kg. The prolonged exposure of earthworms to pesticide on reproductive toxicity resulted in the mortality of earthworms and absence of cocoon formation. Further, the effects of CPF on the whole gut microbiome of E. euginae was analyzed using a long amplicon Nanopore sequencing. Results indicated no fluctuations with Firmicutes and Bacteroidetes, that were found to be dominant at bacterial phyla level while at the genus level, remarkable differences were noticed. Clostridium dominated the earthworm gut prior to CPF exposure while Bacillus dominated after exposure. Similarly, the fungal members such as Ascomycota and Basidiomycota were observed to dominate the gut of earthworm at the phyla level before and after exposure to CPF. In contrast, Clavispora (65%) was the dominant genus before CPF exposure and Taloromyces (42%) dominated after the CPF exposure. Our study demonstrates the effect of CPF on the mortality of E. euginae while the amplicon sequencing established the unique microbiome of the gut in response to the CPF exposure."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Stella Maris College (Autonomous), Affiliated to University of Madras, Chennai, India. veenagayathri@stellamariscollege.edu.in."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/IN/Indo-US/Foldscope/39/2015, 20/03/2018"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of West Bengal"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Toxicity",
+        "chlorpyrifos",
+        "Gut Microbiome",
+        "Lc50",
+        "Nanopore Sequencing",
+        "Eudrilus Euginae"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11274-021-03040-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-31"
+  ],
+  "firstIndexDate": [
+    "2021-04-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-31"
+  ],
+  "firstPublicationDate": [
+    "2021-03-31"
+  ]
+}

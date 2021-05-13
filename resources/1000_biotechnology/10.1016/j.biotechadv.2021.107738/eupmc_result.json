@@ -1,0 +1,358 @@
+{
+  "id": [
+    "33775799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33775799"
+  ],
+  "doi": [
+    "10.1016/j.biotechadv.2021.107738"
+  ],
+  "title": [
+    "Trends in the development of innovative nanobiocatalysts and their application in biocatalytic transformations."
+  ],
+  "authorString": [
+    "Gkantzou E, Chatzikonstantinou AV, Fotiadou R, Giannakopoulou A, Patila M, Stamatis H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gkantzou E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Gkantzou"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chatzikonstantinou AV"
+          ],
+          "firstName": [
+            "Alexandra V"
+          ],
+          "lastName": [
+            "Chatzikonstantinou"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fotiadou R"
+          ],
+          "firstName": [
+            "Renia"
+          ],
+          "lastName": [
+            "Fotiadou"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Giannakopoulou A"
+          ],
+          "firstName": [
+            "Archontoula"
+          ],
+          "lastName": [
+            "Giannakopoulou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Patila M"
+          ],
+          "firstName": [
+            "Michaela"
+          ],
+          "lastName": [
+            "Patila"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece. Electronic address: pstm10345@uoi.gr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stamatis H"
+          ],
+          "firstName": [
+            "Haralambos"
+          ],
+          "lastName": [
+            "Stamatis"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece. Electronic address: hstamati@uoi.gr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3126474"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology advances"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Adv"
+          ],
+          "NLMid": [
+            "8403708"
+          ],
+          "ISSN": [
+            "0734-9750"
+          ],
+          "ESSN": [
+            "1873-1899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "107738"
+  ],
+  "abstractText": [
+    "The ever-growing demand for cost-effective and innocuous biocatalytic transformations has prompted the rational design and development of robust biocatalytic tools. Enzyme immobilization technology lies in the formation of cooperative interactions between the tailored surface of the support and the enzyme of choice, which result in the fabrication of tremendous biocatalytic tools with desirable properties, complying with the current demands even on an industrial level. Different nanoscale materials (organic, inorganic, and green) have attracted great attention as immobilization matrices for single or multi-enzymatic systems. Aiming to unveil the potentialities of nanobiocatalytic systems, we present distinct immobilization strategies and give a thorough insight into the effect of nanosupports specific properties on the biocatalysts' structure and catalytic performance. We also highlight the development of nanobiocatalysts for their incorporation in cascade enzymatic processes and various types of batch and continuous-flow reactor systems. Remarkable emphasis is given on the application of such nanobiocatalytic tools in several biocatalytic transformations including bioremediation processes, biofuel production, and synthesis of bioactive compounds and fine chemicals for the food and pharmaceutical industry."
+  ],
+  "affiliation": [
+    "Laboratory of Biotechnology, Department of Biological Applications and Technology, University of Ioannina, Ioannina, Greece."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotransformation",
+        "Bioreactors",
+        "Enzyme immobilization",
+        "Nanobiocatalyst",
+        "Multi-enzymatic Systems",
+        "Green Nanomaterials"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.biotechadv.2021.107738"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-29"
+  ],
+  "firstIndexDate": [
+    "2021-03-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-26"
+  ],
+  "firstPublicationDate": [
+    "2021-03-26"
+  ]
+}

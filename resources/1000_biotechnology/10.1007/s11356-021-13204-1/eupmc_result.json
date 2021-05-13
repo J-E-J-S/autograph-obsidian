@@ -1,0 +1,397 @@
+{
+  "id": [
+    "33665692"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33665692"
+  ],
+  "doi": [
+    "10.1007/s11356-021-13204-1"
+  ],
+  "title": [
+    "Potential of crude xylano-pectinolytic enzymes in bleaching of rice straw pulp for improving paper quality and reducing toxic effluent load generation."
+  ],
+  "authorString": [
+    "Nagpal R, Bhardwaj NK, Mahajan R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nagpal R"
+          ],
+          "firstName": [
+            "Raksha"
+          ],
+          "lastName": [
+            "Nagpal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Kurukshetra University, Kurukshetra, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhardwaj NK"
+          ],
+          "firstName": [
+            "Nishi K"
+          ],
+          "lastName": [
+            "Bhardwaj"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Avantha Center for Industrial Research and Development, Paper Mill Campus, Yamuna Nagar, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahajan R"
+          ],
+          "firstName": [
+            "Ritu"
+          ],
+          "lastName": [
+            "Mahajan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5737-7090",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Kurukshetra University, Kurukshetra, India. ritupanipat@rediffmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5737-7090",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "28"
+      ],
+      "journalIssueId": [
+        "3141362"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental science and pollution research international"
+          ],
+          "ISOAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "NLMid": [
+            "9441769"
+          ],
+          "ISSN": [
+            "0944-1344"
+          ],
+          "ESSN": [
+            "1614-7499"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "18284-18293"
+  ],
+  "abstractText": [
+    "The objective of this study was to check the potential of crude xylano-pectinolytic enzymes in bleaching of rice straw pulp, in order to reduce the toxic waste load for managing the environmental pollution. The xylano-pectinolytic enzymatic bleaching step for delignification was found to be most effective at pulp consistency 1:10 g/ml, xylanase:pectinase dose of 9:4 IU/ml, pH 8.5 and treatment time 180 min at temperature of 55 °C, and resulted in lowering of kappa number of the rice straw pulp by 15.29%. In subsequent bleaching stages, this enzymatic pre-bleaching treatment also resulted in 30% reduction of active chlorine dioxide dose without any loss of optical properties. Significant improvement in various physical properties of the enzymes treated pulp, tear index (15.43%), breaking length (11.11%), double fold number (25.92%), burst index (9.88%) and viscosity (13.63%), and Gurley porosity (39.86%) was also noticed. This approach resulted in reduction of BOD and COD values by 21.07% and 26.57%, respectively. This is the first study on the use of crude xylano-pectinolytic enzymes for bio-bleaching of rice straw pulp."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Kurukshetra University, Kurukshetra, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT / PR 20438/BCE/8/1220/2016"
+          ],
+          "agency": [
+            "Department of Biotechnology , Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sodium Compounds"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polygalacturonase"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Paper"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Absorbance",
+        "Brightness",
+        "Kappa Number",
+        "Reducing Sugars",
+        "Whiteness",
+        "Yellowness",
+        "Bio-bleaching"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Polygalacturonase"
+          ],
+          "registryNumber": [
+            "EC 3.2.1.15"
+          ]
+        },
+        {
+          "name": [
+            "Sodium Compounds"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11356-021-13204-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2021-03-31"
+  ],
+  "dateOfCreation": [
+    "2021-03-05"
+  ],
+  "firstIndexDate": [
+    "2021-03-06"
+  ],
+  "dateOfRevision": [
+    "2021-03-31"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-04"
+  ],
+  "firstPublicationDate": [
+    "2021-03-04"
+  ]
+}

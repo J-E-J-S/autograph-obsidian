@@ -1,0 +1,322 @@
+{
+  "id": [
+    "33797715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33797715"
+  ],
+  "doi": [
+    "10.1007/s11356-021-13437-0"
+  ],
+  "title": [
+    "Microalgal bio-flocculation: present scenario and prospects for commercialization."
+  ],
+  "authorString": [
+    "Ray A, Banerjee S, Das D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ray A"
+          ],
+          "firstName": [
+            "Ayusmita"
+          ],
+          "lastName": [
+            "Ray"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "P K Sinha Centre for Bioenergy and Renewables, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Banerjee S"
+          ],
+          "firstName": [
+            "Sanjukta"
+          ],
+          "lastName": [
+            "Banerjee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Das D"
+          ],
+          "firstName": [
+            "Debabrata"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1018-5091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "P K Sinha Centre for Bioenergy and Renewables, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India. ddas.iitkgp@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India. ddas.iitkgp@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1018-5091",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143012"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental science and pollution research international"
+          ],
+          "ISOAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Environ Sci Pollut Res Int"
+          ],
+          "NLMid": [
+            "9441769"
+          ],
+          "ISSN": [
+            "0944-1344"
+          ],
+          "ESSN": [
+            "1614-7499"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The need for sustainable production of renewable biofuel has been a global concern in the recent times. Overcoming the tailbacks of the first- and second-generation biofuels, third-generation biofuel using microalgae as feedstock has emerged as a plausible alternative. It has an added advantage of preventing any greenhouse gas (GHG) emissions with simultaneous carbon dioxide sequestration. Dewatering of microalgal culture is one of the many concerns regarding industrial-scale biofuel production. The small size of microalgae and dilute nature of its growth cultures creates huge operational cost during biomass separation, limiting economic feasibility of algae-based fuels. Considering the recovery efficiency, operation economics, technological feasibility and cost-effectiveness, bio-flocculation is a promising method of harvesting. Moreover, advantage of bio-flocculation over other conventional methods is that it does not incur the addition of any external chemical flocculants. This article reviews the current status of bio-flocculation technique for harvesting microalgae at industrial scale. The various microbial strains that can be prospective bioflocculants have been reviewed along with its application and advantages over chemical flocculants. Also, this article proposes that the primary focus of an appropriate harvesting technique should depend on the final utilization of the harvested biomass. This review article attempts to bring forth the beneficial aspects of microbial aided microalgal harvesting with a special attention on genetically modified self-flocculation microalgae."
+  ],
+  "affiliation": [
+    "P K Sinha Centre for Bioenergy and Renewables, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/EB/PANIIT/2014"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India (IN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Harvesting",
+        "Biofuel",
+        "Pilot Study",
+        "Self-flocculation",
+        "Genetically Modified Algae",
+        "Microbial Flocculation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11356-021-13437-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-02"
+  ],
+  "firstIndexDate": [
+    "2021-04-03"
+  ],
+  "dateOfRevision": [
+    "2021-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-02"
+  ],
+  "firstPublicationDate": [
+    "2021-04-02"
+  ]
+}

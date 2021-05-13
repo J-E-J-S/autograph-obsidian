@@ -1,0 +1,335 @@
+{
+  "id": [
+    "33934569"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33934569"
+  ],
+  "doi": [
+    "10.1002/2211-5463.13171"
+  ],
+  "title": [
+    "A Plasmodium falciparum protein tyrosine phosphatase inhibitor identified from the ChEMBL-NTD database blocks parasite growth."
+  ],
+  "authorString": [
+    "Pandey R, Gupta P, Mohmmed A, Malhotra P, Gupta D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pandey R"
+          ],
+          "firstName": [
+            "Rajan"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Translational Bioinformatics Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta P"
+          ],
+          "firstName": [
+            "Priya"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Malaria Biology Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mohmmed A"
+          ],
+          "firstName": [
+            "Asif"
+          ],
+          "lastName": [
+            "Mohmmed"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Parasite Cell Biology Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Malhotra P"
+          ],
+          "firstName": [
+            "Pawan"
+          ],
+          "lastName": [
+            "Malhotra"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Malaria Biology Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta D"
+          ],
+          "firstName": [
+            "Dinesh"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Translational Bioinformatics Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3161749"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "FEBS open bio"
+          ],
+          "ISOAbbreviation": [
+            "FEBS Open Bio"
+          ],
+          "medlineAbbreviation": [
+            "FEBS Open Bio"
+          ],
+          "NLMid": [
+            "101580716"
+          ],
+          "ISSN": [
+            "2211-5463"
+          ],
+          "ESSN": [
+            "2211-5463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Post-translational modifications, especially reversible phosphorylation, are among the most common mechanisms that regulate protein function and biological processes in Plasmodium species. Of the Plasmodium phosphatases, phosphatase of regenerating liver (PfPRL) is secreted and is an essential phosphatase. Here, we expressed PfPRL in a heterologous expression system, and then purified and characterized its phosphatase activity. We found that Novartis_003209, a previously identified inhibitor, inhibited the PfPRL phosphatase activity of recombinant PfPRL and blocked in vitro parasite growth in a dose-dependent manner. Further, in silico docking analysis of Novartis_003209 with all four P. falciparum tyrosine phosphatases (PTP) demonstrated that Novartis_003209 is a Plasmodium PTP inhibitor. Overall, our results identify a scaffold as a potential starting point to design a PTP specific inhibitor."
+  ],
+  "affiliation": [
+    "Translational Bioinformatics Group, International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi, 110067, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plasmodium",
+        "Post-translational modifications",
+        "Phosphatase",
+        "Enzymatic Assay",
+        "Inhibition Assay"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/2211-5463.13171"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-02"
+  ],
+  "firstIndexDate": [
+    "2021-05-03"
+  ],
+  "dateOfRevision": [
+    "2021-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-02"
+  ],
+  "firstPublicationDate": [
+    "2021-05-02"
+  ]
+}

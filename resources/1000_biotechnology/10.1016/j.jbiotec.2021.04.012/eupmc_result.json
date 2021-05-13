@@ -1,0 +1,311 @@
+{
+  "id": [
+    "33940052"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33940052"
+  ],
+  "doi": [
+    "10.1016/j.jbiotec.2021.04.012"
+  ],
+  "title": [
+    "Transfection of miR-31* boosts oxidative phosphorylation metabolism in the mitochondria and enhances recombinant protein production in Chinese hamster ovary cells."
+  ],
+  "authorString": [
+    "Martinez-Lopez JE, Coleman O, Meleady P, Clynes M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martinez-Lopez JE"
+          ],
+          "firstName": [
+            "Jesus E"
+          ],
+          "lastName": [
+            "Martinez-Lopez"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Dublin, D09 NR58, Ireland. Electronic address: martinezlopez.jesus@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coleman O"
+          ],
+          "firstName": [
+            "Orla"
+          ],
+          "lastName": [
+            "Coleman"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Dublin, D09 NR58, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meleady P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Meleady"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Dublin, D09 NR58, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clynes M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Clynes"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Institute for Cellular Biotechnology, Dublin City University, Dublin, D09 NR58, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3145959"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Biotechnol"
+          ],
+          "NLMid": [
+            "8411927"
+          ],
+          "ISSN": [
+            "0168-1656"
+          ],
+          "ESSN": [
+            "1873-4863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "MicroRNAs are increasingly being used to enhance relevant pathways of interest during CHO cell line development and to optimise biopharmaceutical production processes. Previous studies have demonstrated that genetic manipulation of microRNAs has led to the development of highly productive phenotypes by increasing cell density through modifying the cell cycle, extending the culture lifespan by delaying apoptotic mechanisms, or improving the energetic flux by targeting mitochondrial metabolism. Re-programming mitochondrial metabolism has arisen as a potential area of interest due to the potential to decrease the Warburg effect and increase cell specific productivity with significant impact on the manufacture of recombinant therapeutic proteins. In this study, we have demonstrated a role for miR-31* to enhance specific productivity in CHO cells by boosting oxidative phosphorylation in the mitochondria. A detailed analysis of the mitochondrial metabolism revealed that miR-31* transfection increases basal oxygen consumption and spare respiratory capacity that leads to an increase in ATP production. Additionally, a proteomic analysis unveiled a number of potential targets involved in fatty acid metabolism and the TCA cycle, both implicated in mitochondrial metabolism. This data demonstrates a potential role for miR-31* to reprogramme the mitochondrial energetic metabolism and increase recombinant protein production in CHO cells."
+  ],
+  "affiliation": [
+    "National Institute for Cellular Biotechnology, Dublin City University, Dublin, D09 NR58, Ireland. Electronic address: martinezlopez.jesus@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mitochondria",
+        "Metabolism",
+        "Productivity",
+        "Chinese Hamster Ovary (Cho)",
+        "Label-free Lc-ms/ms Proteomics",
+        "Mir-31*"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbiotec.2021.04.012"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-03"
+  ],
+  "firstIndexDate": [
+    "2021-05-04"
+  ],
+  "dateOfRevision": [
+    "2021-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-30"
+  ],
+  "firstPublicationDate": [
+    "2021-04-30"
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": [
+    "33948855"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33948855"
+  ],
+  "doi": [
+    "10.1007/s11033-021-06384-z"
+  ],
+  "title": [
+    "Differentially expressed miR-20, miR-21, miR-100, miR-125a and miR-146a as a potential biomarker for prostate cancer."
+  ],
+  "authorString": [
+    "Damodaran M, Chinambedu Dandapani M, SimonDuraiRaj, SandhyaSundaram, VenkatRamanan S, Ramachandran I, Venkatesan V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Damodaran M"
+          ],
+          "firstName": [
+            "Mohan"
+          ],
+          "lastName": [
+            "Damodaran"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Human Genetics, Sri Ramachandra Institute of Higher Education and Research, Chennai, 600116, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chinambedu Dandapani M"
+          ],
+          "firstName": [
+            "Mohanapriya"
+          ],
+          "lastName": [
+            "Chinambedu Dandapani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Central Research Facility, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "SimonDuraiRaj"
+          ],
+          "lastName": [
+            "SimonDuraiRaj"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "SandhyaSundaram"
+          ],
+          "lastName": [
+            "SandhyaSundaram"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "VenkatRamanan S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "VenkatRamanan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, Sri Ramachandra Institute of Higher Education and Research, Chennai, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramachandran I"
+          ],
+          "firstName": [
+            "Ilangovan"
+          ],
+          "lastName": [
+            "Ramachandran"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Endocrinology, Dr. ALM PG Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai, 600113, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Venkatesan V"
+          ],
+          "firstName": [
+            "Vettriselvi"
+          ],
+          "lastName": [
+            "Venkatesan"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2827-8680",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Human Genetics, Sri Ramachandra Institute of Higher Education and Research, Chennai, 600116, India. vettriselviv@sriramachandra.edu.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2827-8680",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162172"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology reports"
+          ],
+          "ISOAbbreviation": [
+            "Mol Biol Rep"
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Rep"
+          ],
+          "NLMid": [
+            "0403234"
+          ],
+          "ISSN": [
+            "0301-4851"
+          ],
+          "ESSN": [
+            "1573-4978"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Prostate cancer is the leading cause of death among men worldwide. Deregulation of microRNAs has been reported in many cancers. Expression of microRNAs miR-20a-5p, miR-21-5p, miR-100-5p, miR-125a-5p and miR-146a-5p in tissue blocks of histologically confirmed prostate cancer patients compared with BPH patients, to identify potential microRNA biomarker for prostate cancer. MicroRNA was isolated and expression was quantified by qRT-PCR using Taqman Advanced microRNA assay kits. The interactions between the microRNA:target mRNA were predicted by using bioinformatics tools such as miRwalk and miRTargetlink. The experimentally validated targets were analysed using gprofiler to identify their molecular function, biological process and related pathways. The expression analysis revealed that miR-21 and miR-100 were significantly down-regulated whereas miR-125a was up-regulated in prostate cancer patients. Comparative analysis of the expression levels with tumor grading reveal that miR-100 was significantly down-regulated (p < 0.05) in high grade tumor, indicating that miR-100 associated with prostate cancer. ROC analysis revealed that combined analysis of down-regulated miRNAs (miR-21 and miR-100) shown AUC of 0.72 (95% CI 0.65-0.79). The combined analysis of all five miRNAs showed AUC of 0.87 (95% CI 0.81-0.92). The targets prediction analysis revealed several validated targets including BCL2, ROCK1, EGFR, PTEN, MTOR, NAIF1 and VEGFA. Our results provide evidence that combined analysis of all the five miRNAs as a panel can significantly improve the prediction level of the presence of prostate cancer and may be used as a potential diagnostic biomarker."
+  ],
+  "affiliation": [
+    "Department of Human Genetics, Sri Ramachandra Institute of Higher Education and Research, Chennai, 600116, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "6242-P58/RGCB/PMD/DBT/VVSL/2015"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarker",
+        "MicroRNA",
+        "prostate cancer",
+        "Target Enrichment",
+        "Benign Prostate Hyperplasia (Bph)",
+        "Ffpe (Formalin-fixed Paraffin Embedded)",
+        "Roc (Receiver Operating Curve)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11033-021-06384-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-06"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-04"
+  ],
+  "firstPublicationDate": [
+    "2021-05-04"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "id": [
+    "33556301"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33556301"
+  ],
+  "doi": [
+    "10.1080/13880209.2021.1876102"
+  ],
+  "title": [
+    "Alantolactone alleviates collagen-induced arthritis and inhibits Th17 cell differentiation through modulation of STAT3 signalling."
+  ],
+  "authorString": [
+    "Chen HL, Lin SC, Li S, Tang KT, Lin CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen HL"
+          ],
+          "firstName": [
+            "Hsiang-Lai"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Division of Urology, Tung's Taichung MetroHarbor Hospital, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Program in Translational Medicine, National Chung Hsing University, Taichung, Taiwan, ROC."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin SC"
+          ],
+          "firstName": [
+            "Shih Chao"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Bachelor Degree Program in Marine Biotechnology, College of Life Sciences, National Taiwan Ocean University, Keelung, Taiwan, ROC."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shiming"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Chemistry & Chemical Engineering, Hubei Key Laboratory for Processing & Application of Catalytic Materials, Huanggang Normal University, Huanggang, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang KT"
+          ],
+          "firstName": [
+            "Kuo-Tung"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Program in Translational Medicine, National Chung Hsing University, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Faculty of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Allergy, Immunology and Rheumatology, Taichung Veterans General Hospital, Taichung, Taiwan, ROC."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin CC"
+          ],
+          "firstName": [
+            "Chi-Chien"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Program in Translational Medicine, National Chung Hsing University, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Biomedical Science, The iEGG and Animal Biotechnology Center, National Chung-Hsing University, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Medical Research, China Medical University Hospital, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Medical Research, Taichung Veterans General Hospital, Taichung, Taiwan, ROC."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pharmacology, College of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan, ROC."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "59"
+      ],
+      "journalIssueId": [
+        "3080192"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmaceutical biology"
+          ],
+          "ISOAbbreviation": [
+            "Pharm Biol"
+          ],
+          "medlineAbbreviation": [
+            "Pharm Biol"
+          ],
+          "NLMid": [
+            "9812552"
+          ],
+          "ISSN": [
+            "1388-0209"
+          ],
+          "ESSN": [
+            "1744-5116"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "134-145"
+  ],
+  "abstractText": [
+    "<h4>Context</h4>Alantolactone, the bioactive component in <i>Inula helenium</i> L. (Asteraceae), exhibits multiple biological effects.<h4>Objective</h4>We aimed to determine the anti-inflammatory effect of alantolactone in a collagen-induced arthritis (CIA) mouse model and its immunomodulatory effects on Th17 differentiation.<h4>Materials and methods</h4>A CIA mouse model was established with DBA/1 mice randomly divided into four groups (<i>n</i> = 6): healthy, vehicle and two alantolactone-treated groups (25 or 50 mg/kg), followed by oral administration of alantolactone to mice for 21 consecutive days after arthritis onset. The severity of CIA was evaluated by an arthritic scoring system and histopathological examination. Levels of cytokines and anti-CII antibodies as well as percentages of splenic Th17 and Th17 differentiation with or without alantolactone treatments (0.62, 1.2 or 2.5 μM) were detected with ELISA and flow cytometry, respectively. Western blot analysis was used to evaluate intracellular signalling in alantolactone-treated spleen cells.<h4>Results</h4>In CIA mice, alantolactone at 50 mg/kg attenuated RA symptoms, including high arthritis scores, infiltrating inflammatory cells, synovial hyperplasia, bone erosion and levels of the proinflammatory cytokines TNF-α, IL-6 and IL-17A, but not IL-10 in paw tissues. Alantolactone also reduced the number of splenic Th17 cells and the capability of naïve CD4<sup>+</sup> T cells to differentiate into the Th17 subset by downregulating STAT3/RORγt signalling by as early as 24 h of treatment.<h4>Discussion and conclusions</h4>Alantolactone possesses an anti-inflammatory effect that suppresses murine CIA by inhibiting Th17 cell differentiation, suggesting alantolactone is an adjunctive therapeutic candidate to treat rheumatoid arthritis."
+  ],
+  "affiliation": [
+    "Department of Surgery, Division of Urology, Tung's Taichung MetroHarbor Hospital, Taichung, Taiwan, ROC."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "IL-6",
+        "Anti-inflammation",
+        "Bone Erosion",
+        "Il-17a",
+        "Rorγt",
+        "Synovial Hyperplasia",
+        "Inula Helenium L."
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/13880209.2021.1876102"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-08"
+  ],
+  "firstIndexDate": [
+    "2021-02-09"
+  ],
+  "dateOfRevision": [
+    "2021-02-08"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

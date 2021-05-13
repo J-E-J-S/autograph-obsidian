@@ -1,0 +1,430 @@
+{
+  "id": [
+    "33491496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33491496"
+  ],
+  "doi": [
+    "10.1080/21691401.2021.1876718"
+  ],
+  "title": [
+    "Antitumor activities of carboplatin-doxorubicin-ZnO complexes in different human cancer cell lines (breast, cervix uteri, colon, liver and oral) under UV exposition."
+  ],
+  "authorString": [
+    "Pairoj S, Damrongsak P, Damrongsak B, Jinawath N, Kaewkhaw R, Ruttanasirawit C, Leelawattananon T, Locharoenrat K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pairoj S"
+          ],
+          "firstName": [
+            "Suttirak"
+          ],
+          "lastName": [
+            "Pairoj"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Damrongsak P"
+          ],
+          "firstName": [
+            "Pattareeya"
+          ],
+          "lastName": [
+            "Damrongsak"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Damrongsak B"
+          ],
+          "firstName": [
+            "Badin"
+          ],
+          "lastName": [
+            "Damrongsak"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Silpakorn University, Nakornpathom, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jinawath N"
+          ],
+          "firstName": [
+            "Natini"
+          ],
+          "lastName": [
+            "Jinawath"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Program in Translational Medicine, Faculty of Medicine Ramathibodi Hospital, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaewkhaw R"
+          ],
+          "firstName": [
+            "Rossukon"
+          ],
+          "lastName": [
+            "Kaewkhaw"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Program in Translational Medicine, Faculty of Medicine Ramathibodi Hospital, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruttanasirawit C"
+          ],
+          "firstName": [
+            "Chinnapat"
+          ],
+          "lastName": [
+            "Ruttanasirawit"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leelawattananon T"
+          ],
+          "firstName": [
+            "Tanaporn"
+          ],
+          "lastName": [
+            "Leelawattananon"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Locharoenrat K"
+          ],
+          "firstName": [
+            "Kitsakorn"
+          ],
+          "lastName": [
+            "Locharoenrat"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9406-0941",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9406-0941",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "120-135"
+  ],
+  "abstractText": [
+    "This study aimed to examine the pharmacological profiles of multiple chemo drug candidates in systematic circulation to enhance their specific interactions with five human cancer cell lines. ZnO nanoparticles were successfully bound with chemo drugs via physical adsorption. The drug loading capacity was confirmed by FTIR, whereas the loading efficiency was determined via UV-vis spectrometry. The mean hydrodynamic size increased to 69-82 nm after chemo-drug immobilization via non-covalent interaction with ZnO. Among the nine formulated chemo drugs, the carboplatin (CP)-doxorubicin (DOX)-ZnO complex under UV light irradiation exhibited high sensitivity towards human breast adenocarcinoma cells without affecting human keratinocyte immortal cells with an IC<sub>50</sub> of 0.137 µg/mL, whereas the loading capacity and efficiency of CP-DOX-ZnO were 77.81% and 99.05%, respectively. Fluorescence images confirmed that CP-DOX-ZnO using DOX served as a fluorescence enhancer specifically bound onto the cell membranes, which became almost saturated after 24 h incubation. Carboplatin-DOX-ZnO was possibly endocytosed by cancer cells and was selectively internalized into the target cells; thus, free chemo drug was released in the cytoplasm, which induced acute apoptosis. This resulted in complete inhabitation of growth signal of target cancer cells."
+  ],
+  "affiliation": [
+    "Department of Physics, Faculty of Science, Biomedical Physics Research Unit, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antioxidant",
+        "Chemotherapy",
+        "Nanoparticles",
+        "Semiconductor",
+        "tumour",
+        "Zinc oxide"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2021.1876718"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-25"
+  ],
+  "firstIndexDate": [
+    "2021-01-26"
+  ],
+  "dateOfRevision": [
+    "2021-01-25"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

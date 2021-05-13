@@ -1,0 +1,520 @@
+{
+  "id": [
+    "33915105"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33915105"
+  ],
+  "doi": [
+    "10.1016/j.chembiol.2021.04.006"
+  ],
+  "title": [
+    "A synthetic RNA-based biosensor for fructose-1,6-bisphosphate that reports glycolytic flux."
+  ],
+  "authorString": [
+    "Ortega AD, Takhaveev V, Vedelaar SR, Long Y, Mestre-Farràs N, Incarnato D, Ersoy F, Olsen LF, Mayer G, Heinemann M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ortega AD"
+          ],
+          "firstName": [
+            "Alvaro Darío"
+          ],
+          "lastName": [
+            "Ortega"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands; Department of Cell Biology, Faculty of Biology, Complutense University of Madrid, 28040 Madrid, Spain. Electronic address: alvort05@ucm.es."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Takhaveev V"
+          ],
+          "firstName": [
+            "Vakil"
+          ],
+          "lastName": [
+            "Takhaveev"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vedelaar SR"
+          ],
+          "firstName": [
+            "Silke Roelie"
+          ],
+          "lastName": [
+            "Vedelaar"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Long Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Long"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "LIMES Institute, University of Bonn, 53121 Bonn, Germany; Institute of Biochemistry and Molecular Biology, University of Southern Denmark, DK5230 Odense M, Denmark."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mestre-Farràs N"
+          ],
+          "firstName": [
+            "Neus"
+          ],
+          "lastName": [
+            "Mestre-Farràs"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Incarnato D"
+          ],
+          "firstName": [
+            "Danny"
+          ],
+          "lastName": [
+            "Incarnato"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Genetics, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ersoy F"
+          ],
+          "firstName": [
+            "Franziska"
+          ],
+          "lastName": [
+            "Ersoy"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6800-1825",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "LIMES Institute, University of Bonn, 53121 Bonn, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Olsen LF"
+          ],
+          "firstName": [
+            "Lars Folke"
+          ],
+          "lastName": [
+            "Olsen"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7391-2340",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Biochemistry and Molecular Biology, University of Southern Denmark, DK5230 Odense M, Denmark."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mayer G"
+          ],
+          "firstName": [
+            "Günter"
+          ],
+          "lastName": [
+            "Mayer"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "LIMES Institute, University of Bonn, 53121 Bonn, Germany; Center of Aptamer Research & Development, University of Bonn, 53121 Bonn, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Heinemann M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Heinemann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands. Electronic address: m.heinemann@rug.nl."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6800-1825",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7391-2340",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3147420"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell chemical biology"
+          ],
+          "ISOAbbreviation": [
+            "Cell Chem Biol"
+          ],
+          "medlineAbbreviation": [
+            "Cell Chem Biol"
+          ],
+          "NLMid": [
+            "101676030"
+          ],
+          "ISSN": [
+            "2451-9456"
+          ],
+          "ESSN": [
+            "2451-9448"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "RNA-based sensors for intracellular metabolites are a promising solution to the emerging issue of metabolic heterogeneity. However, their development, i.e., the conversion of an aptamer into an in vivo-functional intracellular metabolite sensor, still harbors challenges. Here, we accomplished this for the glycolytic flux-signaling metabolite, fructose-1,6-bisphosphate (FBP). Starting from in vitro selection of an aptamer, we constructed device libraries with a hammerhead ribozyme as actuator. Using high-throughput screening in yeast with fluorescence-activated cell sorting (FACS), next-generation sequencing, and genetic-environmental perturbations to modulate the intracellular FBP levels, we identified a sensor that generates ratiometric fluorescent readout. An abrogated response in sensor mutants and occurrence of two sensor conformations-revealed by RNA structural probing-indicated in vivo riboswitching activity. Microscopy showed that the sensor can differentiate cells with different glycolytic fluxes within yeast populations, opening research avenues into metabolic heterogeneity. We demonstrate the possibility to generate RNA-based sensors for intracellular metabolites for which no natural metabolite-binding RNA element exits."
+  ],
+  "affiliation": [
+    "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands; Department of Cell Biology, Faculty of Biology, Complutense University of Madrid, 28040 Madrid, Spain. Electronic address: alvort05@ucm.es."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RNA",
+        "Ribozyme",
+        "Biosensor",
+        "Screening",
+        "Aptamer",
+        "glycolysis",
+        "Fructose-1,6-bisphosphate",
+        "Metabolic Heterogeneity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.chembiol.2021.04.006"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR224533"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-29"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-04-22"
+  ]
+}

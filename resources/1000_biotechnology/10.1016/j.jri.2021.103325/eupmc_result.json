@@ -1,0 +1,333 @@
+{
+  "id": [
+    "33930667"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33930667"
+  ],
+  "doi": [
+    "10.1016/j.jri.2021.103325"
+  ],
+  "title": [
+    "Evaluation of multi-epitope recombinant protein as a candidate for a contraceptive vaccine."
+  ],
+  "authorString": [
+    "Mortazavi B, Allahyari Fard N, Karkhane AA, Shokrpoor S, Heidari F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mortazavi B"
+          ],
+          "firstName": [
+            "Behnam"
+          ],
+          "lastName": [
+            "Mortazavi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Faculty of Agriculture Biotechnology, National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Allahyari Fard N"
+          ],
+          "firstName": [
+            "Najaf"
+          ],
+          "lastName": [
+            "Allahyari Fard"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Systems Biotechnology, Faculty of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karkhane AA"
+          ],
+          "firstName": [
+            "Ali Asghar"
+          ],
+          "lastName": [
+            "Karkhane"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Systems Biotechnology, Faculty of Industrial and Environmental Biotechnology, National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shokrpoor S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Shokrpoor"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Faculty of Veterinary Medicine, University of Tehran, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Heidari F"
+          ],
+          "firstName": [
+            "Farid"
+          ],
+          "lastName": [
+            "Heidari"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Animal Biotechnology, Faculty of Agriculture Biotechnology, National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran. Electronic address: heidari@nigeb.ac.ir."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "145"
+      ],
+      "journalIssueId": [
+        "3151459"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of reproductive immunology"
+          ],
+          "ISOAbbreviation": [
+            "J Reprod Immunol"
+          ],
+          "medlineAbbreviation": [
+            "J Reprod Immunol"
+          ],
+          "NLMid": [
+            "8001906"
+          ],
+          "ISSN": [
+            "0165-0378"
+          ],
+          "ESSN": [
+            "1872-7603"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "103325"
+  ],
+  "abstractText": [
+    "Contraceptive vaccine (CV) is a valuable, non-invasive, and alternative method for purposeful contraception. Sperm antigens are useful targets for producing CVs due to their specialized expression in sperm. In this study, a recombinant protein containing three main sperm epitopes (IZUMO1, SACA3, and PH-20) was designed and evaluated as CV to control fertility in male mice. The chimeric recombinant protein was expressed and purified in E. coli. Male mice were immunized by 100 μg purified protein and sera were collected to assess IgG antibodies. Evaluating the reproductive performance, immunized male mice mated with normal-fertile female mice and mating rate and the number of newborns was studied. Immunized mice were sacrificed and necropsy and histopathology studies were conducted. The results revealed that the designed chimeric protein stimulated the immune system of the mice effectively. The level of IgG antibody was significantly higher in vaccinated mouse rather than control mouse. Eighty percent of the vaccinated mice became infertile and in the remaining ones, the number of children decreased to 4-6 offspring instead of 10-12 in normal mice. Histopathological studies showed that no organs including heart, brain, lung, liver, kidney and intestine were damaged. However, Normal spermatogenesis has been disrupted and necrotic spermatogonia cells were reported in Seminiferous tubules. We concluded that the designed chimeric protein containing IZUMO1, SACA3, and PH-20 epitopes can stimulate the immune system and cause male contraception without any side effects."
+  ],
+  "affiliation": [
+    "Department of Animal Biotechnology, Faculty of Agriculture Biotechnology, National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sperm antigen",
+        "anti-sperm antibody",
+        "contraceptive vaccine",
+        "Multi-epitope Vaccine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jri.2021.103325"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-30"
+  ],
+  "firstIndexDate": [
+    "2021-05-01"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-15"
+  ],
+  "firstPublicationDate": [
+    "2021-04-15"
+  ]
+}

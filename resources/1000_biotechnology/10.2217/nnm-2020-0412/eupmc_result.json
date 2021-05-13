@@ -1,0 +1,349 @@
+{
+  "id": [
+    "33970666"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970666"
+  ],
+  "doi": [
+    "10.2217/nnm-2020-0412"
+  ],
+  "title": [
+    "Recruitment of solid lipid nanoparticles for the delivery of CRISPR/Cas9: primary evaluation of anticancer gene editing."
+  ],
+  "authorString": [
+    "Akbaba H, Erel-Akbaba G, Senturk S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Akbaba H"
+          ],
+          "firstName": [
+            "Hasan"
+          ],
+          "lastName": [
+            "Akbaba"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9273-6346",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy, Ege University, Izmir, 35100, Turkey."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Erel-Akbaba G"
+          ],
+          "firstName": [
+            "Gulsah"
+          ],
+          "lastName": [
+            "Erel-Akbaba"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3287-5277",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy, Izmir Katip Celebi University, Izmir, 35620, Turkey."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Senturk S"
+          ],
+          "firstName": [
+            "Serif"
+          ],
+          "lastName": [
+            "Senturk"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3963-2294",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Izmir Biomedicine & Genome Center, Izmir, 35340, Turkey."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Genome Sciences & Molecular Biotechnology, Izmir International Biomedicine & Genome Institute, Dokuz Eylul University, Izmir, 35340, Turkey."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9273-6346",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3287-5277",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3963-2294",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3164282"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomedicine (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomedicine (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomedicine (Lond)"
+          ],
+          "NLMid": [
+            "101278111"
+          ],
+          "ISSN": [
+            "1743-5889"
+          ],
+          "ESSN": [
+            "1748-6963"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "<b>Aim:</b> The CRISPR/Cas9 system is a promising gene-editing tool for various anticancer therapies; however, development of a biocompatible, nonviral and efficient delivery of CRISPR/Cas9 expression systems remains a challenge. <b>Materials & methods:</b> Solid lipid nanoparticles (SLNs) were produced based on pseudo and 3D ternary plots. Obtained SLNs and their complexes with PX458 plasmid DNA were characterized and evaluated in terms of cytotoxicity and transfection efficiency. <b>Results:</b> SLNs were found to be nanosized, monodispersed, stable and nontoxic. Furthermore, they revealed similar transfection efficiency as the positive control. <b>Conclusion:</b> Overall, we have achieved a good SLN basis for CRISPR/Cas9 delivery and have the potential to produce SLNs with targeted anticancer properties by modifying production parameters and components to facilitate translating CRISPR/Cas9 into preclinical studies."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy, Ege University, Izmir, 35100, Turkey."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "TÜBİTAK-SBAG-218S682"
+          ],
+          "agency": [
+            "Türkiye Bilimsel ve Teknolojik Araştirma Kurumu"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transfection",
+        "Gene delivery",
+        "Solid Lipid Nanoparticle",
+        "Crispr/cas9",
+        "Px458",
+        "3D Ternary Plot"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2217/nnm-2020-0412"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

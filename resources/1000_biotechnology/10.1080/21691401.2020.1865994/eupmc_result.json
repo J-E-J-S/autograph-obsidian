@@ -1,0 +1,416 @@
+{
+  "id": [
+    "33459039"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33459039"
+  ],
+  "doi": [
+    "10.1080/21691401.2020.1865994"
+  ],
+  "title": [
+    "Construction of a immune-associated genes based prognostic signature in bladder cancer."
+  ],
+  "authorString": [
+    "Shen C, Wang L, Yang X, Liu J, Yang Q, Ding X, Niu H, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shen C"
+          ],
+          "firstName": [
+            "Chengquan"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Urology and Andrology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "XueCheng"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Research Management and International Cooperation, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Q"
+          ],
+          "firstName": [
+            "Qingbo"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Niu H"
+          ],
+          "firstName": [
+            "Haitao"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yonghua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "3076452"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Artificial cells, nanomedicine, and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Artif Cells Nanomed Biotechnol"
+          ],
+          "NLMid": [
+            "101594777"
+          ],
+          "ISSN": [
+            "2169-1401"
+          ],
+          "ESSN": [
+            "2169-141X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "108-119"
+  ],
+  "abstractText": [
+    "Current studies indicated that immune-associated genes (IAGs) have important roles in the occurrence and development of bladder cancer (BC). The current work aims to identify the prognostic values of IAGs in BC and establish a prognostic signature based on IAGs. RNA sequencing data and protein expression data were used to identify differentially expressed IAGs in BC. An IAGs based signature was further constructed and the prognostic and predictive values of the signature were evaluated by survival analysis and nomogram. RNA isolation and reverse transcription-quantitative PCR (RT-qPCR) were further performed to investigate the expression levels of IAGs in BC cells and were used to explore the relationship between IAGs and M2 tumour-associated macrophages (TAMs) secreted transforming growth factor-β1 (TGF-β1) in BC cells. We selected five IAGs to develop an IAGs signature model, which were significantly related to survival outcomes of BC patients. RT-qPCR showed that five IAGs were significantly differentially expressed and three IAGs were positively correlated with M2 TAMs secreted TGF-β1 in T24 cells. We identified and validated an IAGs based signature to predict the prognosis of BC patients. Furthermore, M2 TAMs may promote the expression of IAGs in BC via the TGF-β1 signalling pathway."
+  ],
+  "affiliation": [
+    "Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immune",
+        "Bladder cancer",
+        "TGF-β1",
+        "Signature",
+        "Lc–ms/ms"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21691401.2020.1865994"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-01-18"
+  ],
+  "firstIndexDate": [
+    "2021-01-19"
+  ],
+  "dateOfRevision": [
+    "2021-01-18"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

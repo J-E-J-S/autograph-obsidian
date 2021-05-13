@@ -1,0 +1,420 @@
+{
+  "id": [
+    "33756272"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33756272"
+  ],
+  "doi": [
+    "10.1016/j.tice.2021.101527"
+  ],
+  "title": [
+    "An update on stem cells applications in burn wound healing."
+  ],
+  "authorString": [
+    "Ullah S, Mansoor S, Ayub A, Ejaz M, Zafar H, Feroz F, Khan A, Ali M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ullah S"
+          ],
+          "firstName": [
+            "Sana"
+          ],
+          "lastName": [
+            "Ullah"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: qazisana55@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mansoor S"
+          ],
+          "firstName": [
+            "Sumaiya"
+          ],
+          "lastName": [
+            "Mansoor"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: sumaiyamansoor@hotmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ayub A"
+          ],
+          "firstName": [
+            "Aaima"
+          ],
+          "lastName": [
+            "Ayub"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: aaima2698@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ejaz M"
+          ],
+          "firstName": [
+            "Momina"
+          ],
+          "lastName": [
+            "Ejaz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: mominaejaz5811@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zafar H"
+          ],
+          "firstName": [
+            "Hajrah"
+          ],
+          "lastName": [
+            "Zafar"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: hajrahzafar2@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feroz F"
+          ],
+          "firstName": [
+            "Fizza"
+          ],
+          "lastName": [
+            "Feroz"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: fizzaferoz16@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan A"
+          ],
+          "firstName": [
+            "Ayyaz"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: ayyazkhan28@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ali M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: muhammad.ali@qau.edu.pk."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "72"
+      ],
+      "journalIssueId": [
+        "3137510"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Tissue & cell"
+          ],
+          "ISOAbbreviation": [
+            "Tissue Cell"
+          ],
+          "medlineAbbreviation": [
+            "Tissue Cell"
+          ],
+          "NLMid": [
+            "0214745"
+          ],
+          "ISSN": [
+            "0040-8166"
+          ],
+          "ESSN": [
+            "1532-3072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "101527"
+  ],
+  "abstractText": [
+    "Burn wounds have proven to be capable of having a long lasting devastating effects on human body. Conventional therapeutic approaches are not up to the mark as they are unable to completely heal the burn wound easily and effectively. Major pitfalls of these treatments include hypertrophic scarring, contracture and necrosis. Presence of these limitations in the current therapies necessitate the search for a better and more efficient cure. Regenerative potency of stem cells in burn wound healing outweigh the traditional treatment procedures. The use of multiple kinds of stem cells are gaining interest due to their enhanced healing efficiency. Distinctions of stem cells include better and faster burn wound healing, decreased inflammation levels, less scar progression and fibrosis on site. In this review, we have discussed the wound-healing process, present methods used for stem cells administration, methods of enhancing stem cells potency and human studies. Pre-clinical and the clinical studies focused on the treatment of thermal and radiation burns using stem cells from 2003 till the present time have been enlisted. Studies shows that the use of stem cells on burn wounds, whether alone or by the help of a scaffold significantly improves healing. Homing of the stem cells at the wound site results in the re-epithelialization, angiogenesis, granulation, inhibition of apoptosis, and regeneration of skin appendages together with reduced infection rate in the human studies. Several studies on animals have shown that stem cells can effectively promote wound healing. Although more research is needed to find out the effectiveness of this treatment in patients with severe burn wounds."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Quaid-i-Azam University Islamabad, 45320, Pakistan. Electronic address: qazisana55@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Regeneration",
+        "Angiogenesis",
+        "Granulation",
+        "Burn",
+        "Wound healing",
+        "Scaffold",
+        "Stem Cells",
+        "Scarring"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tice.2021.101527"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-23"
+  ],
+  "firstIndexDate": [
+    "2021-03-24"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

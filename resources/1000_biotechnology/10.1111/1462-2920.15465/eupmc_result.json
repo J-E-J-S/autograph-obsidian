@@ -1,0 +1,526 @@
+{
+  "id": [
+    "33723900"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33723900"
+  ],
+  "doi": [
+    "10.1111/1462-2920.15465"
+  ],
+  "title": [
+    "Interaction between the cell walls of microalgal host and fungal carbohydrate-activate enzymes is essential for the pathogenic parasitism process."
+  ],
+  "authorString": [
+    "Lin J, Yan H, Zhao L, Li Y, Nahidian B, Zhu M, Hu Q, Han D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3346-5977",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Poyang Lake Eco-economy Research Center, Jiujiang University, Jiujiang, 332005, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Hailong"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 100049, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yanhua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nahidian B"
+          ],
+          "firstName": [
+            "Bahareh"
+          ],
+          "lastName": [
+            "Nahidian"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu M"
+          ],
+          "firstName": [
+            "Mianmian"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 100049, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Q"
+          ],
+          "firstName": [
+            "Qiang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8359-5764",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute for Advanced Study, Shenzhen University, Shenzhen, 51806, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory for Algal Biology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han D"
+          ],
+          "firstName": [
+            "Danxiang"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4166-9299",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory for Algal Biology, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8359-5764",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3346-5977",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4166-9299",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3120933"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Environ Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Environ Microbiol"
+          ],
+          "NLMid": [
+            "100883692"
+          ],
+          "ISSN": [
+            "1462-2912"
+          ],
+          "ESSN": [
+            "1462-2920"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Fungi can parasitize microalgae, exerting profound impacts on both the aquatic ecosystems and microalgal mass cultures. In this study, the unicellular green alga Haematococcus pluvialis and the blastocladialean fungus Paraphysoderma sedebokerense were used as a model system to address the mechanisms underlying the fungal parasitism on the algal host. High-throughput metabolic assay indicated that P. sedebokerense can utilize several carbon sources with a preference for mannose, glucose and their oligosaccharides, which was compatible with the profile of the host algal cell walls enriched with glucan and mannan. The results of dual transcriptomics analysis suggested that P. sedebokerense can upregulate a large number of putative carbohydrate-activate enzymes (CAZymes) encoding genes, including those coding for the endo-1,4-β-glucanase and endo-1,4-β-mannanase during the infection process. The cell walls of H. pluvialis can be decomposed by both P. sedebokerense and commercial CAZymes (e.g. cellulase and endo-1,4-β-mannanase) to produce mannooligomers, while several putative parasitism-related genes of P. sedebokerense can be in turn upregulated by mannooligomers. In addition, the parasitism can be blocked by interfering the selected CAZymes including glucanase, mannanase and lysozyme with the specific inhibitors, which provided a framework for screening suitable compounds for pathogen mitigation in algal mass culture."
+  ],
+  "affiliation": [
+    "Center for Microalgal Biotechnology and Biofuels, Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31570304"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31700359"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017FB18"
+          ],
+          "agency": [
+            "State Key Laboratory of Freshwater Ecology and Biotechnology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1462-2920.15465"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-16"
+  ],
+  "firstIndexDate": [
+    "2021-03-17"
+  ],
+  "dateOfRevision": [
+    "2021-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-15"
+  ],
+  "firstPublicationDate": [
+    "2021-03-15"
+  ]
+}

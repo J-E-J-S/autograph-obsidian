@@ -1,0 +1,360 @@
+{
+  "id": [
+    "33812186"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33812186"
+  ],
+  "doi": [
+    "10.1016/j.foodchem.2021.129659"
+  ],
+  "title": [
+    "Colorimetric aptasensor for on-site detection of oxytetracycline antibiotic in milk."
+  ],
+  "authorString": [
+    "Birader K, Kumar P, Tammineni Y, Barla JA, Reddy S, Suman P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Birader K"
+          ],
+          "firstName": [
+            "Komal"
+          ],
+          "lastName": [
+            "Birader"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar P"
+          ],
+          "firstName": [
+            "Pankaj"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tammineni Y"
+          ],
+          "firstName": [
+            "Yathirajarao"
+          ],
+          "lastName": [
+            "Tammineni"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barla JA"
+          ],
+          "firstName": [
+            "Jeannie Alice"
+          ],
+          "lastName": [
+            "Barla"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reddy S"
+          ],
+          "firstName": [
+            "Shashidhar"
+          ],
+          "lastName": [
+            "Reddy"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suman P"
+          ],
+          "firstName": [
+            "Pankaj"
+          ],
+          "lastName": [
+            "Suman"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India. Electronic address: pankajsuman@niab.org.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "356"
+      ],
+      "journalIssueId": [
+        "3168746"
+      ],
+      "dateOfPublication": [
+        "2021 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Food Chem"
+          ],
+          "medlineAbbreviation": [
+            "Food Chem"
+          ],
+          "NLMid": [
+            "7702639"
+          ],
+          "ISSN": [
+            "0308-8146"
+          ],
+          "ESSN": [
+            "1873-7072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "129659"
+  ],
+  "abstractText": [
+    "Oxytetracycline (OTC), one of the largely used antibiotic in veterinary practice has been banned due to its potential side effects. Development of a field applicable and affordable kit to detect OTC will help to eliminate such milk from human consumption. An aptamer has been designed (27 nt; K<sub>d</sub> = 29.2 ± 19.4 nM) through rational truncation. OTC interacts with this aptamer in G rich regions as confirmed by molecular modelling and circular dichroism spectroscopy. To develop a lateral flow based aptasensor, OTC was conjugated with a 7 kDa carrier protein to immobilize onto the nitrocellulose membrane. Using 0.125 µM aptamer-gold conjugate, assay could visually detects upto 5 ng/mL of OTC in spiked milk within 10 mins [Limit of quantitation (LOQ)-0.254 ± 1.62 ng/mL; permissible limit 100 ng/mL]. It showed no cross reactivity with components of milk and data correlated with analysis done through HPLC."
+  ],
+  "affiliation": [
+    "Animal Biotechnology Laboratory, National Institute of Animal Biotechnology Hyderabad, 500032, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytetracycline",
+        "Aptasensor",
+        "Point-of-care Diagnostics",
+        "Lateral Flow Assay",
+        "Truncated Aptamer",
+        "Antibiotic Detection"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.foodchem.2021.129659"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-03"
+  ],
+  "firstIndexDate": [
+    "2021-04-06"
+  ],
+  "dateOfRevision": [
+    "2021-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-23"
+  ],
+  "firstPublicationDate": [
+    "2021-03-23"
+  ]
+}

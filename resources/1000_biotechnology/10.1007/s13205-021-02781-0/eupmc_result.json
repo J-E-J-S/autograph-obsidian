@@ -1,0 +1,371 @@
+{
+  "id": [
+    "33968575"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33968575"
+  ],
+  "doi": [
+    "10.1007/s13205-021-02781-0"
+  ],
+  "title": [
+    "Production of bioconcrete with improved durability properties using Alkaliphilic Egyptian bacteria."
+  ],
+  "authorString": [
+    "Ahmed SO, Nasser AA, Abbas RN, Kamal MM, Zahran MA, Sorour NM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ahmed SO"
+          ],
+          "firstName": [
+            "Shiren O"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "SO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Civil Engineering, Delta Higher Institute for Engineering and Technology, Mansoura, Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nasser AA"
+          ],
+          "firstName": [
+            "Amal A"
+          ],
+          "lastName": [
+            "Nasser"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Civil Engineering, Faculty of Engineering, Minufyia University, Sadat, 22857/79 Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abbas RN"
+          ],
+          "firstName": [
+            "Rateb N"
+          ],
+          "lastName": [
+            "Abbas"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Microbial Biotechnology, Genetic Engineering and Biotechnology Research Institute, University of Sadat City, Sadat, 22857/79 Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kamal MM"
+          ],
+          "firstName": [
+            "Monir M"
+          ],
+          "lastName": [
+            "Kamal"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Civil Engineering, Faculty of Engineering, Minufyia University, Sadat, 22857/79 Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zahran MA"
+          ],
+          "firstName": [
+            "Magdy A"
+          ],
+          "lastName": [
+            "Zahran"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Organic Chemistry, Faculty of Science, Minufyia University, Sadat, 22857/79 Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sorour NM"
+          ],
+          "firstName": [
+            "Noha M"
+          ],
+          "lastName": [
+            "Sorour"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6117-7980",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Industrial Biotechnology, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat, 22857/79 Egypt."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6117-7980",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3153052"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "3 Biotech"
+          ],
+          "ISOAbbreviation": [
+            "3 Biotech"
+          ],
+          "medlineAbbreviation": [
+            "3 Biotech"
+          ],
+          "NLMid": [
+            "101565857"
+          ],
+          "ISSN": [
+            "2190-572X"
+          ],
+          "ESSN": [
+            "2190-5738"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "231"
+  ],
+  "abstractText": [
+    "Microbial-based self-healing of concrete represents innovative technology for improving micro-crack sealing. Microbial bioactivity can induce calcite-precipitation in concrete, which seals micro-cracks. In this respect, two Egyptian bacterial isolates were selected and identified, as <i>Bacillus subtilis</i> (Bs) and <i>Bacillus megaterium</i> (Bm) using MALDI-TOF/MS-Biotyper<sup>®</sup>. Peak patterns of the bacterial ribosomal proteins showed a high match between samples and standards, which verified species consistency. Bs and Bm were added to the mortar mixture in two concentrations (0.5%, 1%) of cement weight, then the mechanical and physical properties were tested throughout a 180-day time course. The compressive strength of Bm0.5 bacterial mortar samples was increased by 21.4% after 28 days, as compared to control. The rate of water absorption of Bm samples was decreased by 12.4% after 180 days. Bacterial mortar samples showed significant restoration of compressive strength than the original samples by 44%, 21%, and 52.6% for Bs1, Bm0.5, and Bs0.5, respectively. SEM and EDAX analyses confirmed that bacterial samples were denser with fewer voids than the control, as a result of microbial nanosized calcite-precipitation. DTA verified that the amount of CaCO<sub>3</sub> and its degree of crystallinity were increased in the bacterial mortar samples. Load-deflection of reinforced-laminates for bacterial mortar samples showed ductile behavior and less deformation as compared to control. In this work, novel concrete with improved mechanical and physical properties has been developed using selected Egyptian microorganisms, it can promote self-healing of micro-cracks with improved durability of the concrete. The application of self-healing bioconcrete can reduce the inspection and maintenance costs.<h4>Supplementary information</h4>The online version contains supplementary material available at 10.1007/s13205-021-02781-0."
+  ],
+  "affiliation": [
+    "Department of Civil Engineering, Delta Higher Institute for Engineering and Technology, Mansoura, Egypt."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacillus megaterium",
+        "Bacillus subtilis",
+        "Concrete",
+        "Self-healing",
+        "Micro-cracks"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13205-021-02781-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-22"
+  ],
+  "firstPublicationDate": [
+    "2021-04-22"
+  ],
+  "embargoDate": [
+    "2022-05-01"
+  ]
+}

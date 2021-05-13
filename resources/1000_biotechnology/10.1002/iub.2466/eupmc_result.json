@@ -1,0 +1,354 @@
+{
+  "id": [
+    "33724683"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33724683"
+  ],
+  "doi": [
+    "10.1002/iub.2466"
+  ],
+  "title": [
+    "Role of a cysteine residue in substrate entry and catalysis in MtHIBADH: Analysis by chemical modifications and site-directed mutagenesis."
+  ],
+  "authorString": [
+    "Singh A, Badepally NG, Surolia A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Singh A"
+          ],
+          "firstName": [
+            "Amrita"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5649-8483",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badepally NG"
+          ],
+          "firstName": [
+            "Nagendar Goud"
+          ],
+          "lastName": [
+            "Badepally"
+          ],
+          "initials": [
+            "NG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4364-8811",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Surolia A"
+          ],
+          "firstName": [
+            "Avadhesha"
+          ],
+          "lastName": [
+            "Surolia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2466-2514",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5649-8483",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2466-2514",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4364-8811",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3126384"
+      ],
+      "dateOfPublication": [
+        "2021 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "IUBMB life"
+          ],
+          "ISOAbbreviation": [
+            "IUBMB Life"
+          ],
+          "medlineAbbreviation": [
+            "IUBMB Life"
+          ],
+          "NLMid": [
+            "100888706"
+          ],
+          "ISSN": [
+            "1521-6543"
+          ],
+          "ESSN": [
+            "1521-6551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Despite sharing conserved substrate-binding residues, members of 3-hydroxyisobutyrate dehydrogenase (HIBADH) superfamily show remarkable differences in substrate preference. Cysteine residues were identified within a radius of 6 Å surrounding both the active site and the substrate entry site of HIBADH enzyme from Mycobacterium tuberculosis (MtHIBADH). Chemical modification with thiol-modifying reagents, pCMB and DTNB, abrogated the dehydrogenase activity of the enzyme. The loss in activity followed pseudo-first-order kinetics as a function of the concentration of pCMB. S-HIBA (substrate) binding provided partial protection, while NAD (cofactor) binding provided ~70% protection from thiol-modifying reagent. Site-directed mutagenesis of cysteine residues present in the MtHIBADH enzyme identified the indispensable role of Cys-210 residue, located at C-terminal domain, for its dehydrogenase activity. Cys-210 mutation to serine reduced the dehydrogenase activity by ~2-fold while mutation to alanine strikingly reduced the activity by ~140-fold. C210A mutation did not perturb the state of oligomerization of the enzyme but perturbed the secondary structure content. Structural analysis revealed the involvement of Cys-210 residue in inter-chain interaction with Gln-178, which acts as hydrogen bond donor and coordinates with Cys-210 and Gly-208 of the adjacent subunit. The data demonstrate a critical role of Cys-210 residue in maintaining the conformation and rigidity of loop composed of substrate-interacting residues involved in the entry of S-HIBA substrate in MtHIBADH."
+  ],
+  "affiliation": [
+    "Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BT/PR5012/MED/29/419/2012"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/PR24443/MED/2a/1220/2017"
+          ],
+          "agency": [
+            "Department of Biotechnology, Government of India"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mycobacterium tuberculosis",
+        "Valine Catabolism",
+        "Hibadh",
+        "Cysteine Residue In Sar",
+        "Mmsb"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/iub.2466"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-03-16"
+  ],
+  "firstIndexDate": [
+    "2021-03-17"
+  ],
+  "dateOfRevision": [
+    "2021-03-27"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-16"
+  ],
+  "firstPublicationDate": [
+    "2021-03-16"
+  ]
+}

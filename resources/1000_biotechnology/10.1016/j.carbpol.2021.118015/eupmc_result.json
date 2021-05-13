@@ -1,0 +1,417 @@
+{
+  "id": [
+    "33910717"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33910717"
+  ],
+  "doi": [
+    "10.1016/j.carbpol.2021.118015"
+  ],
+  "title": [
+    "Versatile strategies for bioproduction of hyaluronic acid driven by synthetic biology."
+  ],
+  "authorString": [
+    "Yao ZY, Qin J, Gong JS, Ye YH, Qian JY, Li H, Xu ZH, Shi JS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yao ZY"
+          ],
+          "firstName": [
+            "Zhi-Yuan"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qin J"
+          ],
+          "firstName": [
+            "Jiufu"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800, Kgs. Lyngby, Denmark."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gong JS"
+          ],
+          "firstName": [
+            "Jin-Song"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China. Electronic address: jinsonggong.bio@hotmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye YH"
+          ],
+          "firstName": [
+            "Yun-Hui"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian JY"
+          ],
+          "firstName": [
+            "Jian-Ying"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Heng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu ZH"
+          ],
+          "firstName": [
+            "Zheng-Hong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "ZH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National Engineering Laboratory for Cereal Fermentation Technology, School of Biotechnology, Jiangnan University, Wuxi, 214122, PR China; Jiangsu Provincial Research Center for Bioactive Product Processing Technology, Jiangnan University, Wuxi, 214122, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi JS"
+          ],
+          "firstName": [
+            "Jin-Song"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China. Electronic address: shijs@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "264"
+      ],
+      "journalIssueId": [
+        "3160936"
+      ],
+      "dateOfPublication": [
+        "2021 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Carbohydrate polymers"
+          ],
+          "ISOAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "medlineAbbreviation": [
+            "Carbohydr Polym"
+          ],
+          "NLMid": [
+            "8307156"
+          ],
+          "ISSN": [
+            "0144-8617"
+          ],
+          "ESSN": [
+            "1879-1344"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "118015"
+  ],
+  "abstractText": [
+    "Owing to its outstanding water-retention ability, viscoelasticity, biocompatibility and non-immunogenicity, Hyaluronic acid (HA), a natural linear polymer alternating linked by d-glucuronic acid and N-acetylglucosamine, has been widely employed in cosmetic, medical and clinical applications. With the development of synthetic biology and bioprocessing optimization, HA production via microbial fermentation is an economical and sustainable alternative over traditional animal extraction methods. Indeed, recently Streptococci and other recombinant systems for HA synthesis has received increasing interests due to its technical advantages. This review summarizes the production of HA by microorganisms and demonstrates its synthesis mechanism, focusing on the current status in various production systems, as well as common synthetic biology strategies include driving more carbon flux into HA biosynthesis and regulating the molecular weight (MW), and finally discusses the major challenges and prospects."
+  ],
+  "affiliation": [
+    "Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi, 214122, PR China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hyaluronic acid",
+        "Strain breeding",
+        "Microbial Fermentation",
+        "Synthetic Biology",
+        "Biosynthesis Mechanism"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.carbpol.2021.118015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-29"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-02"
+  ],
+  "firstPublicationDate": [
+    "2021-04-02"
+  ]
+}

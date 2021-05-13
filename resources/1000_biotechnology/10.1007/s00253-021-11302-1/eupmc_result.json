@@ -1,0 +1,354 @@
+{
+  "id": [
+    "33970318"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33970318"
+  ],
+  "doi": [
+    "10.1007/s00253-021-11302-1"
+  ],
+  "title": [
+    "Robotics for enzyme technology: innovations and technological perspectives."
+  ],
+  "authorString": [
+    "Dixit M, Panchal K, Pandey D, Labrou NE, Shukla P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dixit M"
+          ],
+          "firstName": [
+            "Mandeep"
+          ],
+          "lastName": [
+            "Dixit"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, Haryana, 124001, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Panchal K"
+          ],
+          "firstName": [
+            "Kusum"
+          ],
+          "lastName": [
+            "Panchal"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, Haryana, 124001, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pandey D"
+          ],
+          "firstName": [
+            "Dharini"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, Dr. Harisingh Gour Vishwavidyalaya (A Central University), Sagar, M.P., 470003, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Labrou NE"
+          ],
+          "firstName": [
+            "Nikolaos E"
+          ],
+          "lastName": [
+            "Labrou"
+          ],
+          "initials": [
+            "NE"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, 75, Gr, 11855, Athens, Greece."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shukla P"
+          ],
+          "firstName": [
+            "Pratyoosh"
+          ],
+          "lastName": [
+            "Shukla"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9307-4126",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, Haryana, 124001, India. pratyoosh.shukla@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Institute of Science, Banaras Hindu University, Varanasi, 221005, India. pratyoosh.shukla@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9307-4126",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162694"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied microbiology and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Appl Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "8406612"
+          ],
+          "ISSN": [
+            "0175-7598"
+          ],
+          "ESSN": [
+            "1432-0614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "The use of robotics in the life science sector has created a considerable and significant impact on a wide range of research areas, including enzyme technology due to their immense applications in enzyme and microbial engineering as an indispensable tool in high-throughput screening applications. Scientists are experiencing the advanced applications of various biological robots (nanobots), fabricated based on bottom-up or top-down approaches for making nanotechnology scaffolds. Nanobots and enzyme-powered nanomotors are particularly attractive because they are self-propelled vehicles, which consume biocompatible fuels. These smart nanostructures are widely used as drug delivery systems for the efficient treatment of various diseases. This review gives insights into the escalating necessity of robotics and nanobots and their ever-widening applications in enzyme technology, including biofuel production and biomedical applications. It also offers brief insights into high-throughput robotic platforms that are currently being used in enzyme screening applications for monitoring and control of microbial growth conditions. KEY POINTS: • Robotics and their applications in biotechnology are highlighted. • Robotics for high-throughput enzyme screening and microbial engineering are described. • Nanobots and enzyme-powered nanomotors as controllable drug delivery systems are reviewed."
+  ],
+  "affiliation": [
+    "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, Haryana, 124001, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biofuel",
+        "Enzyme technology",
+        "Drug Delivery",
+        "High-throughput technology",
+        "Nanobot"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00253-021-11302-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-10"
+  ],
+  "firstPublicationDate": [
+    "2021-05-10"
+  ]
+}

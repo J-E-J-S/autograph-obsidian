@@ -1,0 +1,342 @@
+{
+  "id": [
+    "33894601"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33894601"
+  ],
+  "doi": [
+    "10.1016/j.scitotenv.2021.147046"
+  ],
+  "title": [
+    "Seasonal succession of microbes in different size-fractions and their modular structures determined by both macro- and micro-environmental filtering in dynamic coastal waters."
+  ],
+  "authorString": [
+    "Chun SJ, Cui Y, Baek SH, Ahn CY, Oh HM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chun SJ"
+          ],
+          "firstName": [
+            "Seong-Jun"
+          ],
+          "lastName": [
+            "Chun"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "LMO Research Team, National Institute of Ecology, 1210 Geumgang-ro, Maseo-myeon, Seocheon 33657, Republic of Korea; Cell Factory Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cui Y"
+          ],
+          "firstName": [
+            "Yingshun"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cell Factory Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baek SH"
+          ],
+          "firstName": [
+            "Seung Ho"
+          ],
+          "lastName": [
+            "Baek"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "South Sea Institute, Korea Institute of Ocean Science & Technology, Geoje 53201, Republic of Korea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn CY"
+          ],
+          "firstName": [
+            "Chi-Yong"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cell Factory Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea; Department of Environmental Biotechnology, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34113, Republic of Korea. Electronic address: cyahn@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh HM"
+          ],
+          "firstName": [
+            "Hee-Mock"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Cell Factory Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea; Department of Environmental Biotechnology, KRIBB School of Biotechnology, Korea University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon 34113, Republic of Korea. Electronic address: heemock@kribb.re.kr."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "784"
+      ],
+      "journalIssueId": [
+        "3154875"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Science of the total environment"
+          ],
+          "ISOAbbreviation": [
+            "Sci Total Environ"
+          ],
+          "medlineAbbreviation": [
+            "Sci Total Environ"
+          ],
+          "NLMid": [
+            "0330500"
+          ],
+          "ISSN": [
+            "0048-9697"
+          ],
+          "ESSN": [
+            "1879-1026"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "147046"
+  ],
+  "abstractText": [
+    "Microbes interact with each other in response to various environmental changes in coastal marine ecosystems. To explore how the macroenvironment (environmental filtering) and species-engineered microenvironment (niche construction) affect the ecological network of the marine microbiome in the highly dynamic coastal waters of Korea, we analyzed the modular structures of the microbial community and identified microbial interconnections in different size fractions for a year. Fluctuations in the macroenvironment, such as temperature and nutrient concentrations driven by seasonal changes, are the major factors in determining successive microbial modules. Compared to particle-associated (PA) microbes, free-living (FL) microbes seemed to be more affected by macroenvironmental filtering. Modules related to nutrients were further divided into various modules according to different lifestyles. In addition, a large transient discharge of the Changjiang (Yangtze River) in summer also formed a distinct microbial module, which was related to the high ammonia concentration arising from phytoplankton degradation. Microbes belonging to the SAR11, SAR86, and SAR116 clades, Flavobacteriaceae, and MG IIa-L showed repeated interconnections in temperature-related modules, while the SAR202 clade, Marinimicrobia, DEV007 clade, and Arctic97B-4 and Sva0996 marine groups displayed repeated connections in nutrient-related modules. These 'skeleton'-forming microbes created species-engineered microenvironments, further fine-tuning microbial modular structures. Furthermore, they serve as keystone species for module stability by linking interdependent microbial partners within their own modules through universally beneficial metabolic activities. Therefore, they could reinforce the ecological resilience of microbial communities under abiotic and biotic perturbations in dynamic coastal waters. In conclusion, both macro- and micro-environmental filtering were important for determining the seasonal succession of microbial community structures."
+  ],
+  "affiliation": [
+    "LMO Research Team, National Institute of Ecology, 1210 Geumgang-ro, Maseo-myeon, Seocheon 33657, Republic of Korea; Cell Factory Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbial community",
+        "Coastal water",
+        "niche construction",
+        "Network Analysis",
+        "Environmental Filtering",
+        "Microbial Module"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.scitotenv.2021.147046"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-24"
+  ],
+  "firstIndexDate": [
+    "2021-04-25"
+  ],
+  "dateOfRevision": [
+    "2021-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-20"
+  ],
+  "firstPublicationDate": [
+    "2021-04-20"
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": [
+    "33547800"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33547800"
+  ],
+  "doi": [
+    "10.1002/bit.27706"
+  ],
+  "title": [
+    "Control of surge tanks for continuous manufacturing of monoclonal antibodies."
+  ],
+  "authorString": [
+    "Thakur G, Nikita S, Tiwari A, Rathore AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thakur G"
+          ],
+          "firstName": [
+            "Garima"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology, Hauz Khas, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nikita S"
+          ],
+          "firstName": [
+            "Saxena"
+          ],
+          "lastName": [
+            "Nikita"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology, Hauz Khas, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari A"
+          ],
+          "firstName": [
+            "Anamika"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology, Hauz Khas, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rathore AS"
+          ],
+          "firstName": [
+            "Anurag S"
+          ],
+          "lastName": [
+            "Rathore"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5913-4244",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical Engineering, Indian Institute of Technology, Hauz Khas, New Delhi, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5913-4244",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "118"
+      ],
+      "journalIssueId": [
+        "3151555"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology and bioengineering"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Bioeng"
+          ],
+          "NLMid": [
+            "7502021"
+          ],
+          "ISSN": [
+            "0006-3592"
+          ],
+          "ESSN": [
+            "1097-0290"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1913-1931"
+  ],
+  "abstractText": [
+    "Surge tanks are critical but often overlooked enablers of continuous bioprocessing. They provide multiple benefits including dampening of concentration gradients and allowing process resumption efforts in case of equipment failure or unexpected deviations, which can occur during a continuous campaign of weeks or months. They are also useful in enabling steady-state operation across a continuous train by facilitating mass balance between unit operations such as chromatography which have periodic loading and elution cycles. In this paper, we propose a design of a system of surge tanks for a monoclonal antibody (mAb) production process consisting of cell culture, clarification, capture chromatography, viral inactivation, polishing chromatography, and single-pass ultrafiltration and diafiltration. A Python controller has been developed for robust control of the continuous train. The controller has four layers, namely data acquisition, process scheduling, deviation handling, and real-time execution. A set of general guidelines for surge tank placement and sizing have been proposed together with process control strategies based on the design space of the individual unit operations, failure modes analysis of the different equipment, and expected variability in the process feed streams for both fed-batch and perfusion bioreactors. The control system has been successfully demonstrated for several continuous runs of up to 36 h in duration and is able to leverage surge tanks for robust control of the continuous train in the face of product variability as well as process errors while maintaining critical quality attributes. The proposed set of strategies for surge tank control are adaptable to most continuous processing setups for mAbs, and together form the first framework that can fully realize the benefits of surge tanks in continuous bioprocessing."
+  ],
+  "affiliation": [
+    "Department of Chemical Engineering, Indian Institute of Technology, Hauz Khas, New Delhi, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "TCS Research Scholar Program Cycles 15 and 14"
+          ],
+          "agency": [
+            "Tata Consultancy Services"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BT/COE/34/SP15097/2015"
+          ],
+          "agency": [
+            "Department of Biotechnology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Uchchatar Avishkar Yojana/MHRD 21-105/2015-TS."
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Monoclonal antibody",
+        "Control system",
+        "Process Analytical Technology",
+        "Continuous Processing",
+        "Surge Tank"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/bit.27706"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-02-06"
+  ],
+  "firstIndexDate": [
+    "2021-02-07"
+  ],
+  "dateOfRevision": [
+    "2021-04-14"
+  ],
+  "firstPublicationDate": [
+    "2021-05-01"
+  ]
+}

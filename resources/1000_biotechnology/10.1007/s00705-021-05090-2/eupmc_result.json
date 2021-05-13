@@ -1,0 +1,382 @@
+{
+  "id": [
+    "33961107"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33961107"
+  ],
+  "doi": [
+    "10.1007/s00705-021-05090-2"
+  ],
+  "title": [
+    "Correction to: Canine parvovirus type 2c in Vietnam continues to produce distinct descendants with new mutations restricted to Vietnamese variants."
+  ],
+  "authorString": [
+    "Doan HTT, Le XTK, Do RT, Nguyen KT, Le TH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Doan HTT"
+          ],
+          "firstName": [
+            "Huong Thi Thanh"
+          ],
+          "lastName": [
+            "Doan"
+          ],
+          "initials": [
+            "HTT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam. doantthuong74@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate University of Science and Technology (GUST), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam. doantthuong74@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Le XTK"
+          ],
+          "firstName": [
+            "Xuyen Thi Kim"
+          ],
+          "lastName": [
+            "Le"
+          ],
+          "initials": [
+            "XTK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate University of Science and Technology (GUST), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Do RT"
+          ],
+          "firstName": [
+            "Roan Thi"
+          ],
+          "lastName": [
+            "Do"
+          ],
+          "initials": [
+            "RT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate University of Science and Technology (GUST), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen KT"
+          ],
+          "firstName": [
+            "Khue Thi"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate University of Science and Technology (GUST), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Le TH"
+          ],
+          "firstName": [
+            "Thanh Hoa"
+          ],
+          "lastName": [
+            "Le"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3841-368X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam. imibtvn@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Graduate University of Science and Technology (GUST), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam. imibtvn@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3841-368X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3162142"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of virology"
+          ],
+          "ISOAbbreviation": [
+            "Arch Virol"
+          ],
+          "medlineAbbreviation": [
+            "Arch Virol"
+          ],
+          "NLMid": [
+            "7506870"
+          ],
+          "ISSN": [
+            "0304-8608"
+          ],
+          "ESSN": [
+            "1432-8798"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "affiliation": [
+    "Immunology Department, Institute of Biotechnology (IBT), Vietnam Academy of Science and Technology (VAST), 18. Hoang Quoc Viet Rd., Cau Giay, Hanoi, Vietnam. doantthuong74@gmail.com."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00705-021-05090-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "33860842"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Arch Virol. 2021 Apr 16;:"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-07"
+  ],
+  "firstIndexDate": [
+    "2021-05-08"
+  ],
+  "dateOfRevision": [
+    "2021-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-05-07"
+  ]
+}

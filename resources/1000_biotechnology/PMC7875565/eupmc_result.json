@@ -1,0 +1,661 @@
+{
+  "id": [
+    "33491503"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33491503"
+  ],
+  "pmcid": [
+    "PMC7875565"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7875565"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/14756366.2021.1876686"
+  ],
+  "title": [
+    "Structural insights and molecular dynamics into the inhibitory mechanism of a Kunitz-type trypsin inhibitor from <i>Tamarindus indica</i> L."
+  ],
+  "authorString": [
+    "de Medeiros AF, de Souza BBP, Coutinho LP, Murad AM, Dos Santos PIM, Monteiro NKV, Santos EAD, Maciel BLL, de Araújo Morais AH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Medeiros AF"
+          ],
+          "firstName": [
+            "Amanda Fernandes"
+          ],
+          "lastName": [
+            "de Medeiros"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1354-0116",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Postgraduate Biochemistry Program, Biosciences Center, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Souza BBP"
+          ],
+          "firstName": [
+            "Beatriz Blenda Pinheiro"
+          ],
+          "lastName": [
+            "de Souza"
+          ],
+          "initials": [
+            "BBP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6793-6386",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Postgraduate Biological Molecular, Institute of Biological Sciences, University of Brasília, Brasília, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Laboratory of Mass Spectometry-LEM, Embrapa Genetic Resources and Biotechnology, Brasília, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coutinho LP"
+          ],
+          "firstName": [
+            "Lucas Pinheiro"
+          ],
+          "lastName": [
+            "Coutinho"
+          ],
+          "initials": [
+            "LP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9591-5593",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chemistry Course, Science Center, Federal University of Ceará, Fortaleza, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Murad AM"
+          ],
+          "firstName": [
+            "Aline Melro"
+          ],
+          "lastName": [
+            "Murad"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3222-4001",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Mass Spectometry-LEM, Embrapa Genetic Resources and Biotechnology, Brasília, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dos Santos PIM"
+          ],
+          "firstName": [
+            "Paula Ivani Medeiros"
+          ],
+          "lastName": [
+            "Dos Santos"
+          ],
+          "initials": [
+            "PIM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2955-8174",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Federal Institute of Education, Science and Technology of Rio Grande do Norte, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Monteiro NKV"
+          ],
+          "firstName": [
+            "Norberto de Kássio Vieira"
+          ],
+          "lastName": [
+            "Monteiro"
+          ],
+          "initials": [
+            "NKV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5847-5733",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Analytical Chemistry and physical Chemistry Department, Science Center, Federal University of Ceará, Fortaleza, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Santos EAD"
+          ],
+          "firstName": [
+            "Elizeu Antunes Dos"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "EAD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4372-2161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Postgraduate Biochemistry Program, Biosciences Center, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Biochemistry, Biosciences Center, Federal University of Rio Grande, Natal, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Tropical Medicine Institute, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maciel BLL"
+          ],
+          "firstName": [
+            "Bruna Leal Lima"
+          ],
+          "lastName": [
+            "Maciel"
+          ],
+          "initials": [
+            "BLL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0724-1961",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Postgraduate Nutrition Program, Center for Health Sciences, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Nutrition, Center for Health Sciences, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Araújo Morais AH"
+          ],
+          "firstName": [
+            "Ana Heloneida"
+          ],
+          "lastName": [
+            "de Araújo Morais"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6460-911X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Postgraduate Biochemistry Program, Biosciences Center, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Postgraduate Nutrition Program, Center for Health Sciences, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Nutrition, Center for Health Sciences, Federal University of Rio Grande do Norte, Natal, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9591-5593",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0724-1961",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1354-0116",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5847-5733",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6460-911X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6793-6386",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2955-8174",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3222-4001",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4372-2161",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "3043283"
+      ],
+      "dateOfPublication": [
+        "2021 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "480-490"
+  ],
+  "abstractText": [
+    "Trypsin inhibitors from tamarind seed have been studied <i>in vitro</i> and in preclinical studies for the treatment of obesity, its complications and associated comorbidities. It is still necessary to fully understand the structure and behaviour of these molecules. We purifed this inhibitor, sequenced <i>de novo</i> by MALDI-TOF/TOF, performed its homology modelling, and assessed the interaction with the trypsin enzyme through molecular dynamics (MD) simulation under physiological conditions. We identified additional 75 amino acid residues, reaching approximately 72% of total coverage. The four best conformations of the best homology modelling were submitted to the MD. The conformation n°287 was selected considering the RMSD analysis and interaction energy (-301.0128 kcal.mol<sup>-1</sup>). Residues Ile (54), Pro (57), Arg (59), Arg (63), and Glu (78) of pTTI presented the highest interactions with trypsin, and arginine residues were mainly involved in its binding mechanism. The results favour bioprospecting of this protein for pharmaceutical health applications."
+  ],
+  "affiliation": [
+    "Postgraduate Biochemistry Program, Biosciences Center, Federal University of Rio Grande do Norte, Natal, Brazil."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein-protein interaction",
+        "Homology Modelling",
+        "Tamarind",
+        "Computational Methods",
+        "Antitryptic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2021.1876686"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7875565"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7875565?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2021-01-25"
+  ],
+  "firstIndexDate": [
+    "2021-01-26"
+  ],
+  "fullTextReceivedDate": [
+    "2021-03-08"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-12-01"
+  ]
+}

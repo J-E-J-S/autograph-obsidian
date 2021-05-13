@@ -1,0 +1,332 @@
+{
+  "id": [
+    "33971196"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33971196"
+  ],
+  "doi": [
+    "10.1016/j.yexcr.2021.112632"
+  ],
+  "title": [
+    "LxCxD motif of the APC/C coactivator subunit FZR1 is critical for interaction with the retinoblastoma protein."
+  ],
+  "authorString": [
+    "Ramanujan A, Bansal S, Guha M, Pande NT, Tiwari S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ramanujan A"
+          ],
+          "firstName": [
+            "Ajeena"
+          ],
+          "lastName": [
+            "Ramanujan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India. Electronic address: phsajee@nus.edu.sg."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bansal S"
+          ],
+          "firstName": [
+            "Shivangee"
+          ],
+          "lastName": [
+            "Bansal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guha M"
+          ],
+          "firstName": [
+            "Manalee"
+          ],
+          "lastName": [
+            "Guha"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India. Electronic address: manalee.guha@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pande NT"
+          ],
+          "firstName": [
+            "Nupur T"
+          ],
+          "lastName": [
+            "Pande"
+          ],
+          "initials": [
+            "NT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India. Electronic address: pandetewarin@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari S"
+          ],
+          "firstName": [
+            "Swati"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India. Electronic address: swati_tiwari@mail.jnu.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3166454"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Experimental cell research"
+          ],
+          "ISOAbbreviation": [
+            "Exp Cell Res"
+          ],
+          "medlineAbbreviation": [
+            "Exp Cell Res"
+          ],
+          "NLMid": [
+            "0373226"
+          ],
+          "ISSN": [
+            "0014-4827"
+          ],
+          "ESSN": [
+            "1090-2422"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "112632"
+  ],
+  "abstractText": [
+    "Retinoblastoma protein (pRB) regulates cell cycle by utilizing different regions of its pocket domain for interacting with E2F family of transcription factors and with cellular and viral proteins containing an LxCxE motif. The LxCxE motif is present on FZR1, an adaptor protein of the multi-subunit E3 ligase complex anaphase-promoting complex/cyclosome (APC/C). The APC/C<sup>FZR1</sup> complex regulates the timely degradation of multiple cell cycle proteins for mitotic exit and maintains G1 state. FZR1 has been reported to interact with pRB through LxCxE. By using point mutations, we found that the cysteine residue in the FZR1 LxCxE motif is critical for direct interaction with pRb. The direct binding of the LxCxE motif of FZR1 to the pRB LxCxE binding pocket is confirmed by using human papillomavirus protein E7 as a competitor, both in vitro and in vivo. While mutation of the cysteine residue significantly disrupts FZR1 interaction with pRB, this motif does not affect FZR1 and core APC/C association. Expression of the FZR1 point mutant results in accumulation of S-phase kinase-associated protein 2 (SKP2) and Polo-like kinase 1 (PLK1), while p27<sup>Kip1</sup> and p21<sup>Cip1</sup> proteins are downregulated, indicating a G1 cell cycle defect. Consistently, cells containing point mutant FZR1 enter the S phase prematurely. Together our results suggest that the LxCxE motif of FZR1 is a critical determinant for the interaction between FZR1 and pRB and is important for G1 restriction."
+  ],
+  "affiliation": [
+    "School of Biotechnology, Jawaharlal Nehru University, New Delhi-110067, India. Electronic address: phsajee@nus.edu.sg."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell cycle",
+        "Retinoblastoma",
+        "Anaphase Promoting Complex/cyclosome",
+        "Fzr1",
+        "Hpv E7",
+        "Lxcxe Motif"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.yexcr.2021.112632"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-10"
+  ],
+  "firstIndexDate": [
+    "2021-05-11"
+  ],
+  "dateOfRevision": [
+    "2021-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-07"
+  ],
+  "firstPublicationDate": [
+    "2021-05-07"
+  ]
+}

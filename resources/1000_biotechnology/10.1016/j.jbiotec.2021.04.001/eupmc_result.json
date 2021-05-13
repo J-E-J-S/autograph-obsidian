@@ -1,0 +1,335 @@
+{
+  "id": [
+    "33864842"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33864842"
+  ],
+  "doi": [
+    "10.1016/j.jbiotec.2021.04.001"
+  ],
+  "title": [
+    "Overexpression of rice OsWNK9 promotes arsenite tolerance in transgenic Arabidopsis plants."
+  ],
+  "authorString": [
+    "Manuka R, Saddhe AA, Srivastava AK, Kumar K, Penna S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Manuka R"
+          ],
+          "firstName": [
+            "Rakesh"
+          ],
+          "lastName": [
+            "Manuka"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai, 400084, India; Department of Biological Sciences, Birla Institute of Technology & Science Pilani, K. K. Birla Goa Campus, Goa, 403726, India; Department of Biological Sciences and Biotechnology, Institute of Advanced Research (IAR), Gandhinagar, Gujarat, 382426, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saddhe AA"
+          ],
+          "firstName": [
+            "Ankush Ashok"
+          ],
+          "lastName": [
+            "Saddhe"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences, Birla Institute of Technology & Science Pilani, K. K. Birla Goa Campus, Goa, 403726, India; Institute of Experimental Botany of the Czech Academy of Sciences, 16502 Prague 6, Czech Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava AK"
+          ],
+          "firstName": [
+            "Ashish Kumar"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai, 400084, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar K"
+          ],
+          "firstName": [
+            "Kundan"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences, Birla Institute of Technology & Science Pilani, K. K. Birla Goa Campus, Goa, 403726, India. Electronic address: kundan@goa.bits-pilani.ac.in."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Penna S"
+          ],
+          "firstName": [
+            "Suprasanna"
+          ],
+          "lastName": [
+            "Penna"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai, 400084, India. Electronic address: penna888@yahoo.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "332"
+      ],
+      "journalIssueId": [
+        "3168310"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Biotechnol"
+          ],
+          "NLMid": [
+            "8411927"
+          ],
+          "ISSN": [
+            "0168-1656"
+          ],
+          "ESSN": [
+            "1873-4863"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "114-125"
+  ],
+  "abstractText": [
+    "Protein kinases are involved in the transfer of phosphate group to serine, threonine, and tyrosine residues of a target protein. With No Lysine (WNK) kinase is a member of the serine/threonine protein kinase family, which has conserved catalytic lysine (K) residue in subdomain I instead of being in subdomain II.The WNKs family members in plants are stress inducible and have been validated for their role in abiotic stress tolerance. In the present study, we have characterized Arabidopsis overexpressed lines of OsWNK9 regulated by the constitutive promoter under arsenite stress. Moreover, we have performed In silico expression analysis of OsWNK9 under nutrient deficiency and heavy metal stress. Three independent transgenic Arabidopsis (OsWNK9-OX T<sub>11</sub>, T<sub>12</sub>,andT<sub>13</sub>) lines showed tolerance to arsenite stress compared to wild-type (WT) plants. Under arsenite stress, transgenic lines T<sub>11</sub>, T<sub>12</sub> and T<sub>13</sub> showed 56.46, 57.8 and 51.66 % increased biomass respectively, as compared to WT plants. All three ArabidopsisOsWNK9-OX lines exhibited higher proline content, increased antioxidant enzyme activities and lower hydrogen peroxide levels under arsenite stress. Besides, the total antioxidant capacity in terms of DPPH (2, 2-diphenyl-1-picrylhydrazyl) free radical scavenging percentage was increased by 8-15 % in three independent OsWNK9-OX lines compared with those of WT plants. Protein-protein interaction analysis of OsWNK9 predicted interaction partners with protein kinase and oxidative stress-responsive protein. Co-expression analysis of OsWNK9 in phosphate deficiency and arsenate stress condition predicted various proteins including membrane transporter and transcription factors. Taken together, our results, for the first time, provide evidence that OsWNK9 could positively mediate arsenite stress tolerance in plants."
+  ],
+  "affiliation": [
+    "Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai, 400084, India; Department of Biological Sciences, Birla Institute of Technology & Science Pilani, K. K. Birla Goa Campus, Goa, 403726, India; Department of Biological Sciences and Biotechnology, Institute of Advanced Research (IAR), Gandhinagar, Gujarat, 382426, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Antioxidant enzymes",
+        "Overexpression",
+        "Arsenite",
+        "In silico",
+        "Wnk"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jbiotec.2021.04.001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-17"
+  ],
+  "firstIndexDate": [
+    "2021-04-19"
+  ],
+  "dateOfRevision": [
+    "2021-05-11"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-14"
+  ],
+  "firstPublicationDate": [
+    "2021-04-14"
+  ]
+}

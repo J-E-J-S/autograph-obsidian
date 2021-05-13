@@ -1,0 +1,610 @@
+{
+  "id": [
+    "33914359"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33914359"
+  ],
+  "doi": [
+    "10.1002/chem.202100110"
+  ],
+  "title": [
+    "Rational Enzyme Design without Structural Knowledge: A Sequence-Based Approach for Efficient Generation of Transglycosylases."
+  ],
+  "authorString": [
+    "Teze D, Zhao J, Wiemann M, Ara KZG, Lupo R, Zeuner B, Vuillemin M, Rønne ME, Carlström G, Duus JØ, Sanejouand YH, O'Donohue MJ, Karlsson EN, Fauré R, Stålbrand H, Svensson B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Teze D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Teze"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Technical University of Denmark, DTU Biosustain, kemitorvet, Building 220, 2800, Kongens Lyngby, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jiao"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Université de Toulouse, Biotechnology, FRANCE."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wiemann M"
+          ],
+          "firstName": [
+            "Mathias"
+          ],
+          "lastName": [
+            "Wiemann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Lunds Universitet, Biotechnology, SWEDEN."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ara KZG"
+          ],
+          "firstName": [
+            "Kazi Z G"
+          ],
+          "lastName": [
+            "Ara"
+          ],
+          "initials": [
+            "KZG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Lunds Universitet, Biotechnology, SWEDEN."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lupo R"
+          ],
+          "firstName": [
+            "Rossana"
+          ],
+          "lastName": [
+            "Lupo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Bioengineering, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zeuner B"
+          ],
+          "firstName": [
+            "Birgitte"
+          ],
+          "lastName": [
+            "Zeuner"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Bioengineering, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vuillemin M"
+          ],
+          "firstName": [
+            "Marlène"
+          ],
+          "lastName": [
+            "Vuillemin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Bioengineeering, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rønne ME"
+          ],
+          "firstName": [
+            "Mette E"
+          ],
+          "lastName": [
+            "Rønne"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Bioengineering, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carlström G"
+          ],
+          "firstName": [
+            "Göran"
+          ],
+          "lastName": [
+            "Carlström"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Lunds Universitet, Biotechnology, SWEDEN."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duus JØ"
+          ],
+          "firstName": [
+            "Jens Ø"
+          ],
+          "lastName": [
+            "Duus"
+          ],
+          "initials": [
+            "JØ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Chemistry, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sanejouand YH"
+          ],
+          "firstName": [
+            "Yves-Henri"
+          ],
+          "lastName": [
+            "Sanejouand"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Université de Nantes: Universite de Nantes, Biologie, FRANCE."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "O'Donohue MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "O'Donohue"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Université de Toulouse 2: Universite Toulouse Jean Jaures, Toulouse Biotechnology institute, FRANCE."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karlsson EN"
+          ],
+          "firstName": [
+            "Eva Nordberg"
+          ],
+          "lastName": [
+            "Karlsson"
+          ],
+          "initials": [
+            "EN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Lunds Universitet, Biotechnology, SWEDEN."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fauré R"
+          ],
+          "firstName": [
+            "Régis"
+          ],
+          "lastName": [
+            "Fauré"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Université de Toulouse 2: Universite Toulouse Jean Jaures, Toulouse Biotechnology institute, FRANCE."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stålbrand H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Stålbrand"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Lunds Universitet, Biotechnology, SWEDEN."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Svensson B"
+          ],
+          "firstName": [
+            "Birte"
+          ],
+          "lastName": [
+            "Svensson"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "DTU: Danmarks Tekniske Universitet, Bioengineering, DENMARK."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143028"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chemistry (Weinheim an der Bergstrasse, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Chemistry"
+          ],
+          "medlineAbbreviation": [
+            "Chemistry"
+          ],
+          "NLMid": [
+            "9513783"
+          ],
+          "ISSN": [
+            "0947-6539"
+          ],
+          "ESSN": [
+            "1521-3765"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Glycobiology is dogged by the relative scarcity of synthetic, defined oligosaccharides. Enzyme-catalysed glycosylation using glycoside hydrolases is feasible but is hampered by the innate hydrolytic activity of these enzymes. Protein engineering is useful to remedy this, but it usually requires prior structural knowledge of the target enzyme, and/or relies on extensive, time-consuming screening and analysis. Here we describe a straightforward strategy that involves rational rapid in silico analysis of protein sequences. The method pinpoints 6-12 single mutant candidates to improve transglycosylation yields. Requiring very little prior knowledge of the target enzyme other than its sequence, the method is generic and procures catalysts for the formation of glycosidic bonds involving various d / l -, α/β-pyranosides or furanosides, and exo - and endo -action. Moreover, mutations validated in one enzyme can be transposed to others, even distantly related enzymes."
+  ],
+  "affiliation": [
+    "Technical University of Denmark, DTU Biosustain, kemitorvet, Building 220, 2800, Kongens Lyngby, DENMARK."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein engineering",
+        "Oligosaccharide Synthesis",
+        "Glycoside Hydrolase",
+        "Transglycosylation",
+        "Multiple Sequences Alignment"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/chem.202100110"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-29"
+  ],
+  "firstIndexDate": [
+    "2021-04-30"
+  ],
+  "dateOfRevision": [
+    "2021-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-29"
+  ],
+  "firstPublicationDate": [
+    "2021-04-29"
+  ]
+}

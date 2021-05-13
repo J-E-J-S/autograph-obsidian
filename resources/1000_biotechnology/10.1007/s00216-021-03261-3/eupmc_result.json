@@ -1,0 +1,357 @@
+{
+  "id": [
+    "33791825"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33791825"
+  ],
+  "doi": [
+    "10.1007/s00216-021-03261-3"
+  ],
+  "title": [
+    "Need for speed: evaluation of dilute and shoot-mass spectrometry for accelerated metabolic phenotyping in bioprocess development."
+  ],
+  "authorString": [
+    "Reiter A, Herbst L, Wiechert W, Oldiges M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Reiter A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Reiter"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425, Jülich, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, RWTH Aachen University, 52062, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Herbst L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Herbst"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425, Jülich, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, RWTH Aachen University, 52062, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wiechert W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Wiechert"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425, Jülich, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Computational Systems Biotechnology, RWTH Aachen University, 52062, Aachen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oldiges M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Oldiges"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425, Jülich, Germany. m.oldiges@fz-juelich.de."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institute of Biotechnology, RWTH Aachen University, 52062, Aachen, Germany. m.oldiges@fz-juelich.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "413"
+      ],
+      "journalIssueId": [
+        "3160300"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Analytical and bioanalytical chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Anal Bioanal Chem"
+          ],
+          "medlineAbbreviation": [
+            "Anal Bioanal Chem"
+          ],
+          "NLMid": [
+            "101134327"
+          ],
+          "ISSN": [
+            "1618-2642"
+          ],
+          "ESSN": [
+            "1618-2650"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "3253-3268"
+  ],
+  "abstractText": [
+    "With the utilization of small-scale and highly parallelized cultivation platforms embedded in laboratory robotics, microbial phenotyping and bioprocess development have been substantially accelerated, thus generating a bottleneck in bioanalytical bioprocess sample analytics. While microscale cultivation platforms allow the monitoring of typical process parameters, only limited information about product and by-product formation is provided without comprehensive analytics. The use of liquid chromatography mass spectrometry can provide such a comprehensive and quantitative insight, but is often limited by analysis runtime and throughput. In this study, we developed and evaluated six methods for amino acid quantification based on two strong cation exchanger columns and a dilute and shoot approach in hyphenation with either a triple-quadrupole or a quadrupole time-of-flight mass spectrometer. Isotope dilution mass spectrometry with <sup>13</sup>C<sup>15</sup>N labeled amino acids was used to correct for matrix effects. The versatility of the methods for metabolite profiling studies of microbial cultivation supernatants is confirmed by a detailed method validation study. The methods using chromatography columns showed a linear range of approx. 4 orders of magnitude, sufficient response factors, and low quantification limits (7-443 nM) for single analytes. Overall, relative standard deviation was comparable for all analytes, with < 8% and < 11% for unbuffered and buffered media, respectively. The dilute and shoot methods with an analysis time of 1 min provided similar performance but showed a factor of up to 35 times higher throughput. The performance and applicability of the dilute and shoot method are demonstrated using a library of Corynebacterium glutamicum strains producing L-histidine, obtained from random mutagenesis, which were cultivated in a microscale cultivation platform."
+  ],
+  "affiliation": [
+    "Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425, Jülich, Germany."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "This work was funded by the German Federal Ministr"
+          ],
+          "agency": [
+            "Bundesministerium für Bildung und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Amino acids",
+        "Corynebacterium glutamicum",
+        "Metabolomics",
+        "FIA",
+        "LC-MS/MS",
+        "Matrix Effects"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00216-021-03261-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-01"
+  ],
+  "firstIndexDate": [
+    "2021-04-02"
+  ],
+  "dateOfRevision": [
+    "2021-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2021-03-31"
+  ],
+  "firstPublicationDate": [
+    "2021-03-31"
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "id": [
+    "33843030"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33843030"
+  ],
+  "doi": [
+    "10.1007/s12602-021-09785-5"
+  ],
+  "title": [
+    "Comparison of Cytokine Expression in Human PBMCs Stimulated with Normal and Heat-Shocked Lactobacillus plantarum Cell Lysate."
+  ],
+  "authorString": [
+    "Sanaei M, Mahdavi M, Setayesh N, Shahverdi AR, Sepehrizadeh Z, Yazdi MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sanaei M"
+          ],
+          "firstName": [
+            "Marzieh"
+          ],
+          "lastName": [
+            "Sanaei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center, Tehran University of Medical Sciences, 1417614411, Tehran, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy & Biotechnology Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahdavi M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Mahdavi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Recombinant Vaccine Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Setayesh N"
+          ],
+          "firstName": [
+            "Neda"
+          ],
+          "lastName": [
+            "Setayesh"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy & Biotechnology Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shahverdi AR"
+          ],
+          "firstName": [
+            "Ahmad Reza"
+          ],
+          "lastName": [
+            "Shahverdi"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center, Tehran University of Medical Sciences, 1417614411, Tehran, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy & Biotechnology Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sepehrizadeh Z"
+          ],
+          "firstName": [
+            "Zargham"
+          ],
+          "lastName": [
+            "Sepehrizadeh"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center, Tehran University of Medical Sciences, 1417614411, Tehran, Iran."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biotechnology, Faculty of Pharmacy & Biotechnology Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yazdi MH"
+          ],
+          "firstName": [
+            "Mohammad Hossein"
+          ],
+          "lastName": [
+            "Yazdi"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8567-8555",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Biotechnology Research Center, Tehran University of Medical Sciences, 1417614411, Tehran, Iran. mh-yazdi@tums.ac.ird."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Recombinant Vaccine Research Center, Tehran University of Medical Sciences, Tehran, Iran. mh-yazdi@tums.ac.ird."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8567-8555",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3143014"
+      ],
+      "dateOfPublication": [
+        "2021 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Probiotics and antimicrobial proteins"
+          ],
+          "ISOAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "medlineAbbreviation": [
+            "Probiotics Antimicrob Proteins"
+          ],
+          "NLMid": [
+            "101484100"
+          ],
+          "ISSN": [
+            "1867-1306"
+          ],
+          "ESSN": [
+            "1867-1314"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Regulation of immune responses is among the beneficial effects of probiotic bacteria on human health. In this study, we aim to investigate the effect of normal and heat-shocked Lactobacillus plantarum PTCC 1058 cell lysate on cytokine expression by human PBMCs. The mid-exponential phase L. plantarum (10<sup>8</sup> CFU/mL) were used to prepare cell lysate. Isolated PBMCs were stimulated with 100 µg/mL of each normal and heat-shocked L. plantarum cell lysate for 72 h. Non-stimulated PBMCs were also evaluated as negative control. The mRNA expression of IL-6, IL-10, IFN-ɣ, TNF-α, and TGF-β genes was determined by quantitative RT-PCR amplification of total RNA extracted from PBMCs. Both types of cell lysate were able to increase pro-inflammatory cytokines and decrease anti-inflammatory cytokines. However, this effect was significantly stronger in heat-shocked cell lysate-treated PBMCs. Moreover, comparison of IFN-ɣ/IL-10, IFN-ɣ/TGF-β, IL-6/IL-10, IL-6/TGF-β, and TNF-α/IL-10 ratios in both conditions demonstrated that in the heat-shocked group, all of the above ratios were significantly higher than normal lysate treatment (p˂0.001), suggesting that heat-shocked probiotics are a potent inducer of the immune system in comparison to intact probiotics. Regarding these results, it may be possible to develop a new postbiotic product for the stimulation of immune responses of cancer patients or individuals who suffer from an immune defect."
+  ],
+  "affiliation": [
+    "Biotechnology Research Center, Tehran University of Medical Sciences, 1417614411, Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Human Peripheral Blood Mononuclear Cells",
+        "Cytokine Expression Profiling",
+        "Heat-shocked Probiotic",
+        "Lactobacillus Plantarum Ptcc 1058"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12602-021-09785-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-04-12"
+  ],
+  "firstIndexDate": [
+    "2021-04-13"
+  ],
+  "dateOfRevision": [
+    "2021-04-12"
+  ],
+  "electronicPublicationDate": [
+    "2021-04-11"
+  ],
+  "firstPublicationDate": [
+    "2021-04-11"
+  ]
+}

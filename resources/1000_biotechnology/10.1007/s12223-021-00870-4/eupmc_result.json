@@ -1,0 +1,422 @@
+{
+  "id": [
+    "33950512"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33950512"
+  ],
+  "doi": [
+    "10.1007/s12223-021-00870-4"
+  ],
+  "title": [
+    "Production of a broad spectrum streptothricin like antibiotic from halotolerant Streptomyces fimbriatus isolate G1 associated with marine sediments."
+  ],
+  "authorString": [
+    "Ashraf N, Bechthold A, Anwar MA, Ghauri MA, Anjum MS, Khan AN, Akhtar K, Khaliq S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ashraf N"
+          ],
+          "firstName": [
+            "Neelma"
+          ],
+          "lastName": [
+            "Ashraf"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bechthold A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Bechthold"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmaceutical Biology and Biotechnology, Institute of Pharmaceutical Sciences, University of Freiburg, Freiburg im Breisgau, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Anwar MA"
+          ],
+          "firstName": [
+            "Munir A"
+          ],
+          "lastName": [
+            "Anwar"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ghauri MA"
+          ],
+          "firstName": [
+            "Muhammad A"
+          ],
+          "lastName": [
+            "Ghauri"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Anjum MS"
+          ],
+          "firstName": [
+            "Muhammad S"
+          ],
+          "lastName": [
+            "Anjum"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khan AN"
+          ],
+          "firstName": [
+            "Ali N"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Akhtar K"
+          ],
+          "firstName": [
+            "Kalsoom"
+          ],
+          "lastName": [
+            "Akhtar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khaliq S"
+          ],
+          "firstName": [
+            "Shazia"
+          ],
+          "lastName": [
+            "Khaliq"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9988-6811",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan. skhaliq1976@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9988-6811",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3165404"
+      ],
+      "dateOfPublication": [
+        "2021 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Folia microbiologica"
+          ],
+          "ISOAbbreviation": [
+            "Folia Microbiol (Praha)"
+          ],
+          "medlineAbbreviation": [
+            "Folia Microbiol (Praha)"
+          ],
+          "NLMid": [
+            "0376757"
+          ],
+          "ISSN": [
+            "0015-5632"
+          ],
+          "ESSN": [
+            "1874-9356"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "abstractText": [
+    "Streptomyces have been reported as a remarkable source for bioactive secondary metabolites with complex structural and functional diversity. In this study, 35 isolates of genus Streptomyces were purified from rhizospheric and marine soils collected from previously unexplored habitats and screened for antimicrobial activities. One of these isolates, G1, when tested in vitro, was found highly active against wide range of microbes including Gram-positive, Gram-negative bacteria, and different fungal pathogens. It was identified as mesophilic, alkaliphilic, and moderately halotolerant as it showed optimum growth at temperature 30 °C, pH 8.0 in casein-starch-peptone-yeast extract-malt extract medium supplemented with 5% NaCl. Sequence analysis of the 16S rRNA gene indicated 100% identity of this isolate to Streptomyces fimbriatus. Moreover, maximum antimicrobial activity was achieved in starch nitrate medium supplemented with 1% glycerol as carbon and 0.03% soy meal as nitrogen source. The antimicrobial compounds produced by this isolate were extracted in methanol. Bioassay-guided fractionation through thin layer chromatography of methanolic extract resulted in the separation of a most active fraction with an R<sub>f</sub> value of 0.46. This active fraction was characterized by FTIR and LCMS analysis and found similar to streptothricin D like antibiotic with m/z 758.42."
+  ],
+  "affiliation": [
+    "Industrial Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Constituent College Pakistan Institute of Engineering and Applied Sciences (PIEAS), PO Box 577, Jhang Road, Faisalabad, Pakistan."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioactive compounds",
+        "Streptothricin",
+        "Halotolerant",
+        "Streptomyces Fimbriates"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12223-021-00870-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "N"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2021-05-05"
+  ],
+  "firstIndexDate": [
+    "2021-05-06"
+  ],
+  "dateOfRevision": [
+    "2021-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2021-05-05"
+  ],
+  "firstPublicationDate": [
+    "2021-05-05"
+  ]
+}
