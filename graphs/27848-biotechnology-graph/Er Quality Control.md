@@ -1,0 +1,7 @@
+[[Endoplasmic reticulum]]
+[[Protein folding]]
+[[glycobiology]]
+[[Glycosylphosphatidylinositol]]
+[[Endoplasmic Reticulum (Er)]]
+[[Lipid Remodeling]]
+[[Glycosylphosphatidylinositol (Gpi Anchor)]]

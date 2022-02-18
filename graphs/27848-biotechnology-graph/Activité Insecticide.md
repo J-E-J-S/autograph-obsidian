@@ -1,0 +1,7 @@
+[[Pigments]]
+[[Drosophila melanogaster]]
+[[Extracts]]
+[[Insecticidal activity]]
+[[Ulva lactuca]]
+[[spinacia oleracea]]
+[[Extraits]]

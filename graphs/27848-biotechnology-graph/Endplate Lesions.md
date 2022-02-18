@@ -1,0 +1,8 @@
+[[Lumbar Spine]]
+[[risk factors]]
+[[Vitamin D Receptor Polymorphisms]]
+[[Endplate Fractures]]
+[[Collagen]]
+[[Lumbar Spine]]
+[[risk factors]]
+[[Vitamin D Receptor Polymorphisms]]

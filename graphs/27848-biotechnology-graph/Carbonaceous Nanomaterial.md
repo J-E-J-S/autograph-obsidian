@@ -1,0 +1,5 @@
+[[Arsenic]]
+[[Response surface methodology]]
+[[adsorption]]
+[[Artificial neural Network]]
+[[Waste Molasses]]

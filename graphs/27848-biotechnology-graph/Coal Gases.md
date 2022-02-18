@@ -1,0 +1,5 @@
+[[Microbial community]]
+[[Thermophiles]]
+[[Chloroflexi]]
+[[Hydrogenotrophs]]
+[[Candidatus Udaeobacter]]

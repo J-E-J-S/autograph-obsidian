@@ -1,0 +1,5 @@
+[[Mitochondrial permeability transition pore]]
+[[Bongkrekic acid]]
+[[HepG2]]
+[[Bz-423]]
+[[Proton Uncoupling]]

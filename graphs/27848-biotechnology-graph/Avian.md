@@ -1,0 +1,7 @@
+[[Poultry]]
+[[Colibacillosis]]
+[[Adhesin]]
+[[Fimbriae]]
+[[Escherichia Coli]]
+[[adhesion]]
+[[APEC]]

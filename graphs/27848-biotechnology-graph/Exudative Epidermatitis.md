@@ -1,0 +1,3 @@
+[[India]]
+[[Multidrug resistance]]
+[[Vancomycin]]

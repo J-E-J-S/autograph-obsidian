@@ -1,0 +1,5 @@
+[[Genome annotation]]
+[[Next-generation Sequencing]]
+[[Gene Prediction]]
+[[Bacterial Genomics]]
+[[Manual Annotation]]

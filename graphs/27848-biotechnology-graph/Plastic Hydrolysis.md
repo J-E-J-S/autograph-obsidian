@@ -1,0 +1,6 @@
+[[Microbial degradation]]
+[[Polyurethane]]
+[[Enzymatic degradation]]
+[[metabolic engineering]]
+[[Synthetic Biology]]
+[[Biotechnological Upcycling]]

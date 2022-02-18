@@ -1,0 +1,5 @@
+[[Tetracycline]]
+[[Antimicrobial activity]]
+[[Escherichia Coli]]
+[[Conjugated Polymers]]
+[[Bacterial Growth]]

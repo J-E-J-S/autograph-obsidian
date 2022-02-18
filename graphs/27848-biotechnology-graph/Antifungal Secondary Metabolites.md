@@ -1,0 +1,5 @@
+[[Plant extracts]]
+[[Antagonistic bacteria]]
+[[Natural resistance]]
+[[Beneficial Microbes]]
+[[Bio-control Agents]]

@@ -1,0 +1,5 @@
+[[Antagonist]]
+[[Estrogen receptor]]
+[[Androgen receptor]]
+[[Agonist]]
+[[Transcriptional Activation Assay]]

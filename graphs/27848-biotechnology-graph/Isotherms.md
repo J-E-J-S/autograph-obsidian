@@ -1,0 +1,8 @@
+[[Kinetics]]
+[[Reusability]]
+[[Cationic Dyes]]
+[[Fungal Waste Biomass]]
+[[Kinetics]]
+[[adsorption]]
+[[Eggshell Membrane]]
+[[Reactive Red 120]]

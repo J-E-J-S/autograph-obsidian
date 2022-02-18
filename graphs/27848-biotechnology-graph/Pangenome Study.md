@@ -1,0 +1,7 @@
+[[Phages]]
+[[Synteny]]
+[[Next Generation Sequencing]]
+[[Annotation]]
+[[Crispr/cas]]
+[[Pectobacterium Spp.]]
+[[Dickeya Spp.]]

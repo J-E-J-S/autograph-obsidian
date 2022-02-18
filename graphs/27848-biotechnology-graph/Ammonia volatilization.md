@@ -1,0 +1,5 @@
+[[Bacillus subtilis]]
+[[Soil enzyme]]
+[[Biofertilizer]]
+[[Bacterial community]]
+[[functional gene]]

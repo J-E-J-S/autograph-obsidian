@@ -1,0 +1,5 @@
+[[arecoline]]
+[[Cardiac toxicity]]
+[[Areca Nut]]
+[[Heart Damage]]
+[[Fas/fas Ligand]]

@@ -1,0 +1,5 @@
+[[Polysaccharides]]
+[[Saponins]]
+[[TCM]]
+[[Polygonatum sibiricum]]
+[[Therapeutic.]]

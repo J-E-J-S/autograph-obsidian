@@ -1,0 +1,5 @@
+[[D-lactic acid]]
+[[Draft Genome Sequencing]]
+[[Sporolactobacillus Terrae]]
+[[Homofermentation]]
+[[Sugar Tolerance]]

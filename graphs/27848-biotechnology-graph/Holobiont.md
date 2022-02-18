@@ -1,0 +1,8 @@
+[[Endophytes]]
+[[Microbiome]]
+[[Plant–bacteria Interaction]]
+[[Evolution]]
+[[Microbiota]]
+[[Horizontal gene transfer]]
+[[Microbiome]]
+[[Hologenome]]

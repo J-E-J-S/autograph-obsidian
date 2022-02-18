@@ -1,0 +1,8 @@
+[[Biosensors]]
+[[Tissue engineering]]
+[[SMART]]
+[[hydrogel]]
+[[Drug Delivery]]
+[[Biomedical Applications]]
+[[Stimulus-responsive]]
+[[Tunable]]

@@ -1,0 +1,6 @@
+[[Chronic pain]]
+[[AMPA receptors]]
+[[Ampar Trafficking]]
+[[Nociceptive Circuits]]
+[[Glua1-4 Subunits]]
+[[Sensory Dh Neurons]]

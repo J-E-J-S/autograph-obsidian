@@ -1,0 +1,7 @@
+[[Cerebral cortex]]
+[[Biomarker]]
+[[gene ontology]]
+[[High-throughput Sequencing]]
+[[Presenilin 1]]
+[[Intracellular Neurofibrillary Tangles]]
+[[Mirna-mrna Network]]

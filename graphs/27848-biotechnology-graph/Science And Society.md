@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Sustainability]]
+[[Responsible Innovation]]
+[[Circular Bioeconomy]]
+[[Innovation Governance]]

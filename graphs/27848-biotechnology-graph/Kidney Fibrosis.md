@@ -1,0 +1,8 @@
+[[Fibroblast Activation]]
+[[Cugbp1]]
+[[Fraxinellone]]
+[[Extracellular matrix]]
+[[Inflammation]]
+[[matrix metalloproteinases]]
+[[cathepsin D]]
+[[Chronic Kidney Disease]]

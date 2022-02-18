@@ -1,0 +1,5 @@
+[[Microbial degradation]]
+[[Enzymes]]
+[[Plastic Waste]]
+[[Plastic Biodegradation]]
+[[Synthetic Plastic]]

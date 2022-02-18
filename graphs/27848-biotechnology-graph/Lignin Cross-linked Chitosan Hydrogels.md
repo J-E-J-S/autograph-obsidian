@@ -1,0 +1,4 @@
+[[Lignin]]
+[[Chitosan]]
+[[Laccase]]
+[[Cellobiohydrolase]]

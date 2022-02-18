@@ -1,0 +1,7 @@
+[[Climate change]]
+[[Osmoregulation]]
+[[Drought]]
+[[Soil water deficit]]
+[[PGPR]]
+[[Plant responses]]
+[[yield losses]]

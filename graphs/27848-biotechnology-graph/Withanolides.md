@@ -1,0 +1,5 @@
+[[Nicotiana tabacum]]
+[[Cytochrome P450 monooxygenase]]
+[[stigmasterol]]
+[[Withania Somnifera]]
+[[Cyp710a11]]

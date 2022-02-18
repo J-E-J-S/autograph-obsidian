@@ -1,0 +1,5 @@
+[[Resistance]]
+[[Bacillus thuringiensis]]
+[[Inheritance]]
+[[Genetic]]
+[[Helicoverpa zea]]

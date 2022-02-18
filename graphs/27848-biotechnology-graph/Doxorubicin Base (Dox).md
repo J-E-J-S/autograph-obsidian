@@ -1,0 +1,6 @@
+[[Multidrug resistance]]
+[[Pamam Dendrimers]]
+[[Hyaluronic Acid (Ha)]]
+[[Co-delivery System]]
+[[Mixed Dendrimer Micelles (Mdms)]]
+[[Simdr-1]]

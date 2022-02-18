@@ -1,0 +1,5 @@
+[[Artificial intelligence]]
+[[Pancreatic adenocarcinoma]]
+[[Gastroenterology]]
+[[Machine Learning]]
+[[Deep Learning]]

@@ -1,0 +1,8 @@
+[[Transgenics]]
+[[Molecular Screening]]
+[[Direct Pcr]]
+[[Genomic Dna Template]]
+[[Lactic acid bacteria]]
+[[Probiotics]]
+[[Eastern Himalayas]]
+[[Dry Starters]]

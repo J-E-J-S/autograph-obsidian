@@ -1,0 +1,8 @@
+[[Biofilm]]
+[[Quorum sensing]]
+[[Microbial Metabolite]]
+[[Pseudomonas Aeruginosa Pao1]]
+[[Salicylic acid]]
+[[Strawberry]]
+[[jasmonic acid]]
+[[Hsp17.4]]

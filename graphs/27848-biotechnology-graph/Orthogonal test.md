@@ -1,0 +1,5 @@
+[[Chitosan]]
+[[Attapulgite]]
+[[Cadmium Ions]]
+[[Aqueous Phase]]
+[[Efficient Adsorption]]

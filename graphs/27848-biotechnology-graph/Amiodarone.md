@@ -1,0 +1,5 @@
+[[Ischemia]]
+[[Magnesium sulfate]]
+[[Ischemic stroke]]
+[[neuroprotection]]
+[[Severity]]

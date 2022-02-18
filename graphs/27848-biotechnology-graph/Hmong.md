@@ -1,0 +1,5 @@
+[[Allele frequency]]
+[[short tandem repeats]]
+[[Vietnamese]]
+[[Autosomal Strs]]
+[[Mong]]

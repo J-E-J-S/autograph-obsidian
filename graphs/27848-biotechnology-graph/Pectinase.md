@@ -1,0 +1,7 @@
+[[Xylanase]]
+[[Rice straw]]
+[[Kappa Number]]
+[[Bio-bleaching]]
+[[Soda-anthraquinone Pulp]]
+[[Ultrafiltered Enzymes]]
+[[Bleaching Effluent]]

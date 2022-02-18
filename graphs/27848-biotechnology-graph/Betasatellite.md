@@ -1,0 +1,7 @@
+[[Recombination]]
+[[Geminivirus]]
+[[phylogenetic relatedness]]
+[[Host-range Expansion]]
+[[Leaf Curl Disease]]
+[[Chilli (Bhut-jolokia)]]
+[[Cotton Leaf Curl Multan Virus]]

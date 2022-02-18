@@ -1,0 +1,6 @@
+[[DNA]]
+[[Protein]]
+[[Anti-inflammatory]]
+[[Schinus Molle]]
+[[Hplc–dad–esi–ms/ms]]
+[[Antidiabetic Antinociceptive]]

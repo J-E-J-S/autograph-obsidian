@@ -1,0 +1,8 @@
+[[Biosurfactant]]
+[[Transglycosylation]]
+[[Amylosucrase]]
+[[Glyceryl Glycoside]]
+[[Homology modeling]]
+[[Decarboxylation]]
+[[Biogenic Amine]]
+[[Aromatic L-amino Acid Decarboxylase]]

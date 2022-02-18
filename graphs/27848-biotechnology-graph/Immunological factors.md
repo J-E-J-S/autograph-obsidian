@@ -1,0 +1,5 @@
+[[Liver]]
+[[Heritability]]
+[[Genetic correlations]]
+[[Vibrio anguillarum]]
+[[Turbot]]

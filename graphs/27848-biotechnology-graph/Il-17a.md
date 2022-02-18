@@ -1,0 +1,5 @@
+[[IL-6]]
+[[Anti-inflammation]]
+[[Bone Erosion]]
+[[Synovial Hyperplasia]]
+[[Inula Helenium L.]]

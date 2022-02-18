@@ -1,0 +1,6 @@
+[[polymers]]
+[[Bioplastic Film]]
+[[Polyethylene Glycol 3000]]
+[[Polysaccharides]]
+[[Alzheimer’s disease]]
+[[Neuroprotective Activity]]

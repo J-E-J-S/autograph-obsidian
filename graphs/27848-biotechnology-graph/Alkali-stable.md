@@ -1,0 +1,5 @@
+[[Protease]]
+[[Laccase]]
+[[Thermophilic]]
+[[Agro-industrial Residues]]
+[[Phoma Herbarum Isolate Ku4]]

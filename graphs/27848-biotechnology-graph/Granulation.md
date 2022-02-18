@@ -1,0 +1,7 @@
+[[Regeneration]]
+[[Angiogenesis]]
+[[Burn]]
+[[Wound healing]]
+[[Scaffold]]
+[[Stem Cells]]
+[[Scarring]]

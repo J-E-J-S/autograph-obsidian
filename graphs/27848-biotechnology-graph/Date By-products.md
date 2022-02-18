@@ -1,0 +1,3 @@
+[[Enzymes]]
+[[Aspergillus niger]]
+[[Extracellular]]

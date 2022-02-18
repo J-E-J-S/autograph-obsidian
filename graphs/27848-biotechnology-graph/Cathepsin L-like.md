@@ -1,0 +1,5 @@
+[[Bombyx mori]]
+[[20-hydroxyecdysone]]
+[[Expression profile]]
+[[Polyclonal antibody]]
+[[innate immunity]]

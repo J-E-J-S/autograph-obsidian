@@ -1,0 +1,7 @@
+[[Arabidopsis thaliana]]
+[[auxin]]
+[[Jasmonate]]
+[[Ninja]]
+[[Thalianol]]
+[[Thalianol Acyltransferase 2 (Thaa2)]]
+[[Thalianol Synthase (Thas)]]

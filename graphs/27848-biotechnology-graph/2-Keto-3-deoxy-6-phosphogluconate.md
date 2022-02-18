@@ -1,0 +1,6 @@
+[[Metabolite]]
+[[Caulobacter Crescentus]]
+[[6-Phosphogluconate]]
+[[Entner-doudoroff Pathway]]
+[[Biocatalytic Dehydration]]
+[[6-Phosphogluconate Dehydratase]]

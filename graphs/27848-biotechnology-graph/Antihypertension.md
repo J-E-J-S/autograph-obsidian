@@ -1,0 +1,5 @@
+[[Antioxidant]]
+[[Molecular docking]]
+[[Angiotensin converting enzyme]]
+[[Ginsenosides]]
+[[Insulin resistance]]

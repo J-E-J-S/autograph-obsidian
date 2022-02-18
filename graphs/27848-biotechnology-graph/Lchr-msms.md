@@ -1,0 +1,5 @@
+[[Cytotoxic activity]]
+[[Verbascoside]]
+[[Saponin Glycosides]]
+[[Verbascum Nigrum]]
+[[Lc/hr-ms/ms]]

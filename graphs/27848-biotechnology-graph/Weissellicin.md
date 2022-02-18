@@ -1,0 +1,5 @@
+[[Bacillus subtilis]]
+[[Synthetic peptide]]
+[[Bacteriocin]]
+[[Recombinant Peptide]]
+[[Weissella Confusa]]

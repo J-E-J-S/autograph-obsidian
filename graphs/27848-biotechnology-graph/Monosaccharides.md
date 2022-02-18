@@ -1,0 +1,5 @@
+[[Poplar]]
+[[Enzymatic hydrolysis]]
+[[Sulfuric Acid]]
+[[Xylooligosaccharides]]
+[[Hpac Pretreatment]]

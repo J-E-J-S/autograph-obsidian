@@ -1,0 +1,5 @@
+[[Microglia]]
+[[Ischemic stroke]]
+[[neutrophil]]
+[[Cxcl2]]
+[[U90926]]

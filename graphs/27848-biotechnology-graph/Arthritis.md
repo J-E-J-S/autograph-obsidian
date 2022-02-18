@@ -1,0 +1,7 @@
+[[Rheumatoid]]
+[[Biological Therapy]]
+[[Interleukin 1 Receptor Antagonist Protein]]
+[[Health care]]
+[[Still's Disease]]
+[[Outcome And Process Assessment]]
+[[Adult-onset]]

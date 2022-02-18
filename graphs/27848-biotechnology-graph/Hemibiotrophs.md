@@ -1,0 +1,8 @@
+[[HR]]
+[[R Genes]]
+[[Pamps]]
+[[Necrotrophs]]
+[[Biotrophs]]
+[[Effectors]]
+[[Eti]]
+[[Pti]]

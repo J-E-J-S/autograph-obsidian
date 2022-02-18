@@ -1,0 +1,5 @@
+[[Sorghum]]
+[[Parasitic Plants]]
+[[Pre-attachment Resistance And Radicle Length]]
+[[Low Germination Stimulant 1]]
+[[Lgs1]]

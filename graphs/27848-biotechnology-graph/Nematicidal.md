@@ -1,0 +1,6 @@
+[[Biocontrol]]
+[[Inoculation methods]]
+[[Plant pathogens]]
+[[antifungal]]
+[[Antagonist Improvement]]
+[[Enthomopatogenic]]

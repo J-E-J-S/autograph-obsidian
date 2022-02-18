@@ -1,0 +1,6 @@
+[[Aging]]
+[[Affinity purification]]
+[[Streptavidin]]
+[[colocalization]]
+[[Bud Scar]]
+[[Aged Cells]]

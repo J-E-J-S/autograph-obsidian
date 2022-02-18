@@ -1,0 +1,7 @@
+[[Feed additive]]
+[[calf]]
+[[Starter Mixture]]
+[[Small intestine]]
+[[Butyrate]]
+[[Feed additive]]
+[[Rumen]]

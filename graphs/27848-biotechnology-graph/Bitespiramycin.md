@@ -1,0 +1,3 @@
+[[Biosynthesis]]
+[[Biotransformation]]
+[[Regulatory gene]]

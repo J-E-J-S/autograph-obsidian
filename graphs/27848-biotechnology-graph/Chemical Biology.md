@@ -1,0 +1,6 @@
+[[Ubiquinone]]
+[[Inhibitor]]
+[[Respiratory chain]]
+[[Bioenergetics]]
+[[Na(+)-nqr]]
+[[Korormicin]]

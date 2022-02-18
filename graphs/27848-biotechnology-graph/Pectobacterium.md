@@ -1,0 +1,5 @@
+[[Bacillus]]
+[[Biocontrol]]
+[[Soft rot]]
+[[Quorum sensing]]
+[[Quorum Quenching]]

@@ -1,0 +1,6 @@
+[[Recombinant protein]]
+[[Transient expression]]
+[[Insect cells]]
+[[protein interactions]]
+[[virus-like particle]]
+[[Molecular Farming]]

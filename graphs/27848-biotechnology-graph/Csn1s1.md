@@ -1,0 +1,5 @@
+[[Mammary gland]]
+[[Inflammation]]
+[[Dairy cattle]]
+[[Staphylococci]]
+[[Csn3]]

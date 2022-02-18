@@ -1,0 +1,7 @@
+[[Human]]
+[[Immunocytochemistry]]
+[[Antibody]]
+[[Trophoblast tumor]]
+[[HLA-G]]
+[[Jeg-3 Cells]]
+[[Mem-g/9]]

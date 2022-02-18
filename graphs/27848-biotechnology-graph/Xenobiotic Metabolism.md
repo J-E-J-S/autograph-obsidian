@@ -1,0 +1,7 @@
+[[Glycosylation]]
+[[Agricultural Herbicide]]
+[[Cinmethylin]]
+[[Leloir Glycosyltransferase]]
+[[Glutathione transferase]]
+[[Abiotic stress]]
+[[biotic stress]]

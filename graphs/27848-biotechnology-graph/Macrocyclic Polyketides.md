@@ -1,0 +1,5 @@
+[[Penicillin-binding Protein]]
+[[Multidrug-resistant Pathogens]]
+[[Type-i Polyketide Synthase]]
+[[Intertidal Red Algae Hypnea Valentiae]]
+[[Heterotrophic Shewanella Algae]]

@@ -1,0 +1,6 @@
+[[Thermoplasmatales]]
+[[Mine-impacted Environments]]
+[[Acid Mine Drainage Systems]]
+[[Acidophilic Archaea And Bacteria]]
+[[“Candidatus Micrarchaeota”]]
+[[Unclassified Euryarchaeota/Terrestrial Miscellaneous Euryarchaeotal Group]]

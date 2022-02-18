@@ -1,0 +1,6 @@
+[[Vitis vinifera]]
+[[Grapevine]]
+[[Arbuscular mycorrhizal fungi]]
+[[Methyl Salicylate]]
+[[Volatile Organic Compound]]
+[[Funneliformis Mosseae]]

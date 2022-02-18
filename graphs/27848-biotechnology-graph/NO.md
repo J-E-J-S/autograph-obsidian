@@ -1,0 +1,6 @@
+[[Photosynthesis]]
+[[Nutrient elements]]
+[[Barley (Hordeum vulgare L.)]]
+[[Reactive oxygen metabolism]]
+[[Cd stress]]
+[[Strigolactone Gr24]]

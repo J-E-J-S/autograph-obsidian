@@ -1,0 +1,8 @@
+[[Xylanase]]
+[[Catalytic domain]]
+[[Directed evolution]]
+[[metagenome]]
+[[PKA]]
+[[Acid hydrolysis]]
+[[Techno-economic Analysis]]
+[[Combined Severity]]

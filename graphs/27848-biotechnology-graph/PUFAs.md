@@ -1,0 +1,8 @@
+[[Molecular docking]]
+[[Wound healing]]
+[[Gpr120]]
+[[Pinocembrin]]
+[[Ffa4]]
+[[Hacat Cell Line]]
+[[Tug-891]]
+[[Pancreatic Porcine Lipase]]

@@ -1,0 +1,6 @@
+[[Chitosan]]
+[[Kinetic study]]
+[[Antibacterial activities]]
+[[Drug release]]
+[[alginate]]
+[[Core-shell Nanoparticles]]

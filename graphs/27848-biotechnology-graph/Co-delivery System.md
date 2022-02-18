@@ -1,0 +1,6 @@
+[[Multidrug resistance]]
+[[Pamam Dendrimers]]
+[[Hyaluronic Acid (Ha)]]
+[[Doxorubicin Base (Dox)]]
+[[Mixed Dendrimer Micelles (Mdms)]]
+[[Simdr-1]]

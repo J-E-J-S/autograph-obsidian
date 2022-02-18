@@ -1,0 +1,7 @@
+[[Biomarkers]]
+[[idiopathic pulmonary fibrosis]]
+[[Transcriptomics]]
+[[Pathway analysis]]
+[[Network Analysis]]
+[[Ipf]]
+[[Transport Protein]]

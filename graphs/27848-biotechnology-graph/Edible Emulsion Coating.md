@@ -1,0 +1,5 @@
+[[Guar Gum]]
+[[Starch Retrogradation]]
+[[Grapefruit Seed Extract]]
+[[Staling]]
+[[Mung Bean Starch]]

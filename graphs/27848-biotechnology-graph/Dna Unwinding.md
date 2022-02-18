@@ -1,0 +1,7 @@
+[[Corynebacterium]]
+[[DNA replication]]
+[[Protein-DNA interaction]]
+[[ATP hydrolysis]]
+[[Bacteriophage]]
+[[Helicase]]
+[[Replication Protein]]

@@ -1,0 +1,6 @@
+[[spike]]
+[[Covid-19]]
+[[Sars-cov-2]]
+[[S:t478k]]
+[[Spike:t478k]]
+[[T478k]]

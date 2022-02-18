@@ -1,0 +1,6 @@
+[[Radiosensitivity]]
+[[Irf1]]
+[[Colorectal Cancer]]
+[[Gene Expression]]
+[[Prognostic Indicator]]
+[[Lrig1]]

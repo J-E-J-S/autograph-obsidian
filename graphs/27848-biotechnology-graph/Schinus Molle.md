@@ -1,0 +1,6 @@
+[[DNA]]
+[[Protein]]
+[[Anti-inflammatory]]
+[[Schinus Terebinthifolius]]
+[[Hplc–dad–esi–ms/ms]]
+[[Antidiabetic Antinociceptive]]

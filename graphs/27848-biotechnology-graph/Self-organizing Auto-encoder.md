@@ -1,0 +1,5 @@
+[[miRNA]]
+[[Kidney cancer]]
+[[Neuro-fuzzy System]]
+[[Deep Learning]]
+[[The Cancer Genome Atlas (Tcga)]]

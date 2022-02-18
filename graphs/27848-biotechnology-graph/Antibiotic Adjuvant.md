@@ -1,0 +1,5 @@
+[[solid-phase peptide synthesis]]
+[[Glucose-dependent Insulinotropic Polypeptide]]
+[[Efflux Pump Inhibitors]]
+[[Mean Inhibitory Concentration]]
+[[Potentiation Of Antimicrobial Activity]]

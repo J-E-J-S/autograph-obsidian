@@ -1,0 +1,6 @@
+[[Signal detection]]
+[[Adverse drug reaction]]
+[[Drug safety]]
+[[Pharmacovigilance]]
+[[Social Media]]
+[[Covid-19]]

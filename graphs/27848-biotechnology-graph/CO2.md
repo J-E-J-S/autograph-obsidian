@@ -1,0 +1,5 @@
+[[Light]]
+[[Carbon dioxide]]
+[[Abscisic acid]]
+[[Stomata]]
+[[Guard cells]]

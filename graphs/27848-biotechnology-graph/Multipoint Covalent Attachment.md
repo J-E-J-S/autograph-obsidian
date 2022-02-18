@@ -1,0 +1,8 @@
+[[Enzyme immobilization]]
+[[Tris Buffer]]
+[[Enzyme Stabilization]]
+[[Glyoxyl Agarose]]
+[[Enzyme immobilization]]
+[[Enzyme Stabilization]]
+[[Glyoxyl Agarose]]
+[[Steric Hindrances]]

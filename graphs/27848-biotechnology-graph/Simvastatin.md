@@ -1,0 +1,5 @@
+[[Zebrafish]]
+[[Reverse transcriptase polymerase chain reaction]]
+[[Ellagic acid]]
+[[Iodoacetamide]]
+[[Steatosis]]

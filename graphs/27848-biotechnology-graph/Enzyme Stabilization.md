@@ -1,0 +1,8 @@
+[[Enzyme immobilization]]
+[[Tris Buffer]]
+[[Multipoint Covalent Attachment]]
+[[Glyoxyl Agarose]]
+[[Enzyme immobilization]]
+[[Multipoint Covalent Attachment]]
+[[Glyoxyl Agarose]]
+[[Steric Hindrances]]

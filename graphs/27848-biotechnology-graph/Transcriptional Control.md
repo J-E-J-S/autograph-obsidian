@@ -1,0 +1,5 @@
+[[Enzyme kinetics]]
+[[Escherichia Coli]]
+[[metabolic engineering]]
+[[Constraint-based Modeling]]
+[[Protein Allocation]]

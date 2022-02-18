@@ -1,0 +1,5 @@
+[[BDNF]]
+[[Anxiety-like behavior]]
+[[Hypothalamic–pituitary–adrenal Axis]]
+[[Depression-like Behavior]]
+[[Puerariae Flos Extract]]

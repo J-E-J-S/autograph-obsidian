@@ -1,0 +1,6 @@
+[[Saccharomyces cerevisiae]]
+[[Papaverine]]
+[[K562]]
+[[Chronic myeloid leukemia]]
+[[Docking]]
+[[Drug Repositioning]]

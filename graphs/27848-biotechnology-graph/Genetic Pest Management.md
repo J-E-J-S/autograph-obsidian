@@ -1,0 +1,8 @@
+[[Neurotoxin]]
+[[Tet-off]]
+[[Non-cell-autonomous]]
+[[Ridl]]
+[[Genetic Biocontrol]]
+[[Sterile Insect Technique (Sit)]]
+[[Head Involution Defective (Hid)]]
+[[Tetracycline Transactivator (Tta)]]

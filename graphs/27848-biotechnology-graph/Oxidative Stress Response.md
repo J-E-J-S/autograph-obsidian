@@ -1,0 +1,5 @@
+[[Carbon metabolism]]
+[[Hypsizygus marmoreus]]
+[[Fruiting Body Development]]
+[[Zn(ii)2cys6 Transcription Factor]]
+[[Mitochondrial Stability]]

@@ -1,0 +1,8 @@
+[[Paeonia lactiflora]]
+[[Ulcerative colitis]]
+[[COX2]]
+[[paeoniflorin]]
+[[Allergic asthma]]
+[[Airway inflammation]]
+[[Mucus Hypersecretion]]
+[[Daphne Pseudomezereum Var. Koreana Hamaya]]

@@ -1,0 +1,4 @@
+[[Sesquiterpene]]
+[[Farnesol]]
+[[Docking]]
+[[antihypertensive]]

@@ -1,0 +1,5 @@
+[[Mitochondria]]
+[[Resistance]]
+[[Deltamethrin]]
+[[knockdown resistance]]
+[[Salmon Lice]]

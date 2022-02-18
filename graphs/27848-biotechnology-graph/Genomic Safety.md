@@ -1,0 +1,5 @@
+[[Toxicity]]
+[[Property]]
+[[Probiotics]]
+[[Bacillus coagulans]]
+[[Safety evaluation]]

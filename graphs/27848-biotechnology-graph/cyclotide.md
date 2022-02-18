@@ -1,0 +1,5 @@
+[[Peptide]]
+[[Transpeptidation]]
+[[Enzyme]]
+[[Ligase]]
+[[Asparaginyl Endopeptidase]]

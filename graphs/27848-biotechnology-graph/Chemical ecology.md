@@ -1,0 +1,5 @@
+[[Absorption]]
+[[Diffusion]]
+[[Semiochemical]]
+[[Soil Chemistry]]
+[[Belowground Interaction]]

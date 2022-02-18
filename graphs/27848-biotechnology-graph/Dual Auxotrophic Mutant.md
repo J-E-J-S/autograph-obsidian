@@ -1,0 +1,5 @@
+[[Genetic engineering]]
+[[Aspergillus oryzae]]
+[[Agrobacterium-mediated Transformation System]]
+[[Hisb Selectable Marker]]
+[[Pyrg Selectable Marker]]

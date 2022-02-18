@@ -1,0 +1,5 @@
+[[miRNA]]
+[[Kidney cancer]]
+[[Neuro-fuzzy System]]
+[[Deep Learning]]
+[[Self-organizing Auto-encoder]]

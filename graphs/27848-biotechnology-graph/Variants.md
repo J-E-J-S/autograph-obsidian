@@ -1,0 +1,3 @@
+[[Resistance]]
+[[Inhibitor]]
+[[Ndm]]

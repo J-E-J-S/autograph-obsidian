@@ -1,0 +1,8 @@
+[[Thermal stability]]
+[[Nuclear magnetic resonance]]
+[[NMR]]
+[[Alginate lyase]]
+[[Dhf]]
+[[Biorefining]]
+[[Deh]]
+[[Exo-activity]]

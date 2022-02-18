@@ -1,0 +1,5 @@
+[[Pseudomonas]]
+[[Biocontrol]]
+[[Sustainable agriculture]]
+[[PGPR]]
+[[Antagonistic]]

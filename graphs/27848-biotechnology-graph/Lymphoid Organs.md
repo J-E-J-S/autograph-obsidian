@@ -1,0 +1,5 @@
+[[Disease resistance]]
+[[Cyprinus carpio]]
+[[Aeromonas hydrophila]]
+[[Immune modulation]]
+[[Aeromonas Veronii]]

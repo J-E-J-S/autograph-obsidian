@@ -1,0 +1,5 @@
+[[Metabolomics]]
+[[Plant Growth Promotion (Pgp)]]
+[[Bacterial Endophytes]]
+[[Rice Productivity]]
+[[Seed-transmitted Endophytes]]

@@ -1,0 +1,5 @@
+[[Lactic acid bacteria]]
+[[Shotgun sequencing]]
+[[spontaneous fermentation]]
+[[Substrate Degradation]]
+[[Liquor Starter]]

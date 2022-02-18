@@ -1,0 +1,6 @@
+[[Preservation]]
+[[Staphylococcus aureus]]
+[[Antimicrobial mechanism]]
+[[Escherichia Coli]]
+[[Electrospun Nanofibers]]
+[[Alkyl Gallates]]

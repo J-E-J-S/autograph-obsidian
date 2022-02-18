@@ -1,0 +1,5 @@
+[[Rhizosphere]]
+[[Secondary metabolites]]
+[[Chemical Defence]]
+[[soil nematodes]]
+[[Root Lesion Nematode]]

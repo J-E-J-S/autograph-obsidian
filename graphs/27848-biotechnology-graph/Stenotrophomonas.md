@@ -1,0 +1,8 @@
+[[Multidrug resistance]]
+[[virulence factors]]
+[[Whole-genome Sequencing]]
+[[Antimicrobial Resistance Genes]]
+[[Biodegradation]]
+[[Bioremediation]]
+[[LDPE]]
+[[Achromobacter]]

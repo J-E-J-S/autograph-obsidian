@@ -1,0 +1,6 @@
+[[Regulation]]
+[[Biofilm]]
+[[Stress response]]
+[[Rpon]]
+[[Rpos]]
+[[Shewanella Baltica]]

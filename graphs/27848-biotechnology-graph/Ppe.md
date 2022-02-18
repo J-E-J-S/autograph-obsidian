@@ -1,0 +1,4 @@
+[[Genome]]
+[[Resistance]]
+[[PE]]
+[[Pza]]

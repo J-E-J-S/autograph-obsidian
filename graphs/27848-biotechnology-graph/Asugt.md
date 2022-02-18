@@ -1,0 +1,5 @@
+[[Saccharomyces cerevisiae]]
+[[Phenolic glycoside]]
+[[metabolic engineering]]
+[[gastrodin]]
+[[Chromosomal Integration]]

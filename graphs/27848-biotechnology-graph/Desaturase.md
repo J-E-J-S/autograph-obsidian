@@ -1,0 +1,5 @@
+[[Biosynthetic pathway]]
+[[Bidens pilosa]]
+[[Polyacetylenes]]
+[[Omics]]
+[[Acetylenase]]

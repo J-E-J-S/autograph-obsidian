@@ -1,0 +1,7 @@
+[[Agarase]]
+[[Gene Gain]]
+[[Polysaccharide Utilization Loci]]
+[[Metabolic Versatility]]
+[[Agar Metabolism]]
+[[Gh96]]
+[[Novel Auxiliary Pathway]]

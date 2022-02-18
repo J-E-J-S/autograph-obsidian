@@ -1,0 +1,5 @@
+[[QSAR]]
+[[Partial least squares]]
+[[drug discovery]]
+[[Electron Affinity]]
+[[Molecular Field Descriptors]]

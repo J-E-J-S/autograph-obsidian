@@ -1,0 +1,8 @@
+[[Metabolic pathway]]
+[[Biodegradation]]
+[[Organophosphate]]
+[[GCMS]]
+[[pesticide]]
+[[chlorpyrifos]]
+[[5]]
+[[3]]

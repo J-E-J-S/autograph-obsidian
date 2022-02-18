@@ -1,0 +1,5 @@
+[[Tuberculosis]]
+[[Antimicrobial resistance]]
+[[drug targets]]
+[[drug discovery]]
+[[Anti-tubercular Drugs]]

@@ -1,0 +1,7 @@
+[[Microbial Protease]]
+[[Brevibacterium Luteolum]]
+[[Dehairing Goat Skin]]
+[[Oleaginous Yeast]]
+[[Stable Emulsion]]
+[[Meyerozyma Caribbica]]
+[[High Molecular Weight Bioemulsifier]]

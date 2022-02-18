@@ -1,0 +1,5 @@
+[[Saccharomyces cerevisiae]]
+[[industry application]]
+[[Rim15]]
+[[Biofilm-based Fermentation]]
+[[Calcium Alginate-immobilised Fermentation]]

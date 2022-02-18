@@ -1,0 +1,5 @@
+[[Genetic diversity]]
+[[Auxotrophy]]
+[[Biosynthesis Pathways And Regulation]]
+[[Cobamide-producing Strains]]
+[[Coenzyme B12 Family Cofactors]]

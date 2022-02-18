@@ -1,0 +1,7 @@
+[[Fermentation]]
+[[lactobacillus]]
+[[Watermelon Juice]]
+[[Sodium Chloride (Pubchem Cid: 5234)]]
+[[Acetic Acid (Pubchem Cid: 176)]]
+[[Consumer Sensory Acceptability]]
+[[2-Octanol (Pubchem Cid: 20083)]]

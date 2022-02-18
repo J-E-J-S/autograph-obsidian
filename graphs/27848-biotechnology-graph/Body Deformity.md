@@ -1,0 +1,5 @@
+[[Muscles]]
+[[Bighead carp]]
+[[Transcriptome]]
+[[vertebrae]]
+[[Differentially Expressed Genes (Degs)]]

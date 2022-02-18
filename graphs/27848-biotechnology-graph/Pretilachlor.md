@@ -1,0 +1,5 @@
+[[Echinochloa crusgalli]]
+[[Antioxidant enzyme]]
+[[GST activity]]
+[[Herbicide Metabolism]]
+[[Fenclorim]]

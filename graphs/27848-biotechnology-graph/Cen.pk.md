@@ -1,0 +1,7 @@
+[[Gene amplification]]
+[[Saccharomyces cerevisiae]]
+[[DNA double-strand break]]
+[[gene targeting]]
+[[metabolic engineering]]
+[[Homology-directed Recombination]]
+[[I-scei Nuclease]]

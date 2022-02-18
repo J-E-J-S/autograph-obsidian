@@ -1,0 +1,5 @@
+[[Intraperitoneal]]
+[[signaling pathways]]
+[[renal ischemia/reperfusion]]
+[[Gavage]]
+[[Gamma-oryzanol]]

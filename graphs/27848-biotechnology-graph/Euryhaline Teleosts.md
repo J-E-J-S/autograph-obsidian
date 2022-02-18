@@ -1,0 +1,5 @@
+[[Osmoregulation]]
+[[Flotillin]]
+[[Na(+)]]
+[[K(+)-atpase]]
+[[V-type H(+)-atpase]]

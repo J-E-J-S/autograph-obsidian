@@ -1,0 +1,8 @@
+[[Pesticides]]
+[[Imidacloprid]]
+[[Zebrafish]]
+[[Combined toxicity]]
+[[Transformation]]
+[[Simulated Gastric Fluid]]
+[[Physicochemical Alterations]]
+[[Enhanced Hepatic Cytotoxicity]]

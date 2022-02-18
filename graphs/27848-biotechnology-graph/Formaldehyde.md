@@ -1,0 +1,8 @@
+[[Methanol]]
+[[Detoxification]]
+[[Lignin Valorization]]
+[[C1 Metabolism]]
+[[Synthetic Methylotroph]]
+[[Acetaldehyde]]
+[[Food]]
+[[Cooking Method]]

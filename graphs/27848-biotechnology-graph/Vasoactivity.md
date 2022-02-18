@@ -1,0 +1,7 @@
+[[Hypertension]]
+[[Quercetin]]
+[[Molecular docking]]
+[[Lipoic acid]]
+[[Ca(v)1.2 Channel]]
+[[Ester-based Derivatives]]
+[[K(ca)1.1 Channel]]

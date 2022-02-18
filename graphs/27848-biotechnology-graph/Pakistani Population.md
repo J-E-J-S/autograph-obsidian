@@ -1,0 +1,7 @@
+[[Mutations]]
+[[Consanguineous]]
+[[Intellectual Disability]]
+[[Whole Exome Sequencing]]
+[[Type 2 diabetes]]
+[[Susceptibility Loci]]
+[[Gwas Significant Snps]]

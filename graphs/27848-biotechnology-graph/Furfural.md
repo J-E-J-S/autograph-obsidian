@@ -1,0 +1,6 @@
+[[Precursor]]
+[[Formation Pathway]]
+[[Zhenjiang Aromatic Vinegar]]
+[[Biotransformation]]
+[[Acinetobacter]]
+[[Acetate]]

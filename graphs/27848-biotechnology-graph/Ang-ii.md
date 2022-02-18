@@ -1,0 +1,7 @@
+[[ANP]]
+[[hypertrophy]]
+[[Paxillin]]
+[[JNK]]
+[[Nfatc3]]
+[[Mir-145-5p]]
+[[Rac- 1]]

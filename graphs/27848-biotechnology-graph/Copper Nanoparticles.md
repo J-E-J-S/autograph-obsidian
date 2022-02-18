@@ -1,0 +1,5 @@
+[[Aspergillus niger]]
+[[Characterization]]
+[[Enzyme inhibition]]
+[[Anti-bacterial]]
+[[Anti-cancerous]]

@@ -1,0 +1,8 @@
+[[computer-aided design]]
+[[metabolic engineering]]
+[[Phytochemicals]]
+[[Rna-interference]]
+[[Genome Editing]]
+[[Crispr-cas]]
+[[Antimicrobial Resistance (Amr)]]
+[[Phyto-antimicrobials]]

@@ -1,0 +1,8 @@
+[[Microencapsulation]]
+[[Probiotics]]
+[[Prebiotics]]
+[[Freeze-drying]]
+[[Spray Drying]]
+[[Dietary Fibers]]
+[[Non-dairy Based Synbiotics]]
+[[Fiber-based Synbiotics]]

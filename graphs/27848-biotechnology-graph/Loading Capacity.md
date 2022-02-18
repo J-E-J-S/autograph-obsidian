@@ -1,0 +1,6 @@
+[[Lactoferrin]]
+[[microcapsules]]
+[[In vitro digestion]]
+[[Layer-by-layer Assembly]]
+[[Retention Efficiency]]
+[[Surface Reacted Calcium Carbonate]]

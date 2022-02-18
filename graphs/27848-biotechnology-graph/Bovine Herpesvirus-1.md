@@ -1,0 +1,6 @@
+[[Neuronal cell culture]]
+[[Bohv-1]]
+[[Nectin-2]]
+[[Nectin-1]]
+[[Fbbc-1]]
+[[Bovine Neurons]]

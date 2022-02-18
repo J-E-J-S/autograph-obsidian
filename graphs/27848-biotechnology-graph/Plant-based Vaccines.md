@@ -1,0 +1,6 @@
+[[Human papillomavirus]]
+[[Cervical cancer]]
+[[L1 gene]]
+[[Biopharmaceuticals]]
+[[Capsomeres]]
+[[Ethanol-inducible System]]

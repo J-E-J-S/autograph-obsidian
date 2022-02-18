@@ -1,0 +1,8 @@
+[[Characterization]]
+[[Phytic acid]]
+[[Solid-state fermentation]]
+[[Nutritional Enhancement]]
+[[Dephytinization]]
+[[Secretion]]
+[[Pichia pastoris]]
+[[heterologous expression]]

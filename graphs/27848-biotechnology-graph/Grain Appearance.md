@@ -1,0 +1,6 @@
+[[Rice]]
+[[Wx]]
+[[Amylose Content (Ac)]]
+[[Eating And Cooking Quality (Ecq)]]
+[[Cytosine Base Editing]]
+[[Adenine Base Editing]]

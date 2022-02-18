@@ -1,0 +1,5 @@
+[[Proton efflux]]
+[[Biofilms Formation]]
+[[Intracellular Buffering]]
+[[Acid-resistant Components]]
+[[Reversal Of Membrane Potential]]

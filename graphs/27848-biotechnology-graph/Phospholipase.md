@@ -1,0 +1,8 @@
+[[Bacillus subtilis]]
+[[Immobilization]]
+[[Phosphatidylserine]]
+[[Transphosphatidylation]]
+[[Phospholipids]]
+[[FFA]]
+[[lipid droplets]]
+[[Fsh1]]

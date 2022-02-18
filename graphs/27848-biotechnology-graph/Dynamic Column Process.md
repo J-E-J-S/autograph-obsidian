@@ -1,0 +1,5 @@
+[[gold nanoparticles]]
+[[Microwave-assisted Synthesis]]
+[[Dye Discoloration]]
+[[Nanocellulose Foams]]
+[[Batch Process]]

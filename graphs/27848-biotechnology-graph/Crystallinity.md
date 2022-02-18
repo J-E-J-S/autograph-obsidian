@@ -1,0 +1,8 @@
+[[Hydrophobicity]]
+[[Lignocellulose degradation]]
+[[Hydrophobin]]
+[[Gene Induction]]
+[[Redox Enzymes]]
+[[Plastic Waste]]
+[[Cutinases]]
+[[Gene And Protein Engineering]]

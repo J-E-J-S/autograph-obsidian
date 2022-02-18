@@ -1,0 +1,5 @@
+[[Gelatin]]
+[[Food allergy]]
+[[Red wine]]
+[[Fining Agent]]
+[[Albumen]]

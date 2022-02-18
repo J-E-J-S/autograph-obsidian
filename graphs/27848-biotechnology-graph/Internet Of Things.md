@@ -1,0 +1,5 @@
+[[Sensors]]
+[[Point-of-care Testing]]
+[[Wearables]]
+[[Decentralized Supply Chain]]
+[[Blockchain]]

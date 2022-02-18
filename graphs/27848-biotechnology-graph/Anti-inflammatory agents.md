@@ -1,0 +1,8 @@
+[[Anticancer drugs]]
+[[Cox-2 Inhibitors]]
+[[2-Pyrazolines]]
+[[Cell culture]]
+[[Phenolic compounds]]
+[[Animal model]]
+[[Phenolic acids]]
+[[Dietary (Poly)phenols]]

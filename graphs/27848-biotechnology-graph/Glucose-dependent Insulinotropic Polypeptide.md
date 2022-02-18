@@ -1,0 +1,5 @@
+[[solid-phase peptide synthesis]]
+[[Efflux Pump Inhibitors]]
+[[Antibiotic Adjuvant]]
+[[Mean Inhibitory Concentration]]
+[[Potentiation Of Antimicrobial Activity]]

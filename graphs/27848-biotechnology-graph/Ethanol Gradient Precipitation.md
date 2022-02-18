@@ -1,0 +1,4 @@
+[[Biomass]]
+[[Inulinase]]
+[[inulin]]
+[[Inulooligosaccharides]]

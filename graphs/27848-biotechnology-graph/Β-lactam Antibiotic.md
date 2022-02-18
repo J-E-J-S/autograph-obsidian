@@ -1,0 +1,5 @@
+[[Fatty acid]]
+[[Biofilm]]
+[[MRSA]]
+[[Phenol-soluble Modulins]]
+[[Persister Cell]]

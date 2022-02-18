@@ -1,0 +1,5 @@
+[[Terephthalic acid]]
+[[Humicola insolens]]
+[[Cutinase]]
+[[Enzymatic Depolymerization]]
+[[Pet Recycling]]

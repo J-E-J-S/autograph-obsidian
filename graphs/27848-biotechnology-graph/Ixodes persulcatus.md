@@ -1,0 +1,5 @@
+[[16S rRNA]]
+[[Borrelia burgdorferi]]
+[[Enzymatic activity]]
+[[Tick]]
+[[Methionine Aminopeptidase]]

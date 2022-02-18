@@ -1,0 +1,7 @@
+[[Catalase]]
+[[Corynebacterium glutamicum]]
+[[heterologous expression]]
+[[Alkali Resistance]]
+[[heterologous expression]]
+[[Sucrose Phosphorylase]]
+[[Leuconostoc Mesenterides]]

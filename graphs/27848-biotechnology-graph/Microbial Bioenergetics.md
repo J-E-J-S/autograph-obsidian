@@ -1,0 +1,7 @@
+[[Sucrose]]
+[[ATP]]
+[[Chemostat]]
+[[Directed evolution]]
+[[Membrane Transport]]
+[[substrate uptake]]
+[[Energy Coupling]]

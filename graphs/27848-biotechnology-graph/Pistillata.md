@@ -1,0 +1,6 @@
+[[Arabidopsis thaliana]]
+[[Lilium longiflorum]]
+[[fluorescence resonance energy transfer]]
+[[Apetala3]]
+[[Heterotetrameric Complex]]
+[[B Function Mads Box Genes]]

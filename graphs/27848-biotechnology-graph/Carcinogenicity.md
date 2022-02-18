@@ -1,0 +1,5 @@
+[[Metformin]]
+[[Ranitidine]]
+[[Sartans]]
+[[Ndea]]
+[[Ndma]]

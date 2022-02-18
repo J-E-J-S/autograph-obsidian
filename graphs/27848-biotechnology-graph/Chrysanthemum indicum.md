@@ -1,0 +1,5 @@
+[[Chloroplast DNA]]
+[[Trichomes]]
+[[Snp Marker]]
+[[Multiplex Allele-specific Pcr]]
+[[Rpoc2]]

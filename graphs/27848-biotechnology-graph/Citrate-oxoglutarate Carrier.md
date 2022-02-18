@@ -1,0 +1,5 @@
+[[Mortierella alpina]]
+[[Lipid accumulation]]
+[[Nad+-isocitrate Dehydrogenase]]
+[[GABA shunt]]
+[[Glutamate Dehydrogenase Shunt]]

@@ -1,0 +1,5 @@
+[[Bacillus amyloliquefaciens]]
+[[Microbial transglutaminase]]
+[[Food Enzymes]]
+[[Bicistronic Plasmid System]]
+[[Do-stat]]

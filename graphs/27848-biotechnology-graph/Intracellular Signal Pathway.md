@@ -1,0 +1,5 @@
+[[Polysaccharide]]
+[[structural characteristic]]
+[[Tube formation]]
+[[Cells Migration]]
+[[Bangia Fusco-purpurea]]

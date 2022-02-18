@@ -1,0 +1,5 @@
+[[Hairy root Culture]]
+[[heterologous expression]]
+[[Synthetic Biology]]
+[[Atropa Belladonna]]
+[[Curcuminoid Synthases]]

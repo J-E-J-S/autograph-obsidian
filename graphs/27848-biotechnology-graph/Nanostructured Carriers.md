@@ -1,0 +1,7 @@
+[[Enzyme immobilization]]
+[[Detergent]]
+[[Organic synthesis]]
+[[Lipases]]
+[[Cosmetics]]
+[[Food Industry]]
+[[Textile]]

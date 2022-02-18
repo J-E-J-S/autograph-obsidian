@@ -1,0 +1,8 @@
+[[Pesticides]]
+[[Biological nitrogen fixation]]
+[[Inoculant]]
+[[Bradyrhizobium]]
+[[Flooding]]
+[[Drought]]
+[[Transcriptomic Adaptation]]
+[[Overlapping Regulation]]

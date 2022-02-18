@@ -1,0 +1,6 @@
+[[Biological activity]]
+[[L-tryptophan]]
+[[Violacein]]
+[[Indole Derivative]]
+[[Chromobacter Violaceum]]
+[[Vioabcde]]

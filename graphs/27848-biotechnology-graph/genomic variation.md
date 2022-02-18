@@ -1,0 +1,5 @@
+[[Genome annotation]]
+[[Synteny]]
+[[Genome Assembly]]
+[[Leaf Beet]]
+[[Cultigroup]]

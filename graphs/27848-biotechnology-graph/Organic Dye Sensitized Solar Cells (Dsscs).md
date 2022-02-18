@@ -1,0 +1,6 @@
+[[Structure-property Relationship]]
+[[Uv–vis Spectrum]]
+[[Feature Engineering]]
+[[Organic Dye Digital Structures]]
+[[Surrogate Model For New Organic Dye Design]]
+[[Time-dependent Density Functional Theory (Td-dft) Calculations]]

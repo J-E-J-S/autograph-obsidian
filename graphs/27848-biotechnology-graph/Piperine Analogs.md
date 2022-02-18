@@ -1,0 +1,5 @@
+[[Multidrug resistance]]
+[[P-glycoprotein]]
+[[CYP3A4]]
+[[computer-aided drug design]]
+[[Anticancer drug]]

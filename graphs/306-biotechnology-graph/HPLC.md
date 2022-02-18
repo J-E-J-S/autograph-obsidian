@@ -1,0 +1,5 @@
+[[Plant growth regulators]]
+[[PCR]]
+[[Southern blot]]
+[[Zygotic embryo]]
+[[Transgenic]]

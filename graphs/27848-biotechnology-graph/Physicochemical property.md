@@ -1,0 +1,8 @@
+[[Digestibility]]
+[[Simulated Intestinal Fluid]]
+[[Turanose]]
+[[Functional Sweetener]]
+[[Cucurbita moschata]]
+[[Nutritional component]]
+[[Human health]]
+[[Functional property]]

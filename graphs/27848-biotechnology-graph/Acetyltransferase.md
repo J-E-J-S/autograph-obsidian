@@ -1,0 +1,5 @@
+[[Mycobacterium tuberculosis]]
+[[Drug resistance]]
+[[Acetylation]]
+[[Docking]]
+[[isoniazid]]

@@ -1,0 +1,5 @@
+[[Bacteria]]
+[[Activity]]
+[[Pseudomonas]]
+[[Lipase]]
+[[Detergent]]

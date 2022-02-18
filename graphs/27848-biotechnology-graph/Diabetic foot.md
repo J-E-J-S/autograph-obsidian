@@ -1,0 +1,6 @@
+[[Drugs]]
+[[Cancer]]
+[[Multiple drug resistance]]
+[[pathogens]]
+[[Antidiabetic]]
+[[Bacterial resistance]]

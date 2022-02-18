@@ -1,0 +1,7 @@
+[[Interleukin 6]]
+[[Fgf23]]
+[[Orphan nuclear receptor]]
+[[Apoptosis]]
+[[Thioredoxin]]
+[[Oxidative stress]]
+[[Inflammation]]

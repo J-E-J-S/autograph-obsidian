@@ -1,0 +1,6 @@
+[[Plasmodesmata]]
+[[Callose]]
+[[endodermis]]
+[[Lateral Root Emergence]]
+[[Lateral Root Primordium]]
+[[Symplasmic Domain]]

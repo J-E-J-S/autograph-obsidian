@@ -1,0 +1,5 @@
+[[Hairy root]]
+[[Trigonella foenum-graecum]]
+[[Fenugreek]]
+[[Agrobacterium Rhizogenes Transformation]]
+[[Triterpene Saponin Activating Regulator]]

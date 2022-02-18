@@ -1,0 +1,5 @@
+[[Food chain]]
+[[Colistin]]
+[[Mcr-1]]
+[[St34]]
+[[Salmonella Enterica Serovar 4, [5], 12:I:-]]

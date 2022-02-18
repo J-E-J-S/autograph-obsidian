@@ -1,0 +1,7 @@
+[[Synthesis]]
+[[Antimicrobial]]
+[[Topoisomerase Iv]]
+[[Dna Gyrase]]
+[[Coumarin-pyridine]]
+[[Coumarin-pyrimidine]]
+[[Mic And Mbc Activities]]

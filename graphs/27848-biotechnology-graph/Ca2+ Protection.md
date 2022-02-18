@@ -1,0 +1,5 @@
+[[Oryza sativa]]
+[[NaCl Stress]]
+[[14-3-3 protein]]
+[[Oscipk]]
+[[Pm H+atpase]]

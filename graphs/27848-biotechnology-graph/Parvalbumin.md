@@ -1,0 +1,6 @@
+[[Fungi]]
+[[Polymerase chain reaction (PCR)]]
+[[DNA sequence]]
+[[Molecular diagnosis]]
+[[In silico]]
+[[Trichophyton Violaceum]]

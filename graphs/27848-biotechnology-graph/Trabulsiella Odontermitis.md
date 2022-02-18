@@ -1,0 +1,5 @@
+[[Cellulase]]
+[[Termite]]
+[[Endoglucanase]]
+[[Agricultural waste]]
+[[synergistic effect]]

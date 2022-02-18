@@ -1,0 +1,5 @@
+[[Genome]]
+[[Phylogeny]]
+[[Polyphasic Approach]]
+[[Plant Growth-promoting Potential]]
+[[Variovorax Beijingensis]]

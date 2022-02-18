@@ -1,0 +1,5 @@
+[[Morphology]]
+[[Cell growth]]
+[[Candida guilliermondii]]
+[[yeasts]]
+[[Colony Forming]]

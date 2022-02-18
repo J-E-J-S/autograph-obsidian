@@ -1,0 +1,5 @@
+[[Artificial intelligence]]
+[[Biomedical Waste Management]]
+[[Biomedical Waste]]
+[[Environmental Damage]]
+[[Covid-19]]

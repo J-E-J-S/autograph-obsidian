@@ -1,0 +1,8 @@
+[[Molecular docking]]
+[[Wound healing]]
+[[PUFAs]]
+[[Gpr120]]
+[[Pinocembrin]]
+[[Ffa4]]
+[[Hacat Cell Line]]
+[[Tug-891]]

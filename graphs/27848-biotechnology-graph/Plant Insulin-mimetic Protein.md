@@ -1,0 +1,2 @@
+[[Diabetes mellitus]]
+[[Hypoglycemic activity]]

@@ -1,0 +1,5 @@
+[[Gastrointestinal tract]]
+[[Inflammation]]
+[[Parkinson’s Disease]]
+[[Motor Impairment]]
+[[Enteric Microbiota]]

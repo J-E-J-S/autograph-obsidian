@@ -1,0 +1,2 @@
+[[Synthesis]]
+[[Anti-inflammatory activity]]

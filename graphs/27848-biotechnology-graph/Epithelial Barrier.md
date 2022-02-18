@@ -1,0 +1,8 @@
+[[Intestine]]
+[[Tight junction]]
+[[pterostilbene]]
+[[Myosin Light-chain Kinase]]
+[[ROS]]
+[[Oxidative DNA damage]]
+[[Pyrolysis Temperature]]
+[[Micro-biochars]]

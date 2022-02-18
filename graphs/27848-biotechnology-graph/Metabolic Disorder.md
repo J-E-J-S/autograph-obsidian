@@ -1,0 +1,5 @@
+[[Diabetes mellitus]]
+[[hyperglycemia]]
+[[Anti-diabetic Drugs]]
+[[Brown Marine Algae]]
+[[Red Marine Algae]]

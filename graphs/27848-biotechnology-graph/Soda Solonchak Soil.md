@@ -1,0 +1,4 @@
+[[Glycomycetaceae]]
+[[Haloalkaliphilic]]
+[[Hydrolytic]]
+[[Natronoglycomyces]]

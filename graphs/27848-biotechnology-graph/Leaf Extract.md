@@ -1,0 +1,7 @@
+[[Rice]]
+[[Bacterial leaf blight]]
+[[Antibacterial]]
+[[Xanthomonas oryzae pv. oryzae]]
+[[Phytopathogen]]
+[[Greenhouse]]
+[[Silver Nanoparticles]]

@@ -1,0 +1,6 @@
+[[Continuous fermentation]]
+[[Cell Immobilization]]
+[[Biorefinery]]
+[[Biofilm Fermentation]]
+[[Waste Feedstock]]
+[[Low-value Bulk Chemicals And Fuels]]

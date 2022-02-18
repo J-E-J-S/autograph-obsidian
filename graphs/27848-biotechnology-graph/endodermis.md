@@ -1,0 +1,6 @@
+[[Plasmodesmata]]
+[[Callose]]
+[[Soil environment]]
+[[Lateral Root Emergence]]
+[[Lateral Root Primordium]]
+[[Symplasmic Domain]]

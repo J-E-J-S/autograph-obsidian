@@ -1,0 +1,5 @@
+[[Bioluminescence]]
+[[Heavy metals]]
+[[Biosensor]]
+[[biosorption]]
+[[Vibrio Spp.]]

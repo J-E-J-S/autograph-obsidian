@@ -1,0 +1,7 @@
+[[Collagen]]
+[[Wound healing]]
+[[Mir-21]]
+[[microRNAs]]
+[[Adipose-derived Stem Cells]]
+[[Akt Signaling]]
+[[Activated Fibroblasts]]

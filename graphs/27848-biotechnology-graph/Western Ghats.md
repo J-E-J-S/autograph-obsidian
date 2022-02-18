@@ -1,0 +1,5 @@
+[[Genetic differentiation]]
+[[Gene flow]]
+[[Barrier]]
+[[Time scale]]
+[[haplotype]]

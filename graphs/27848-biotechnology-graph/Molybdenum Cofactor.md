@@ -1,0 +1,8 @@
+[[Saccharomyces cerevisiae]]
+[[Nitrate reductase]]
+[[metabolic engineering]]
+[[Nitrate Assimilation]]
+[[Escherichia Coli]]
+[[Transcriptional Regulator]]
+[[Tellurate Reductase]]
+[[Nsrr]]

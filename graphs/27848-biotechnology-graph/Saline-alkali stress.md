@@ -1,0 +1,5 @@
+[[Tobacco]]
+[[Drought stress]]
+[[transgenic lines]]
+[[P. Trichocarpa]]
+[[Wrky39 Gene]]

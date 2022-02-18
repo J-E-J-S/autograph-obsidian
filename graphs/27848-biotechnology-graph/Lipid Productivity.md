@@ -1,0 +1,6 @@
+[[Biosynthesis]]
+[[Growth]]
+[[Stress tolerance]]
+[[Secondary metabolites]]
+[[Homeostasis]]
+[[Primary Metabolites]]

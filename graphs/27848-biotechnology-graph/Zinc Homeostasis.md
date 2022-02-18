@@ -1,0 +1,5 @@
+[[Expression regulation]]
+[[Zinc transporter]]
+[[Protein Trafficking]]
+[[Komagataella Phaffii]]
+[[Glycerol Transporter 1]]

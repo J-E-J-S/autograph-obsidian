@@ -1,0 +1,6 @@
+[[Drug resistance]]
+[[5-fluorouracil]]
+[[MDR1]]
+[[ROS]]
+[[HO-1]]
+[[Nrf-2]]

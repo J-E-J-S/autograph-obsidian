@@ -1,0 +1,6 @@
+[[Biodegradation]]
+[[3]]
+[[Genome-scale Metabolic Model]]
+[[4-Dichloroaniline]]
+[[Variovorax Sp. Strain Srs 16]]
+[[Phenyl Urea Herbicide]]

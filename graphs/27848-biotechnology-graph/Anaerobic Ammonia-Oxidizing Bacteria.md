@@ -1,0 +1,5 @@
+[[ammonia-oxidizing bacteria]]
+[[Freshwater lake]]
+[[Ammonia-oxidizing Archaea]]
+[[Physicochemical Factors]]
+[[Spatiotemporal Dynamic Changes]]

@@ -1,0 +1,5 @@
+[[Disinfection]]
+[[Biological treatment]]
+[[Dye degradation]]
+[[Textile Effluent]]
+[[Escherichia Fergusonii]]

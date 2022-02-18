@@ -1,0 +1,5 @@
+[[Saccharomyces cerevisiae]]
+[[Cell cycle progression]]
+[[industry application]]
+[[Biofilm-based Fermentation]]
+[[Calcium Alginate-immobilised Fermentation]]

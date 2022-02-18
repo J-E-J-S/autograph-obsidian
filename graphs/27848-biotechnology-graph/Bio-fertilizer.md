@@ -1,0 +1,5 @@
+[[Yarrowia lipolytica]]
+[[Biofuel]]
+[[remediation]]
+[[Eco-friendly Chemicals Production]]
+[[Ecological Ubiquity]]

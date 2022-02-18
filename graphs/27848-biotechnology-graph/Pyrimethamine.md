@@ -1,0 +1,5 @@
+[[Plasmodium]]
+[[Drug resistance]]
+[[Dhfr]]
+[[Sulfadoxine]]
+[[Dhps]]

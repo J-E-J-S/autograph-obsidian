@@ -1,0 +1,8 @@
+[[Corynebacterium glutamicum]]
+[[Benzyl Alcohol]]
+[[Pharmaceutical Protein Production]]
+[[Arabidopsis thaliana]]
+[[Wheat]]
+[[Abiotic stress]]
+[[Myo-inositol]]
+[[Miox]]

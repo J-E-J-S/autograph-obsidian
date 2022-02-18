@@ -1,0 +1,5 @@
+[[Promoter]]
+[[Transglutaminase]]
+[[Artp]]
+[[Expression Cassette]]
+[[Gene Copy]]

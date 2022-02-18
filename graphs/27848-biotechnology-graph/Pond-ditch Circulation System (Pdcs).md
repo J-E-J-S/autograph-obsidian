@@ -1,0 +1,8 @@
+[[Path analyses]]
+[[Root exudates]]
+[[Rhizosphere bacteria]]
+[[Nutrient Removal]]
+[[Microbial community]]
+[[Biological Dephosphorization]]
+[[Polyphosphate Kinase (Ppk)]]
+[[Exopolyphosphatase (Ppx)]]

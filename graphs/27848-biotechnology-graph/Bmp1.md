@@ -1,0 +1,5 @@
+[[mRNA expression]]
+[[Gastric cancer]]
+[[Survival analysis]]
+[[Prognostic Biomarker]]
+[[Pathways Analysis]]

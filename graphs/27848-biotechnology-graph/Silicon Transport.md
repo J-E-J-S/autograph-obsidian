@@ -1,0 +1,5 @@
+[[Stress tolerance]]
+[[Phytoliths]]
+[[Xylem Loading]]
+[[Specialized Cells]]
+[[Cell Wall Stability]]

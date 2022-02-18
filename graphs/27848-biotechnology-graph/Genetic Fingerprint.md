@@ -1,0 +1,6 @@
+[[Protein kinase activity]]
+[[Preclinical Model]]
+[[Kinome]]
+[[Non–small Cell Lung Cancer]]
+[[Peptide Microarray]]
+[[Patient-derived Tumour Xenograft]]

@@ -1,0 +1,5 @@
+[[Transcriptional regulation]]
+[[Multidrug resistance]]
+[[Salmonella]]
+[[TolC]]
+[[Acrab]]

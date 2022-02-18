@@ -1,0 +1,5 @@
+[[Mycobacterium tuberculosis]]
+[[ATP hydrolysis]]
+[[Dna Supercoiling]]
+[[Drug Repurposing]]
+[[Dna Gyrase]]

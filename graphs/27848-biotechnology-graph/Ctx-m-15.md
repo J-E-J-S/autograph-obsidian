@@ -1,0 +1,6 @@
+[[MDR]]
+[[PFGE]]
+[[Virulence genes]]
+[[ESBL]]
+[[Phylogroup]]
+[[Args]]

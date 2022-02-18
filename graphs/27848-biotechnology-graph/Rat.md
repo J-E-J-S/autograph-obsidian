@@ -1,0 +1,8 @@
+[[Experimental colitis]]
+[[Gabapentin]]
+[[Pro-inflammatory Cytokines]]
+[[Diospyros kaki]]
+[[Oxidative stress]]
+[[Antimicrobial activity]]
+[[Diarrhea]]
+[[antioxidant properties]]

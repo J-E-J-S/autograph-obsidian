@@ -1,0 +1,7 @@
+[[Mental retardation]]
+[[Candidate gene]]
+[[Alopecia]]
+[[Lss]]
+[[Ahsg]]
+[[Apmr1]]
+[[Apmr3]]

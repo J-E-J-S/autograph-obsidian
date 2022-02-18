@@ -1,0 +1,3 @@
+[[Salmonella]]
+[[Ceftriaxone]]
+[[Cooperative Resistance]]

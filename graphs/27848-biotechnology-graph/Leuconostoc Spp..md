@@ -1,0 +1,5 @@
+[[Dextran]]
+[[Exopolysaccharides]]
+[[inulin]]
+[[Levan]]
+[[Alternan]]

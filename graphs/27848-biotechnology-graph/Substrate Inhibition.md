@@ -1,0 +1,7 @@
+[[Kinetic study]]
+[[Glucosinolate]]
+[[Myrosinase]]
+[[Spectrophotometric Assay]]
+[[Brassica Oleracea L. Var. Botrytis]]
+[[Brassica Oleracea L. Var. Italic]]
+[[Hplc-based Assay]]

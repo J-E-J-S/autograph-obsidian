@@ -1,0 +1,5 @@
+[[Heavy metals]]
+[[Marine sediment]]
+[[Bacterial community]]
+[[Anthropogenic Activities]]
+[[Predicted Functions]]

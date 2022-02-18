@@ -1,0 +1,7 @@
+[[Rheological properties]]
+[[hydrogel]]
+[[Adhesives]]
+[[Tissue engineering]]
+[[hydrogels]]
+[[Bioprinting]]
+[[Bioinks]]

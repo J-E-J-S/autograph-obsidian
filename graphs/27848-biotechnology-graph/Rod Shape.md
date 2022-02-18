@@ -1,0 +1,3 @@
+[[Bacteria]]
+[[Cell wall]]
+[[Pole]]

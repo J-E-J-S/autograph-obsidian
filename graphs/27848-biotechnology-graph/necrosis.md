@@ -1,0 +1,6 @@
+[[Autophagy]]
+[[Mitophagy]]
+[[Mitochondrial Fission]]
+[[Age-related Macular Degeneration (Amd)]]
+[[Plectin (Plec)]]
+[[Keratin 8 (Krt8)]]

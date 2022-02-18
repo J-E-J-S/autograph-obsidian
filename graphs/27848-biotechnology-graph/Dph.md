@@ -1,0 +1,5 @@
+[[Candida albicans]]
+[[Cell membrane]]
+[[Permeability]]
+[[Ethidium bromide]]
+[[Aucklandia Lappa]]

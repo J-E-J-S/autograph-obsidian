@@ -1,0 +1,5 @@
+[[Artificial intelligence]]
+[[Cardiovascular diseases]]
+[[Antihypertensive drugs]]
+[[Hypertension Management]]
+[[Pharmacological Approaches]]

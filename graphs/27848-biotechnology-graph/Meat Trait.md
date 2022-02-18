@@ -1,0 +1,5 @@
+[[Cattle]]
+[[Single nucleotide polymorphism]]
+[[Beef]]
+[[Carcass quality]]
+[[marker assisted selection]]

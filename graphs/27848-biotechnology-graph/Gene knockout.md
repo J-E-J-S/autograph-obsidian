@@ -1,0 +1,8 @@
+[[Bacillus subtilis]]
+[[Signal peptide]]
+[[N-terminal Amino Acid]]
+[[Glue]]
+[[L-lysine]]
+[[Lysp]]
+[[Amino Acid Transmembrane Transporter]]
+[[Brne/brnf]]

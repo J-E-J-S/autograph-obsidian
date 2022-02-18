@@ -1,0 +1,5 @@
+[[Biofertilizer]]
+[[water deficit]]
+[[Soybean yield]]
+[[Seed Metabolism]]
+[[Carbohydrate Mobilization]]

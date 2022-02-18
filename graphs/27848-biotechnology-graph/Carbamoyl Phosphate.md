@@ -1,0 +1,8 @@
+[[ATP]]
+[[Corynebacterium crenatum]]
+[[L-arginine]]
+[[Carbamate Kinase]]
+[[ornithine]]
+[[Citrulline]]
+[[Extremophiles]]
+[[Ornithine Carbamoyltransferase]]

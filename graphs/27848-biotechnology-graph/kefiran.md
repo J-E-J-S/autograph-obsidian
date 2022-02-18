@@ -1,0 +1,5 @@
+[[exopolysaccharide]]
+[[Kefir]]
+[[Food Industry]]
+[[Prebiotic]]
+[[Medical Field]]

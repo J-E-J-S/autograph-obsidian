@@ -1,0 +1,5 @@
+[[Principal component analysis]]
+[[heterozygosity]]
+[[North Africa]]
+[[Haplotypic Analysis]]
+[[Drd2/ankk1 Locus]]

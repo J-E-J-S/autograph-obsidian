@@ -1,0 +1,8 @@
+[[Anti-inflammation]]
+[[Bone Erosion]]
+[[Il-17a]]
+[[Anti-inflammation]]
+[[Bone Erosion]]
+[[Il-17a]]
+[[Synovial Hyperplasia]]
+[[Inula Helenium L.]]

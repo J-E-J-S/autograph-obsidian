@@ -1,0 +1,5 @@
+[[Fatty acids]]
+[[surfactants]]
+[[Sucralose]]
+[[Sweeteners]]
+[[Emulsifiers]]

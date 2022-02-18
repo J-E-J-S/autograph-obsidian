@@ -1,0 +1,5 @@
+[[Candida albicans]]
+[[Plasminogen]]
+[[Enolase]]
+[[Kininogen]]
+[[Moonlighting Proteins]]

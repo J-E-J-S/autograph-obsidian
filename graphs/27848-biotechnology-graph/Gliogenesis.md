@@ -1,0 +1,8 @@
+[[Cell differentiation]]
+[[Transcription factor]]
+[[Astrocyte]]
+[[glial cell]]
+[[Human Embryonic Stem Cell]]
+[[Neural Stem Cell (Nsc)]]
+[[Sex-determining Region Y Box 9 (Sox9)]]
+[[Paired-like Homeodomain Transcription Factor 1 (Pitx1)]]

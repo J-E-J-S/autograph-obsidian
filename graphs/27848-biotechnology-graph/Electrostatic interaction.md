@@ -1,0 +1,5 @@
+[[Antagonist]]
+[[Estrogen receptor]]
+[[Agonist]]
+[[Bisphenol]]
+[[Dispersion Force]]

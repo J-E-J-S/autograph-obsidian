@@ -1,0 +1,5 @@
+[[T2DM]]
+[[MicroRNA]]
+[[Single-nucleotide Polymorphisms]]
+[[Mir196a2]]
+[[Mir423]]

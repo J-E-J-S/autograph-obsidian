@@ -1,0 +1,6 @@
+[[Heat shock proteins]]
+[[Proline]]
+[[Ascorbate peroxidase]]
+[[Total Carbohydrates]]
+[[Maximum Quantum Efficiency Of Photosystem Ii (F(v)/f(m))]]
+[[Self-grafting]]

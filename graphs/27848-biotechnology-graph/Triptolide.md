@@ -1,0 +1,8 @@
+[[Coronary Heart Disease]]
+[[Bcl2l11]]
+[[Mir-24-3p]]
+[[Diterpenoid]]
+[[ABC transporter]]
+[[metabolic engineering]]
+[[Tripterygium]]
+[[Pdr Transporter]]

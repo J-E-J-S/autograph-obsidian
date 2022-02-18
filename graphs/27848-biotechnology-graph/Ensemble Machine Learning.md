@@ -1,0 +1,7 @@
+[[Plant protein]]
+[[Feature extraction]]
+[[Feature Selection]]
+[[Subcellular Localization Prediction]]
+[[Go Term]]
+[[Average Voting]]
+[[Consensus Voting]]

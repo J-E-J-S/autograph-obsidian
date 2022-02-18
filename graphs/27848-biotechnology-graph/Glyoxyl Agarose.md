@@ -1,0 +1,8 @@
+[[Enzyme immobilization]]
+[[Tris Buffer]]
+[[Enzyme Stabilization]]
+[[Multipoint Covalent Attachment]]
+[[Enzyme immobilization]]
+[[Enzyme Stabilization]]
+[[Multipoint Covalent Attachment]]
+[[Steric Hindrances]]

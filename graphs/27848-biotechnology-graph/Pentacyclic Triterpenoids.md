@@ -1,0 +1,5 @@
+[[Orlistat]]
+[[Withania Somnifera]]
+[[Pancreatic Lipase Inhibitor]]
+[[Plasma Triglyceride]]
+[[Colletotrichum Gigasporum]]

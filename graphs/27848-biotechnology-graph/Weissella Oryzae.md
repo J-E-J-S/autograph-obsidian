@@ -1,0 +1,6 @@
+[[Rainbow trout]]
+[[Lactococcus lactis]]
+[[biosafety]]
+[[Fish Pathogens]]
+[[Indigenous Microbiota]]
+[[Probiotic Characteristics]]

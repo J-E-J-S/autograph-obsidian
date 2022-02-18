@@ -1,0 +1,8 @@
+[[Genetic diversity]]
+[[mtDNA]]
+[[Bos Mutus]]
+[[Y Chromosome Marker]]
+[[Genetic diversity]]
+[[mtDNA]]
+[[Bos Mutus]]
+[[Y Chromosome Marker]]

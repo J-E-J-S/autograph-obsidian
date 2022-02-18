@@ -1,0 +1,5 @@
+[[Ethanol]]
+[[Gluconobacter oxydans]]
+[[Fnr]]
+[[Transcriptional Regulator]]
+[[Oxygen Limitation]]

@@ -1,0 +1,5 @@
+[[Chronic]]
+[[Bacterial biofilm]]
+[[Delayed Wound Healing]]
+[[Combinatorial Therapy]]
+[[Anti-microbial Peptides (Amps)]]

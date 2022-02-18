@@ -1,0 +1,2 @@
+[[Chicken]]
+[[Oral administration]]

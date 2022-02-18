@@ -1,0 +1,5 @@
+[[Genome]]
+[[Phylogeny]]
+[[Plant Associated Bacteria]]
+[[Plant Growth-promoting Potential]]
+[[Variovorax Beijingensis]]

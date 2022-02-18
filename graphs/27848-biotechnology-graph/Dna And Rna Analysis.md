@@ -1,0 +1,5 @@
+[[Capillary electrophoresis]]
+[[DNA polymerase]]
+[[High throughput]]
+[[Quantification And Analysis Software]]
+[[Sanger Sequencer]]

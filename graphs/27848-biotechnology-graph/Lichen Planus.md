@@ -1,0 +1,8 @@
+[[Cytokines]]
+[[Gene polymorphism]]
+[[fibrosis]]
+[[Oscc]]
+[[Oral Pre-cancer]]
+[[Oral Hpv]]
+[[Squamous Papilloma]]
+[[Oral Hpv Lesion]]

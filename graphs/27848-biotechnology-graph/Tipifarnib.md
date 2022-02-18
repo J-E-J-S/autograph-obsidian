@@ -1,0 +1,6 @@
+[[Apoptosis]]
+[[Pancreatic cancer]]
+[[Atorvastatin]]
+[[celecoxib]]
+[[Stem Cells]]
+[[Chemoresistant]]

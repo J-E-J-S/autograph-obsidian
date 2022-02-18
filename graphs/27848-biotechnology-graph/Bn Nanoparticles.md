@@ -1,0 +1,5 @@
+[[Antifungal activity]]
+[[Antibacterial activity]]
+[[Antibiotic Release]]
+[[Ag Ion Release]]
+[[Bn-ag Nanohybrids]]

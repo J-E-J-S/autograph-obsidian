@@ -1,0 +1,5 @@
+[[Nucleocapsid protein gene]]
+[[Envelope protein gene]]
+[[Sars-cov-2]]
+[[Reverse Transcription-quantitative Polymerase Chain Reaction (Rt-qpcr)]]
+[[Covid-19]]

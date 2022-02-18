@@ -1,0 +1,7 @@
+[[Antioxidant effect]]
+[[Anti-inflammatory effect]]
+[[Food additive]]
+[[Platycodi Radix]]
+[[Crude Enzyme]]
+[[Balloon Flower Root]]
+[[Deapiosylated Platycoside]]

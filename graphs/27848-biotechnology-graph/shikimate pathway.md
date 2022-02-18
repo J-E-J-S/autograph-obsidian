@@ -1,0 +1,8 @@
+[[Thermal stability]]
+[[cold adaptation]]
+[[Homology Modelling]]
+[[Quinate Pathway]]
+[[Psychrophilic Enzyme Characteristics]]
+[[E. coli]]
+[[Aromatic amino acids]]
+[[Natural products]]

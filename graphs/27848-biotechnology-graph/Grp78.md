@@ -1,0 +1,5 @@
+[[Diabetes mellitus]]
+[[Streptozotocin]]
+[[palmatine]]
+[[2-DE]]
+[[Calr]]

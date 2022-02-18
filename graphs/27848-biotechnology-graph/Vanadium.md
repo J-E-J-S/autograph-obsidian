@@ -1,0 +1,7 @@
+[[Sperm motility]]
+[[Tyrosine phosphorylation]]
+[[Protein Kinase A]]
+[[Capacitation Status]]
+[[Reactive oxygen species]]
+[[Brassica napus]]
+[[Antioxidant enzymes]]

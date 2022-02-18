@@ -1,0 +1,5 @@
+[[Microcarrier]]
+[[Immobilization]]
+[[Central composite design]]
+[[Cell adhesion]]
+[[Polystyrene]]

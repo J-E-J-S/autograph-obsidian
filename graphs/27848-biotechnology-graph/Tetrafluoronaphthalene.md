@@ -1,0 +1,5 @@
+[[Molecular docking]]
+[[Enzyme inhibition]]
+[[O-allyl]]
+[[O-prenyl]]
+[[O-propargyl]]

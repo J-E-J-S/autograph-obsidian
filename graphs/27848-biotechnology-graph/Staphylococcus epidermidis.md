@@ -1,0 +1,5 @@
+[[Resistance]]
+[[Antibiotics]]
+[[Synergism]]
+[[pterostilbene]]
+[[Biofilm Formation]]

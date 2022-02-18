@@ -1,0 +1,7 @@
+[[Artificial intelligence]]
+[[Adverse drug reaction]]
+[[ADR]]
+[[Artificial neural Network]]
+[[Drug-drug Interaction]]
+[[Transcriptomic Data]]
+[[Twosides Dataset]]

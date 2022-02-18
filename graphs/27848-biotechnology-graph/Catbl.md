@@ -1,0 +1,7 @@
+[[ACE2]]
+[[Clinical Trials]]
+[[Heparan Sulfate]]
+[[Tmprss2]]
+[[S-protein]]
+[[Sars-cov-2]]
+[[Catb/l]]

@@ -1,0 +1,5 @@
+[[RP-HPLC]]
+[[Bioactive peptide]]
+[[Anticancer]]
+[[LC-MS]]
+[[Dpph Radical Scavenging]]

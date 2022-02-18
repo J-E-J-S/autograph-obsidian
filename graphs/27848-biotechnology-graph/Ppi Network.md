@@ -1,0 +1,6 @@
+[[Transcription factors]]
+[[gene ontology]]
+[[G-quadruplex]]
+[[Cog]]
+[[Orthologous Genes]]
+[[Regulatory Region]]

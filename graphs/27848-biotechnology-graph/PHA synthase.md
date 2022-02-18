@@ -1,0 +1,7 @@
+[[Site-directed mutagenesis]]
+[[Homology modeling]]
+[[Polyhydroxyalkanoate]]
+[[Copolymer Composition]]
+[[Substrate specificity]]
+[[Polyhydroxyalkanoate]]
+[[Hybrid Pha]]

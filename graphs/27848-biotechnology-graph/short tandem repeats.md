@@ -1,0 +1,5 @@
+[[Allele frequency]]
+[[Vietnamese]]
+[[Autosomal Strs]]
+[[Hmong]]
+[[Mong]]

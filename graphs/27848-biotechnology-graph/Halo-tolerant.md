@@ -1,0 +1,6 @@
+[[Abiotic stress]]
+[[Oxidative damage]]
+[[Drought]]
+[[Salinity]]
+[[Climate-resilience]]
+[[Smart-crop And Transgenic]]

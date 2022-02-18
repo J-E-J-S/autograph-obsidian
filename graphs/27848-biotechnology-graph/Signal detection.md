@@ -1,0 +1,6 @@
+[[Adverse drug reaction]]
+[[data mining]]
+[[Drug safety]]
+[[Pharmacovigilance]]
+[[Social Media]]
+[[Covid-19]]

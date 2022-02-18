@@ -1,0 +1,8 @@
+[[Structure]]
+[[Ergosterol]]
+[[molecular interaction]]
+[[anti-tumor function]]
+[[Metabolism Pathways]]
+[[N6-(2-hydroxyethyl) Adenosine]]
+[[C. militaris]]
+[[Large-scale Extraction]]

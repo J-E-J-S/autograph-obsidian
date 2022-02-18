@@ -1,0 +1,8 @@
+[[metabolic engineering]]
+[[Crispr-cas9]]
+[[Neutral Sites]]
+[[Fatty Alcohol Biosynthesis]]
+[[Xylose]]
+[[Glucose]]
+[[transcriptional factors]]
+[[Non-conventional Yeasts]]

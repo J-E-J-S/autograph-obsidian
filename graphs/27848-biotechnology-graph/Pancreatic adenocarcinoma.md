@@ -1,0 +1,5 @@
+[[Artificial intelligence]]
+[[hepatic disease]]
+[[Gastroenterology]]
+[[Machine Learning]]
+[[Deep Learning]]

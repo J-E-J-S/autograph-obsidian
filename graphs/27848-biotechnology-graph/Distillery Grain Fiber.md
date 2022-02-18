@@ -1,0 +1,5 @@
+[[Amino acids]]
+[[Vitamins]]
+[[Crude protein]]
+[[dietary fiber]]
+[[Yeast Biomass]]

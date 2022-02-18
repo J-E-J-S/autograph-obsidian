@@ -1,0 +1,5 @@
+[[Staphylococcus aureus]]
+[[Decay-accelerating factor]]
+[[Tight junction]]
+[[internalization]]
+[[Esat-6-Like Protein Esxb]]

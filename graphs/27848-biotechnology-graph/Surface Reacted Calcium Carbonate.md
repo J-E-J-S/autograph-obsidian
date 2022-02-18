@@ -1,0 +1,6 @@
+[[Lactoferrin]]
+[[microcapsules]]
+[[In vitro digestion]]
+[[Layer-by-layer Assembly]]
+[[Loading Capacity]]
+[[Retention Efficiency]]

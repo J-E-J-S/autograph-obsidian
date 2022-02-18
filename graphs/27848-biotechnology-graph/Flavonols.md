@@ -1,0 +1,6 @@
+[[Lactic acid]]
+[[Lactobacillus plantarum]]
+[[Malic acid]]
+[[Orac]]
+[[Hippophaë Rhamnoides L.]]
+[[Oenoccocus Oeni]]

@@ -1,0 +1,8 @@
+[[Solubility]]
+[[Complexation]]
+[[Whey Protein]]
+[[Osa-modified Starch]]
+[[Lipase]]
+[[Functionalized 3D-printed Scaffolds]]
+[[Racemic 1-Indanol]]
+[[Specific Immobilization]]

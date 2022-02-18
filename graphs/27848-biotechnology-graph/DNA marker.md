@@ -1,0 +1,5 @@
+[[Polyploid]]
+[[Potato]]
+[[Sweetpotato]]
+[[Qtl-seq]]
+[[Ngs Mapping]]

@@ -1,0 +1,5 @@
+[[Whole-cell biocatalyst]]
+[[2,5-Dimethylpyrazine]]
+[[Ectdh-lcnoxe Fusion Protein]]
+[[L-theronine]]
+[[L-threonine Transporter Sstt]]

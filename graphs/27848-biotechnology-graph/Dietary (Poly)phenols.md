@@ -1,0 +1,5 @@
+[[Cell culture]]
+[[Phenolic compounds]]
+[[Animal model]]
+[[Phenolic acids]]
+[[Anti-inflammatory agents]]

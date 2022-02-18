@@ -1,0 +1,5 @@
+[[Decolorization]]
+[[Activated carbon]]
+[[glycerol]]
+[[Oil Palm Biomass]]
+[[Responsible Editor: Angeles Blanco]]

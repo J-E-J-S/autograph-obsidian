@@ -1,0 +1,5 @@
+[[Lactic acid bacteria]]
+[[spontaneous fermentation]]
+[[Bio-heat]]
+[[Substrate Degradation]]
+[[Liquor Starter]]

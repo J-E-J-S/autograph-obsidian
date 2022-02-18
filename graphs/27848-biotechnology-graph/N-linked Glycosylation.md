@@ -1,0 +1,7 @@
+[[Holstein-Friesian]]
+[[Dietary Intervention]]
+[[Bovine Whey Glycoprotein]]
+[[Glycosylation-dependent Cell Adhesion Molecule 1]]
+[[Antibody titer]]
+[[Critical Quality Attributes]]
+[[Near Real Time Monitoring]]

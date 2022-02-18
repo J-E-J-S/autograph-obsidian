@@ -1,0 +1,7 @@
+[[PHA]]
+[[Rapeseed oil]]
+[[Ralstonia eutropha]]
+[[Cupriavidus Necator]]
+[[High-cell-density Cultivation]]
+[[Poly(Hydroxybutyrate-Co-Hydroxyhexanoate)]]
+[[Substrate-Flexible]]

@@ -1,0 +1,3 @@
+[[Amylin]]
+[[Iapp]]
+[[Amyloid Inhibition]]

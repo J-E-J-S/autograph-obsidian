@@ -1,0 +1,7 @@
+[[RNA]]
+[[Ribozyme]]
+[[Biosensor]]
+[[Screening]]
+[[Aptamer]]
+[[glycolysis]]
+[[Fructose-1,6-bisphosphate]]

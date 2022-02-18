@@ -1,0 +1,7 @@
+[[Medicinal plants]]
+[[Herbs]]
+[[Phytochemicals]]
+[[Covid-19]]
+[[Sars-cov-2]]
+[[epidemiology]]
+[[Influenza Virus, Treatment]]

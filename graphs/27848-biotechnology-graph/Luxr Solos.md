@@ -1,0 +1,2 @@
+[[Fluorescent Pseudomonas]]
+[[Quorum sensing]]

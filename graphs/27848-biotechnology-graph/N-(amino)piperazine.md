@@ -1,0 +1,3 @@
+[[Synthesis]]
+[[Antitubercular Activity]]
+[[Benzothiazinones]]

@@ -1,0 +1,7 @@
+[[Physicochemical properties]]
+[[V-amylose Complex]]
+[[Legume Starch]]
+[[Flavor]]
+[[Microbiota]]
+[[Baijiu Qu]]
+[[Mijiu Qu]]

@@ -1,0 +1,8 @@
+[[Genetic variations]]
+[[Western Kenya]]
+[[Cucurbita Spp.]]
+[[Ssr Molecular Markers]]
+[[Principal component analysis]]
+[[North Africa]]
+[[Haplotypic Analysis]]
+[[Drd2/ankk1 Locus]]

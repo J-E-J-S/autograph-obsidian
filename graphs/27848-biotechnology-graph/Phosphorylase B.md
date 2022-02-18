@@ -1,0 +1,5 @@
+[[Denaturation]]
+[[Arginine]]
+[[Inactivation]]
+[[Aggregation]]
+[[Ionic strength]]

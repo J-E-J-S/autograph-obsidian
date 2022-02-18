@@ -1,0 +1,5 @@
+[[Growth]]
+[[Oil content]]
+[[Antioxidant activity]]
+[[Mineral content]]
+[[photosynthetic pigments]]

@@ -1,0 +1,6 @@
+[[Biocontrol]]
+[[Plant pathogens]]
+[[antifungal]]
+[[Nematicidal]]
+[[Antagonist Improvement]]
+[[Enthomopatogenic]]

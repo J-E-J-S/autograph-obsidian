@@ -1,0 +1,5 @@
+[[Protein conformation]]
+[[Meat]]
+[[Shear force]]
+[[shrinkage]]
+[[Cooking Loss]]

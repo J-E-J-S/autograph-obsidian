@@ -1,0 +1,5 @@
+[[Anti-tumor]]
+[[Cyclooxygenase-2]]
+[[Sulfonamide Moiety]]
+[[Apoptosis Induction]]
+[[Aminophosphonate Derivatives]]

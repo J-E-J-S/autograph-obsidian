@@ -1,0 +1,6 @@
+[[Aureobasidium pullulans]]
+[[Biodegradation]]
+[[Chaetomium globosum]]
+[[fungicide]]
+[[Biodeterioration]]
+[[Aspergillus Brasiliensis]]

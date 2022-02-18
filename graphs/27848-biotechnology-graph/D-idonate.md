@@ -1,0 +1,7 @@
+[[Synthetic Biology]]
+[[L-glucose]]
+[[Smit1]]
+[[Lgda]]
+[[Lgnh]]
+[[Lgni]]
+[[Lgnr]]

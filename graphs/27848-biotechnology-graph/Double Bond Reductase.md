@@ -1,0 +1,5 @@
+[[Euphorbiaceae]]
+[[Jatropha curcas]]
+[[Casbene]]
+[[Lathyranes]]
+[[Jolkinol]]

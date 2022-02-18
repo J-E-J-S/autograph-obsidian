@@ -1,0 +1,6 @@
+[[Accuracy]]
+[[haplotype]]
+[[linkage disequilibrium]]
+[[hierarchical clustering]]
+[[Hanwoo]]
+[[Genomic Prediction]]

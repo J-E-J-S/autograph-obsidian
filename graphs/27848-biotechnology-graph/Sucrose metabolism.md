@@ -1,0 +1,5 @@
+[[Dextran]]
+[[Exopolysaccharides]]
+[[Leuconostoc]]
+[[Bacterial Adhesion]]
+[[Weissella]]

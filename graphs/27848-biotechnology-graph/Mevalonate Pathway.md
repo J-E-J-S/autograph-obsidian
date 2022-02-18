@@ -1,0 +1,8 @@
+[[Saccharomyces cerevisiae]]
+[[Geranylgeranyl diphosphate synthase]]
+[[Geranylgeraniol]]
+[[Isoprenol]]
+[[Cupriavidus Necator]]
+[[Process Design]]
+[[Terpene Production]]
+[[Sustainable Economy]]

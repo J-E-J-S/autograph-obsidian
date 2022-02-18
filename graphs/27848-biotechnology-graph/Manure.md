@@ -1,0 +1,5 @@
+[[Soil]]
+[[Antibiotics]]
+[[Heavy metals]]
+[[Antibiotic resistance genes]]
+[[Integrase Genes]]

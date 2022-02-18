@@ -1,0 +1,7 @@
+[[Paeonia lactiflora]]
+[[Paeoniaceae]]
+[[GC-MS]]
+[[Molecular dynamics]]
+[[Monoterpene]]
+[[Pinene]]
+[[Terpenene Synthase]]

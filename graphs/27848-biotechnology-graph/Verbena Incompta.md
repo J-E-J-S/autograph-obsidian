@@ -1,0 +1,3 @@
+[[Verbascoside]]
+[[Biopesticide]]
+[[Growth Inhibitor]]

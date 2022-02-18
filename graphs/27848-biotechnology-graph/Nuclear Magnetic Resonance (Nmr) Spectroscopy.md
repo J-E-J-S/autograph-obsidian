@@ -1,0 +1,5 @@
+[[Permeability]]
+[[membrane translocation]]
+[[Machine Learning]]
+[[Macrocycle]]
+[[Quantitative Structure-property Relationship(s) (Qspr)]]

@@ -1,0 +1,5 @@
+[[Sustainable use]]
+[[Dietary Supplement]]
+[[Shrimp Waste]]
+[[N-acetyl- D-glucosamine]]
+[[Waste Reusable]]

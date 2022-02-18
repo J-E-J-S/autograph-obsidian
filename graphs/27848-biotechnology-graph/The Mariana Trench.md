@@ -1,0 +1,5 @@
+[[Genomic analysis]]
+[[polyphasic taxonomy]]
+[[Chitin Degradation]]
+[[Novel Genus]]
+[[Marinifaba]]

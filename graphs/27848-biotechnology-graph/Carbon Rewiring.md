@@ -1,0 +1,7 @@
+[[metabolic engineering]]
+[[Homologous Recombination]]
+[[Cre-loxp]]
+[[Flux Balance Analysis]]
+[[Crispr/cas9]]
+[[(13)C-metabolic Flux Analysis]]
+[[Genome-scale Metabolic Model]]

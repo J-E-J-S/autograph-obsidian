@@ -1,0 +1,8 @@
+[[Rats]]
+[[Hepatotoxicity]]
+[[Metabolomics]]
+[[Transcriptomic]]
+[[Bromuconazole]]
+[[Phytotoxicity]]
+[[Lythrum Salicaria]]
+[[Decabromodiphenyl Ether]]

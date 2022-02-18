@@ -1,0 +1,5 @@
+[[Imidacloprid]]
+[[Insecticide resistance]]
+[[Nicotinic acetylcholine receptor]]
+[[spinosad]]
+[[Sulfoxaflor]]

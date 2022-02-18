@@ -1,0 +1,5 @@
+[[Alzheimer disease]]
+[[Intranasal]]
+[[biodistribution]]
+[[Gamma Scintigraphy]]
+[[Nanoemulsion]]

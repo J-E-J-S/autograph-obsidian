@@ -1,0 +1,7 @@
+[[Inhibitor]]
+[[Antiviral]]
+[[Coronavirus]]
+[[spike]]
+[[Miglustat]]
+[[Covid-19]]
+[[Sars-cov-2]]

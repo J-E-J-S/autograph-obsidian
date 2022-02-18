@@ -1,0 +1,5 @@
+[[Genetic engineering]]
+[[Aspergillus oryzae]]
+[[Agrobacterium-mediated Transformation System]]
+[[Dual Auxotrophic Mutant]]
+[[Pyrg Selectable Marker]]

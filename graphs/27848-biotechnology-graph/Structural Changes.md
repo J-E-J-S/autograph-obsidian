@@ -1,0 +1,5 @@
+[[Phenolic compounds]]
+[[In vitro digestion]]
+[[Affinity Binding]]
+[[Non-covalent Interaction]]
+[[Scallop Gonad Protein Isolates]]

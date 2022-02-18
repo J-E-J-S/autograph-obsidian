@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Microbiome]]
+[[Bioeconomy]]
+[[Open Innovation]]
+[[Earning Scenarios]]

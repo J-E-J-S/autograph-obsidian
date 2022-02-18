@@ -1,0 +1,8 @@
+[[Candida tropicalis]]
+[[Two-dimensional gel electrophoresis]]
+[[Biofilm]]
+[[Antioxidant]]
+[[Antimicrobial]]
+[[Anticancer]]
+[[Anti-inflammatory]]
+[[Anti-diabetic]]

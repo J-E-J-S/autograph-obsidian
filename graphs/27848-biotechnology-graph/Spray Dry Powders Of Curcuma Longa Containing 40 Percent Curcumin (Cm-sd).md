@@ -1,0 +1,5 @@
+[[Antioxidant]]
+[[Protein synthesis]]
+[[Anti-inflammation]]
+[[Sarcopenia]]
+[[Muscle Degradation]]

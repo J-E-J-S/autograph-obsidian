@@ -1,0 +1,6 @@
+[[Polymorphism]]
+[[Genotype]]
+[[Smoking]]
+[[Oral Cancer]]
+[[Xpc]]
+[[Betel Quid Chewing]]

@@ -1,0 +1,5 @@
+[[Genetic diversity]]
+[[Auxotrophy]]
+[[Biosynthesis Pathways And Regulation]]
+[[Cobalamin Biotechnology]]
+[[Coenzyme B12 Family Cofactors]]

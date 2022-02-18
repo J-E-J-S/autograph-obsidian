@@ -1,0 +1,8 @@
+[[Trapping]]
+[[Attractant]]
+[[GC-EAD]]
+[[Medfly]]
+[[Resistance]]
+[[Pyrethroids]]
+[[Calliphoridae]]
+[[post-embryonic development]]

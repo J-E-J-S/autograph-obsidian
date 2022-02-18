@@ -1,0 +1,5 @@
+[[Epilepsy]]
+[[Stroke]]
+[[bitter gourd]]
+[[Autodock]]
+[[Adk]]

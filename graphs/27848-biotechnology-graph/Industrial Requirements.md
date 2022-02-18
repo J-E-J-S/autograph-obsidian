@@ -1,0 +1,5 @@
+[[Biological activity]]
+[[Animal feed]]
+[[Natto]]
+[[Probiotic]]
+[[Spore-forming Bacteria]]

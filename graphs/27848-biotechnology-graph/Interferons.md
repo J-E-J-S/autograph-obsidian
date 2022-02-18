@@ -1,0 +1,8 @@
+[[Japanese encephalitis virus]]
+[[Toll-like receptors]]
+[[Scopolamine hydrobromide]]
+[[signaling pathways]]
+[[Embryonated Chick]]
+[[GTPase]]
+[[Cell-autonomous Defence]]
+[[Bacterial Defence]]

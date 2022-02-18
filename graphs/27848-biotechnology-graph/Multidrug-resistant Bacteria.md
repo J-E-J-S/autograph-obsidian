@@ -1,0 +1,6 @@
+[[Antibiotic Resistance]]
+[[Antimicrobial peptides]]
+[[Metal Nanoparticles]]
+[[Antimicrobial Therapies]]
+[[Extensively Drug-resistant Bacteria]]
+[[Combinatorial Treatments]]

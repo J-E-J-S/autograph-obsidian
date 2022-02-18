@@ -1,0 +1,7 @@
+[[Site-directed mutagenesis]]
+[[Rational Engineering]]
+[[2-Hydroxybutyric Acid Production]]
+[[Enzyme activity]]
+[[E. coli expression]]
+[[Lactate Oxidation]]
+[[N-caproic Acid]]

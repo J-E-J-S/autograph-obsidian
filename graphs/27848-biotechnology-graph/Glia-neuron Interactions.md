@@ -1,0 +1,8 @@
+[[Aging]]
+[[Synaptic plasticity]]
+[[Exercise]]
+[[Caloric restriction]]
+[[Autophagy]]
+[[Beclin 1]]
+[[Mitochondrial Calcium]]
+[[Spemidine]]

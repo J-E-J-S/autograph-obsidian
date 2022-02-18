@@ -1,0 +1,5 @@
+[[Dextran]]
+[[Exopolysaccharides]]
+[[Sucrose metabolism]]
+[[Bacterial Adhesion]]
+[[Weissella]]

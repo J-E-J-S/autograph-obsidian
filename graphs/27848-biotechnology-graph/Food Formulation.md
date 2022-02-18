@@ -1,0 +1,5 @@
+[[Bacillus subtilis]]
+[[Biosurfactant]]
+[[Surfactin]]
+[[Emulsifier]]
+[[lipopeptide]]

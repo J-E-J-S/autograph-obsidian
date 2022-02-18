@@ -1,0 +1,7 @@
+[[Rhizopus oryzae]]
+[[Antioxidant effect]]
+[[Anti-inflammatory effect]]
+[[Food additive]]
+[[Platycodi Radix]]
+[[Balloon Flower Root]]
+[[Deapiosylated Platycoside]]

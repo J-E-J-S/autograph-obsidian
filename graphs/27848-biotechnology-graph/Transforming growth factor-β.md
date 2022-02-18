@@ -1,0 +1,5 @@
+[[Inflammation]]
+[[Pulmonary fibrosis]]
+[[Bleomycin]]
+[[Natural compound]]
+[[tannic acid]]

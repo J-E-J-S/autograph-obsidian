@@ -1,0 +1,5 @@
+[[Abscisic acid]]
+[[Resurrection plant]]
+[[translational regulation]]
+[[phosphatidylcholine]]
+[[Ctp:phosphocholine Cytidylyltransferase]]

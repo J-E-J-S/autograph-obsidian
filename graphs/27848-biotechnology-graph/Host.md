@@ -1,0 +1,6 @@
+[[Expression vector]]
+[[Recombinant expression]]
+[[Fermentation optimization]]
+[[Fusion Partner]]
+[[Brevibacillus]]
+[[Foldase]]

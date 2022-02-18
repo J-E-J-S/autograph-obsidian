@@ -1,0 +1,5 @@
+[[Chemometrics]]
+[[Black pepper]]
+[[multivariate data analysis]]
+[[Gc-hrms]]
+[[Untargeted Analysis]]

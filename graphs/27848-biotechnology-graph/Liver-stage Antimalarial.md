@@ -1,0 +1,6 @@
+[[Malaria]]
+[[Plasmodium falciparum]]
+[[Xenopus oocytes]]
+[[Chemosensitization]]
+[[chloroquine resistance]]
+[[Pfcrt]]

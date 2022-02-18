@@ -1,0 +1,5 @@
+[[Frailty]]
+[[Resource allocation]]
+[[Critical Care]]
+[[Bioethics]]
+[[Covid-19]]

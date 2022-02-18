@@ -1,0 +1,5 @@
+[[Molecular docking]]
+[[piperine]]
+[[Phytocompounds]]
+[[Anti-amyloidogenic]]
+[[Hen Egg-white Lysozyme (Hewl)]]

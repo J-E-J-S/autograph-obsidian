@@ -1,0 +1,5 @@
+[[Apoptosis]]
+[[Epididymis]]
+[[Sex hormones]]
+[[Testicular Ischemia]]
+[[Testicular Damage]]

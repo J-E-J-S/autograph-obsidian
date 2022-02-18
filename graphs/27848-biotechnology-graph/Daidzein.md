@@ -1,0 +1,7 @@
+[[Simulation]]
+[[Rhizosphere]]
+[[Soybean]]
+[[Quercetin]]
+[[Molecular docking]]
+[[Anticancer]]
+[[Epigallocatechin gallate]]

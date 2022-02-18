@@ -1,0 +1,6 @@
+[[Germination]]
+[[Chemotaxis]]
+[[Inhibition]]
+[[Resting spore]]
+[[Encystment]]
+[[Calcium Signalling]]

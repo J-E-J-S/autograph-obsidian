@@ -1,0 +1,8 @@
+[[Curcumin]]
+[[Antimicrobial resistance]]
+[[Rat model]]
+[[Skin Abrasion]]
+[[Cytokine Profiling]]
+[[Blue Laser Light]]
+[[Preformed-biofilm]]
+[[Vancomycin Resistant Staphylococcus Aureus (Vrsa)]]

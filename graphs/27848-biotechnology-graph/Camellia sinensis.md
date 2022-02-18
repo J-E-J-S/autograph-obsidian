@@ -1,0 +1,8 @@
+[[Transcription factor]]
+[[Expression pattern]]
+[[Jasmonate Signalling]]
+[[Jasmonate-zim (Jaz)]]
+[[Chitinase]]
+[[Differential gene expression]]
+[[biotic stress]]
+[[Genome Wide Identification]]

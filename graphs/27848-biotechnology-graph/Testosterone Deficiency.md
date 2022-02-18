@@ -1,0 +1,5 @@
+[[Fermentation]]
+[[Momordica charantia]]
+[[Lactic acid bacteria]]
+[[Andropause]]
+[[Male Climacteric Syndrome]]

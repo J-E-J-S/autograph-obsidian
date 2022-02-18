@@ -1,0 +1,4 @@
+[[CHO]]
+[[IgG]]
+[[Continuous]]
+[[Solid]]

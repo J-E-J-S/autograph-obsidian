@@ -1,0 +1,7 @@
+[[Lignin degradation]]
+[[Biocatalysis]]
+[[Flavors]]
+[[Aryl-alcohol Oxidase]]
+[[Aryl Alcohols]]
+[[Aliphatic Allylic Alcohols]]
+[[Gmc Family]]

@@ -1,0 +1,5 @@
+[[Triticum aestivum]]
+[[Repressor]]
+[[Triticum urartu]]
+[[Transcriptional Regulator]]
+[[Bread-making]]

@@ -1,0 +1,5 @@
+[[Gossypium hirsutum]]
+[[Plant defence]]
+[[Anthonomus Grandis]]
+[[Herbivore Resistance]]
+[[Terpenoid Aldehydes]]

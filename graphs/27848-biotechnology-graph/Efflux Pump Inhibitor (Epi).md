@@ -1,0 +1,6 @@
+[[Klebsiella pneumoniae]]
+[[Methylene blue]]
+[[Photodynamic therapy]]
+[[Biofilm]]
+[[Antimicrobial resistance]]
+[[gold nanoparticles]]

@@ -1,0 +1,7 @@
+[[Structure-function]]
+[[X-ray crystallography]]
+[[Magnetotactic bacteria]]
+[[Electron Paramagnetic Resonance (Epr)]]
+[[Metalloprotein]]
+[[Metal Selectivity]]
+[[Metal Ion-protein Interaction]]

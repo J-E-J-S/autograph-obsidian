@@ -1,0 +1,5 @@
+[[Monoclonal antibody]]
+[[Rapid detection]]
+[[colloidal gold]]
+[[Congenital Hypothyroidism]]
+[[Thyroid Stimulating Hormone (Tsh)]]

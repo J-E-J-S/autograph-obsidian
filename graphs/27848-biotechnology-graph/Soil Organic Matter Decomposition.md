@@ -1,0 +1,6 @@
+[[Microbial respiration]]
+[[Microbial Community Composition]]
+[[Carbon Quality-temperature Hypothesis]]
+[[Carbon Degradation Genes]]
+[[Carbon Quality And Bioavailability]]
+[[Microbial R-k Selection Theory]]

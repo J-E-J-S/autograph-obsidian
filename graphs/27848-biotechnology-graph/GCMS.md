@@ -1,0 +1,8 @@
+[[Metabolic pathway]]
+[[Biodegradation]]
+[[Organophosphate]]
+[[pesticide]]
+[[chlorpyrifos]]
+[[5]]
+[[3]]
+[[6-Trichloropyridinol]]

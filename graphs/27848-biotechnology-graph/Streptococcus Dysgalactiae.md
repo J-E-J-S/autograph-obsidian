@@ -1,0 +1,5 @@
+[[Antibacterial activity]]
+[[biofilms]]
+[[Bovine Mastitis]]
+[[Therapeutic Potential]]
+[[Antimicrobial Peptide P2]]

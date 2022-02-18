@@ -1,0 +1,5 @@
+[[Glutamate decarboxylase]]
+[[Soybean seeds]]
+[[Serine Carboxypeptidases]]
+[[Aspartic Endopeptidases]]
+[[Serpin-zx]]

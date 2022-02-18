@@ -1,0 +1,8 @@
+[[Cell Integrity]]
+[[Monascus Purpureus]]
+[[Microparticle-enhanced Cultivation]]
+[[Natural Yellow Pigments]]
+[[Aspergillus oryzae]]
+[[Nitrogen source]]
+[[Lipid Production]]
+[[Oleaginous Fungi]]

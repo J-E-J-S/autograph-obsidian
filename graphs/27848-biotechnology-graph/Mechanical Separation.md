@@ -1,0 +1,5 @@
+[[Flocculation]]
+[[Digestate]]
+[[Solid Fraction]]
+[[Liquid Fraction]]
+[[Fertiliser Value]]

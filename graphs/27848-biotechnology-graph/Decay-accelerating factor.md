@@ -1,0 +1,5 @@
+[[Staphylococcus aureus]]
+[[Tight junction]]
+[[internalization]]
+[[Ul16 Binding Protein 1]]
+[[Esat-6-Like Protein Esxb]]

@@ -1,0 +1,7 @@
+[[Curcumin]]
+[[Islet Amyloid Polypeptide (Iapp)]]
+[[Amyloid Fibril]]
+[[Hewl]]
+[[Anti-amyloidogenic Activity]]
+[[4-Methylthiocoumarin]]
+[[4-Methylcoumarin]]

@@ -1,0 +1,6 @@
+[[Poultry]]
+[[Digestive enzyme]]
+[[Mannan]]
+[[Inflammation]]
+[[Immunity]]
+[[Intestinal Integrity]]

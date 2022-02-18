@@ -1,0 +1,6 @@
+[[Malaria]]
+[[Plasmodium falciparum]]
+[[Xenopus oocytes]]
+[[Chemosensitization]]
+[[Pfcrt]]
+[[Liver-stage Antimalarial]]

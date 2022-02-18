@@ -1,0 +1,8 @@
+[[Fatty acid]]
+[[IL-6]]
+[[Pigs]]
+[[Il-1a]]
+[[Promoter]]
+[[MyoD]]
+[[Gata1]]
+[[Atp5b Gene]]

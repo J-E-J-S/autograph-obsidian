@@ -1,0 +1,8 @@
+[[Domain Function]]
+[[Streptomyces Thermodiastaticus]]
+[[Mycodextranase]]
+[[Disulfide bond]]
+[[Crystal structure]]
+[[Thermostable Enzyme]]
+[[Streptomyces Thermodiastaticus]]
+[[Glycoside Hydrolase Family 87]]

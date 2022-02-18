@@ -1,0 +1,5 @@
+[[Biosurfactant]]
+[[Emulsification]]
+[[Laccase activity]]
+[[Biofilm Production]]
+[[Oil Spreading]]

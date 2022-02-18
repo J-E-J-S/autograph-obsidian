@@ -1,0 +1,7 @@
+[[Mussel Adhesive Proteins]]
+[[Michael Addition Reaction]]
+[[Double Cross-linked Hydrogel]]
+[[Chitosan]]
+[[Dextran]]
+[[Lung injury]]
+[[Vascular surgery]]

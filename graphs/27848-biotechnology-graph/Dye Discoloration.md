@@ -1,0 +1,5 @@
+[[gold nanoparticles]]
+[[Microwave-assisted Synthesis]]
+[[Dynamic Column Process]]
+[[Nanocellulose Foams]]
+[[Batch Process]]

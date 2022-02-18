@@ -1,0 +1,5 @@
+[[Mitochondria]]
+[[Resistance]]
+[[Deltamethrin]]
+[[Sodium channel]]
+[[Salmon Lice]]

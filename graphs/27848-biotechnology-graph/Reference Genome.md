@@ -1,0 +1,6 @@
+[[Penaeus monodon]]
+[[Transcriptomics]]
+[[Pacbio]]
+[[Hi-c]]
+[[Black Tiger Shrimp]]
+[[Growth-associated Genes]]

@@ -1,0 +1,3 @@
+[[Stabilization]]
+[[Antimicrobial Effect;]]
+[[Lactoperoxidase;]]

@@ -1,0 +1,8 @@
+[[Multivalent Ligands]]
+[[Anti-virulence]]
+[[Fimh Adhesin]]
+[[Carbohydrate-lectin Interactions]]
+[[On-cell Std Nmr]]
+[[Anti-adhesive Therapies]]
+[[Fimh Ligand Screening]]
+[[Lectin-mediated Adhesion Inhibitors]]

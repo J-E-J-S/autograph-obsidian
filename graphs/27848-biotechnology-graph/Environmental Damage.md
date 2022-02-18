@@ -1,0 +1,5 @@
+[[Artificial intelligence]]
+[[Biomedical Waste Management]]
+[[Biomedical Waste]]
+[[Covid-19]]
+[[Personnel Protective Equipment (Ppe)]]

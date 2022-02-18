@@ -1,0 +1,5 @@
+[[Antibacterial activity]]
+[[Solvothermal Method]]
+[[Reusability]]
+[[Activated Carbon Fibers]]
+[[Bivo(4)@acf]]

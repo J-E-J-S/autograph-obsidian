@@ -1,0 +1,8 @@
+[[Genetic diversity]]
+[[mtDNA]]
+[[Bos Mutus]]
+[[Lineage Composition]]
+[[Genetic diversity]]
+[[mtDNA]]
+[[Bos Mutus]]
+[[Lineage Composition]]

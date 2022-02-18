@@ -1,0 +1,6 @@
+[[Multidrug resistance]]
+[[Molecular docking]]
+[[Efflux pumps]]
+[[Antibacterial Resistance]]
+[[Embelin]]
+[[Nano-composites]]

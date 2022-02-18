@@ -1,0 +1,8 @@
+[[Cyclin dependent kinase inhibitor]]
+[[Pancreatic cancer]]
+[[Mtor Inhibitor]]
+[[Pyrrolo[2,3-d]pyrimidine Derivatives]]
+[[Protein kinase C]]
+[[Tumor promotion]]
+[[Aplysiatoxin]]
+[[Debromoaplysiatoxin]]

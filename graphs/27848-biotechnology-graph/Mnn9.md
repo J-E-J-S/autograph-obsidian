@@ -1,0 +1,5 @@
+[[Schizosaccharomyces pombe]]
+[[Glycosyltransferase]]
+[[Golgi]]
+[[Och1]]
+[[Vps74]]

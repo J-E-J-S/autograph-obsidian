@@ -1,0 +1,5 @@
+[[Wound healing]]
+[[Antioxidant activity]]
+[[Antibacterial activity]]
+[[Punica granatum L.]]
+[[Persian Medicine]]

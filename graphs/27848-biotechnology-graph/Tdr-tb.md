@@ -1,0 +1,5 @@
+[[Mycobacterium tuberculosis]]
+[[Tuberculosis]]
+[[Drug resistance]]
+[[Mdr-tb]]
+[[Xdr-tb]]

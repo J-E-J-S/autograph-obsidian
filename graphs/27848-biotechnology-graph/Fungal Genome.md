@@ -1,0 +1,5 @@
+[[Enzymatic degradation]]
+[[2,3,7,8-Tetrachlorodibenzo-p-dioxin]]
+[[Lignin-modifying Enzymes]]
+[[Laccase Genes]]
+[[Laccase Isoforms]]

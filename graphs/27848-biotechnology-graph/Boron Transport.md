@@ -1,0 +1,6 @@
+[[Arabidopsis]]
+[[Brassica napus]]
+[[Seedling]]
+[[Floral organ]]
+[[1A]]
+[[Bnaa02.nip6]]

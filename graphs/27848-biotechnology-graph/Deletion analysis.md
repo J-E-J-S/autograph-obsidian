@@ -1,0 +1,6 @@
+[[Abiotic stress]]
+[[QTL]]
+[[Expression pattern]]
+[[GUS activity]]
+[[4-A2 Promoter]]
+[[Tmhkt1]]

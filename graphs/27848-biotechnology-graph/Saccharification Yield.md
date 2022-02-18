@@ -1,0 +1,5 @@
+[[poly(3-hydroxybutyrate)]]
+[[Corn Steep Liquor]]
+[[Sugarcane Bagasse]]
+[[Peracetic Acid Pretreatment]]
+[[Lysinibacillus Sp. Rgs]]

@@ -1,0 +1,5 @@
+[[Schistosoma japonicum]]
+[[schistosomiasis]]
+[[Structure-guided Drug Design]]
+[[Triazine Dyes]]
+[[Cibacron Blue 3Ga]]

@@ -1,0 +1,8 @@
+[[Insecticides]]
+[[Pregnancy]]
+[[Pyridaben]]
+[[Trophectoderm]]
+[[Insecticides]]
+[[Pregnancy]]
+[[Trophectoderm]]
+[[Flufenoxuron]]

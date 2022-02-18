@@ -1,0 +1,8 @@
+[[Brain slices]]
+[[Rrid:scr_002865]]
+[[Gaba-a And Gaba-b Receptors]]
+[[Rrid:scr_014468]]
+[[Rrid:scr_018426]]
+[[Rrid:scr_018460]]
+[[Rrid:scr_002798]]
+[[Electrically Stimulated]]

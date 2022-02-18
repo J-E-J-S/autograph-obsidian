@@ -1,0 +1,5 @@
+[[Cytotoxicity]]
+[[Flow cytometry]]
+[[DNA binding]]
+[[dissociation constant]]
+[[Benzothiazole]]

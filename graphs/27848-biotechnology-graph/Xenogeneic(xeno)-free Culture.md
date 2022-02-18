@@ -1,0 +1,5 @@
+[[Microcarriers]]
+[[Bioreactor]]
+[[Adipose tissue]]
+[[Mesenchymal Stem/stromal Cells]]
+[[Ab Serum]]

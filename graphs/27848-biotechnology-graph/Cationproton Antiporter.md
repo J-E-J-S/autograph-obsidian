@@ -1,0 +1,5 @@
+[[Salt stress]]
+[[Moso bamboo]]
+[[Cation/proton Antiporter]]
+[[Na+/h+ Antiporter]]
+[[Vacuolar]]

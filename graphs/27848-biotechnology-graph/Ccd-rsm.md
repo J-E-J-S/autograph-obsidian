@@ -1,0 +1,5 @@
+[[Exopolysaccharides]]
+[[Bioemulsifier]]
+[[genetic algorithm]]
+[[Multiobjective Optimization]]
+[[Nondominated Sorting Genetic Algorithm]]

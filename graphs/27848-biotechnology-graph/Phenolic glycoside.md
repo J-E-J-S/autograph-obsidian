@@ -1,0 +1,5 @@
+[[Saccharomyces cerevisiae]]
+[[metabolic engineering]]
+[[gastrodin]]
+[[Chromosomal Integration]]
+[[Asugt]]

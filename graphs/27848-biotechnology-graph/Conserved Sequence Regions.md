@@ -1,0 +1,6 @@
+[[N-terminal domain]]
+[[amylomaltase]]
+[[Evolutionary Relatedness]]
+[[Starch-binding Domain]]
+[[Cbm Families]]
+[[Family Gh77]]

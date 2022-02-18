@@ -1,0 +1,6 @@
+[[Wound healing]]
+[[Biotechnological Applications]]
+[[Anti-adhesive]]
+[[Anti-proliferative]]
+[[Anti-biofilm]]
+[[Lipopeptides]]

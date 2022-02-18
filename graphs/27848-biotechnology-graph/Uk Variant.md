@@ -1,0 +1,6 @@
+[[Covid-19]]
+[[Sars-cov-2]]
+[[B.1.1.7]]
+[[Voc 202012/01]]
+[[20I/501y.v1]]
+[[Variant Of Concern]]

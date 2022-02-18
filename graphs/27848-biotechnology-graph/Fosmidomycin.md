@@ -1,0 +1,7 @@
+[[Plasmodium falciparum]]
+[[Metabolomics]]
+[[Transcriptomics]]
+[[Metabolic Modeling]]
+[[Prenylation]]
+[[Apicoplast]]
+[[Genome-scale Metabolic Model]]

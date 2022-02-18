@@ -1,0 +1,5 @@
+[[mean residence time]]
+[[Japanese Medaka]]
+[[Pharmacokinetic Model]]
+[[Bioconcentration Factor]]
+[[Microplastic]]

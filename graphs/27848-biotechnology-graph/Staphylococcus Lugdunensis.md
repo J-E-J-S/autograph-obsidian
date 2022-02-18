@@ -1,0 +1,5 @@
+[[SCCmec]]
+[[Multilocus Sequence Typing]]
+[[Disk Diffusion]]
+[[Agar Dilution]]
+[[Oxacillin Resistance]]

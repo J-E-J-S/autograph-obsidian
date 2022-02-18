@@ -1,0 +1,8 @@
+[[Survival]]
+[[Metformin]]
+[[B-cell Activating Factor]]
+[[Extracellular Signal-related Kinases 1/2]]
+[[Germinal Center]]
+[[T Follicular Helper Cell]]
+[[T(h)2 Cells]]
+[[B Effector 2 Cells]]

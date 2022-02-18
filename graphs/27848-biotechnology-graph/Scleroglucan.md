@@ -1,0 +1,7 @@
+[[Pichia pastoris]]
+[[Oligoglucosides]]
+[[Coupled Fermentation]]
+[[Molecular weight]]
+[[Glucanase]]
+[[Sclerotium rolfsii]]
+[[Polysaccharide Hydrolysis]]

@@ -1,0 +1,6 @@
+[[Multidrug resistance]]
+[[Pamam Dendrimers]]
+[[Co-delivery System]]
+[[Doxorubicin Base (Dox)]]
+[[Mixed Dendrimer Micelles (Mdms)]]
+[[Simdr-1]]

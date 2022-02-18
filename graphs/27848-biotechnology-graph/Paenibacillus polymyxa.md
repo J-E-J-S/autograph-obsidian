@@ -1,0 +1,8 @@
+[[Crispri]]
+[[Crispra]]
+[[Cas12a]]
+[[Multiplex Gene Regulation]]
+[[Lactate dehydrogenase]]
+[[Butanediol]]
+[[Crispr-cas9]]
+[[Mixed Acid Pathway]]

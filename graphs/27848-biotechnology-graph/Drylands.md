@@ -1,0 +1,6 @@
+[[Carbon cycle]]
+[[Soil respiration]]
+[[Enzymatic activity]]
+[[Organic amendments]]
+[[Soil Bacterial Co-occurrence Patterns]]
+[[16S Rrna Amplicon Study]]

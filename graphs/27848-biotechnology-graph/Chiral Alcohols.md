@@ -1,0 +1,5 @@
+[[Lactic acid]]
+[[Stress tolerance]]
+[[Genetic improvement]]
+[[Bioethanol]]
+[[Zygosaccharomyces]]

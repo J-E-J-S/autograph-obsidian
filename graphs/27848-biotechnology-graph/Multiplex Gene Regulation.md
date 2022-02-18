@@ -1,0 +1,7 @@
+[[Genome Editing]]
+[[Transcriptional Perturbation]]
+[[Crispr-cas12a]]
+[[Paenibacillus polymyxa]]
+[[Crispri]]
+[[Crispra]]
+[[Cas12a]]

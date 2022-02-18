@@ -1,0 +1,5 @@
+[[Clinical application]]
+[[In vivo]]
+[[Three-dimensional Cell Cultures]]
+[[Scaffold-based Techniques]]
+[[Scaffold-free Techniques]]

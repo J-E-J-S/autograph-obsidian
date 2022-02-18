@@ -1,0 +1,6 @@
+[[Nilaparvata lugens]]
+[[Female reproductive system]]
+[[Egg Transportation]]
+[[Lateral Oviducts]]
+[[Nlodsp]]
+[[Oviduct Secretion]]

@@ -1,0 +1,6 @@
+[[Callose]]
+[[Soil environment]]
+[[endodermis]]
+[[Lateral Root Emergence]]
+[[Lateral Root Primordium]]
+[[Symplasmic Domain]]

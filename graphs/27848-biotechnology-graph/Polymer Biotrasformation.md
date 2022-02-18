@@ -1,0 +1,6 @@
+[[Applied Biocatalysis]]
+[[Poly(cis-1,4-isoprene)]]
+[[Rubber Degradation]]
+[[Multi-step Biodegradation]]
+[[Rubber Degrading Bacteria]]
+[[Rubber Oxygenases]]

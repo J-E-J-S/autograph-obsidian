@@ -1,0 +1,6 @@
+[[Antioxidant]]
+[[Antibacterial]]
+[[Analgesic]]
+[[Green Synthesis]]
+[[Sedative]]
+[[Agnps]]

@@ -1,0 +1,5 @@
+[[Abscisic acid]]
+[[Resurrection plant]]
+[[phosphatidylcholine]]
+[[Ctp:phosphocholine Cytidylyltransferase]]
+[[Craterostigma Plantagineum]]

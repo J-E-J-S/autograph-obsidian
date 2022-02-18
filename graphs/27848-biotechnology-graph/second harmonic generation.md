@@ -1,0 +1,2 @@
+[[Dermatan sulfate]]
+[[Collagen I]]

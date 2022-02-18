@@ -1,0 +1,8 @@
+[[Multidrug resistance]]
+[[Hyaluronic acid]]
+[[Dasatinib]]
+[[Ph Response]]
+[[Antitumor]]
+[[Hyaluronic acid]]
+[[Prodrug]]
+[[Tumour Therapy]]

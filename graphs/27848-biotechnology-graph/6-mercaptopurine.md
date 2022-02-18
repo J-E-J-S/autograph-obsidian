@@ -1,0 +1,5 @@
+[[Genetic markers]]
+[[Acute lymphoblastic leukemia]]
+[[Tpmt]]
+[[Slc19a1]]
+[[Nudt15]]

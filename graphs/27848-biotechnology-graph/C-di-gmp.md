@@ -1,0 +1,6 @@
+[[two-component system]]
+[[Nutrient Starvation]]
+[[Bacillus subtilis]]
+[[Extracellular Polymeric Substances]]
+[[Resistance To Stress Environments]]
+[[Alginate-chitosan Microcapsules]]

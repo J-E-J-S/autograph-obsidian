@@ -1,0 +1,8 @@
+[[Acetobacter pasteurianus]]
+[[Transcriptome]]
+[[Hicab]]
+[[Persister Formation]]
+[[Vinegar]]
+[[Acetobacter pasteurianus]]
+[[Transcriptome]]
+[[High Acid Stress]]

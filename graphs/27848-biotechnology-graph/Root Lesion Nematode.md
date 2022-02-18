@@ -1,0 +1,5 @@
+[[Rhizosphere]]
+[[Secondary metabolites]]
+[[Plant age]]
+[[Chemical Defence]]
+[[soil nematodes]]

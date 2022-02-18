@@ -1,0 +1,6 @@
+[[Biotechnology]]
+[[bark]]
+[[Vitis vinifera L.]]
+[[Patents]]
+[[Grape Pomace]]
+[[Technological Prospecting]]

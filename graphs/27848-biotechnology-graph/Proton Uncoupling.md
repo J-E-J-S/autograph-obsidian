@@ -1,0 +1,5 @@
+[[Mitochondrial permeability transition pore]]
+[[Oligomycin]]
+[[Bongkrekic acid]]
+[[HepG2]]
+[[Bz-423]]

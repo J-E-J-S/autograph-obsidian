@@ -1,0 +1,8 @@
+[[Arsenic]]
+[[Microbial community]]
+[[Organic carbon]]
+[[Bengal Basin]]
+[[Metabolic Interplay]]
+[[Mineral-microbe Interaction]]
+[[Taxa Recruitment]]
+[[Groundwater Microbiome]]

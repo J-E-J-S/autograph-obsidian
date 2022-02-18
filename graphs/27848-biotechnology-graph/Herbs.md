@@ -1,0 +1,5 @@
+[[Medicinal plants]]
+[[Antiviral Agents]]
+[[Phytochemicals]]
+[[Covid-19]]
+[[Sars-cov-2]]

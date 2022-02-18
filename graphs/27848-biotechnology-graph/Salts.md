@@ -1,0 +1,5 @@
+[[Stability]]
+[[Sulfate]]
+[[Rheological properties]]
+[[P. Purpureum Eps]]
+[[P. Sordidum Eps]]

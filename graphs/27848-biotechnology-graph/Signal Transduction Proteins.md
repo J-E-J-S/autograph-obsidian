@@ -1,0 +1,5 @@
+[[Insulin]]
+[[Electroacupuncture]]
+[[Dexamethasone]]
+[[plasma glucose]]
+[[Antrodia Cinnamomea]]

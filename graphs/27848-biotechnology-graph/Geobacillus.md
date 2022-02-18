@@ -1,0 +1,8 @@
+[[Surfactant]]
+[[Thermostability]]
+[[Serine protease]]
+[[Genetic engineering]]
+[[Bioreactor]]
+[[Biodegradation]]
+[[Nitroalkanes]]
+[[Thermostability]]

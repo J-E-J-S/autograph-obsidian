@@ -1,0 +1,6 @@
+[[Antimicrobial activity]]
+[[hydroquinone]]
+[[Marine-derived Fungus]]
+[[Diphenyl Ether]]
+[[Benzofuranone]]
+[[Pseudopithomyces Maydicus]]

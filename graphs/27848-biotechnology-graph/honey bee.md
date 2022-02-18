@@ -1,0 +1,7 @@
+[[Circadian rhythm]]
+[[Pesticide degradation]]
+[[Gene Expression]]
+[[Selectivity]]
+[[pesticide]]
+[[resistance management]]
+[[Cypome]]

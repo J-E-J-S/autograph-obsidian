@@ -1,0 +1,8 @@
+[[Obesity]]
+[[IL-6]]
+[[Inflammation]]
+[[Cpt-1]]
+[[T. Chebula]]
+[[gastrodin]]
+[[Ampk]]
+[[Pediatric Epilepsy]]

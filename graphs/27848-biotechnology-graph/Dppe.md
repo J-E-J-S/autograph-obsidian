@@ -1,0 +1,6 @@
+[[HPTLC]]
+[[Diosgenin]]
+[[Anti-inflammatory]]
+[[Paris polyphylla]]
+[[Anti-cancer]]
+[[Anti-oxidant]]

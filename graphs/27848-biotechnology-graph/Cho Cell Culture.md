@@ -1,0 +1,8 @@
+[[Glycation]]
+[[Post-translational modification]]
+[[Recombinant Monoclonal Antibody]]
+[[Boronate Affinity Chromatography]]
+[[Monoclonal antibodies]]
+[[Vitamins]]
+[[Metal ions]]
+[[Charge Variants]]

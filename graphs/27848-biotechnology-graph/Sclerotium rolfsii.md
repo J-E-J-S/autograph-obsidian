@@ -1,0 +1,8 @@
+[[Molecular weight]]
+[[Glucanase]]
+[[Polysaccharide Hydrolysis]]
+[[Scleroglucan]]
+[[Trichoderma]]
+[[Biocontrol]]
+[[Volatiles]]
+[[Induced systemic resistance]]

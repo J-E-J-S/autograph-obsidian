@@ -1,0 +1,6 @@
+[[Sample preparation]]
+[[Storage Duration]]
+[[Cytokines Stability]]
+[[Liver cancer]]
+[[Alpha-fetoprotein]]
+[[Affibody]]

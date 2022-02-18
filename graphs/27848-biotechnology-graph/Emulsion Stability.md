@@ -1,0 +1,8 @@
+[[Polysaccharides]]
+[[Extraction]]
+[[Structural characterization]]
+[[Okra leaf]]
+[[Ultrasonication]]
+[[Bifunctional Stabilizer]]
+[[Insoluble Peptide Aggregates]]
+[[Rice Peptide Nanoparticles]]

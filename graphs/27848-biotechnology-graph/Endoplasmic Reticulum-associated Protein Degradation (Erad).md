@@ -1,0 +1,5 @@
+[[Cholesterol]]
+[[Proteasome]]
+[[Protein degradation]]
+[[Squalene Monooxygenase]]
+[[Ubiquitylation (Ubiquitination)]]

@@ -1,0 +1,5 @@
+[[SCCmec]]
+[[Multilocus Sequence Typing]]
+[[Disk Diffusion]]
+[[Staphylococcus Lugdunensis]]
+[[Oxacillin Resistance]]

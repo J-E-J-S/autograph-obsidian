@@ -1,0 +1,7 @@
+[[Wound healing]]
+[[Autoimmune diseases]]
+[[PrP]]
+[[Platelet-rich Plasma]]
+[[Prgf]]
+[[Fibrin Membrane]]
+[[Heat-inactivation]]

@@ -1,0 +1,6 @@
+[[Cavitation]]
+[[Subcritical Water]]
+[[Pulsed Electric Field]]
+[[Enzyme-assisted Extraction]]
+[[Food Waste]]
+[[Recycled Protein]]

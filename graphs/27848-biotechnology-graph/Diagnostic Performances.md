@@ -1,0 +1,5 @@
+[[Malaria]]
+[[Phylogenetic analysis]]
+[[Cameroon]]
+[[Rapid Diagnostic Test]]
+[[Non-falciparum Species]]

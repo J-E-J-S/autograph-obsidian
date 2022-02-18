@@ -1,0 +1,6 @@
+[[Human genetics]]
+[[Drug Development]]
+[[Gwas]]
+[[Precision Medicine]]
+[[Polygenic Risk Score]]
+[[Therapeutic Discovery]]

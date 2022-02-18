@@ -1,0 +1,5 @@
+[[Pesticides]]
+[[Chemical fertilizers]]
+[[paddy Soils]]
+[[Functional genes]]
+[[N Cycle]]

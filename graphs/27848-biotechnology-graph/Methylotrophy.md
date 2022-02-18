@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Cobra]]
+[[metabolic engineering]]
+[[Metabolic Reconstruction]]
+[[Genome-scale Metabolic Model]]

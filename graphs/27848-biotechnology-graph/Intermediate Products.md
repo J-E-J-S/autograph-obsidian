@@ -1,0 +1,5 @@
+[[Degradation mechanism]]
+[[Degradation kinetics]]
+[[Persulfate]]
+[[Meta-cresol]]
+[[Uv/ozone Activation]]

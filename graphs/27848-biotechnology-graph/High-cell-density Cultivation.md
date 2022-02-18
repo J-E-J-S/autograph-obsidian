@@ -1,0 +1,7 @@
+[[PHA]]
+[[Rapeseed oil]]
+[[Ralstonia eutropha]]
+[[Cupriavidus Necator]]
+[[Two-stage Fed-batch]]
+[[Poly(Hydroxybutyrate-Co-Hydroxyhexanoate)]]
+[[Substrate-Flexible]]

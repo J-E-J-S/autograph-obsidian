@@ -1,0 +1,5 @@
+[[Masking]]
+[[Dominance]]
+[[synergy]]
+[[Pleasantness]]
+[[Partial Addition]]

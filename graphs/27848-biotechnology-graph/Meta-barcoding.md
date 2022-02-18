@@ -1,0 +1,7 @@
+[[Ngs]]
+[[Adulteration]]
+[[Mini-barcode]]
+[[Natural Medicine/herbal Formulation]]
+[[Next Generation Sequencing]]
+[[Barcode]]
+[[Genome Skimming]]

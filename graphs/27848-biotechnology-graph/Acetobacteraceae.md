@@ -1,0 +1,5 @@
+[[Induction]]
+[[Promoter]]
+[[Origin]]
+[[Plasmid]]
+[[Acetic Acid Bacteria]]

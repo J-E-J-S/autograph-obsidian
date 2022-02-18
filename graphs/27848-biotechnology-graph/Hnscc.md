@@ -1,0 +1,5 @@
+[[Resistance]]
+[[DNA damage]]
+[[Cisplatin]]
+[[p38 MAPK]]
+[[Cscs]]

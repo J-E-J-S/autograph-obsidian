@@ -1,0 +1,3 @@
+[[Release]]
+[[Mechanical properties]]
+[[Aminoglycoside]]

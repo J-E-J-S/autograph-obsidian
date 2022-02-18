@@ -1,0 +1,8 @@
+[[Zea mays]]
+[[Germination]]
+[[Maize]]
+[[Seed viability]]
+[[Corn]]
+[[grain type]]
+[[Plant Genetic Resources]]
+[[Seedbank]]

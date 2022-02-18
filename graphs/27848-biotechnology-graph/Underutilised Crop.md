@@ -1,0 +1,7 @@
+[[Genetic improvement]]
+[[Nutrition]]
+[[Gene Annotation]]
+[[Amaranthus Cruentus]]
+[[Genome Assembly]]
+[[Biosynthetic Gene Clusters]]
+[[Traditional Crop]]

@@ -1,0 +1,7 @@
+[[Heart]]
+[[Cardiovascular diseases]]
+[[Intercellular communication]]
+[[Oxidative stress]]
+[[Gap junctions]]
+[[Extracellular Vesicles]]
+[[Intracellular Communication]]

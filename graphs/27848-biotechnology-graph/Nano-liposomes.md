@@ -1,0 +1,6 @@
+[[Capsaicin]]
+[[TRPV1]]
+[[Nanostructured Lipid Carriers]]
+[[Nanocapsules]]
+[[Nanoemulsions]]
+[[Solid-lipid Nanoparticles]]

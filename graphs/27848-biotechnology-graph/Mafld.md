@@ -1,0 +1,5 @@
+[[ER stress]]
+[[metabolic syndrome]]
+[[Autophagy]]
+[[Mtor]]
+[[High-fructose Diet]]

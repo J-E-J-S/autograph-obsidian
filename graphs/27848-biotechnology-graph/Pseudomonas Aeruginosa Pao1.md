@@ -1,0 +1,8 @@
+[[Colletotrichum gloeosporioides]]
+[[Biofilm]]
+[[Quorum sensing]]
+[[Microbial Metabolite]]
+[[Sodium dodecyl sulfate]]
+[[Bacterial Biosensor]]
+[[Fluorescence-based Assay]]
+[[Sdsb1 Activator Protein]]

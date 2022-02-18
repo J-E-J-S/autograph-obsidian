@@ -1,0 +1,5 @@
+[[Hot spring]]
+[[Thermophilic]]
+[[Response Surface Optimization]]
+[[Parageobacillus Thermoglucosidasius]]
+[[Thermostable Amylase]]

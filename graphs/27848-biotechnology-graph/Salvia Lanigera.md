@@ -1,0 +1,5 @@
+[[Lipoxygenase]]
+[[Inflammation]]
+[[Cyclooxygenase]]
+[[Origanum Syriacum]]
+[[Secretoryphospholipasea2]]

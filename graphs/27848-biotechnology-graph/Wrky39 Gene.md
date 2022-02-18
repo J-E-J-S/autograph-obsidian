@@ -1,0 +1,5 @@
+[[Tobacco]]
+[[Drought stress]]
+[[Saline-alkali stress]]
+[[transgenic lines]]
+[[P. Trichocarpa]]

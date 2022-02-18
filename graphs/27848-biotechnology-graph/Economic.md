@@ -1,0 +1,6 @@
+[[Bacteria]]
+[[Biotechnology]]
+[[Environment]]
+[[Acinetobacter]]
+[[Sustainable]]
+[[Wax Ester Synthesis]]

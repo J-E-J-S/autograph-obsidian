@@ -1,0 +1,8 @@
+[[Transcription factor]]
+[[Yeast]]
+[[Pichia pastoris]]
+[[Carbon source]]
+[[Komagataella Phaffii]]
+[[Ethanol Utilization]]
+[[Csre]]
+[[Sip4]]

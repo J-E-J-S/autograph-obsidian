@@ -1,0 +1,5 @@
+[[Diabetes mellitus]]
+[[Cirrhosis]]
+[[Blood Glucose]]
+[[Chronic hepatitis C]]
+[[fibrosis]]

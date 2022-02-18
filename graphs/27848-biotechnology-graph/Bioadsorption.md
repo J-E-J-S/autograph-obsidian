@@ -1,0 +1,5 @@
+[[Microbial community]]
+[[Ammonia Assimilation]]
+[[Extracellular Proteins And Amino Acids]]
+[[Intracellular Proteins And Amino Acids]]
+[[Sludge Increment]]

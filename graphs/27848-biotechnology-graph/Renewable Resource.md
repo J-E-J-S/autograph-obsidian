@@ -1,0 +1,7 @@
+[[Glycolipids]]
+[[Gels]]
+[[Nanotubes]]
+[[Supramolecular Assembly]]
+[[Soft Materials]]
+[[12-Hydroxystearic Acid]]
+[[Structuring Agent]]

@@ -1,0 +1,5 @@
+[[Bacillus cereus]]
+[[Nanoparticle]]
+[[Medical application]]
+[[Polyhydroxyalkanoates]]
+[[Poly (3-Hydroxybutyrate-co-3-hydroxyvalerate)]]

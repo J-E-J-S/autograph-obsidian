@@ -1,0 +1,8 @@
+[[Plasmin]]
+[[Plasminogen]]
+[[Glyceraldehyde-3-phosphate dehydrogenase]]
+[[Adhesin]]
+[[Virulence factor]]
+[[Multifunctional Protein]]
+[[M. Tuberculosis]]
+[[Crispri]]

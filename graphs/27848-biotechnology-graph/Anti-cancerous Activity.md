@@ -1,0 +1,6 @@
+[[Mice]]
+[[alloxan]]
+[[CCl4]]
+[[Silver Nanoparticles]]
+[[Anti-diabetic Activity]]
+[[Ajuga Bracteosa]]

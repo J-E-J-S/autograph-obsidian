@@ -1,0 +1,6 @@
+[[Whole-cell Biocatalysis]]
+[[2,5-Dimethylpyrazine]]
+[[Kbl]]
+[[Soaao]]
+[[Carbon Recovery Rate]]
+[[Redistribution Of Intracellular Metabolic Flow]]

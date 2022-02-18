@@ -1,0 +1,6 @@
+[[Chicken]]
+[[Abdominal fat]]
+[[Pomegranate Seed Oil]]
+[[Conjugated Fatty Acids]]
+[[Grape Seed Oil]]
+[[Rumenic Acid]]

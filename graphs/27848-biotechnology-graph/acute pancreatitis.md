@@ -1,0 +1,8 @@
+[[Score]]
+[[Prognostic factors]]
+[[Outcome]]
+[[Internal Wards]]
+[[Differentiation]]
+[[Homing]]
+[[Cell transplantation]]
+[[Hair Follicle Mesenchymal Stem Cells]]

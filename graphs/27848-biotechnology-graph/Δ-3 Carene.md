@@ -1,0 +1,7 @@
+[[Toxicity]]
+[[Candida albicans]]
+[[Essential oil]]
+[[Molecular docking]]
+[[Synergistic]]
+[[Citrus Aurantium]]
+[[D-limonene]]

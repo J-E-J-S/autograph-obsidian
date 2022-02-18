@@ -1,0 +1,7 @@
+[[Arabidopsis thaliana]]
+[[Seed germination]]
+[[bHLH]]
+[[Brassinosteroids (Brs)]]
+[[Hbi1]]
+[[Bee2]]
+[[Gasa6]]

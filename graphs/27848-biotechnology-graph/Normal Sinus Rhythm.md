@@ -1,0 +1,5 @@
+[[ECG]]
+[[heart rate variability]]
+[[Atrial Tachycardia]]
+[[Premature Activation]]
+[[Pta Interval]]

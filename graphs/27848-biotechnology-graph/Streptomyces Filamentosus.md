@@ -1,0 +1,7 @@
+[[Fermentation]]
+[[Mutagenesis]]
+[[Bioassay]]
+[[Rational screening]]
+[[Streptomyces roseosporus]]
+[[Daptomycin]]
+[[Lipopeptide Antibiotic]]

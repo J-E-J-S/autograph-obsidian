@@ -1,0 +1,5 @@
+[[Congo red]]
+[[Dye-decolorization]]
+[[Bacillus Amyloliquefaciens W36]]
+[[Commassie Brilliant Blue]]
+[[Sarranine]]

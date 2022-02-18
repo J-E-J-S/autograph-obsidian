@@ -1,0 +1,8 @@
+[[Transformation]]
+[[Genetic engineering]]
+[[Agrobacterium rhizogenes]]
+[[Site-specific recombination]]
+[[Plant Biotechnology]]
+[[Virulence Plasmid]]
+[[Transfer Dna (T-dna)]]
+[[Transgene Assembly]]

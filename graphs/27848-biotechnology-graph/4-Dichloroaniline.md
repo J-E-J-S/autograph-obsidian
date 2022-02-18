@@ -1,0 +1,6 @@
+[[Biodegradation]]
+[[Linuron]]
+[[3]]
+[[Genome-scale Metabolic Model]]
+[[Variovorax Sp. Strain Srs 16]]
+[[Phenyl Urea Herbicide]]

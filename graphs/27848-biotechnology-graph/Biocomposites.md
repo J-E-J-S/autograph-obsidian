@@ -1,0 +1,5 @@
+[[Bacteria]]
+[[Polysaccharides]]
+[[Immune system]]
+[[Macroalgae]]
+[[Polysaccharides Utilization Locus]]

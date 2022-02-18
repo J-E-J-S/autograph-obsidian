@@ -1,0 +1,2 @@
+[[Cinnamomum cassia]]
+[[cinnamaldehyde]]

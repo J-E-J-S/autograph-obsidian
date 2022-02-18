@@ -1,0 +1,5 @@
+[[Ligand]]
+[[Transcription factor]]
+[[Gene regulation]]
+[[Carbohydrate metabolism]]
+[[Gntr Family]]

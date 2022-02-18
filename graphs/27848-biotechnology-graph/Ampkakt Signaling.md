@@ -1,0 +1,5 @@
+[[Obesity]]
+[[Insulin resistance]]
+[[Nonalcoholic Fatty Liver Disease (Nafld)]]
+[[Ugonin J]]
+[[Ampk/akt Signaling]]

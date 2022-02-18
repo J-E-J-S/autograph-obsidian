@@ -1,0 +1,5 @@
+[[Polyphenols]]
+[[Inflammation]]
+[[Immunity]]
+[[Gut Microbiota]]
+[[Vinegar Extract]]

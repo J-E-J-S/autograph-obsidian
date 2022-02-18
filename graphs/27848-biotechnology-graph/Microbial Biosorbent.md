@@ -1,0 +1,5 @@
+[[Heavy metals]]
+[[biosorption]]
+[[Melanin Pigment]]
+[[Fungal Melanin]]
+[[Amorphotheca Resinae]]

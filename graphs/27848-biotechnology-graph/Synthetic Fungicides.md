@@ -1,0 +1,5 @@
+[[Chitosan]]
+[[Botrytis cinerea]]
+[[Antifungal activity]]
+[[Metabolic activity]]
+[[Chitosan Derivatives]]

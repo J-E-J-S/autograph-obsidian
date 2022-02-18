@@ -1,0 +1,6 @@
+[[Stemi]]
+[[Emergency Medical System]]
+[[Covid-19]]
+[[Sars-cov-2]]
+[[Eamcsst]]
+[[Sistema De Emergência Médica]]

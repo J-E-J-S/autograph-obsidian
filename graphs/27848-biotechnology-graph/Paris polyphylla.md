@@ -1,0 +1,6 @@
+[[HPTLC]]
+[[Diosgenin]]
+[[Anti-inflammatory]]
+[[Anti-cancer]]
+[[Anti-oxidant]]
+[[Dppe]]

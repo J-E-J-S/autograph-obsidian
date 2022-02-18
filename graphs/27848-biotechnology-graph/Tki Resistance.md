@@ -1,0 +1,5 @@
+[[EGFR]]
+[[cDNA microarray]]
+[[non-small-cell lung cancer]]
+[[Afatinib]]
+[[Hcc827]]

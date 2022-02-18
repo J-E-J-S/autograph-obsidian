@@ -1,0 +1,5 @@
+[[Cattle]]
+[[Single nucleotide polymorphism]]
+[[Carcass quality]]
+[[marker assisted selection]]
+[[Meat Trait]]

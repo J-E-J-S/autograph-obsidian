@@ -1,0 +1,5 @@
+[[Transport]]
+[[SNARE]]
+[[Syntaxin-1a]]
+[[Sm Protein]]
+[[Snare Motif]]

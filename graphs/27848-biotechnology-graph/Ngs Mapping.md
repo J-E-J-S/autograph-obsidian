@@ -1,0 +1,5 @@
+[[Polyploid]]
+[[Potato]]
+[[DNA marker]]
+[[Sweetpotato]]
+[[Qtl-seq]]

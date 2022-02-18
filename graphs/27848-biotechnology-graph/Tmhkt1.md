@@ -1,0 +1,6 @@
+[[Abiotic stress]]
+[[QTL]]
+[[Deletion analysis]]
+[[Expression pattern]]
+[[GUS activity]]
+[[4-A2 Promoter]]

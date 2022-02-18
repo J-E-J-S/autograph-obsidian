@@ -1,0 +1,6 @@
+[[Green fluorescent protein]]
+[[Fluorescence]]
+[[miRNA]]
+[[Bombardment]]
+[[Cleavage Mode]]
+[[Dual Gene Expression Cassette Vector]]

@@ -1,0 +1,5 @@
+[[Gene amplification]]
+[[HEK293 cells]]
+[[shRNA]]
+[[Fc-fusion Protein]]
+[[Tge]]

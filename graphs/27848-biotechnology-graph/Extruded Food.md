@@ -1,0 +1,5 @@
+[[Bacteria]]
+[[Energy value]]
+[[Molds]]
+[[Proximate Composition]]
+[[Comparison Analysis]]

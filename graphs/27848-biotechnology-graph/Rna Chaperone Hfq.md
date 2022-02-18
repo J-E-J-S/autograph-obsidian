@@ -1,0 +1,5 @@
+[[Oxidative phosphorylation]]
+[[Antibiotic Biosynthesis]]
+[[Type Vi Secretion System]]
+[[Pqq-edhs Biosynthesis]]
+[[Catabolite Repression Control Protein Crc]]

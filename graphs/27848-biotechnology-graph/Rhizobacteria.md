@@ -1,0 +1,8 @@
+[[Biocontrol]]
+[[Induced systemic resistance]]
+[[Pseudomonas Chlororaphis]]
+[[Nutrients]]
+[[phytohormones]]
+[[Siderophores]]
+[[Induced Systemic Resistance (Isr)]]
+[[Bacterial Volatile Compounds (Bvcs)]]

@@ -1,0 +1,7 @@
+[[Vitamin C]]
+[[Co-culture]]
+[[Dehydrogenase]]
+[[2-keto-L-gulonic acid]]
+[[Bacillus subtilis]]
+[[heterologous expression]]
+[[Sucrose Phosphorylase]]

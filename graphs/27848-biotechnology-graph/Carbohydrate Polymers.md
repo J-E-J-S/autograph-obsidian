@@ -1,0 +1,7 @@
+[[Characterization]]
+[[Antioxidant]]
+[[Antibacterial]]
+[[Nanoliposome]]
+[[Antidiabetic]]
+[[Anticancer And Anti-inflammatory Activities]]
+[[Tamarind Flower]]

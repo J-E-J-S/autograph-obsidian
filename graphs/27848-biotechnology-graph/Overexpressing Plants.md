@@ -1,0 +1,7 @@
+[[Biomass]]
+[[Panax ginseng]]
+[[Reproduction]]
+[[Fatty acid]]
+[[Seed yield]]
+[[Cytochrome p450]]
+[[Pgcyp704b1]]

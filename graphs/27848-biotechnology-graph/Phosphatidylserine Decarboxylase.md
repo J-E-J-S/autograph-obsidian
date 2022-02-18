@@ -1,0 +1,5 @@
+[[Phospholipid]]
+[[Phosphatidylethanolamine]]
+[[Filamentous fungi]]
+[[Phosphatidylserine]]
+[[Aspergillus nidulans]]

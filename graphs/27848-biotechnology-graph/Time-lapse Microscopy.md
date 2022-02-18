@@ -1,0 +1,8 @@
+[[poly(N-isopropylacrylamide)]]
+[[Artificial Extracellular Matrix]]
+[[Thermoresponsive Hydrogel]]
+[[Microchamber Microfluidics]]
+[[On-chip Cell Culture]]
+[[Cellular morphology]]
+[[Antimetabolites]]
+[[Nucleoside Analogues]]

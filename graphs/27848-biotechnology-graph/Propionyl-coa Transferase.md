@@ -1,0 +1,5 @@
+[[Lactococcus lactis]]
+[[Kinetic model]]
+[[Propionic acid]]
+[[metabolic engineering]]
+[[Acrylate Pathway]]

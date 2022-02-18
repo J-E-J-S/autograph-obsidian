@@ -1,0 +1,7 @@
+[[Antioxidant]]
+[[Curcumin-based Derivatives]]
+[[Antioxidant]]
+[[Antimicrobial]]
+[[Anticancer]]
+[[Citral]]
+[[Anti-inflammatory]]

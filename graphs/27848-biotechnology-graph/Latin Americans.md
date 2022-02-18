@@ -1,0 +1,6 @@
+[[Admixture]]
+[[Dna Phenotyping]]
+[[Eye-colour]]
+[[Hair-colour]]
+[[Pigmentation Prediction]]
+[[Skin-colour]]

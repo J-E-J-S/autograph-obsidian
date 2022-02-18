@@ -1,0 +1,5 @@
+[[Immobilization]]
+[[Growth factor]]
+[[Cell therapy]]
+[[Cost-of-goods]]
+[[Cell Product Manufacturing]]

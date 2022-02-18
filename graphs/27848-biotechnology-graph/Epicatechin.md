@@ -1,0 +1,5 @@
+[[Catechin]]
+[[Rutin]]
+[[Diabetes]]
+[[Simplex-centroid Design]]
+[[Mixture Design Experiment]]

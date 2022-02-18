@@ -1,0 +1,5 @@
+[[Bacteria]]
+[[Heavy metals]]
+[[Environmental Contaminants]]
+[[Synthetic Biology]]
+[[Genetically Engineered]]

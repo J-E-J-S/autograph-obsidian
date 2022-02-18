@@ -1,0 +1,2 @@
+[[Glutaminase]]
+[[Autocatalytic Processing]]

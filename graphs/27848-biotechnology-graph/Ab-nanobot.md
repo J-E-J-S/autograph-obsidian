@@ -1,0 +1,6 @@
+[[Staphylococcus aureus]]
+[[Antimicrobial resistance]]
+[[Radiofrequency]]
+[[Usa300]]
+[[Electromagnetic-stimulation]]
+[[Mice Subcutaneous Skin Infection Model]]

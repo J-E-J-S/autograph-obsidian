@@ -1,0 +1,7 @@
+[[Artificial intelligence]]
+[[Precision Medicine]]
+[[Drug Sensitivity Testing]]
+[[Single-cell Rna Sequencing]]
+[[Corynebacterium glutamicum]]
+[[High throughput screening]]
+[[Heterologous Protein Production]]

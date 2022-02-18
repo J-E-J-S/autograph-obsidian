@@ -1,0 +1,7 @@
+[[HPLC]]
+[[Triterpenoids]]
+[[Centella asiatica]]
+[[Potential Metabolite Stimulants]]
+[[asiaticoside]]
+[[Gene Expression]]
+[[Apiaceae]]

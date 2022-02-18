@@ -1,0 +1,5 @@
+[[Bleomycin]]
+[[Macropinocytosis]]
+[[Clathrin-mediated Endocytosis]]
+[[Caveolae-mediated Endocytosis]]
+[[Endocytosis Inhibitors]]

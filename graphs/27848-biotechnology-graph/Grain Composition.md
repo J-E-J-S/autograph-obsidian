@@ -1,0 +1,8 @@
+[[Amino acids]]
+[[Wheat]]
+[[Asparagine synthetase]]
+[[Acrylamide]]
+[[Food safety]]
+[[Asparagine]]
+[[Genome Editing]]
+[[Crispr/cas9]]

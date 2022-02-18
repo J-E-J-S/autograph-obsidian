@@ -1,0 +1,5 @@
+[[Affibody]]
+[[Noncanonical Amino Acid]]
+[[Genetic Code Expansion]]
+[[Bl21(de3) Gp2]]
+[[Growth-decoupled Protein Production]]

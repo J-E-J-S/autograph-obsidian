@@ -1,0 +1,5 @@
+[[Coculture]]
+[[Fibroblasts]]
+[[Keratinocytes]]
+[[Wound Bed]]
+[[Reduced Serum]]

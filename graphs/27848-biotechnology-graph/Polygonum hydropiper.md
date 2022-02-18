@@ -1,0 +1,5 @@
+[[Biological activity]]
+[[Medicinal plant]]
+[[Phytochemistry]]
+[[Pharmacological Properties]]
+[[Persicaria Hydropiper (L.) Delarbre]]

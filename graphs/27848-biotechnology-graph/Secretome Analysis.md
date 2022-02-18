@@ -1,0 +1,5 @@
+[[Lignocellulose]]
+[[Cellulomonas]]
+[[Enzymatic hydrolysis]]
+[[Lyophilisation]]
+[[Waste Valorisation]]

@@ -1,0 +1,5 @@
+[[Multidrug resistance]]
+[[Paclitaxel]]
+[[Drug release]]
+[[FeruLic acid]]
+[[Nanoaggregates]]

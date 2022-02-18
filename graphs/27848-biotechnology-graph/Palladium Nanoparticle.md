@@ -1,0 +1,8 @@
+[[Bioleaching]]
+[[Gold]]
+[[biosorption]]
+[[Recombinant Pichia Pastoris]]
+[[Hydrogenase]]
+[[NADH dehydrogenase]]
+[[Cytochromes]]
+[[Shewanella Oneidensis]]

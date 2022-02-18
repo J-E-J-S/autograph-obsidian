@@ -1,0 +1,5 @@
+[[Beauveria bassiana]]
+[[Enzyme]]
+[[Metabolite]]
+[[Endophyte]]
+[[Entomopathogen]]

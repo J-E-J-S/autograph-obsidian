@@ -1,0 +1,5 @@
+[[Glutamine synthetase]]
+[[CHO cells]]
+[[industrial biotechnology]]
+[[Site specific integration]]
+[[Bioprocess Development]]

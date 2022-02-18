@@ -1,0 +1,7 @@
+[[Nanopore]]
+[[Effective Thickness]]
+[[Alpha-hederin]]
+[[Topological Analysis Of Dna]]
+[[Mercury Ion]]
+[[Colorimetric Detection]]
+[[Paper Device]]

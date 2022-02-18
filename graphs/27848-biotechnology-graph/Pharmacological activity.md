@@ -1,0 +1,8 @@
+[[Biosynthesis]]
+[[Gene regulation]]
+[[Shikonin]]
+[[Zi Cao]]
+[[Isolation]]
+[[Purification]]
+[[Combined Action]]
+[[Hedyotis Diffusa Polysaccharides]]

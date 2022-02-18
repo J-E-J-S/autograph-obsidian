@@ -1,0 +1,5 @@
+[[molecular interaction]]
+[[Mycobacterium Smegmatis]]
+[[Substrate Conformation]]
+[[Nudix Hydrolases]]
+[[Enzyme Action]]

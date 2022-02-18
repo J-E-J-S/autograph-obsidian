@@ -1,0 +1,6 @@
+[[Cyanobacteria]]
+[[T7 Rna Polymerase]]
+[[Synechocystis Sp. Pcc6803]]
+[[Ccas/ccar]]
+[[Light-regulated Bioprocesses]]
+[[Green Light-regulated Gene Expression System]]

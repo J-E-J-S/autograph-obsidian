@@ -1,0 +1,5 @@
+[[Solid-state fermentation]]
+[[Bacterial community]]
+[[community dynamics]]
+[[Substrate Consumption]]
+[[Succession Rate]]

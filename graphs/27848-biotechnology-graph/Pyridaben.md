@@ -1,0 +1,8 @@
+[[Pesticides]]
+[[Testis]]
+[[Male infertility]]
+[[Mitochondrial Dysfunction]]
+[[Insecticides]]
+[[Pregnancy]]
+[[endometrial cells]]
+[[Trophectoderm]]

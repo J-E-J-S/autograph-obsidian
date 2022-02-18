@@ -1,0 +1,7 @@
+[[Plasmodium falciparum]]
+[[Anticancer]]
+[[Natural products]]
+[[Anti-inflammatory]]
+[[Indole]]
+[[Ayurveda]]
+[[Antimalaria]]

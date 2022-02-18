@@ -1,0 +1,7 @@
+[[Fermentation]]
+[[Mycophenolic acid]]
+[[Penicillium Brevicompactum]]
+[[Emulsion Stability]]
+[[Bifunctional Stabilizer]]
+[[Insoluble Peptide Aggregates]]
+[[Rice Peptide Nanoparticles]]

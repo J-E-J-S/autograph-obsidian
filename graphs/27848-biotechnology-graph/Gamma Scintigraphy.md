@@ -1,0 +1,5 @@
+[[Alzheimer disease]]
+[[Intranasal]]
+[[biodistribution]]
+[[Nanoemulsion]]
+[[Donepezil]]

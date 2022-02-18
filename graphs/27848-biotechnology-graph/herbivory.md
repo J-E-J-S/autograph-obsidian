@@ -1,0 +1,5 @@
+[[Spodoptera]]
+[[plant defense]]
+[[Jasmonates]]
+[[Calcium signaling]]
+[[Systemic Signaling]]

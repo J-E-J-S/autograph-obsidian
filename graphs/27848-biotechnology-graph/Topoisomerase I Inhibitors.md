@@ -1,0 +1,2 @@
+[[Cancer]]
+[[Infectious diseases]]

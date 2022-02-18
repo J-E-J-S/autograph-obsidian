@@ -1,0 +1,7 @@
+[[Immobilization]]
+[[Conversion]]
+[[Rutin]]
+[[Hyaluronic acid]]
+[[Anticoagulant]]
+[[Sulfated polysaccharides]]
+[[Zif-8]]

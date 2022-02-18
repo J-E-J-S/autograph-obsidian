@@ -1,0 +1,7 @@
+[[Esterases]]
+[[Asymmetric catalysis]]
+[[Kinetic Resolution]]
+[[Alpha-pinen]]
+[[Enzymatic resolution]]
+[[Racemate]]
+[[Borneol Dehydrogenase]]

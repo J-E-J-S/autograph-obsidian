@@ -1,0 +1,5 @@
+[[Building Block]]
+[[Sophorolipids]]
+[[Starmerella Bombicola]]
+[[Bio-based Plastic]]
+[[Methyl Hydroxy Branched Fatty Acids]]

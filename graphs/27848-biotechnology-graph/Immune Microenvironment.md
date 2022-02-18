@@ -1,0 +1,5 @@
+[[Bacillus subtilis]]
+[[Proliferation]]
+[[HepG2]]
+[[Iturin A]]
+[[Physiological Toxicity]]

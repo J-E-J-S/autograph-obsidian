@@ -1,0 +1,8 @@
+[[Transcription factor]]
+[[Phytoremediation]]
+[[Heavy metal stress]]
+[[Durum Wheat]]
+[[Transgene]]
+[[Gene Expression]]
+[[Constitutive Promoter]]
+[[Camv 35S Promoter]]

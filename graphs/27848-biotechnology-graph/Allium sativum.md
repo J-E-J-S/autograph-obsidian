@@ -1,0 +1,5 @@
+[[Bacillus anthracis]]
+[[Garlic]]
+[[Traditional medicine]]
+[[anthrax]]
+[[Edible Plants]]

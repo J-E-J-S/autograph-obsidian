@@ -1,0 +1,6 @@
+[[Neurofibrillary tangles]]
+[[Molecular docking]]
+[[Alzheimer’s disease]]
+[[In silico]]
+[[Bace1]]
+[[Amyloid Plaques]]

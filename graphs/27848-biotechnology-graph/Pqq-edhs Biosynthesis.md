@@ -1,0 +1,5 @@
+[[Oxidative phosphorylation]]
+[[Antibiotic Biosynthesis]]
+[[Type Vi Secretion System]]
+[[Rna Chaperone Hfq]]
+[[Catabolite Repression Control Protein Crc]]

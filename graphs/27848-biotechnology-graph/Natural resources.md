@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Innovation]]
+[[Public Perception]]
+[[Bioeconomy]]
+[[Bio-innovation]]

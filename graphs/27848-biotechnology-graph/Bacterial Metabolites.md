@@ -1,0 +1,8 @@
+[[Abiotic stress]]
+[[PGPR]]
+[[salinity tolerance]]
+[[Plant-microbe Interactions]]
+[[Anticancer drugs]]
+[[Antitumor antibiotics]]
+[[Natural Compounds]]
+[[Bacteria-derived Antitumor Agents]]

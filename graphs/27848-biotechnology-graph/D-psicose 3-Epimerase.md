@@ -1,0 +1,5 @@
+[[Agrobacterium tumefaciens]]
+[[Expression]]
+[[Immobilization]]
+[[D-psicose]]
+[[Recombinant Bacillus Subtilis]]

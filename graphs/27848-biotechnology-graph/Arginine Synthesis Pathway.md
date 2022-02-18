@@ -1,0 +1,5 @@
+[[Promoter]]
+[[Corynebacterium glutamicum]]
+[[Rbs]]
+[[Orthogonality]]
+[[Combination Effects]]

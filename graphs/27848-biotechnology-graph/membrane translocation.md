@@ -1,0 +1,5 @@
+[[Permeability]]
+[[Machine Learning]]
+[[Macrocycle]]
+[[Nuclear Magnetic Resonance (Nmr) Spectroscopy]]
+[[Quantitative Structure-property Relationship(s) (Qspr)]]

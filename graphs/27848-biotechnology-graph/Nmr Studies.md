@@ -1,0 +1,5 @@
+[[Structure]]
+[[Cytotoxicity]]
+[[Antioxidant activity]]
+[[Citrobacter freundii]]
+[[exopolysaccharide]]

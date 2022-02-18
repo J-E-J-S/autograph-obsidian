@@ -1,0 +1,3 @@
+[[Flavonoid]]
+[[Anticancer]]
+[[Chemotherapeutic Strategy]]

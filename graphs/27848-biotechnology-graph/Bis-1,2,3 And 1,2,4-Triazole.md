@@ -1,0 +1,5 @@
+[[Antioxidant]]
+[[Antifungal activity]]
+[[Molecular docking]]
+[[Antibacterial activity]]
+[[Antimicrobial resistance]]

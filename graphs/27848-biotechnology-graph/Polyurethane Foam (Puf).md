@@ -1,0 +1,5 @@
+[[In situ extraction]]
+[[Naphthoquinones]]
+[[Hairy (Transgenic) Roots]]
+[[Mtms Aerogel]]
+[[Plant Biomass Immobilization]]

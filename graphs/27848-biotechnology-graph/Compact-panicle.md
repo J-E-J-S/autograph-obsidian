@@ -1,0 +1,5 @@
+[[Oryza sativa]]
+[[Pullulanase]]
+[[sucrose synthase]]
+[[starch synthase]]
+[[Lax-panicle]]

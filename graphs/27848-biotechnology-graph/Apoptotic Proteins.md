@@ -1,0 +1,7 @@
+[[Resistance]]
+[[Synthesis]]
+[[Tumor]]
+[[Epigenetics]]
+[[1, 2, 3, 4-Tetrahydro-2-azanaphthalene]]
+[[3, 4-Dihydro-1h-isoquinoline]]
+[[Benzo Piperidine]]

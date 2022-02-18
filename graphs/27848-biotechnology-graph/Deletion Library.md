@@ -1,0 +1,2 @@
+[[Transcription factor]]
+[[Aspergillus Luchuensis]]

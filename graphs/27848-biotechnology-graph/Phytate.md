@@ -1,0 +1,8 @@
+[[Starch]]
+[[Phosphorylation]]
+[[pH]]
+[[Dry-heating]]
+[[Phosphate Solubilizing Bacteria]]
+[[Glucose Dehydrogenase]]
+[[Phytases]]
+[[Phosphomonoesterases]]

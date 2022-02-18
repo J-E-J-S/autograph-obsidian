@@ -1,0 +1,6 @@
+[[FISH]]
+[[Nutritional value]]
+[[Artificial neural Network]]
+[[genetic algorithm]]
+[[Particle Swarm Optimization]]
+[[Frying]]

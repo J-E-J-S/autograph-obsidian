@@ -1,0 +1,5 @@
+[[Emulsifier]]
+[[intestinal absorption]]
+[[Plasticizers]]
+[[Mehp]]
+[[Intestinal Mucus Barrier]]

@@ -1,0 +1,8 @@
+[[Iron]]
+[[Oryza sativa]]
+[[Cadmium]]
+[[Zinc]]
+[[Manganese]]
+[[Rice]]
+[[Nicotianamine]]
+[[Biofortification]]

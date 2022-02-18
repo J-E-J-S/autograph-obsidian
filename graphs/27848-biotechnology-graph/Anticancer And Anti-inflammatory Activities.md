@@ -1,0 +1,7 @@
+[[Characterization]]
+[[Antioxidant]]
+[[Antibacterial]]
+[[Nanoliposome]]
+[[Antidiabetic]]
+[[Carbohydrate Polymers]]
+[[Tamarind Flower]]

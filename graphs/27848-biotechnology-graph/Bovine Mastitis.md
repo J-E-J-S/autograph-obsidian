@@ -1,0 +1,5 @@
+[[Antibacterial activity]]
+[[biofilms]]
+[[Therapeutic Potential]]
+[[Streptococcus Dysgalactiae]]
+[[Antimicrobial Peptide P2]]

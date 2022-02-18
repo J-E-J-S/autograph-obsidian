@@ -1,0 +1,7 @@
+[[Extraction]]
+[[Recovery]]
+[[Industry]]
+[[Reverse Micellar Extraction]]
+[[Structure-activity relationship]]
+[[Molecular docking]]
+[[Phenolamides]]

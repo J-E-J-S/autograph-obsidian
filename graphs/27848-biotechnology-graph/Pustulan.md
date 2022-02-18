@@ -1,0 +1,5 @@
+[[Hydrolysis]]
+[[Gentiobiose]]
+[[Penicillium Verruculosum]]
+[[Gh5]]
+[[Pustulanase]]

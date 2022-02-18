@@ -1,0 +1,6 @@
+[[Fungi]]
+[[Ornamentals]]
+[[Crop Type]]
+[[Causal Agent]]
+[[Subject Areas]]
+[[Herbaceous/flowering Plants]]

@@ -1,0 +1,5 @@
+[[RNA interference]]
+[[Entomopathogenic fungi]]
+[[Detoxification]]
+[[innate immunity]]
+[[Antimicrobial peptides]]

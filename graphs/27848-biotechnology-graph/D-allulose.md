@@ -1,0 +1,7 @@
+[[D-allulose 3-Epimerase]]
+[[Weakly Acidic Ph]]
+[[Thermoclostridium Caenicola]]
+[[immobilized enzyme]]
+[[Fruit Juices]]
+[[D-allulose 3-Epimerase]]
+[[Multienzyme Cascade System]]

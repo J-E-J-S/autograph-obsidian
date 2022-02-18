@@ -1,0 +1,5 @@
+[[Energy metabolism]]
+[[Oxidative stress]]
+[[bioaccumulation]]
+[[Medium lethal concentration]]
+[[Palaemon Macrodactylus]]

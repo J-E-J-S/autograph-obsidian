@@ -1,0 +1,5 @@
+[[Arginine]]
+[[Inactivation]]
+[[Aggregation]]
+[[Ionic strength]]
+[[Phosphorylase B]]

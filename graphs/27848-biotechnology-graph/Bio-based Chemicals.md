@@ -1,0 +1,7 @@
+[[Biotechnology]]
+[[Circular economy]]
+[[Renewables]]
+[[Fermentation]]
+[[Co-culture]]
+[[sequential culture]]
+[[succinic acid]]

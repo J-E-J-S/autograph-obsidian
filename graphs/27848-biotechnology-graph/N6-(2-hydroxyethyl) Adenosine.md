@@ -1,0 +1,8 @@
+[[Structure]]
+[[Ergosterol]]
+[[molecular interaction]]
+[[anti-tumor function]]
+[[Metabolism Pathways]]
+[[C. militaris]]
+[[Large-scale Extraction]]
+[[Anti-insomnia Function]]

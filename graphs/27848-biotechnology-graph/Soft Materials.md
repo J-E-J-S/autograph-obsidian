@@ -1,0 +1,7 @@
+[[Glycolipids]]
+[[Gels]]
+[[Nanotubes]]
+[[Supramolecular Assembly]]
+[[Renewable Resource]]
+[[12-Hydroxystearic Acid]]
+[[Structuring Agent]]

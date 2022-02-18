@@ -1,0 +1,8 @@
+[[Stability]]
+[[Antimicrobial activity]]
+[[Recombinant Peptide]]
+[[Cecropin A]]
+[[Biosynthesis]]
+[[Biotechnology]]
+[[Secondary metabolites]]
+[[Genome Editing]]

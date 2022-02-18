@@ -1,0 +1,7 @@
+[[Aspergillus fumigatus]]
+[[Aspergillusnidulans]]
+[[Thermostability]]
+[[Synergistic action]]
+[[Regioselectivity]]
+[[Lignocellulosic Biomass]]
+[[Enzymatic Saccharification]]

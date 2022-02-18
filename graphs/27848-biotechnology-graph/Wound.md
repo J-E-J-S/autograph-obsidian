@@ -1,0 +1,5 @@
+[[Ulcer]]
+[[Diabetes]]
+[[Nanotechnology]]
+[[nanomaterials]]
+[[Diabetic Foot Ulcer]]

@@ -1,0 +1,6 @@
+[[Human genetics]]
+[[Drug Development]]
+[[Gwas]]
+[[Direct-to-consumer]]
+[[Precision Medicine]]
+[[Polygenic Risk Score]]

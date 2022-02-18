@@ -1,0 +1,5 @@
+[[Deletion]]
+[[Duplication]]
+[[Macrocephaly]]
+[[Blended Phenotype]]
+[[Subtelomeric]]

@@ -1,0 +1,5 @@
+[[Transgenic rice]]
+[[Sustainable agriculture]]
+[[Subcellular location]]
+[[Rice pest]]
+[[Gm]]

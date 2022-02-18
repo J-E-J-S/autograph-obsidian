@@ -1,0 +1,5 @@
+[[Clinical application]]
+[[In vivo]]
+[[Translational Medicine]]
+[[Three-dimensional Cell Cultures]]
+[[Scaffold-based Techniques]]

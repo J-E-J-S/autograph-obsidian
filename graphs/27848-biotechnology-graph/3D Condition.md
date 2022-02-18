@@ -1,0 +1,6 @@
+[[Differentiation]]
+[[Scaffold]]
+[[MicroRNA]]
+[[Stem Cells]]
+[[growth factors]]
+[[Insulin-producing cells]]

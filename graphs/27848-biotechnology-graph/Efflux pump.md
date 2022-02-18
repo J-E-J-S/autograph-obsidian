@@ -1,0 +1,8 @@
+[[Flow cytometry]]
+[[Clostridium]]
+[[Ethidium bromide]]
+[[Abe Fermentation]]
+[[Multidrug resistance]]
+[[Integrons]]
+[[Extended Spectrum Beta-lactamase]]
+[[Heavy Metal Resistance Genes]]

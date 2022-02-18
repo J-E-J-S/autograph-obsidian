@@ -1,0 +1,5 @@
+[[Genetic diversity]]
+[[SNP]]
+[[haplotype]]
+[[Ethiopia]]
+[[Cattle Population]]

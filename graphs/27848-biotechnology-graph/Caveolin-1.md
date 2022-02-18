@@ -1,0 +1,7 @@
+[[K562 cells]]
+[[Pp2a]]
+[[Jacalin]]
+[[Senescence]]
+[[Endocytosis]]
+[[ING1]]
+[[Amphiphysin]]

@@ -1,0 +1,6 @@
+[[Carbon cycle]]
+[[Soil respiration]]
+[[Enzymatic activity]]
+[[Organic amendments]]
+[[Drylands]]
+[[16S Rrna Amplicon Study]]

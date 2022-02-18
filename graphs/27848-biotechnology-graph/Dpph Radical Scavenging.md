@@ -1,0 +1,5 @@
+[[RP-HPLC]]
+[[Bioactive peptide]]
+[[Anticancer]]
+[[LC-MS]]
+[[Cupric-ion Reducing Power]]

@@ -1,0 +1,5 @@
+[[alpha-amylase]]
+[[Diabetes]]
+[[Alpha-glucosidase]]
+[[Hypoglycemia]]
+[[Garcinia Linii]]

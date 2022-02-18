@@ -1,0 +1,6 @@
+[[Wound healing]]
+[[Biotechnological Applications]]
+[[Anti-proliferative]]
+[[Anti-biofilm]]
+[[Lipopeptides]]
+[[Halomonas Venusta]]

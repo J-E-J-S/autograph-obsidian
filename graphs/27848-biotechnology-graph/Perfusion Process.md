@@ -1,0 +1,6 @@
+[[CHO]]
+[[High cell density]]
+[[Bioprocessing]]
+[[Therapeutic Enzyme]]
+[[Enhanced Fed-batch]]
+[[Difficult-to-express]]

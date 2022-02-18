@@ -1,0 +1,8 @@
+[[Safety]]
+[[Cardiovascular disease]]
+[[Non-pharmacological Therapeutics]]
+[[Cholesterol-reducing Probiotics]]
+[[Hyperlipemia]]
+[[Lactic acid bacteria]]
+[[Glp-1]]
+[[Hmgcr]]

@@ -1,0 +1,5 @@
+[[Sugar Profile]]
+[[Characterization Techniques]]
+[[Thermal-acid Hydrolysis]]
+[[Structural Carbohydrates]]
+[[Periodic Trend]]

@@ -1,0 +1,5 @@
+[[Enterobacteriaceae]]
+[[Rattus norvegicus]]
+[[Iran]]
+[[Antibiotic Resistance]]
+[[Escherichia Coli]]

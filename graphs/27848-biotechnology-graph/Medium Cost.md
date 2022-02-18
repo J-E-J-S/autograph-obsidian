@@ -1,0 +1,8 @@
+[[Biotechnology]]
+[[Wastewater]]
+[[Microalgae]]
+[[alginate beads]]
+[[Ion Removal]]
+[[Bacillus licheniformis]]
+[[Process Parameters]]
+[[Soy-based Hydrolysates]]

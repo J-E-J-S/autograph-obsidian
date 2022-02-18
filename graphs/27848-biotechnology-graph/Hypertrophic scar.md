@@ -1,0 +1,8 @@
+[[Migration]]
+[[Proliferation]]
+[[Extracellular Matrix Deposition]]
+[[Inhba-as1]]
+[[Extracellular matrix]]
+[[Fibroblasts]]
+[[Smad7]]
+[[Micror-497-5p]]

@@ -1,0 +1,5 @@
+[[Sustainable use]]
+[[Shrimp Waste]]
+[[Chitin Derivatives]]
+[[N-acetyl- D-glucosamine]]
+[[Waste Reusable]]

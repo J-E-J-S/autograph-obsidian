@@ -1,0 +1,8 @@
+[[Xylanase]]
+[[Physiological function]]
+[[neurospora crassa]]
+[[Hydrogen peroxide]]
+[[Cellobiose dehydrogenase]]
+[[Electron paramagnetic resonance]]
+[[Lytic Polysaccharide Monooxygenase]]
+[[Type Ii Copper Protein]]

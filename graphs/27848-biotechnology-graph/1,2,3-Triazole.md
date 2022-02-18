@@ -1,0 +1,7 @@
+[[1,3,4-oxadiazole]]
+[[Benzofuran]]
+[[Acetamide]]
+[[Diabetes]]
+[[Click Reaction]]
+[[Docking Study]]
+[[Hydrazineylideneindolinone]]

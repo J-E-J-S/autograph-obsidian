@@ -1,0 +1,8 @@
+[[Endothelin-1]]
+[[Allele]]
+[[haplotype]]
+[[Single Nucleotide Polymorphisms]]
+[[Acyanotic]]
+[[Cyanotic]]
+[[Severe Pulmonary Hypertension]]
+[[Upstream Regulatory Element]]

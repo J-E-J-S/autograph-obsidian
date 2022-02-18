@@ -1,0 +1,6 @@
+[[Aspergillus flavus]]
+[[Solid-state fermentation]]
+[[Enzyme Production]]
+[[Fungal Growth]]
+[[Plant Biomass Degradation]]
+[[Growth Index (Gi)]]

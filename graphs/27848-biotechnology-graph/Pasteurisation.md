@@ -1,0 +1,6 @@
+[[Pineapple]]
+[[Volatiles]]
+[[Sensory analysis]]
+[[Non-thermal Processing]]
+[[Juice Quality]]
+[[Pressure Change Technology]]

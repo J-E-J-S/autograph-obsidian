@@ -1,0 +1,5 @@
+[[Vaccine]]
+[[Virulence]]
+[[Biofilm]]
+[[adhesion]]
+[[A. Baumannii]]

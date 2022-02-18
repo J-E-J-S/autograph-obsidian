@@ -1,0 +1,6 @@
+[[Cyprinidae]]
+[[Oxford Nanopore Sequencing]]
+[[Mitgenome]]
+[[Hybrid Assembly]]
+[[Indian Major Carp]]
+[[Genomics Resource]]

@@ -1,0 +1,5 @@
+[[Cellulose]]
+[[Bacillus pumilus]]
+[[Endoglucanase]]
+[[Cellobiohydrolase]]
+[[Cbm]]

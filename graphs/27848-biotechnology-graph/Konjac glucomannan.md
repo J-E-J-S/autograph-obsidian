@@ -1,0 +1,8 @@
+[[pH-sensitive]]
+[[Hydroxypropyl Methyl Cellulose]]
+[[Packaging Films]]
+[[Mulberry Extracts]]
+[[Oligosaccharides]]
+[[Prebiotics]]
+[[Lytic Polysaccharide Monooxygenases]]
+[[Depolymerize]]

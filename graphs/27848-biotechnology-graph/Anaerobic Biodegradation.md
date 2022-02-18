@@ -1,0 +1,7 @@
+[[Levofloxacin]]
+[[Fluoroquinolones]]
+[[Microbial Consortia]]
+[[Degradation Pathway]]
+[[Organic Contamination]]
+[[Anoxic Environment]]
+[[Terminal Electron Acceptor Processes (Teaps)]]

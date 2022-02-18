@@ -1,0 +1,8 @@
+[[Cell culture]]
+[[Cell separation]]
+[[Primmorphs]]
+[[Bioactive Alkaloids]]
+[[Bacillus subtilis]]
+[[Antioxidant]]
+[[Exopolysaccharides]]
+[[Anticoagulant]]

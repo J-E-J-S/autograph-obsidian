@@ -1,0 +1,5 @@
+[[Agrobacterium tumefaciens]]
+[[Expression]]
+[[Immobilization]]
+[[D-psicose]]
+[[D-psicose 3-Epimerase]]

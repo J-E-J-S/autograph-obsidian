@@ -1,0 +1,3 @@
+[[Survival]]
+[[Prognosis]]
+[[Leukocytes Ratio]]

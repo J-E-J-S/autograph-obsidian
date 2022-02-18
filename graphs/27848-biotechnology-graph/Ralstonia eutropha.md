@@ -1,0 +1,7 @@
+[[PHA]]
+[[Rapeseed oil]]
+[[Cupriavidus Necator]]
+[[High-cell-density Cultivation]]
+[[Two-stage Fed-batch]]
+[[Poly(Hydroxybutyrate-Co-Hydroxyhexanoate)]]
+[[Substrate-Flexible]]

@@ -1,0 +1,7 @@
+[[Fermentation]]
+[[Insulin]]
+[[Glucose]]
+[[Inflammation]]
+[[bread]]
+[[Sourdough]]
+[[Mineral Absorption]]

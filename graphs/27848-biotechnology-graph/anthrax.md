@@ -1,0 +1,5 @@
+[[Allium sativum]]
+[[Bacillus anthracis]]
+[[Garlic]]
+[[Traditional medicine]]
+[[Edible Plants]]

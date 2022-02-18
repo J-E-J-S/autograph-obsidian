@@ -1,0 +1,5 @@
+[[Biosynthesis]]
+[[Hct 116]]
+[[Bimetallic Nanoparticles]]
+[[Cytotoxicity Activity]]
+[[Agro-wastes]]

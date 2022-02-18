@@ -1,0 +1,6 @@
+[[Cancer]]
+[[Inflammation]]
+[[Small Molecule Inhibitors]]
+[[Glutaminyl Cyclase (Qc)]]
+[[Glutaminyl Cyclase Isoform (Isoqc)]]
+[[Pyroglutamate Residue (Pe)]]

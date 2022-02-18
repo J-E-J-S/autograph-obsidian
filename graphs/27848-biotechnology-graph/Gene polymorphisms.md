@@ -1,0 +1,8 @@
+[[Prognosis]]
+[[Chronic myeloid leukemia]]
+[[Imatinib Therapy]]
+[[Xpc]]
+[[Xpc Haplotypes]]
+[[DNA damage]]
+[[Nucleotide excision repair]]
+[[Alkaline Comet Assay]]

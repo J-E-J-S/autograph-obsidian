@@ -1,0 +1,5 @@
+[[Gas chromatography/mass spectrometry]]
+[[Solid phase microextraction]]
+[[Japanese Sake]]
+[[Barrel Storage]]
+[[Sherry Cask]]

@@ -1,0 +1,5 @@
+[[Proteins]]
+[[Antioxidants]]
+[[Dietary Fibers]]
+[[Amylase Inhibitor]]
+[[Defatted Sapindus Mukorossi Seed Kernel]]

@@ -1,0 +1,5 @@
+[[Bioconversion]]
+[[Ginsenosides]]
+[[polyphasic taxonomy]]
+[[Draft Genome Sequencing]]
+[[Ginsengibacter Hankyongi]]

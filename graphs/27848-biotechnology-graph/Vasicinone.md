@@ -1,0 +1,7 @@
+[[Anti-inflammatory]]
+[[COX-2]]
+[[Vasicine]]
+[[Cox-1]]
+[[Pyrroloquinazoline Alkaloids]]
+[[Ahdatoda Vasica]]
+[[Deoxyvasicine]]

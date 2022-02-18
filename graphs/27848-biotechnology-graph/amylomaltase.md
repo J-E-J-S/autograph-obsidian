@@ -1,0 +1,6 @@
+[[N-terminal domain]]
+[[Conserved Sequence Regions]]
+[[Evolutionary Relatedness]]
+[[Starch-binding Domain]]
+[[Cbm Families]]
+[[Family Gh77]]

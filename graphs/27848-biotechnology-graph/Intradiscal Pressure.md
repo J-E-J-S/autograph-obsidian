@@ -1,0 +1,5 @@
+[[Finite element]]
+[[Lumbar Spine]]
+[[Whole Body Vibration]]
+[[Adjacent Segment Degeneration]]
+[[Interspinous Process Device]]

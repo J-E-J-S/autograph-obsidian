@@ -1,0 +1,3 @@
+[[Scorpion]]
+[[Hemiscorpius Lepturus]]
+[[Leptucin]]

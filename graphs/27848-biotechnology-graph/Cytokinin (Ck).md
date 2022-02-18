@@ -1,0 +1,5 @@
+[[Culture medium]]
+[[Tryptone]]
+[[Yeast extract]]
+[[Peptone]]
+[[Medium Composition]]

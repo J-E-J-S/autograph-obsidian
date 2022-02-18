@@ -1,0 +1,5 @@
+[[Cell suspension culture]]
+[[Saponin]]
+[[Oleanolic acid]]
+[[Oleanane Triterpene]]
+[[Polycias Fruticosa]]

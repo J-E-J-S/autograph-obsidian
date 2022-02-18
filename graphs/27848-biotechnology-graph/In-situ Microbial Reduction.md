@@ -1,0 +1,6 @@
+[[Bacillus amyloliquefaciens]]
+[[Biosurfactant]]
+[[Microbial consortium]]
+[[Pseudomonas putida]]
+[[Synergetic Degradation]]
+[[Kitchen Waste Oil]]

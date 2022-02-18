@@ -1,0 +1,8 @@
+[[Cancer]]
+[[Tumor promoter]]
+[[Antiproliferative]]
+[[Debromoaplysiatoxin]]
+[[Tumor promotion]]
+[[Anti-proliferative Activity]]
+[[Aplysiatoxin]]
+[[Debromoaplysiatoxin]]

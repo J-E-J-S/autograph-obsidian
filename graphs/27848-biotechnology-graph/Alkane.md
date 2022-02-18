@@ -1,0 +1,7 @@
+[[Fatty alcohol]]
+[[Microbial Engineering]]
+[[Microbial Production]]
+[[Structure]]
+[[Function]]
+[[Biofuels]]
+[[Cyanobacterial Aldehyde Deformylating Oxygenase]]

@@ -1,0 +1,6 @@
+[[Saccharomyces cerevisiae]]
+[[Biofilm]]
+[[Quorum-sensing]]
+[[2-Phenylethanol]]
+[[Ehrlich Pathway]]
+[[Aro8]]

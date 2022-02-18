@@ -1,0 +1,4 @@
+[[Removal]]
+[[adsorption]]
+[[naphthalene]]
+[[Biochar]]

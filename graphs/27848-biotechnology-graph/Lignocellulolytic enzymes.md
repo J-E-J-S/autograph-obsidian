@@ -1,0 +1,8 @@
+[[Submerged culture]]
+[[Solid-state Culture]]
+[[Leucoagaricus Gongylophorus]]
+[[Atta Mexicana]]
+[[Gongylidia]]
+[[Penicillium]]
+[[Cellulase]]
+[[Biorefinery]]

@@ -1,0 +1,6 @@
+[[insulin secretion]]
+[[pancreatic islet]]
+[[Microfluidic System]]
+[[Glucagon Secretion]]
+[[Islet-on-a-chip Diabetes Mellitus]]
+[[Three-dimensional Cellular Model]]

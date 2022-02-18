@@ -1,0 +1,5 @@
+[[Molecular docking]]
+[[Molecular dynamics]]
+[[MEK]]
+[[Natural Bioactives]]
+[[Mm-pbsa]]

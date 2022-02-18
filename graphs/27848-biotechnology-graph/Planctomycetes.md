@@ -1,0 +1,5 @@
+[[Hot spring]]
+[[Thermophilic]]
+[[Kamchatka]]
+[[Hydrolytic]]
+[[Thermogemmata]]

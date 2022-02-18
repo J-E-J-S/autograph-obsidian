@@ -1,0 +1,7 @@
+[[Lipase]]
+[[Poaceae]]
+[[Lipoxygenase]]
+[[Rancidity]]
+[[Bran]]
+[[Triacylglycerol]]
+[[Lipid mobilization]]

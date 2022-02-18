@@ -1,0 +1,5 @@
+[[Type 2 diabetes]]
+[[High throughput screening]]
+[[drug discovery]]
+[[Bioassay Design]]
+[[Molecular Targets Identification]]

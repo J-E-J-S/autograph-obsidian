@@ -1,0 +1,6 @@
+[[Salvia miltiorrhiza]]
+[[Phenolic acids]]
+[[Antioxidant activity]]
+[[Antibacterial activity]]
+[[Rosmarinic Acid, Pubchem Cid 5315615]]
+[[Salvianolic Acid B, Pubchem Cid 11629084]]

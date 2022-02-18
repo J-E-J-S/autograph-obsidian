@@ -1,0 +1,5 @@
+[[Brassica oleracea]]
+[[Antibacterial activity]]
+[[surface modification]]
+[[Ferromagnetic]]
+[[Colloidal Stability]]

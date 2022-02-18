@@ -1,0 +1,8 @@
+[[Fermentation]]
+[[Bacteria]]
+[[Biodegradation]]
+[[Keratin Waste]]
+[[heterologous expression]]
+[[keratinase]]
+[[Feather Degradation]]
+[[Animal Hide Dehairing]]

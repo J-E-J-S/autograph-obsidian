@@ -1,0 +1,8 @@
+[[ELISA]]
+[[Hepatitis E virus]]
+[[Gst-torf2 Fusion Protein]]
+[[Torf2-hev]]
+[[fluorescence resonance energy transfer]]
+[[Nbd-cholesterol]]
+[[Stern-volmer Quenching]]
+[[Cholesterol Binding Domain]]

@@ -1,0 +1,5 @@
+[[FTIR]]
+[[Glycolipid]]
+[[Metal Extraction]]
+[[Copper Sulfide]]
+[[Bipolar Surfactant]]

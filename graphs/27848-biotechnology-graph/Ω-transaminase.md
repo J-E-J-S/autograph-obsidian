@@ -1,0 +1,7 @@
+[[random mutation]]
+[[Semi-rational Design]]
+[[(R)-(+)-1-(1-naphthyl)ethylamine]]
+[[1-Acetonaphthone]]
+[[Lignocellulosic Biomass]]
+[[Furfurylamine]]
+[[Sn-pl Catalyst]]

@@ -1,0 +1,8 @@
+[[Hyaluronic acid]]
+[[Strain breeding]]
+[[Synthetic Biology]]
+[[Biosynthesis Mechanism]]
+[[Secretion]]
+[[Co-culture]]
+[[Endophytic bacteria]]
+[[Cercosporin]]

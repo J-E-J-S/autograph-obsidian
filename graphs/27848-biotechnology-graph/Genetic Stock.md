@@ -1,0 +1,5 @@
+[[Drought tolerance]]
+[[Desert ecosystem]]
+[[Transcriptome]]
+[[ecotypes]]
+[[Ziziphus Nummularia]]

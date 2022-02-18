@@ -1,0 +1,5 @@
+[[Induction]]
+[[Plant tissue culture]]
+[[Bioreactor]]
+[[Metabolite]]
+[[auxin]]

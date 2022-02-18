@@ -1,0 +1,5 @@
+[[Gluconobacter oxydans]]
+[[Central Carbon Metabolism]]
+[[Crispri]]
+[[Multiplex Gene Repression]]
+[[Endogenous Crispr/cas System]]

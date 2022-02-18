@@ -1,0 +1,7 @@
+[[Rheological Property]]
+[[Physical property]]
+[[Cellulose Derivatives]]
+[[Rheological Property]]
+[[Fluidized bed]]
+[[Physical property]]
+[[Galactomannans]]

@@ -1,0 +1,7 @@
+[[Cell adhesion]]
+[[Protein–protein Interaction]]
+[[Bioid]]
+[[Integrin Adhesion Complex]]
+[[CHO cells]]
+[[Definitive Screening Design]]
+[[Serum-free/suspension Adaptation]]

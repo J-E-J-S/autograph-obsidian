@@ -1,0 +1,5 @@
+[[Apoptosis]]
+[[Cell cycle arrest]]
+[[binding mode]]
+[[Epidermal Growth Factor Receptor (Egfr)]]
+[[Tyrosine Kinase Inhibitor (Tki)]]

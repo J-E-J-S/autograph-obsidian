@@ -1,0 +1,7 @@
+[[CBP]]
+[[Lignocellulose]]
+[[Co-cultivation]]
+[[Fermentation]]
+[[Co-culture]]
+[[sequential culture]]
+[[Bio-based Chemicals]]

@@ -1,0 +1,5 @@
+[[Intercellular communication]]
+[[Gap junctions]]
+[[cardioprotection]]
+[[Extracellular Vesicles]]
+[[Remote Ischemic Conditioning]]

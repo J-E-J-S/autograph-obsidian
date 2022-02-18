@@ -1,0 +1,6 @@
+[[Continuous fermentation]]
+[[Cell Immobilization]]
+[[Biorefinery]]
+[[Microbial Biofilms]]
+[[Biofilm Fermentation]]
+[[Low-value Bulk Chemicals And Fuels]]

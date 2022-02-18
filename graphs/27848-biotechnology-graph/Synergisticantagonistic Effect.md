@@ -1,0 +1,6 @@
+[[Lung cancer]]
+[[Paclitaxel]]
+[[A549]]
+[[T-type Calcium Channel]]
+[[Tta-a2]]
+[[Synergistic/antagonistic Effect]]

@@ -1,0 +1,3 @@
+[[Andrographis paniculata]]
+[[andrographolide]]
+[[Antihyperlipidemic]]

@@ -1,0 +1,6 @@
+[[Green fluorescent protein]]
+[[Fluorescence]]
+[[miRNA]]
+[[Bombardment]]
+[[Target Sequence]]
+[[Cleavage Mode]]

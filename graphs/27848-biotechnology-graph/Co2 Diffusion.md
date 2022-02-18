@@ -1,0 +1,8 @@
+[[Cellulose]]
+[[Hemicellulose]]
+[[Cell wall composition]]
+[[mesophyll conductance]]
+[[leaf anatomy]]
+[[pectin]]
+[[Land Plants]]
+[[Cell Wall Thickness]]

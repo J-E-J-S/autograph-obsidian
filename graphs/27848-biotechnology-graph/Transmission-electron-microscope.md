@@ -1,0 +1,6 @@
+[[Pseudomonas aeruginosa]]
+[[Phylogenetic analysis]]
+[[First And Second-order Kinetics]]
+[[Langmuir And Freundlich Isotherms Kinetics]]
+[[Plant Growth-promoting Attributes]]
+[[Zn-adsorption]]

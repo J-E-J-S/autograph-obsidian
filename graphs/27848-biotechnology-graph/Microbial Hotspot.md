@@ -1,0 +1,5 @@
+[[Organic matter]]
+[[Altitude]]
+[[Phosphate]]
+[[DGGE]]
+[[Bacterial diversity]]

@@ -1,0 +1,5 @@
+[[Transcription factor]]
+[[Protein-protein interaction]]
+[[Pathways]]
+[[localization]]
+[[Astrocyte Elevated Gene-1]]

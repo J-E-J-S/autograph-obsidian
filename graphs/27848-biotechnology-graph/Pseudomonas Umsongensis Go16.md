@@ -1,0 +1,7 @@
+[[Terephthalic acid]]
+[[Ethylene glycol]]
+[[metabolic engineering]]
+[[Polyethylene Terephthalate]]
+[[Adaptive Laboratory Evolution]]
+[[Hydroxyalkanoyloxy Alkanoate]]
+[[Plastics Bio-upcycling]]

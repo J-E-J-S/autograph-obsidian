@@ -1,0 +1,8 @@
+[[Alternaria alternata]]
+[[Pathogenicity]]
+[[Secondary Metabolite Genes]]
+[[Act Toxin Biosynthesis]]
+[[Corynebacterium glutamicum]]
+[[NADPH]]
+[[L-lysine Biosynthesis]]
+[[H2o2 Tolerance]]

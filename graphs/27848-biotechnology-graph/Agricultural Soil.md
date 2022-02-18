@@ -1,0 +1,8 @@
+[[Network]]
+[[Bacterial community]]
+[[thiamethoxam]]
+[[Edaphic Factor]]
+[[Degradation]]
+[[Network]]
+[[Difenoconazole]]
+[[Core Bacterial Community]]

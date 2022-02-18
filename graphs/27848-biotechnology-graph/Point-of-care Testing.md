@@ -1,0 +1,5 @@
+[[Sensors]]
+[[Internet Of Things]]
+[[Wearables]]
+[[Decentralized Supply Chain]]
+[[Blockchain]]

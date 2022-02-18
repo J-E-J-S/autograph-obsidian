@@ -1,0 +1,4 @@
+[[Cytotoxicity]]
+[[Antimicrobial]]
+[[alkaloids]]
+[[Flavipin]]

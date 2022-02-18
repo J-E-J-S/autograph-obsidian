@@ -1,0 +1,3 @@
+[[Fermentation]]
+[[Anti-inflammatory]]
+[[Lactiplantibacillus]]

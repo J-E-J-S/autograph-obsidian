@@ -1,0 +1,5 @@
+[[Optimization]]
+[[Lipase]]
+[[Submerged fermentation]]
+[[Gilgit-baltistan]]
+[[Bio-detergent Formulation]]

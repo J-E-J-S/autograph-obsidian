@@ -1,0 +1,5 @@
+[[Antibacterial activity]]
+[[Photocatalyst]]
+[[Solvothermal Method]]
+[[Reusability]]
+[[Bivo(4)@acf]]

@@ -1,0 +1,5 @@
+[[Glycosyltransferase]]
+[[Bacterial Effectors]]
+[[Monoglycosyltransferase]]
+[[Pathogenic Bacteria Toxins]]
+[[Sseks Effectors]]

@@ -1,0 +1,7 @@
+[[ATP]]
+[[Corynebacterium crenatum]]
+[[Carbamate Kinase]]
+[[Carbamoyl Phosphate]]
+[[Staphylococcus aureus]]
+[[Saer]]
+[[Saers Two-component System]]

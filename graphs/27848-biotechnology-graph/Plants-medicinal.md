@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Secondary metabolites]]
+[[In Vitro Cultures]]
+[[Covid-19]]
+[[Sars-cov-2]]

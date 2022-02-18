@@ -1,0 +1,5 @@
+[[Transgenic rice]]
+[[Sustainable agriculture]]
+[[Rice pest]]
+[[Gm]]
+[[Cotesia Chilonis Parasitic Wasp]]

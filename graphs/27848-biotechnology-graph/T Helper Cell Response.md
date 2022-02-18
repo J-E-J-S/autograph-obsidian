@@ -1,0 +1,5 @@
+[[Vaccine]]
+[[Vibriosis]]
+[[Vibrio parahaemolyticus]]
+[[Fimh]]
+[[Type 1 Fimbriae]]

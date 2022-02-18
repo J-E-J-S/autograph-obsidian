@@ -1,0 +1,6 @@
+[[Neuropathic pain]]
+[[neuroinflammation]]
+[[Rat Sciatic Nerve]]
+[[Chronic Constriction Injury]]
+[[Compressive Neuropathy]]
+[[Nerve Release]]

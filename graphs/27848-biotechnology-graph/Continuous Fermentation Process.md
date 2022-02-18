@@ -1,0 +1,5 @@
+[[Glucose]]
+[[Enzyme Production]]
+[[extracellular polysaccharides]]
+[[Carbon Limitation]]
+[[Pnpgase]]

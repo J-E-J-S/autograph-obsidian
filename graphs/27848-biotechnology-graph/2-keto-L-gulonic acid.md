@@ -1,0 +1,8 @@
+[[L-sorbose]]
+[[Gluconobacter oxydans]]
+[[Promoters]]
+[[Sorbose Dehydrogenase]]
+[[Vitamin C]]
+[[Co-culture]]
+[[Dehydrogenase]]
+[[Whole Cell Catalysis]]

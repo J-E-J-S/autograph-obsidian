@@ -1,0 +1,5 @@
+[[Incubation period]]
+[[Pandemic]]
+[[Covid-19]]
+[[Interval-censored]]
+[[Coronavirus Disease 2019]]

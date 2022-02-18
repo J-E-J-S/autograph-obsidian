@@ -1,0 +1,7 @@
+[[Apoptosis]]
+[[Hypothermia]]
+[[Spinal cord injury]]
+[[Inflammatory Response]]
+[[Astrocyte Activation]]
+[[Cisd2]]
+[[Cryogen Spray Cooling]]

@@ -1,0 +1,8 @@
+[[immobilized enzyme]]
+[[Response surface]]
+[[Coupling Sugar]]
+[[Maltooligosyl Fructofuranosides]]
+[[Bacillus subtilis]]
+[[Screening]]
+[[Directed evolution]]
+[[secretory protein]]

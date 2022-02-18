@@ -1,0 +1,6 @@
+[[Burkholderia pseudomallei]]
+[[heparanase]]
+[[Heparinase]]
+[[Heparosan]]
+[[Bacterial Hydrolase]]
+[[Bacterial Eliminase]]

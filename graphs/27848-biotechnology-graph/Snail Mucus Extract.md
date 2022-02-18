@@ -1,0 +1,5 @@
+[[Gelatin]]
+[[Fluconazole]]
+[[Amorphous Solid Dispersion]]
+[[Skin Penetration]]
+[[Bioadhesive Films]]

@@ -1,0 +1,5 @@
+[[Vibrio cholerae]]
+[[Morin]]
+[[dissociation constant]]
+[[Ftsa]]
+[[Polymerization Inhibition]]

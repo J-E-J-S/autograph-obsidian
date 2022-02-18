@@ -1,0 +1,6 @@
+[[Liver]]
+[[Dopamine]]
+[[Obesity]]
+[[Adipose tissue]]
+[[Type 2 diabetes]]
+[[D2 Dopamine Receptor]]

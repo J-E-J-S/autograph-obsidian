@@ -1,0 +1,4 @@
+[[Aptamer]]
+[[Acetamiprid]]
+[[Syringe]]
+[[Colorimetric]]

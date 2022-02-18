@@ -1,0 +1,6 @@
+[[MDR]]
+[[Virulence genes]]
+[[ESBL]]
+[[Ctx-m-15]]
+[[Phylogroup]]
+[[Args]]

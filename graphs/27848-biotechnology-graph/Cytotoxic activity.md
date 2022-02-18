@@ -1,0 +1,7 @@
+[[Phenylpropanoids]]
+[[Sesquiterpene Coumarin]]
+[[Ferula Seravschanica]]
+[[Verbascoside]]
+[[Saponin Glycosides]]
+[[Verbascum Nigrum]]
+[[Lc/hr-ms/ms]]

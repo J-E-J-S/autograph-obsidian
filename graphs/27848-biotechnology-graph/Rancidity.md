@@ -1,0 +1,7 @@
+[[Lipase]]
+[[Poaceae]]
+[[Lipoxygenase]]
+[[Bran]]
+[[Triacylglycerol]]
+[[Lipid mobilization]]
+[[Oryza Sativa Var. Pusa Basmati 1]]

@@ -1,0 +1,8 @@
+[[penis]]
+[[Pathological change]]
+[[Biochemical Indicator]]
+[[Diabetes mellitus]]
+[[Cirrhosis]]
+[[Chronic hepatitis C]]
+[[fibrosis]]
+[[Progression]]

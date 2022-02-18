@@ -1,0 +1,2 @@
+[[Antibacterial activity]]
+[[Ficus auriculata]]

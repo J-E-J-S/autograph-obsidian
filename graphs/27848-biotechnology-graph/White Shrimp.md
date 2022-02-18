@@ -1,0 +1,5 @@
+[[Vibrio parahaemolyticus]]
+[[WSSV]]
+[[Chitin-binding protein]]
+[[Ahpnd]]
+[[Dd9a/b]]

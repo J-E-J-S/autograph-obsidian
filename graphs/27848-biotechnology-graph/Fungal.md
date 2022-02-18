@@ -1,0 +1,5 @@
+[[Fermentation]]
+[[Lignocellulose]]
+[[enzymatic reactions]]
+[[Moniliophthora Perniciosa]]
+[[Biomass Pretreatment]]

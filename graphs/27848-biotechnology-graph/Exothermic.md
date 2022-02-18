@@ -1,0 +1,5 @@
+[[Kinetics]]
+[[Isotherm]]
+[[thermodynamics]]
+[[Toxic Pollutants]]
+[[Immobilized Fungal Biomass]]

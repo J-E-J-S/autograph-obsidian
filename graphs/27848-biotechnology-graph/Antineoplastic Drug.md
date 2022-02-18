@@ -1,0 +1,5 @@
+[[Enzyme immobilization]]
+[[Glutaraldehyde]]
+[[Calcium alginate]]
+[[Entrapment]]
+[[Biomimetic Silica]]

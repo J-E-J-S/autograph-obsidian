@@ -1,0 +1,5 @@
+[[Bacillus subtilis]]
+[[Ammonia volatilization]]
+[[Biofertilizer]]
+[[Bacterial community]]
+[[functional gene]]

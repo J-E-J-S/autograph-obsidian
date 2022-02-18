@@ -1,0 +1,8 @@
+[[Plasmin]]
+[[Plasminogen]]
+[[Adhesin]]
+[[Virulence factor]]
+[[Multifunctional Protein]]
+[[M. Tuberculosis]]
+[[Crispri]]
+[[Bacterial Metastasis]]

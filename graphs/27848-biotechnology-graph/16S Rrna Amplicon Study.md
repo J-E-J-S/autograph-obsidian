@@ -1,0 +1,6 @@
+[[Carbon cycle]]
+[[Soil respiration]]
+[[Enzymatic activity]]
+[[Organic amendments]]
+[[Drylands]]
+[[Soil Bacterial Co-occurrence Patterns]]

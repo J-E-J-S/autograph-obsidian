@@ -1,0 +1,7 @@
+[[Yarrowia lipolytica]]
+[[metabolic engineering]]
+[[Dag Acyltransferase]]
+[[ampicillin]]
+[[Chlorella Sorokiniana]]
+[[Carotenoid Biosynthesis]]
+[[Porphyrin And Chlorophyll Metabolism]]

@@ -1,0 +1,7 @@
+[[Cerebral cortex]]
+[[Biomarker]]
+[[Alzheimer’s disease]]
+[[gene ontology]]
+[[Presenilin 1]]
+[[Intracellular Neurofibrillary Tangles]]
+[[Mirna-mrna Network]]

@@ -1,0 +1,7 @@
+[[Photosynthesis]]
+[[Photoinhibition]]
+[[Climate change]]
+[[Herbicides]]
+[[Climate change]]
+[[Integrated weed management]]
+[[Weed Competition]]

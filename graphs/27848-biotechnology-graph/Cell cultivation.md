@@ -1,0 +1,6 @@
+[[Cancer]]
+[[Bacterial cellulose]]
+[[Drug Delivery]]
+[[Bacterial Nanocellulose]]
+[[Bnc]]
+[[Transdermal Targeting]]

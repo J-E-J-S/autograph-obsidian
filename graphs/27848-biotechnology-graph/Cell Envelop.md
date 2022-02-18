@@ -1,0 +1,6 @@
+[[Drug resistance]]
+[[Nutrient uptake]]
+[[Pathogenic bacteria]]
+[[Molecular transport]]
+[[Porin]]
+[[Pe/ppe]]

@@ -1,0 +1,5 @@
+[[Stroke]]
+[[Purkinje cell]]
+[[Microglia]]
+[[Ataxia]]
+[[Cerebellar Hemorrhage]]

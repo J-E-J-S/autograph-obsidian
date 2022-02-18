@@ -1,0 +1,5 @@
+[[Polymerase chain reaction]]
+[[Hepatitis C virus]]
+[[Molecular docking]]
+[[Binary Qsar]]
+[[Molecular Dynamic (Md) Simulations]]

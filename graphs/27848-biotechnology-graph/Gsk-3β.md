@@ -1,0 +1,7 @@
+[[Dermal papilla cells]]
+[[Neogenesis]]
+[[Cxxc5]]
+[[NRF2]]
+[[cerebral ischemia-reperfusion injury]]
+[[Phlda1]]
+[[Oxygen-glucose Deprivation/reoxygenation]]

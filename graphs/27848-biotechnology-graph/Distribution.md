@@ -1,0 +1,6 @@
+[[Function]]
+[[yeasts]]
+[[Haemaphysalis longicornis]]
+[[Zoonosis]]
+[[Habitat Description]]
+[[Asian Longhorned Tick]]

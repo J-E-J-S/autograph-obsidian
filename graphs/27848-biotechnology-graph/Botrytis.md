@@ -1,0 +1,4 @@
+[[Alternaria]]
+[[Sclerotinia]]
+[[Necrotroph]]
+[[Hemibiotroph]]

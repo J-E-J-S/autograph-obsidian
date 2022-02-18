@@ -1,0 +1,6 @@
+[[Pathogenicity]]
+[[Effector]]
+[[Chitin deacetylase]]
+[[Natural products]]
+[[Chemical Interaction]]
+[[Dihydropyriculol]]

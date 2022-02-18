@@ -1,0 +1,8 @@
+[[Apoptosis]]
+[[Molecular docking]]
+[[Anticancer activity]]
+[[Imidazole]]
+[[Tubulin Inhibitors]]
+[[Central nervous system]]
+[[Zebrafish]]
+[[Gaba(a)]]

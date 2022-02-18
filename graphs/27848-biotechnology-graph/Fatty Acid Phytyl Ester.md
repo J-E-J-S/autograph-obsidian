@@ -1,0 +1,6 @@
+[[mass spectrometry analysis]]
+[[Elaeis Guineensis]]
+[[Arecaceae]]
+[[African Oil Palm]]
+[[Esterase/lipase/thioesterase-like Acyltransferases]]
+[[Fatty Acid Geranylgeranyl Ester]]

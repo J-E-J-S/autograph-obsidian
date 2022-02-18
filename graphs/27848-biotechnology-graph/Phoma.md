@@ -1,0 +1,5 @@
+[[Weed control]]
+[[Bioherbicide]]
+[[mycoherbicide]]
+[[Eco-friendly]]
+[[Economic Viability]]

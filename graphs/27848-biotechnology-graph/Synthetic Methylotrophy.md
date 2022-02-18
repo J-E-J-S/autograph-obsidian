@@ -1,0 +1,5 @@
+[[Amino acid biosynthesis]]
+[[Methanol]]
+[[Escherichia Coli]]
+[[Adaptive Laboratory Evolution]]
+[[13C-labeling Analysis]]

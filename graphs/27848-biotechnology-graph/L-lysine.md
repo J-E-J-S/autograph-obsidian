@@ -1,0 +1,5 @@
+[[Gene knockout]]
+[[Glue]]
+[[Lysp]]
+[[Amino Acid Transmembrane Transporter]]
+[[Brne/brnf]]

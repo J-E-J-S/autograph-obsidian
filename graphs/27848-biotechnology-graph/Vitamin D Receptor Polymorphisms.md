@@ -1,0 +1,8 @@
+[[Lumbar Spine]]
+[[risk factors]]
+[[Endplate Fractures]]
+[[Endplate Lesions]]
+[[Collagen]]
+[[Lumbar Spine]]
+[[risk factors]]
+[[Endplate Lesions]]

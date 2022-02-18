@@ -1,0 +1,6 @@
+[[metabolic engineering]]
+[[K. Oxytoca]]
+[[Evolutionary Adaptation]]
+[[Antimicrobial peptides]]
+[[Cassava Anthracnose Disease]]
+[[Snakins]]

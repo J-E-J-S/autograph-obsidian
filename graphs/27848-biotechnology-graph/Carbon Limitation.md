@@ -1,0 +1,8 @@
+[[Metabolites]]
+[[Continuous culture]]
+[[Fragments From Extracellular Polysaccharides]]
+[[Glucose]]
+[[Enzyme Production]]
+[[extracellular polysaccharides]]
+[[Continuous Fermentation Process]]
+[[Pnpgase]]

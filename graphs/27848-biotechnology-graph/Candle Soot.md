@@ -1,0 +1,5 @@
+[[Hydrogen peroxide]]
+[[Catalyst]]
+[[Reduction reaction]]
+[[Sulfamethoxazole]]
+[[Bio-electro-fenton System]]

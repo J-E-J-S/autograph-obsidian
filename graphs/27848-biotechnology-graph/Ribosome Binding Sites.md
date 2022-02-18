@@ -1,0 +1,5 @@
+[[Co-expression]]
+[[Phosphorylases]]
+[[Synthetic Biology]]
+[[Whole-cell Bioconversion]]
+[[Cellobiose Synthesis]]

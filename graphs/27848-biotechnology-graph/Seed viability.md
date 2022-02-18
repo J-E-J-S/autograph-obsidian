@@ -1,0 +1,8 @@
+[[Zea mays]]
+[[Germination]]
+[[Maize]]
+[[Ex situ conservation]]
+[[Corn]]
+[[grain type]]
+[[Plant Genetic Resources]]
+[[Seedbank]]

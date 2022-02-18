@@ -1,0 +1,7 @@
+[[Genome]]
+[[Aspergillus flavus]]
+[[Species identification]]
+[[Single nucleotide polymorphism]]
+[[Su-1]]
+[[Nrrl2999]]
+[[Nrrl3357]]

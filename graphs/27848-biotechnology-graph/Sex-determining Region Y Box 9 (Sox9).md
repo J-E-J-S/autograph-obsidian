@@ -1,0 +1,8 @@
+[[Cell differentiation]]
+[[Transcription factor]]
+[[Astrocyte]]
+[[glial cell]]
+[[Human Embryonic Stem Cell]]
+[[Gliogenesis]]
+[[Neural Stem Cell (Nsc)]]
+[[Paired-like Homeodomain Transcription Factor 1 (Pitx1)]]

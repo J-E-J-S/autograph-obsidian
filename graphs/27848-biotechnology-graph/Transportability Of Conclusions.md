@@ -1,0 +1,7 @@
+[[Comparative studies]]
+[[Environmental risk assessment]]
+[[Criteria]]
+[[risk assessment]]
+[[Confined Field Trial]]
+[[Food/Feed Risk Assessment]]
+[[Transgenic Bean]]

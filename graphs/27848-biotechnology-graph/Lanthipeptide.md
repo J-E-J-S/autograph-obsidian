@@ -1,0 +1,8 @@
+[[Genome]]
+[[Bacteriocin]]
+[[Alteromonas]]
+[[Polyketide]]
+[[Siderophore]]
+[[Pseudoalteromonas]]
+[[Nonribosomal Peptide]]
+[[Antismash]]

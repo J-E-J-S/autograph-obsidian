@@ -1,0 +1,4 @@
+[[Detection]]
+[[Genotyping]]
+[[Entropy]]
+[[Bpv]]

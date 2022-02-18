@@ -1,0 +1,5 @@
+[[Cholesterol]]
+[[Proteasome]]
+[[Protein degradation]]
+[[Ubiquitylation (Ubiquitination)]]
+[[Endoplasmic Reticulum-associated Protein Degradation (Erad)]]

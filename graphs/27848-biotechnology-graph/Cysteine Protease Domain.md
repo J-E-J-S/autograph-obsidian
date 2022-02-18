@@ -1,0 +1,5 @@
+[[Infectious disease]]
+[[Effector]]
+[[Vibrio vulnificus]]
+[[Virulence factor]]
+[[Martx Toxin]]

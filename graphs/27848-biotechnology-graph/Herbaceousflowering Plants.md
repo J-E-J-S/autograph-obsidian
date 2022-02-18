@@ -1,0 +1,7 @@
+[[Fungi]]
+[[Ornamentals]]
+[[Pathogen Diversity]]
+[[Crop Type]]
+[[Causal Agent]]
+[[Subject Areas]]
+[[Herbaceous/flowering Plants]]

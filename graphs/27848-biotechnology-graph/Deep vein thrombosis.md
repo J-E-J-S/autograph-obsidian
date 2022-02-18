@@ -1,0 +1,7 @@
+[[Rehabilitation]]
+[[Anticoagulation]]
+[[Chronic disease]]
+[[Pulmonary embolism]]
+[[Disability]]
+[[Outcome]]
+[[Clinical Prediction Rule]]

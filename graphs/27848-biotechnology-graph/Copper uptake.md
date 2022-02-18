@@ -1,0 +1,5 @@
+[[pH]]
+[[Drought tolerance]]
+[[Phosphate Solubilization]]
+[[Plant Growth Promoting Bacteria]]
+[[Iaa Production]]

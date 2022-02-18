@@ -1,0 +1,5 @@
+[[ABC transporter]]
+[[Transmembrane Domains]]
+[[Nucleotide-binding Domains]]
+[[Pdr Subfamily]]
+[[Non-catalytic Nbs]]

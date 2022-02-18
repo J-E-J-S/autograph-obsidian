@@ -1,0 +1,5 @@
+[[Antagonist]]
+[[Estrogen receptor]]
+[[Electrostatic interaction]]
+[[Agonist]]
+[[Dispersion Force]]

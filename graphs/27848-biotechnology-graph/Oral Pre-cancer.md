@@ -1,0 +1,5 @@
+[[Cytokines]]
+[[Gene polymorphism]]
+[[fibrosis]]
+[[Lichen Planus]]
+[[Oscc]]

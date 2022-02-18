@@ -1,0 +1,8 @@
+[[Photodynamic therapy]]
+[[Porphyromonas gingivalis]]
+[[Intracellular infection]]
+[[Photosensitizer]]
+[[Bacteria]]
+[[Curcumin]]
+[[Oral Health]]
+[[Turmeric]]

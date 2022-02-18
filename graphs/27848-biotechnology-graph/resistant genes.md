@@ -1,0 +1,5 @@
+[[Rice]]
+[[Ethidium bromide]]
+[[LAMP]]
+[[Hydroxynaphthol Blue]]
+[[Blb]]

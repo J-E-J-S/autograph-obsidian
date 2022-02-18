@@ -1,0 +1,5 @@
+[[CHO-K1 cells]]
+[[Secretory IgA]]
+[[Recombinant Protein Production]]
+[[Flow Cytometry Sorting]]
+[[Bac-based Expression System]]

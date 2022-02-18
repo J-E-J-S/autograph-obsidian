@@ -1,0 +1,8 @@
+[[Antibacterial]]
+[[Litsea cubeba]]
+[[Bioactive compounds]]
+[[Streptomyces Variabilis]]
+[[Streptomyces sp.]]
+[[Pine wilt disease]]
+[[Bursaphelenchus xylophilus]]
+[[Teleocidin B4]]

@@ -1,0 +1,8 @@
+[[TNF]]
+[[Inflammation]]
+[[Curcumin]]
+[[Randomized controlled trials]]
+[[Inflammation]]
+[[Acne vulgaris]]
+[[Orobol]]
+[[Hyperkeratinization]]

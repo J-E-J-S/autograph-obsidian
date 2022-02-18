@@ -1,0 +1,6 @@
+[[Copper]]
+[[Regeneration]]
+[[Cartilage]]
+[[Rejuvenation]]
+[[hypoxia-inducible factor]]
+[[Transcription Activity]]

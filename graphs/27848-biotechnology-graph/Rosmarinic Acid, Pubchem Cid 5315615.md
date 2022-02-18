@@ -1,0 +1,6 @@
+[[Salvia miltiorrhiza]]
+[[Phenolic acids]]
+[[Antioxidant activity]]
+[[Antibacterial activity]]
+[[Potential Healthcare Materials]]
+[[Salvianolic Acid B, Pubchem Cid 11629084]]

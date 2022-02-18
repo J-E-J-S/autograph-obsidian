@@ -1,0 +1,5 @@
+[[Extracts]]
+[[Leishmaniasis]]
+[[Phytochemicals]]
+[[Insecticidal]]
+[[Ajuga Bracteosa]]

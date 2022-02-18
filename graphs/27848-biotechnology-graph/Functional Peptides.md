@@ -1,0 +1,6 @@
+[[Bacillus subtilis]]
+[[Surfactant]]
+[[Biopolymer]]
+[[Surfactin]]
+[[Biosugar]]
+[[Bioorganic Acids]]

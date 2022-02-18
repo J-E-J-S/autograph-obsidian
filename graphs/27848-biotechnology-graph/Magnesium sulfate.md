@@ -1,0 +1,5 @@
+[[Ischemia]]
+[[Amiodarone]]
+[[Ischemic stroke]]
+[[neuroprotection]]
+[[Severity]]

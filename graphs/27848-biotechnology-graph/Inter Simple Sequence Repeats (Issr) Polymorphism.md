@@ -1,0 +1,6 @@
+[[Genetic diversity]]
+[[Endangered]]
+[[PCA]]
+[[Gloriosa Superba]]
+[[Polymorphic Information Content (Pic); Upgma]]
+[[Polymorphism, Random Amplified Polymorphic Dna (Rapd)]]

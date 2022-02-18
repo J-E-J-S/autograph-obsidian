@@ -1,0 +1,5 @@
+[[Submerged culture]]
+[[Lignocellulolytic enzymes]]
+[[Solid-state Culture]]
+[[Leucoagaricus Gongylophorus]]
+[[Gongylidia]]

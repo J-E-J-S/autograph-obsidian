@@ -1,0 +1,6 @@
+[[Protein Function Prediction]]
+[[Molecular Function]]
+[[Cellular Component]]
+[[gene ontology]]
+[[Genotype–phenotype Correlation]]
+[[Human Phenotype Ontology]]

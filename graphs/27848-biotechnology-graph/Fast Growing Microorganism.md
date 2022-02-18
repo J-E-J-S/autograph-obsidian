@@ -1,0 +1,5 @@
+[[fed-batch]]
+[[Vibrio Natriegens]]
+[[Deep-well Plate]]
+[[High-cell-density Cultivations]]
+[[Parallel Bioreactor Cultivations]]

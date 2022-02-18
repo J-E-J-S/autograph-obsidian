@@ -1,0 +1,6 @@
+[[Antimicrobial activity]]
+[[Xanthone]]
+[[hydroquinone]]
+[[Marine-derived Fungus]]
+[[Diphenyl Ether]]
+[[Benzofuranone]]

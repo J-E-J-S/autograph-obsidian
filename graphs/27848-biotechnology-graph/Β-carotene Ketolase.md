@@ -1,0 +1,5 @@
+[[Escherichia Coli]]
+[[astaxanthin]]
+[[metabolic engineering]]
+[[Cre-loxp]]
+[[Rbs Library]]

@@ -1,0 +1,8 @@
+[[Infectious disease]]
+[[Amphibiocystidium]]
+[[Rana Italica]]
+[[Dermocystida]]
+[[Xenopus tropicalis]]
+[[Interferon regulatory factor]]
+[[Irf1]]
+[[Interferon-stimulated Response Element]]

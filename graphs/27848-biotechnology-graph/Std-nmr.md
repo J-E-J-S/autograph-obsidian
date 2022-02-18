@@ -1,0 +1,5 @@
+[[LPS]]
+[[Antimicrobial peptide]]
+[[endotoxemia]]
+[[Gram-negative Infection]]
+[[Lps Binding Assay]]

@@ -1,0 +1,5 @@
+[[Anticancer]]
+[[Antibacterial]]
+[[Anti-inflammatory]]
+[[Macroalga-associated Heterotrophic Bacteria]]
+[[Bacillus Velezensis mbtdlp1]]

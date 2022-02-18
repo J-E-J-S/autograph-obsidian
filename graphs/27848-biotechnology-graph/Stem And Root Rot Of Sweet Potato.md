@@ -1,0 +1,5 @@
+[[Monoclonal antibody]]
+[[Dot-ELISA]]
+[[TAS-ELISA]]
+[[Dickeya Dadantii]]
+[[Tissue-print-elisa]]

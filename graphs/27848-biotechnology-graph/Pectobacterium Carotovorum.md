@@ -1,0 +1,7 @@
+[[Transcriptome]]
+[[Pinellia ternata (Thunb.) Breit]]
+[[Soft-rot]]
+[[Circular dichroism]]
+[[Protein purification]]
+[[Gene Expression]]
+[[Cpxr]]

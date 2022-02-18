@@ -1,0 +1,7 @@
+[[LPS]]
+[[O-antigen]]
+[[Fish Pathogen]]
+[[Aeromonas Veronii]]
+[[D-fucp]]
+[[Galpnac]]
+[[D-fucopyranose]]

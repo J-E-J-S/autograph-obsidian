@@ -1,0 +1,5 @@
+[[Optimization]]
+[[Lipase]]
+[[Submerged fermentation]]
+[[Bio-detergent Formulation]]
+[[Exiguobaterium Sp.]]

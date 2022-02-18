@@ -1,0 +1,8 @@
+[[Probiotics]]
+[[Antimicrobial effect]]
+[[Antibiofilm Effect]]
+[[Anticavity Effect]]
+[[Bacteria]]
+[[Curcumin]]
+[[periodontal disease]]
+[[Turmeric]]

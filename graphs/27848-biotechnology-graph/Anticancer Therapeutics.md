@@ -1,0 +1,5 @@
+[[Drug design]]
+[[focal adhesion kinase (FAK)]]
+[[Cancer Target]]
+[[Small Molecule Fak Inhibitors]]
+[[Structure-activity Relationship (Sar) Analysis.]]

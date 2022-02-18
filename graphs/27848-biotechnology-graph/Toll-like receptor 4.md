@@ -1,0 +1,7 @@
+[[Macrophage]]
+[[Polysaccharide]]
+[[Celosia cristata]]
+[[Dendritic cells]]
+[[Unsaturated fatty acid]]
+[[Immunomodulator]]
+[[10-Hda]]

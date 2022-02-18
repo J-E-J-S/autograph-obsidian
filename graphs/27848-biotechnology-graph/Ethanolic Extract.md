@@ -1,0 +1,5 @@
+[[Saccharomyces cerevisiae]]
+[[Heavy metal]]
+[[Gallic acid]]
+[[Aqueous extract]]
+[[Moringa Oleifera]]

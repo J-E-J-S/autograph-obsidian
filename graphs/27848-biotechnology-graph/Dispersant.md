@@ -1,0 +1,7 @@
+[[Composite]]
+[[Antibacterial activity]]
+[[Cytocompatibility]]
+[[chitosan nanoparticles]]
+[[Ionic Gelation]]
+[[Bacterial Nanocellulose]]
+[[Template Effect]]

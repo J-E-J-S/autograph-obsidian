@@ -1,0 +1,5 @@
+[[Streptavidin]]
+[[biotin]]
+[[Competition Assay]]
+[[Protein-binding Analyte Detection]]
+[[Recombinant Endospores]]

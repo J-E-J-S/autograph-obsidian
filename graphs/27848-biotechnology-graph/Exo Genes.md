@@ -1,0 +1,5 @@
+[[Polysaccharides]]
+[[Biosynthetic pathway]]
+[[Transcriptome]]
+[[Microbial flocculants]]
+[[Agrobacterium Tumefaciens F2]]

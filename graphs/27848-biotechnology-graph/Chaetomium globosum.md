@@ -1,0 +1,6 @@
+[[Aureobasidium pullulans]]
+[[Biodegradation]]
+[[fungicide]]
+[[Biodeterioration]]
+[[Penicillium Funiculosum]]
+[[Aspergillus Brasiliensis]]

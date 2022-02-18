@@ -1,0 +1,6 @@
+[[Secondary metabolites]]
+[[flavanone]]
+[[Bibenzyl]]
+[[Black Crowberry]]
+[[Dihydrochalcone]]
+[[Dihydrophenanthrene]]

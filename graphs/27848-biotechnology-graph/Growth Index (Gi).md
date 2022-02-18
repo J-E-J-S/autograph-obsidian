@@ -1,0 +1,6 @@
+[[Aspergillus flavus]]
+[[Solid-state fermentation]]
+[[Enzyme Production]]
+[[Carbon utilization]]
+[[Fungal Growth]]
+[[Plant Biomass Degradation]]

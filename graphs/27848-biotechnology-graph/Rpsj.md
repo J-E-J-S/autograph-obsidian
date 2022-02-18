@@ -1,0 +1,5 @@
+[[Vibrio cholerae]]
+[[Doxycycline]]
+[[Antimicrobial resistance]]
+[[Co-resistance]]
+[[Adaptive Laboratory Evolution]]

@@ -1,0 +1,6 @@
+[[PrP]]
+[[PRNP]]
+[[Chronic Wasting Disease]]
+[[Axis Axis]]
+[[Chital]]
+[[Axis Deer]]

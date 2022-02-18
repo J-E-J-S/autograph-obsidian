@@ -1,0 +1,5 @@
+[[Metformin]]
+[[Carcinogenicity]]
+[[Ranitidine]]
+[[Sartans]]
+[[Ndea]]

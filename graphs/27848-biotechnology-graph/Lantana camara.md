@@ -1,0 +1,5 @@
+[[Cryptolepis Sanguinolenta]]
+[[Multidrug-resistant Tuberculosis]]
+[[Antimycobacterial Activity]]
+[[Metabolic Fingerprinting]]
+[[Zanthoxylum Leprieurii]]

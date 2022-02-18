@@ -1,0 +1,6 @@
+[[Citric acid]]
+[[Pretreatment]]
+[[Disintegration Time]]
+[[Ozonation]]
+[[Fruit Waste]]
+[[Energy Valuation]]

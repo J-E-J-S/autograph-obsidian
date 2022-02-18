@@ -1,0 +1,8 @@
+[[Fermentation]]
+[[Sustainability]]
+[[Enzyme Biocatalysis]]
+[[Microbial Biocatalysis]]
+[[Bulk-chemicals]]
+[[L-valine]]
+[[Escherichia Coli]]
+[[metabolic engineering]]

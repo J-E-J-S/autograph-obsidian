@@ -1,0 +1,6 @@
+[[matK]]
+[[Plectranthus]]
+[[DNA Barcoding]]
+[[trnL]]
+[[Ocimum]]
+[[Trnh-psba]]

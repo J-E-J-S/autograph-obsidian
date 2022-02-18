@@ -1,0 +1,7 @@
+[[Hordeum vulgare]]
+[[Abscisic acid]]
+[[Barley]]
+[[Gene family]]
+[[Metabolic regulation]]
+[[Stress responses]]
+[[Sucrose Nonfermenting-1]]

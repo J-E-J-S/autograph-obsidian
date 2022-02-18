@@ -1,0 +1,8 @@
+[[Pseudomonas putida]]
+[[Biomass Hydrolysates]]
+[[Lignin Valorization]]
+[[Lignin-derived Model Compounds]]
+[[Pseudomonas]]
+[[Benzoate]]
+[[Cis,cis-muconate]]
+[[Microbial Catalysis]]

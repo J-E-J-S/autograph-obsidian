@@ -1,0 +1,8 @@
+[[Rhizosphere]]
+[[Endophytic bacteria]]
+[[phyllosphere]]
+[[Bacterial Communities]]
+[[Pesticides]]
+[[phyllosphere]]
+[[Bacterial Communities]]
+[[Off-target Effects]]

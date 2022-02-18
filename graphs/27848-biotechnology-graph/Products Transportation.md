@@ -1,0 +1,5 @@
+[[Stress tolerance]]
+[[Growth performance]]
+[[Physiological functions]]
+[[Microbial Cell Factories]]
+[[Substrate Utilization]]

@@ -1,0 +1,5 @@
+[[Biotechnology]]
+[[Natural resources]]
+[[Innovation]]
+[[Bioeconomy]]
+[[Bio-innovation]]

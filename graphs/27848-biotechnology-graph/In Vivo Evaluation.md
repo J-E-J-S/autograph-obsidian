@@ -1,0 +1,5 @@
+[[Characterization]]
+[[Bacterial cellulose]]
+[[Rabbit Model]]
+[[Air-dried Conduit]]
+[[Small-caliber Vascular Prosthesis]]

@@ -1,0 +1,5 @@
+[[Bacillus amyloliquefaciens]]
+[[Microbial transglutaminase]]
+[[Fed-batch Bioreactor]]
+[[Bicistronic Plasmid System]]
+[[Do-stat]]

@@ -1,0 +1,8 @@
+[[Bacillus subtilis]]
+[[Corncob]]
+[[C5 And C6 Sugars]]
+[[Remixed Fermentation]]
+[[Plant extracts]]
+[[Applications]]
+[[Green Synthesis]]
+[[Waste Biovalorization]]

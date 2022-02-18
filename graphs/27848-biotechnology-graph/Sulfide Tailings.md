@@ -1,0 +1,7 @@
+[[16S rRNA]]
+[[Metagenomics]]
+[[Natural Organic Matter Metagenome]]
+[[Bioleaching]]
+[[Microbial fuel cell]]
+[[Acidithiobacillus Species]]
+[[Recovery Of Valuable Elements]]

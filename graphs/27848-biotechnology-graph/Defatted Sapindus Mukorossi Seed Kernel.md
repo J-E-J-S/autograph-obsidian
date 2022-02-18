@@ -1,0 +1,5 @@
+[[Proteins]]
+[[Antioxidants]]
+[[Trypsin inhibitor]]
+[[Dietary Fibers]]
+[[Amylase Inhibitor]]

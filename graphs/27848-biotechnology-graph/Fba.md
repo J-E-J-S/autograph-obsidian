@@ -1,0 +1,5 @@
+[[Oxygen uptake]]
+[[Terpenoid]]
+[[NADPH]]
+[[Mep Pathway]]
+[[Amorpha-4,11-diene]]

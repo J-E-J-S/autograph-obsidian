@@ -1,0 +1,5 @@
+[[Diabetes]]
+[[Alpha-glucosidase]]
+[[Hypoglycemia]]
+[[Syringaldehyde]]
+[[Garcinia Linii]]

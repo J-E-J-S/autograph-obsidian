@@ -1,0 +1,8 @@
+[[Biomarkers]]
+[[cardioprotection]]
+[[Endothelial Cells]]
+[[Intercellular communication]]
+[[Acute myocardial infarction]]
+[[Gap junctions]]
+[[cardioprotection]]
+[[Extracellular Vesicles]]

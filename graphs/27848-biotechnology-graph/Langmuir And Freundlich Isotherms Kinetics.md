@@ -1,0 +1,6 @@
+[[Pseudomonas aeruginosa]]
+[[Phylogenetic analysis]]
+[[First And Second-order Kinetics]]
+[[Plant Growth-promoting Attributes]]
+[[Transmission-electron-microscope]]
+[[Zn-adsorption]]

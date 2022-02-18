@@ -1,0 +1,5 @@
+[[Enzymatic degradation]]
+[[Fungal Genome]]
+[[Lignin-modifying Enzymes]]
+[[Laccase Genes]]
+[[Laccase Isoforms]]

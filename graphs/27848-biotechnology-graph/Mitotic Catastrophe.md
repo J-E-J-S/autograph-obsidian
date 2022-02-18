@@ -1,0 +1,5 @@
+[[Linker]]
+[[Anti-tumor]]
+[[Tubulin Polymerization Inhibitor]]
+[[Benzothiazepine]]
+[[Ca-4 Modification]]

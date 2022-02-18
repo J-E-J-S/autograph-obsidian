@@ -1,0 +1,6 @@
+[[Applied Biocatalysis]]
+[[Rubber Degradation]]
+[[Multi-step Biodegradation]]
+[[Polymer Biotrasformation]]
+[[Rubber Degrading Bacteria]]
+[[Rubber Oxygenases]]

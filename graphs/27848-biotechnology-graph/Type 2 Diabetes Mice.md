@@ -1,0 +1,5 @@
+[[hyperglycemia]]
+[[Long-term Treatment]]
+[[Antidiabetic Effects]]
+[[Oral Insulin Delivery]]
+[[Hydrogel Microparticles]]

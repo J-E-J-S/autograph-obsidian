@@ -1,0 +1,6 @@
+[[Bacillus licheniformis]]
+[[Bread wheat]]
+[[Sensory]]
+[[Maltogenic Amylase]]
+[[Starch Retrogradation]]
+[[Bread Baking]]

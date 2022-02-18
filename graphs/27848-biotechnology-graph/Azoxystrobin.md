@@ -1,0 +1,5 @@
+[[Biotransformation]]
+[[NMR]]
+[[fungicide]]
+[[Strobilurins]]
+[[Azoxystrobin Amine]]

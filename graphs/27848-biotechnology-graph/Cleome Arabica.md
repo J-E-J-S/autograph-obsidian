@@ -1,0 +1,8 @@
+[[Fatty acids]]
+[[Phenols]]
+[[Flavonoids]]
+[[Analgesic]]
+[[Anti-inflammatory]]
+[[Tocopherol]]
+[[Proximate Composition]]
+[[Cleome Amblyocarpa]]
