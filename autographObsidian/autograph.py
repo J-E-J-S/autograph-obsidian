@@ -60,12 +60,11 @@ def buildGraph(minedKeywords, outPath):
             keyword = keyword.replace('\n', '')
             for char in invalidChars:
                 keyword = keyword.replace(char, '')
-
             try:
-                f = open(outPath + keyword + '.md', 'x')
+                f = open(os.path.join(outPath, keyword + '.md'), 'x') 
             except:
                 pass
-            f = open(outPath + keyword + '.md', 'a')
+            f = open(os.path.join(outPath, keyword + '.md'), 'a')
             for link in article:
                 if link != keyword:
                     try:
