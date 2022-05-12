@@ -5,11 +5,13 @@ import json
 
 def getpapersWrapper(query, mineFolderPath, limit):
 
+    # This function will search EUPMC based on query and return eupmc_results.json with collated results
+
     base = 'cmd /c getpapers -q ' # base of getpapers request
     query = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     output_dir = ('{}' + mineFolderPath).format(' -o ') # spacing and option
     limit = ('{}' + str(limit)).format(' -k ')
-    command = base + query + output_dir + limit + ' -x -a'
+    command = base + query + output_dir + limit + ' -x -a' # get xml and search all papers not just open-access
     # Try to see if getpapers is installed
     try:
         subprocess.run(command, check = True)
@@ -26,6 +28,8 @@ def getpapersWrapper(query, mineFolderPath, limit):
 
 def generateKeywords(paperScrapePath):
 
+    # This function generates a list of articles with keyword data from literature scrape, in format [[keyword1_article1, keyword2_article1 ], [keyword1_article2, keyword2_article2], ...  ]
+
     with open(paperScrapePath, encoding='utf-8') as f:
         data = json.load(f)
 
@@ -39,7 +43,6 @@ def generateKeywords(paperScrapePath):
         except:
             continue
 
-    print(keywords)
     return keywords
 
 def buildGraph(minedKeywords, outPath):
