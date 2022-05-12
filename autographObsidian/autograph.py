@@ -2,6 +2,7 @@ import os
 import sys
 import subprocess
 import json
+import shutil
 
 def getpapersWrapper(query, mineFolderPath, limit):
 
@@ -73,16 +74,16 @@ def buildGraph(minedKeywords, outPath):
                         pass
             f.close()
 
-def main(query):
+def main(query, limit):
 
-    pathQuery = query.replace(' ', '_') # Format for multi-word query strings
-    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '_mine')
+    pathQuery = query.replace(' ', '-') # Format for multi-word query strings
+    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit) ls
 
-    getpapersWrapper(query, mineFolderPath, 500)
+    getpapersWrapper(query, mineFolderPath, limit)
     minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
     buildGraph(minedKeywords, 'graph')
-
+    shutil.rmtree(mineFolderPath)
 
 if __name__ == '__main__':
 
-    main('Genetic Code Expansion')
+    main('Genetic Code Expansion', 500)
