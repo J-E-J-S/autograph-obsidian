@@ -61,28 +61,32 @@ def buildGraph(minedKeywords, outPath):
             for char in invalidChars:
                 keyword = keyword.replace(char, '')
             try:
-                f = open(os.path.join(outPath, keyword + '.md'), 'x') 
+                f = open(os.path.join(outPath, keyword + '.md'), 'x')
             except:
                 pass
-            f = open(os.path.join(outPath, keyword + '.md'), 'a')
-            for link in article:
-                if link != keyword:
-                    try:
-                        f.write('[[' + link + ']]\n')
-                    except:
-                        pass
-            f.close()
+            try:
+                f = open(os.path.join(outPath, keyword + '.md'), 'a')
+                for link in article:
+                    if link != keyword:
+                        try:
+                            f.write('[[' + link + ']]\n')
+                        except:
+                            pass
+                            f.close()
+            except:
+                pass
+    return
 
 def main(query, limit):
 
     pathQuery = query.replace(' ', '-') # Format for multi-word query strings
-    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit) ls
+    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit)
 
     getpapersWrapper(query, mineFolderPath, limit)
     minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
-    buildGraph(minedKeywords, 'graph')
+    buildGraph(minedKeywords, 'vault')
     shutil.rmtree(mineFolderPath)
 
 if __name__ == '__main__':
 
-    main('Genetic Code Expansion', 500)
+    main('genetic code expansion', 500)
