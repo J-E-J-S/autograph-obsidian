@@ -1,5 +1,0 @@
-[[Glucose]]
-[[Bacillus firmus]]
-[[Biological Pretreatment]]
-[[Corn Cob]]
-[[Cellulase-free Xylanolytic Enzyme]]

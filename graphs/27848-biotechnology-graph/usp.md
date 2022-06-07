@@ -1,6 +1,0 @@
-[[Purification]]
-[[Bioassay]]
-[[Recombinant protein expression]]
-[[Chinese Hamster Ovary (Cho) Cells]]
-[[Leukemia Inhibitory Factor (Lif)]]
-[[Bioreactor Process]]

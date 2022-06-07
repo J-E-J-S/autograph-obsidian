@@ -1,2 +1,0 @@
-[[Probiotics]]
-[[Milk-probiotic Capsules]]

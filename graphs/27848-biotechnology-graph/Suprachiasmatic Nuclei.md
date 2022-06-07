@@ -1,6 +1,0 @@
-[[Hippocampus]]
-[[Circadian rhythm]]
-[[peroxiredoxin]]
-[[Bace1]]
-[[Per2]]
-[[Mgat3]]

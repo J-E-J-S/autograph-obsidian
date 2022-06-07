@@ -1,8 +1,0 @@
-[[Ethanol]]
-[[Schizosaccharomyces pombe]]
-[[Butanol]]
-[[Acyl-coa Oxidase]]
-[[Pentanoic Acid]]
-[[Metatranscriptomic Sequencing]]
-[[Chinese Baijiu Production]]
-[[Core Functional Microbe]]

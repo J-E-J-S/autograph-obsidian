@@ -1,2 +1,0 @@
-[[Immune system]]
-[[Tembusu Virus]]

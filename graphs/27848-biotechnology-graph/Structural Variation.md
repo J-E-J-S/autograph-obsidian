@@ -1,3 +1,0 @@
-[[Carica papaya]]
-[[Domestication]]
-[[Wgcna]]

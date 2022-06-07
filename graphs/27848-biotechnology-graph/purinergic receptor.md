@@ -1,6 +1,0 @@
-[[Electrophysiology]]
-[[Ion channel]]
-[[Molecular dynamics]]
-[[Structure-function]]
-[[Channel Gating]]
-[[Side Chain Orientation]]

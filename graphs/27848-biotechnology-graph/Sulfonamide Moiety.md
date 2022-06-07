@@ -1,5 +1,0 @@
-[[Anti-tumor]]
-[[Cyclooxygenase-2]]
-[[Apoptosis Induction]]
-[[Aminophosphonate Derivatives]]
-[[Mitochondrion-dependent Mode]]

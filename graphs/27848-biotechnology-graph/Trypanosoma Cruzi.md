@@ -1,2 +1,0 @@
-[[Malate dehydrogenase]]
-[[Crystal structure]]

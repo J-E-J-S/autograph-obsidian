@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[RNA splicing]]
-[[Maize]]
-[[Kernel development]]
-[[Maturase]]

@@ -1,6 +1,0 @@
-[[Transfection]]
-[[Cytotoxic T cells]]
-[[Qrt-pcr]]
-[[Macrophages Differentiation]]
-[[Pbmcs Isolation]]
-[[Macrophages Isolation]]

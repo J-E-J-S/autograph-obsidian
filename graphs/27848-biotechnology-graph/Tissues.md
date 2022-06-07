@@ -1,5 +1,0 @@
-[[Antioxidants]]
-[[Selenium]]
-[[Prebiotics]]
-[[Mineral Profile]]
-[[Chicory Inulin]]

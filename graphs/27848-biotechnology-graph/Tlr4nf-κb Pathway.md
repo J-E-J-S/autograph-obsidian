@@ -1,3 +1,0 @@
-[[Stroke]]
-[[Neuroprotective]]
-[[Casticin]]

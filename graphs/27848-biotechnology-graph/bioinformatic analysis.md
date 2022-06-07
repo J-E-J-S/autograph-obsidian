@@ -1,5 +1,0 @@
-[[Cell proliferation]]
-[[cell invasion]]
-[[cell migration]]
-[[Haptoglobin (Hp)]]
-[[Gallbladder Carcinoma (Gbc)]]

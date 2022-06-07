@@ -1,8 +1,0 @@
-[[Salmonella]]
-[[Ceftriaxone]]
-[[Inoculum Effect]]
-[[Cooperative Resistance]]
-[[Esterase]]
-[[metagenome]]
-[[Lipolytic Enzyme]]
-[[Family Viii]]

@@ -1,2 +1,0 @@
-[[Hepatic fibrosis]]
-[[Kidney Injury]]

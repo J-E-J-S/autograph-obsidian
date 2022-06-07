@@ -1,5 +1,0 @@
-[[Aminoacyl-tRNA synthetase]]
-[[Isoleucine]]
-[[Amino Acid]]
-[[Isoleucyl-trna Synthetase]]
-[[Growth-coupled Selection]]

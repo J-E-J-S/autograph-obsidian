@@ -1,3 +1,0 @@
-[[Antimicrobial Effect;]]
-[[Lactoperoxidase;]]
-[[Nanocombination;]]

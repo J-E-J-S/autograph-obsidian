@@ -1,7 +1,0 @@
-[[Neuron]]
-[[nNOS]]
-[[Acetylcholinesterase]]
-[[Motor neurons]]
-[[Locomotor Behavior]]
-[[Zebrafish Larvae]]
-[[Sublethal]]

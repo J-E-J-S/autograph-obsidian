@@ -1,5 +1,0 @@
-[[Chlamydomonas]]
-[[Signal peptide]]
-[[Environmental stress]]
-[[Salinity stress]]
-[[Secretome]]

@@ -1,3 +1,0 @@
-[[Prodigiosin]]
-[[Hahella Chejuensis]]
-[[Kratinocyte]]

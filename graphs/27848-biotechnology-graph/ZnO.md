@@ -1,5 +1,0 @@
-[[Flow cytometry]]
-[[Anticancer activity]]
-[[Thymoquinone]]
-[[Anti-proliferative]]
-[[Drug-releasing Profile]]

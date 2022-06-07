@@ -1,2 +1,0 @@
-[[Bioremediation]]
-[[metabolic engineering]]

@@ -1,2 +1,0 @@
-[[Escherichia Coli]]
-[[Cadaverine]]

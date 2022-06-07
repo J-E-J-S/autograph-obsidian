@@ -1,5 +1,0 @@
-[[Knowledge Sources]]
-[[Illegal Drugs]]
-[[Drug Classification]]
-[[Psychoactive Substances]]
-[[Drug Addiction Symptoms]]

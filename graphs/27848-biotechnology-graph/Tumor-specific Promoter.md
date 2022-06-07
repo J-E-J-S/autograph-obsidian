@@ -1,5 +1,0 @@
-[[Gene therapy]]
-[[Melanoma]]
-[[DFF40]]
-[[Survivin]]
-[[Chemotherapy]]

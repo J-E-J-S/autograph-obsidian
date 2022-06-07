@@ -1,3 +1,0 @@
-[[Transcriptional regulation]]
-[[Transcriptomic]]
-[[Actinoplanes]]

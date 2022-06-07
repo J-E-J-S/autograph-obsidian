@@ -1,5 +1,0 @@
-[[Absorption]]
-[[Diffusion]]
-[[Chemical ecology]]
-[[Semiochemical]]
-[[Belowground Interaction]]

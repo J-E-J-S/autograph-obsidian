@@ -1,5 +1,0 @@
-[[Clinical Trial]]
-[[Mask]]
-[[Covid-19]]
-[[Image-pro® 10]]
-[[Colored Cosmetics]]

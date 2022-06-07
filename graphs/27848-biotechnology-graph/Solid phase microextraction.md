@@ -1,5 +1,0 @@
-[[Gas chromatography/mass spectrometry]]
-[[Tris(hydroxymethyl)aminomethane]]
-[[Japanese Sake]]
-[[Barrel Storage]]
-[[Sherry Cask]]

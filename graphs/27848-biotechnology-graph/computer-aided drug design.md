@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[P-glycoprotein]]
-[[CYP3A4]]
-[[Anticancer drug]]
-[[Piperine Analogs]]

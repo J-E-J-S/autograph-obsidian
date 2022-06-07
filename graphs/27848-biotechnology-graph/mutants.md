@@ -1,5 +1,0 @@
-[[Membrane potential]]
-[[Cytochrome C oxidase]]
-[[Thermus Thermophilus]]
-[[Charge Transfer Steps]]
-[[Catalytic Cycle Intermediates]]

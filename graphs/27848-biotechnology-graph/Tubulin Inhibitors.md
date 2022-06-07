@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Molecular docking]]
-[[Anticancer activity]]
-[[chalcone]]
-[[Imidazole]]

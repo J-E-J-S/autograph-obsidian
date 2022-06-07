@@ -1,3 +1,0 @@
-[[Neurotoxicity]]
-[[developmental toxicity]]
-[[Tcep]]

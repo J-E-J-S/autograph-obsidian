@@ -1,5 +1,0 @@
-[[Cancer]]
-[[Angiogenesis]]
-[[VEGF]]
-[[VEGFR]]
-[[Angiogenesis-dependent Diseases]]

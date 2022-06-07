@@ -1,7 +1,0 @@
-[[Inhibitory activity]]
-[[Secondary metabolites]]
-[[Shp2]]
-[[Grasshopper-associated Fungi]]
-[[Isolation]]
-[[Actinomycete]]
-[[heterologous expression]]

@@ -1,5 +1,0 @@
-[[Anthracene]]
-[[Japanese Medaka]]
-[[Microplastics]]
-[[Fish Behavior]]
-[[One Compartment With First-order Elimination Model]]

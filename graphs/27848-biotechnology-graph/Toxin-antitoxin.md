@@ -1,7 +1,0 @@
-[[speciation]]
-[[Gene Drive]]
-[[Genetic Incompatibility]]
-[[Caenorhabditis]]
-[[Selfish Gene]]
-[[Natural Genetic Variation]]
-[[Toxin-antidote]]

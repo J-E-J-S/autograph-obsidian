@@ -1,3 +1,0 @@
-[[Cognition]]
-[[Saccade]]
-[[Computational Model]]

@@ -1,6 +1,0 @@
-[[Bacillus amyloliquefaciens]]
-[[Biosurfactant]]
-[[Microbial consortium]]
-[[Pseudomonas putida]]
-[[Kitchen Waste Oil]]
-[[In-situ Microbial Reduction]]

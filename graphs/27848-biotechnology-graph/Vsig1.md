@@ -1,4 +1,0 @@
-[[Spermatogenesis]]
-[[Sperm]]
-[[Fertilization]]
-[[Fertility]]

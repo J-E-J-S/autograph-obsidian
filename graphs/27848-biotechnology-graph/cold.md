@@ -1,5 +1,0 @@
-[[Plants]]
-[[Alternative splicing]]
-[[Heat]]
-[[Ambient temperature]]
-[[Stress Adaptation]]

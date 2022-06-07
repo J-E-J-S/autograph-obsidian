@@ -1,5 +1,0 @@
-[[Reperfusion injury]]
-[[Ischemic stroke]]
-[[Tight junction]]
-[[wnt signaling pathway]]
-[[Blood-Brain Barrier]]

@@ -1,5 +1,0 @@
-[[Drug Delivery]]
-[[Quantum Dot (Qd)]]
-[[Photodynamic Therapy (Pdt)]]
-[[Photothermal Therapy (Ptt)]]
-[[Time-resolved Fluorescence (Trf)]]

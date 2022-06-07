@@ -1,5 +1,0 @@
-[[Development]]
-[[Sporophyte]]
-[[Gametophyte]]
-[[RNA helicase]]
-[[Physcomitrium Patens]]

@@ -1,3 +1,0 @@
-[[Database]]
-[[MicroRNA]]
-[[Mirna Analysis]]

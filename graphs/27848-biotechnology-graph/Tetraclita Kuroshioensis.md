@@ -1,3 +1,0 @@
-[[Cirripedia]]
-[[Phylogenetic]]
-[[Tetraclitidae]]

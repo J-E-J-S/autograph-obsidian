@@ -1,5 +1,0 @@
-[[Cellulase]]
-[[Endoglucanase]]
-[[Agricultural waste]]
-[[synergistic effect]]
-[[Trabulsiella Odontermitis]]

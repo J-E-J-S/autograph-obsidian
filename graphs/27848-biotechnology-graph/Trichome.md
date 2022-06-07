@@ -1,5 +1,0 @@
-[[Menthol]]
-[[Transcription factors]]
-[[Lamiaceae]]
-[[Transcriptome]]
-[[Mint Genotypes]]

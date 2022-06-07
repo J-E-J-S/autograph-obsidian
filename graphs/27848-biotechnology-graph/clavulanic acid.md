@@ -1,6 +1,0 @@
-[[Streptomyces Clavuligerus]]
-[[Glycerol Utilization]]
-[[Reporter-guided Selection]]
-[[Oxygen transfer]]
-[[shear rate]]
-[[Stirred Tank Bioreactor]]

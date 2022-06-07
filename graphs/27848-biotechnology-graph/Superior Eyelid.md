@@ -1,5 +1,0 @@
-[[Orbit]]
-[[Endoscopy]]
-[[Frontal Sinus]]
-[[Combined Transorbital-transnasal]]
-[[Transorbital Multiportal]]

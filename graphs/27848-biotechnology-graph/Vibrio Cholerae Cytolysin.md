@@ -1,5 +1,0 @@
-[[Membrane]]
-[[Oligomerization]]
-[[protein structure]]
-[[Pore-forming Toxin]]
-[[Beta-pft]]

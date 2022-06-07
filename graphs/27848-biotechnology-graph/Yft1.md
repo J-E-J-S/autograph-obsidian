@@ -1,5 +1,0 @@
-[[Ethylene]]
-[[W-box]]
-[[Carotenoid Accumulation]]
-[[Fruit Color]]
-[[Wrky32]]

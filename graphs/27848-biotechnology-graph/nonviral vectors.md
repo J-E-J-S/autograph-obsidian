@@ -1,6 +1,0 @@
-[[Gene therapy]]
-[[Alzheimer disease]]
-[[Neurodegenerative diseases]]
-[[Parkinson disease]]
-[[Viral Vectors]]
-[[Schizophrenia Retroviruses]]

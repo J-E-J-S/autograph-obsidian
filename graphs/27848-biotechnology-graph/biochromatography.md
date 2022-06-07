@@ -1,2 +1,0 @@
-[[Protein purification]]
-[[Continuous Chromatography]]

@@ -1,5 +1,0 @@
-[[Polyamines]]
-[[Ornithine decarboxylase]]
-[[Peptidylarginine Deiminase]]
-[[Protein Citrullination]]
-[[Anti-citrullinated Az Antibody]]

@@ -1,3 +1,0 @@
-[[Purification]]
-[[flavoprotein]]
-[[Fad Synthase]]

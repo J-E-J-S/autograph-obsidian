@@ -1,5 +1,0 @@
-[[Rice]]
-[[QTL]]
-[[Crispr-cas9]]
-[[Sgrna]]
-[[Multiplex Editing]]

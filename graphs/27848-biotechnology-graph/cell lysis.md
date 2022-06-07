@@ -1,8 +1,0 @@
-[[Recombinant protein]]
-[[Glucose Dehydrogenase]]
-[[T7 Rna Polymerase]]
-[[Bl21 (De3)]]
-[[DNA damage]]
-[[Sula]]
-[[Soxs]]
-[[Lpxc]]

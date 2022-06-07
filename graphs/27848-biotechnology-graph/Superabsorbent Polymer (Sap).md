@@ -1,5 +1,0 @@
-[[Water retention]]
-[[Phalaris Arundinacea]]
-[[Pumice]]
-[[Pesticide Retention]]
-[[Retention Soil Filter]]

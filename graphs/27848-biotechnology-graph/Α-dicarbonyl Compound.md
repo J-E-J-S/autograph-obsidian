@@ -1,3 +1,0 @@
-[[Analysis]]
-[[Correlation]]
-[[Coffea Arabica]]

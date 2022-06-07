@@ -1,5 +1,0 @@
-[[Photosynthesis]]
-[[Regeneration]]
-[[Oxidative]]
-[[Quinoa]]
-[[salt resistance]]

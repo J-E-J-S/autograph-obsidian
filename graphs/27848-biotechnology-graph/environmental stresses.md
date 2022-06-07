@@ -1,2 +1,0 @@
-[[Photosynthetic efficiency]]
-[[Fungal endophytes]]

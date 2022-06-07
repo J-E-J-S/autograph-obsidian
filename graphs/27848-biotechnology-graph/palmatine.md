@@ -1,5 +1,0 @@
-[[Diabetes mellitus]]
-[[Streptozotocin]]
-[[2-DE]]
-[[Grp78]]
-[[Calr]]

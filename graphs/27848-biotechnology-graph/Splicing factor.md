@@ -1,5 +1,0 @@
-[[Biosensors]]
-[[Lung cancer]]
-[[Prognostic]]
-[[Biomarker]]
-[[Diagnostic]]

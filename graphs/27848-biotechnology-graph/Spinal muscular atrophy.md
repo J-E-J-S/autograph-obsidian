@@ -1,5 +1,0 @@
-[[Spinal motor neurons]]
-[[Induced Pluripotent Stem Cells]]
-[[Cellular Models]]
-[[Hipsc]]
-[[Motor Neuron Progenitors]]

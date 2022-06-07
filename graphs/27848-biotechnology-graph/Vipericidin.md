@@ -1,5 +1,0 @@
-[[Anti-infective Peptide]]
-[[Encrypted Peptide]]
-[[Crotalicidin-derived Peptide]]
-[[Dye-conjugated Peptide]]
-[[Crotalicidin]]

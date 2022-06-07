@@ -1,5 +1,0 @@
-[[Hypocotyl]]
-[[Chickpea]]
-[[Axillary Meristem]]
-[[Plumular Apex]]
-[[Seed-priming]]

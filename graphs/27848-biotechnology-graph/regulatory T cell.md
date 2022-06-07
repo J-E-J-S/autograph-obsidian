@@ -1,8 +1,0 @@
-[[Immune tolerance]]
-[[natural killer T cell]]
-[[Dendritic Cell]]
-[[Prolactin-induced Protein]]
-[[Atopic Dermatitis]]
-[[Thymic Stromal Lymphopoietin]]
-[[T-helper Cell]]
-[[3,3'-Diindolylmethane]]

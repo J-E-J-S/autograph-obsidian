@@ -1,5 +1,0 @@
-[[Drug]]
-[[computational biology]]
-[[schistosomiasis]]
-[[Sgtp4]]
-[[Anti-schistosomal]]

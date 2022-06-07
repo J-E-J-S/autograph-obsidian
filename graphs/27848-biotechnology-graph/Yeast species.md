@@ -1,3 +1,0 @@
-[[Physicochemical properties]]
-[[Meliponini]]
-[[Starmerella]]

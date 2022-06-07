@@ -1,3 +1,0 @@
-[[Distribution]]
-[[Function]]
-[[yeasts]]

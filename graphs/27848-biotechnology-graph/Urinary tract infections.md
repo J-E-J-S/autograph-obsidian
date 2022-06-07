@@ -1,6 +1,0 @@
-[[Flagella]]
-[[SPR]]
-[[bacteremia]]
-[[motility]]
-[[Meps]]
-[[The Complement System]]

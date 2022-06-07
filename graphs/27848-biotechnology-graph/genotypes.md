@@ -1,5 +1,0 @@
-[[Development]]
-[[Metabolism]]
-[[Drosophila]]
-[[Diet]]
-[[Nutrition]]

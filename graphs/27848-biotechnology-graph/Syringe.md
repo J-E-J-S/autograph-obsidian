@@ -1,4 +1,0 @@
-[[Aptamer]]
-[[Acetamiprid]]
-[[Nanosensors]]
-[[Colorimetric]]

@@ -1,2 +1,0 @@
-[[Dna Looping]]
-[[Dna Mechanics]]

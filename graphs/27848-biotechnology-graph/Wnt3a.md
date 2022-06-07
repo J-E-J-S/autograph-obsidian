@@ -1,8 +1,0 @@
-[[Sciatic nerve]]
-[[Neuropathic pain]]
-[[Treadmill Exercise]]
-[[Self-organization]]
-[[Embryoid body]]
-[[Patterning]]
-[[Symmetry Breaking]]
-[[Synthetic Biology]]

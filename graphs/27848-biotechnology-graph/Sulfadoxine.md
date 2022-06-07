@@ -1,5 +1,0 @@
-[[Plasmodium]]
-[[Drug resistance]]
-[[Pyrimethamine]]
-[[Dhfr]]
-[[Dhps]]

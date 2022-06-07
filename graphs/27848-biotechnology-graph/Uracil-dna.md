@@ -1,2 +1,0 @@
-[[Phages]]
-[[Biotechnology]]

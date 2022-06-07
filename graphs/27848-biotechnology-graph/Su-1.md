@@ -1,7 +1,0 @@
-[[Genome]]
-[[Aspergillus flavus]]
-[[Species identification]]
-[[Single nucleotide polymorphism]]
-[[Aspergillus Parasiticus]]
-[[Nrrl2999]]
-[[Nrrl3357]]

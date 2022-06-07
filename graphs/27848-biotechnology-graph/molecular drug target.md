@@ -1,5 +1,0 @@
-[[Mycobacterium tuberculosis]]
-[[Tuberculosis]]
-[[Drug resistance]]
-[[Selection pressure]]
-[[Protein–protein Interaction]]

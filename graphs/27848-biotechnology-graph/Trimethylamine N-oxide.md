@@ -1,8 +1,0 @@
-[[Atherosclerosis]]
-[[Gut]]
-[[Psoriasis]]
-[[Cardiovascular Risk]]
-[[Systemic Sclerosis]]
-[[Dysbiosis]]
-[[Microbiome]]
-[[Tmao]]

@@ -1,3 +1,0 @@
-[[Epilepsy]]
-[[Neurodegeneration]]
-[[Posttranslational Modification]]

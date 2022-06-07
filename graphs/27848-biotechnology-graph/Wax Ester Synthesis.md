@@ -1,6 +1,0 @@
-[[Bacteria]]
-[[Biotechnology]]
-[[Environment]]
-[[Acinetobacter]]
-[[Sustainable]]
-[[Economic]]

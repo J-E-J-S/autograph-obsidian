@@ -1,5 +1,0 @@
-[[Acetylcholinesterase]]
-[[Motor neurons]]
-[[Triclosan]]
-[[Locomotor Behavior]]
-[[Zebrafish Larvae]]

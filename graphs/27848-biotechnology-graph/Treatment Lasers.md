@@ -1,3 +1,0 @@
-[[Retina]]
-[[Clinical Trial]]
-[[Macula]]

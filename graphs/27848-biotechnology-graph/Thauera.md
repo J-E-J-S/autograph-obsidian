@@ -1,3 +1,0 @@
-[[Cloning]]
-[[Characterization]]
-[[Amidases]]

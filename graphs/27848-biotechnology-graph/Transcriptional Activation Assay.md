@@ -1,5 +1,0 @@
-[[Antagonist]]
-[[Estrogen receptor]]
-[[Androgen receptor]]
-[[Agonist]]
-[[Enniatins]]

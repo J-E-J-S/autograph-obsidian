@@ -1,5 +1,0 @@
-[[Thailand]]
-[[Hematology]]
-[[Dog]]
-[[Phylogenetic]]
-[[Bartonella]]

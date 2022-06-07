@@ -1,5 +1,0 @@
-[[Identification]]
-[[Markers]]
-[[Botulinum]]
-[[In Vitro Assay]]
-[[Lc–ms/ms]]

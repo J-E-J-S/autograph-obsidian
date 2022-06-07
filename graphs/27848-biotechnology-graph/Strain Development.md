@@ -1,5 +1,0 @@
-[[Monascus]]
-[[Pigment]]
-[[Solid-state fermentation]]
-[[Bioactive compound]]
-[[Genome shuffling]]

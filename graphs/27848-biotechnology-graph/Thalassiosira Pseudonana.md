@@ -1,5 +1,0 @@
-[[Chitinase]]
-[[Abiotic stress]]
-[[Gene family]]
-[[Enzymatic activity]]
-[[Gene Expression]]

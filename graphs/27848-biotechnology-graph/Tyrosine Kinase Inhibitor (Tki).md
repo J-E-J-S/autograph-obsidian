@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cell cycle arrest]]
-[[binding mode]]
-[[Epidermal Growth Factor Receptor (Egfr)]]
-[[Cucurbitacin Iib (Cuiib)]]

@@ -1,7 +1,0 @@
-[[Obesity]]
-[[Anxiety]]
-[[high fat diet]]
-[[neuroinflammation]]
-[[Herbal Supplementation]]
-[[endotoxemia]]
-[[THP-1]]

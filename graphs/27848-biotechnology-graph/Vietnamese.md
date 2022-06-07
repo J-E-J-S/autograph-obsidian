@@ -1,5 +1,0 @@
-[[Allele frequency]]
-[[short tandem repeats]]
-[[Autosomal Strs]]
-[[Hmong]]
-[[Mong]]

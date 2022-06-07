@@ -1,2 +1,0 @@
-[[Neurodegenerative diseases]]
-[[alpha-Synuclein]]

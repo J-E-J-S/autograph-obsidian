@@ -1,1 +1,0 @@
-[[High molecular weight glutenin]]

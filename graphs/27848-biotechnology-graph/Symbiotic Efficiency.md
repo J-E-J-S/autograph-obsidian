@@ -1,6 +1,0 @@
-[[Abiotic stress]]
-[[Common bean]]
-[[Rt-qpcr]]
-[[Redox Regulation]]
-[[Mutualistic Interaction]]
-[[Thioredoxins H-type]]

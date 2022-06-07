@@ -1,5 +1,0 @@
-[[Wheat]]
-[[Heat stress]]
-[[1000-grain weight]]
-[[Rna Sequencing]]
-[[Awn]]

@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Corynebacterium glutamicum]]
-[[Fed-batch culture]]
-[[L-leucine]]
-[[Response surface methodology]]

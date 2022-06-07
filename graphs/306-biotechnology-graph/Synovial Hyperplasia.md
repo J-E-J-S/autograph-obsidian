@@ -1,5 +1,0 @@
-[[IL-6]]
-[[Anti-inflammation]]
-[[Bone Erosion]]
-[[Il-17a]]
-[[Inula Helenium L.]]

@@ -1,5 +1,0 @@
-[[Fluorescence-activated cell sorting]]
-[[Droplet Microfluidics]]
-[[Antibiotic Screening]]
-[[Enzyme Screening]]
-[[Cultivation Of Rare Microbes]]

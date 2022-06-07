@@ -1,1 +1,0 @@
-[[Amyotrophic Lateral Sclerosis]]

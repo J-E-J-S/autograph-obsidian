@@ -1,2 +1,0 @@
-[[Aspergillus fumigatus]]
-[[Aspergillusnidulans]]

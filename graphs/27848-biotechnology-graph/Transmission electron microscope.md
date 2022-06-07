@@ -1,5 +1,0 @@
-[[Alzheimer's disease]]
-[[Caspofungin]]
-[[Replica Exchange Molecular Dynamics]]
-[[Tht Fluorescence]]
-[[Drug Reprofiling]]

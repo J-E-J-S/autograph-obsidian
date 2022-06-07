@@ -1,7 +1,0 @@
-[[Biomarkers]]
-[[transmembrane]]
-[[Transcriptomics]]
-[[Pathway analysis]]
-[[Network Analysis]]
-[[Ipf]]
-[[Transport Protein]]

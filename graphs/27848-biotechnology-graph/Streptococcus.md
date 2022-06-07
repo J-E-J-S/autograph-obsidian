@@ -1,5 +1,0 @@
-[[Bacteriophage]]
-[[Antibacterial peptides]]
-[[Amr]]
-[[Deep Learning]]
-[[Bilstm]]

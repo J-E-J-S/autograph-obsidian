@@ -1,8 +1,0 @@
-[[Central nervous system]]
-[[Medicinal plants]]
-[[Patents]]
-[[Therapeutic Use]]
-[[Biodegradation]]
-[[Pre-treatment]]
-[[Plastic Waste]]
-[[Biosurfactant, Environmental Impact]]

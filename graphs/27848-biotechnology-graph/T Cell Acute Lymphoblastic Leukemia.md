@@ -1,8 +1,0 @@
-[[Apoptosis]]
-[[Proliferation]]
-[[Bcl-2-associated Athanogene 2]]
-[[Microrna-325]]
-[[DNA methylation]]
-[[Decitabine]]
-[[Phosphatase And Tensin Homolog]]
-[[Pi3k/akt/mtor Pathway]]

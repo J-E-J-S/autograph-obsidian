@@ -1,8 +1,0 @@
-[[MAPK]]
-[[ROS]]
-[[HCC]]
-[[ERK]]
-[[Hsp60]]
-[[JNK]]
-[[Mtros]]
-[[Rkip]]

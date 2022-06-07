@@ -1,5 +1,0 @@
-[[Heat balance]]
-[[PET]]
-[[Biothermodynamics]]
-[[Surface Adsorption]]
-[[Cutinase]]

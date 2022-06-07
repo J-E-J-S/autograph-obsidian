@@ -1,5 +1,0 @@
-[[Macrophages]]
-[[Lupus nephritis]]
-[[M2 Macrophages]]
-[[Renal Sledai]]
-[[Cd163]]

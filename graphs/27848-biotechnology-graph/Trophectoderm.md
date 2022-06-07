@@ -1,8 +1,0 @@
-[[Insecticides]]
-[[Pregnancy]]
-[[Pyridaben]]
-[[endometrial cells]]
-[[Insecticides]]
-[[Pregnancy]]
-[[endometrial cells]]
-[[Flufenoxuron]]

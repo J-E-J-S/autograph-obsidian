@@ -1,5 +1,0 @@
-[[Next Generation Sequencing]]
-[[Whole-genome Sequencing]]
-[[Single-molecule Real-time Sequencing]]
-[[Pectobacterium Spp.]]
-[[Dickeya Spp.]]

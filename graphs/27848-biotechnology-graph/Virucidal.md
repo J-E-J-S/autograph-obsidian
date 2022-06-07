@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Bactericidal]]
-[[Fungicidal]]
-[[Agnps]]
-[[Lysinibacillus Sphaericus]]
-[[Antibiotic Synergism]]

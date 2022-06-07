@@ -1,5 +1,0 @@
-[[Silver]]
-[[Titanium dioxide]]
-[[Radiation Therapy]]
-[[Polymer Gel]]
-[[Macrophage Cells]]

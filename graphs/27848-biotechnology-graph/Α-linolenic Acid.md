@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Antioxidant]]
-[[Sertoli cells]]

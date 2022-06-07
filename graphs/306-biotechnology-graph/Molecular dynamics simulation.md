@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Drug Repurposing]]
-[[Cytokine Storm]]
-[[Covid-19]]
-[[Main Protease Mpro]]

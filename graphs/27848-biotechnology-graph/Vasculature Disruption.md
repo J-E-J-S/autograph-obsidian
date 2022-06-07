@@ -1,5 +1,0 @@
-[[Zebrafish]]
-[[Toxicological mechanism]]
-[[Mitochondrial Dysfunction]]
-[[Development Inhibition]]
-[[Aclonifen]]

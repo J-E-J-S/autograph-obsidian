@@ -1,5 +1,0 @@
-[[Extracellular matrix]]
-[[Inflammation]]
-[[matrix metalloproteinases]]
-[[Chronic Kidney Disease]]
-[[Kidney Fibrosis]]

@@ -1,8 +1,0 @@
-[[Rats]]
-[[Hippocampus]]
-[[Alzheimer disease]]
-[[Long-term potentiation]]
-[[Protocatechuic acid]]
-[[Pseudomonas putida]]
-[[Acinetobacter Sp]]
-[[Vanillate-o-demethylase]]

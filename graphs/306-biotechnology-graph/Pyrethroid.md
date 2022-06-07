@@ -1,4 +1,0 @@
-[[Pesticides]]
-[[Insecticides]]
-[[Immunotoxicity]]
-[[chlorpyrifos]]

@@ -1,8 +1,0 @@
-[[Transformation]]
-[[Genetic engineering]]
-[[Agrobacterium rhizogenes]]
-[[Site-specific recombination]]
-[[Plant Biotechnology]]
-[[Virulence Plasmid]]
-[[Gene Stacking]]
-[[Transgene Assembly]]

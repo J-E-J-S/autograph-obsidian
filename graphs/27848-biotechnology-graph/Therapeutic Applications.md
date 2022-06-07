@@ -1,6 +1,0 @@
-[[Transcription factor]]
-[[Neuronal Development]]
-[[Neuropsychiatric Disorders]]
-[[Gene Editing]]
-[[Crispr/cas9]]
-[[Epigenetic Regulations]]

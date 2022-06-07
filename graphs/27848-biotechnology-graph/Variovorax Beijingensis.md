@@ -1,5 +1,0 @@
-[[Genome]]
-[[Phylogeny]]
-[[Plant Associated Bacteria]]
-[[Polyphasic Approach]]
-[[Plant Growth-promoting Potential]]

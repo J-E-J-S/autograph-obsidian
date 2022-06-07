@@ -1,2 +1,0 @@
-[[Staphylococcus aureus]]
-[[Lysostaphin]]

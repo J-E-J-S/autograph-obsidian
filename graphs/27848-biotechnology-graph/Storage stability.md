@@ -1,5 +1,0 @@
-[[Supplement]]
-[[Antioxidant]]
-[[Vegetable oil]]
-[[astaxanthin]]
-[[isomerization]]

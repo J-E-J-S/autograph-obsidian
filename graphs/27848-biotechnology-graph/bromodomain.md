@@ -1,5 +1,0 @@
-[[Acetylation]]
-[[Histone]]
-[[Bone]]
-[[Noncoding RNAs]]
-[[Histone Acetyltransferases]]

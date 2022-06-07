@@ -1,5 +1,0 @@
-[[Lactic acid bacteria]]
-[[Shotgun sequencing]]
-[[Bio-heat]]
-[[Substrate Degradation]]
-[[Liquor Starter]]

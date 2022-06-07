@@ -1,6 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Biofilm]]
-[[Quorum-sensing]]
-[[2-Phenylethanol]]
-[[Aro9]]
-[[Aro8]]

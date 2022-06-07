@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Parameters]]
-[[Diabetic rats]]
-[[Pancreatic]]
-[[Streptozotocin]]
-[[Gene Expression]]

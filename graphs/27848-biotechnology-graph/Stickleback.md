@@ -1,5 +1,0 @@
-[[haplotype]]
-[[Mosaicism]]
-[[Genome Assembly]]
-[[Gasterosteus]]
-[[Pungitius]]

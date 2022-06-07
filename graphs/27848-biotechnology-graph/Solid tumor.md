@@ -1,6 +1,0 @@
-[[Linker]]
-[[Drug release]]
-[[Antibody-drug Conjugate]]
-[[Monomethyl Auristatin E]]
-[[Angiogenesis]]
-[[Indolephenoxyacetamide]]

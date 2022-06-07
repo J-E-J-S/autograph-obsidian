@@ -1,5 +1,0 @@
-[[Stat3]]
-[[mammalian target of rapamycin]]
-[[Lithium-pilocarpine]]
-[[fibrosis]]
-[[Sudep]]

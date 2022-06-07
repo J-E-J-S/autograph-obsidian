@@ -1,4 +1,0 @@
-[[Lipase]]
-[[Immobilization]]
-[[Applications]]
-[[Biocatalysts]]

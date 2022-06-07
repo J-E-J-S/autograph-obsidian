@@ -1,5 +1,0 @@
-[[DNA fragmentation]]
-[[TUNEL]]
-[[Male infertility]]
-[[Varicocele]]
-[[Alpha-lipoic Acid]]

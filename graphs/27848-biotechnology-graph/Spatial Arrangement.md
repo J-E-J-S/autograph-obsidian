@@ -1,5 +1,0 @@
-[[Cerebral ischemia]]
-[[infarct volume]]
-[[Dimethyl Fumarate]]
-[[Tessellations]]
-[[Primary Motor Cortical Neurons]]

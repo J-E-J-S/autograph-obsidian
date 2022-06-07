@@ -1,6 +1,0 @@
-[[Collagen]]
-[[Inflammation]]
-[[Wound healing]]
-[[Sipunculus nudus]]
-[[Collagen Peptides]]
-[[Scar Inhibition]]

@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Neomycin]]
-[[MTT assay]]
-[[Dihydrostreptomycin]]
-[[Fea]]
-[[Bhk21]]

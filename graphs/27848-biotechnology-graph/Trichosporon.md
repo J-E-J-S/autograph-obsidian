@@ -1,2 +1,0 @@
-[[Yeast-like fungi]]
-[[Turkey]]

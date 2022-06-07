@@ -1,5 +1,0 @@
-[[Antioxidant activity]]
-[[Bioactive metabolites]]
-[[Antibacterial activity]]
-[[MIC]]
-[[Silver Nanoparticles]]

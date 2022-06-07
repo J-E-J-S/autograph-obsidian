@@ -1,5 +1,0 @@
-[[Spinal cord]]
-[[Brain-derived neurotrophic factor]]
-[[Multiple sclerosis]]
-[[Myelination]]
-[[Prenatal Stress]]

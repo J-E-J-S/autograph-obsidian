@@ -1,8 +1,0 @@
-[[Dna Insertion]]
-[[Targeted Genome Editing]]
-[[Microbial Community Genome Editing]]
-[[Transposon-associated Crispr-cas System]]
-[[Tomato]]
-[[Agronomic traits]]
-[[Quantitative Variation]]
-[[Structural Genome Variants]]

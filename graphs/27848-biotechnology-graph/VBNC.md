@@ -1,3 +1,0 @@
-[[habs]]
-[[Culturability]]
-[[Akashiwo Sanguinea]]

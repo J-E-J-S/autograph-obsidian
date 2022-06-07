@@ -1,5 +1,0 @@
-[[Drought tolerance]]
-[[Ros Homeostasis]]
-[[Aba Signaling Pathway]]
-[[Yellowhorn]]
-[[Xswrky20 Transcription Factor]]

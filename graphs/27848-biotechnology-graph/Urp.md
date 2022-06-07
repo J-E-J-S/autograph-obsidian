@@ -1,6 +1,0 @@
-[[Genetic diversity]]
-[[Molecular]]
-[[Potato]]
-[[Virulence]]
-[[Morphological]]
-[[Stem Rot]]

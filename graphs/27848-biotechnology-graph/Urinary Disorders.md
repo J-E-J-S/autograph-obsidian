@@ -1,3 +1,0 @@
-[[urinary retention]]
-[[Antidepressants]]
-[[Antipsychotics]]

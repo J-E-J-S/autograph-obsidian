@@ -1,6 +1,0 @@
-[[c-fos]]
-[[Osteoclast]]
-[[lamellipodia]]
-[[tartrate-resistant acid phosphatase]]
-[[Raw264.7 Cells]]
-[[Nuclear Factor Of Activated T Cells Cytoplasmic 1]]

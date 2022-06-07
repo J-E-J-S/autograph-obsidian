@@ -1,6 +1,0 @@
-[[Purification]]
-[[Recombinant protein]]
-[[Immobilization]]
-[[Thermostability]]
-[[Mutant]]
-[[Spycatcher/spytag]]

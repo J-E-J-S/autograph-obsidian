@@ -1,5 +1,0 @@
-[[Photothermal Therapy]]
-[[Hyperpyrexia]]
-[[Mitochondria-targeted]]
-[[Organic Small Molecules]]
-[[Phototheranostic Agents]]

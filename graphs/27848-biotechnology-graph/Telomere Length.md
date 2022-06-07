@@ -1,3 +1,0 @@
-[[Probe]]
-[[Telomere]]
-[[Qpcr]]

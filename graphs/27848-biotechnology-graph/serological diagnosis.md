@@ -1,5 +1,0 @@
-[[Phage display]]
-[[Immunophenotyping]]
-[[Nanobody]]
-[[Immunoglobulin Igm]]
-[[Immunoassay/elisa]]

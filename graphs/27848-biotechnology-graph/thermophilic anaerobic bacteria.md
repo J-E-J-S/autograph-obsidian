@@ -1,6 +1,0 @@
-[[Biomass]]
-[[Biofuel]]
-[[Consolidated Bioprocessing]]
-[[Cellulosome]]
-[[Multifunctional Enzymes]]
-[[Surface-layer Homology Modules]]

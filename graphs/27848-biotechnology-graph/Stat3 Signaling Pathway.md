@@ -1,4 +1,0 @@
-[[Apoptosis]]
-[[Proliferation]]
-[[Nmi]]
-[[Emt]]

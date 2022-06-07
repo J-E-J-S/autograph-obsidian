@@ -1,5 +1,0 @@
-[[Arctic]]
-[[N2 Fixation]]
-[[Diazotrophs]]
-[[Kongsfjorden]]
-[[Delta-proteobacteria]]

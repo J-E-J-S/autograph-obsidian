@@ -1,5 +1,0 @@
-[[Gossypium hirsutum]]
-[[Plant defence]]
-[[Volatile Organic Compounds (VOCs)]]
-[[Anthonomus Grandis]]
-[[Herbivore Resistance]]

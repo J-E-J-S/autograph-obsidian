@@ -1,5 +1,0 @@
-[[Mitochondrial genome]]
-[[phylogenetics]]
-[[Ngs]]
-[[Protein Coding Genes]]
-[[Deocata]]

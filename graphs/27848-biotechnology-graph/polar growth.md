@@ -1,5 +1,0 @@
-[[Pentose phosphate pathway]]
-[[Itraq]]
-[[Copii-coated Vesicle]]
-[[Ntgnl1]]
-[[Endosome Trafficking]]

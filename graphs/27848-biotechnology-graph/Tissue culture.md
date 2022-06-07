@@ -1,6 +1,0 @@
-[[Biotechnology]]
-[[Cell culture]]
-[[Engineering]]
-[[Natural products]]
-[[Organ culture]]
-[[Bioproduction]]

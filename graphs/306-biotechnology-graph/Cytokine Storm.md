@@ -1,5 +1,0 @@
-[[Molecular dynamics simulation]]
-[[Molecular docking]]
-[[Drug Repurposing]]
-[[Covid-19]]
-[[Main Protease Mpro]]

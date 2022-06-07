@@ -1,8 +1,0 @@
-[[Thrombosis]]
-[[Cancer]]
-[[Risk factor]]
-[[Venous Thromboembolism]]
-[[Air pollution]]
-[[Mortality]]
-[[Public Health]]
-[[Covid-19]]

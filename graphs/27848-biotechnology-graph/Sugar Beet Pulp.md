@@ -1,8 +1,0 @@
-[[Fermentation]]
-[[Ethanol]]
-[[Enzyme]]
-[[Biogas]]
-[[Valorization]]
-[[Iron]]
-[[Hydrogen]]
-[[dark fermentation]]

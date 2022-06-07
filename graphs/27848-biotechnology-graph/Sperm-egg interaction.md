@@ -1,6 +1,0 @@
-[[Sperm motility]]
-[[Semen]]
-[[Expression]]
-[[Turkey]]
-[[Male Reproductive Tract]]
-[[Cysteine-rich Secretory Protein]]

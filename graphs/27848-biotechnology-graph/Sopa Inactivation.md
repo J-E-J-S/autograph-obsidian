@@ -1,5 +1,0 @@
-[[Salmonella Enterica]]
-[[negative regulation]]
-[[S. Typhi]]
-[[S. Paratyphi A]]
-[[Isrm]]

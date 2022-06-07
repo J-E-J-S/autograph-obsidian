@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Oxidative stress]]
-[[developmental toxicity]]
-[[Chlorpropham]]
-[[Zebrafish Embryos]]

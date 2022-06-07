@@ -1,5 +1,0 @@
-[[AMF]]
-[[Biofertilizer]]
-[[water deficit]]
-[[Seed Metabolism]]
-[[Carbohydrate Mobilization]]

@@ -1,8 +1,0 @@
-[[RIG-I]]
-[[negative regulation]]
-[[Innate Immune]]
-[[Microrn-489]]
-[[Rainbow trout]]
-[[MyD88]]
-[[Irak4]]
-[[Irak1]]

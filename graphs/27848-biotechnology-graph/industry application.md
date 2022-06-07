@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Cell cycle progression]]
-[[Rim15]]
-[[Biofilm-based Fermentation]]
-[[Calcium Alginate-immobilised Fermentation]]

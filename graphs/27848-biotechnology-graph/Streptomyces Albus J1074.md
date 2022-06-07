@@ -1,3 +1,0 @@
-[[Antibiotics]]
-[[rpsL]]
-[[Ribosome engineering]]

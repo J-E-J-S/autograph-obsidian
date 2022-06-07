@@ -1,6 +1,0 @@
-[[Triterpenoid]]
-[[Molecular docking]]
-[[Molecular Dynamic Simulations]]
-[[Anti-salmonella Mic]]
-[[Formate Ion Channel]]
-[[Melianone]]

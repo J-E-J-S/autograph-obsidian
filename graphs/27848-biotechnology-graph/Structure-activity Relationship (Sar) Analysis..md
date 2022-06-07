@@ -1,5 +1,0 @@
-[[Drug design]]
-[[focal adhesion kinase (FAK)]]
-[[Cancer Target]]
-[[Anticancer Therapeutics]]
-[[Small Molecule Fak Inhibitors]]

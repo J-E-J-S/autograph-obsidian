@@ -1,5 +1,0 @@
-[[Hot spring]]
-[[Thermophilic]]
-[[Full Factorial Design]]
-[[Response Surface Optimization]]
-[[Parageobacillus Thermoglucosidasius]]

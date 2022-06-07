@@ -1,5 +1,0 @@
-[[Meliaceae]]
-[[Hymenochaetaceae]]
-[[Antimalarial Activity]]
-[[Limonoids]]
-[[Fulvifomes Xylocarpicola]]

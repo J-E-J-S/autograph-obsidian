@@ -1,5 +1,0 @@
-[[Metagenomics]]
-[[Extremophiles]]
-[[Virus-host Interactions]]
-[[Viromics]]
-[[Auxiliary Metabolic Genes]]

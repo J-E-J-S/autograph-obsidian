@@ -1,8 +1,0 @@
-[[Metabolism]]
-[[Chemical]]
-[[Astilbin]]
-[[Pharmaceutical Activity]]
-[[Saccharomyces cerevisiae]]
-[[naringenin]]
-[[Flavanone 3-Hydroxylase]]
-[[Eriodictyol]]

@@ -1,5 +1,0 @@
-[[Phoma]]
-[[Weed control]]
-[[Bioherbicide]]
-[[Eco-friendly]]
-[[Economic Viability]]

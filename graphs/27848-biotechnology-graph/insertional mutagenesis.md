@@ -1,4 +1,0 @@
-[[Gene insertion]]
-[[Piggybac Transposase]]
-[[Transposases]]
-[[Crispr-associated Protein 9]]

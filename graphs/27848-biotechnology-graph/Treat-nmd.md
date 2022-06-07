@@ -1,5 +1,0 @@
-[[Iran]]
-[[Registry]]
-[[Dmd Bmd]]
-[[Irdab]]
-[[Duchenne Becker Muscular Dystrophy]]

@@ -1,5 +1,0 @@
-[[Amylose content]]
-[[Colorimetric assay]]
-[[Molecular weight distribution]]
-[[gold nanoparticles]]
-[[Steric Stabilization]]

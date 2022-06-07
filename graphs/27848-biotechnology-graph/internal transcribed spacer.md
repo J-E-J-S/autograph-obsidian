@@ -1,2 +1,0 @@
-[[Fusarium oxysporum]]
-[[Dragon Fruit]]

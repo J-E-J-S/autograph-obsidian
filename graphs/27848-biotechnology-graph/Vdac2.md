@@ -1,5 +1,0 @@
-[[Multiple myeloma]]
-[[2-DE]]
-[[Lycorine]]
-[[Maldi-tof/tof Mass Spectrometry]]
-[[Abnormal Mitochondria]]

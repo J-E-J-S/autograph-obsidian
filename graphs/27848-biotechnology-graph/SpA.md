@@ -1,3 +1,0 @@
-[[Infection]]
-[[Heparin]]
-[[S. aureus]]

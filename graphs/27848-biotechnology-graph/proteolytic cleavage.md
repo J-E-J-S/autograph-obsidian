@@ -1,5 +1,0 @@
-[[Ion-exchange chromatography]]
-[[Protein A]]
-[[Fusion Tag]]
-[[Solid-phase Refolding]]
-[[Zbasic]]

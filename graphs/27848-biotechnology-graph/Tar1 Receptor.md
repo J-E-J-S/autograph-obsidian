@@ -1,5 +1,0 @@
-[[Behavior]]
-[[RNAi]]
-[[antennae]]
-[[olfaction]]
-[[Brown Marmorated Stink Bug]]

@@ -1,5 +1,0 @@
-[[Sphingolipid]]
-[[microdomain]]
-[[Membrane Domain]]
-[[Liquid-ordered Phase]]
-[[Detergent-resistant Membrane]]

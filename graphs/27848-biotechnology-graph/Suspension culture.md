@@ -1,6 +1,0 @@
-[[Shear stress]]
-[[Pluripotent stem cells]]
-[[Bingham Plastic Fluid]]
-[[Flavonoid]]
-[[Dynamic Modelling]]
-[[Ocimum Tenuiflorum]]

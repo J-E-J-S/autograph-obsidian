@@ -1,4 +1,0 @@
-[[Microalgae]]
-[[Industrialization]]
-[[Biofuel]]
-[[Patent]]

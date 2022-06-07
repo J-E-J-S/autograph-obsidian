@@ -1,8 +1,0 @@
-[[Fatty acid synthase]]
-[[Molecular docking]]
-[[Antiproliferative Activity]]
-[[Molecular Dynamics (Md) Simulation]]
-[[In Silico Mutagenesis]]
-[[Neisseria gonorrhoeae]]
-[[Rho]]
-[[Dft And Molecular Dynamics Simulation]]

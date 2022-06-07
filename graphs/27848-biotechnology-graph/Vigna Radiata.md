@@ -1,5 +1,0 @@
-[[Allium cepa]]
-[[Reactive oxygen species]]
-[[DNA fragmentation]]
-[[Pentachlorophenol (PCP)]]
-[[Defense Mechanism]]

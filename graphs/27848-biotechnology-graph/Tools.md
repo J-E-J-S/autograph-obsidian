@@ -1,4 +1,0 @@
-[[Prediction]]
-[[Database]]
-[[Algorithm]]
-[[Epigenetics]]

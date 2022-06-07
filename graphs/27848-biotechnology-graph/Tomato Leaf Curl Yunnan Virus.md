@@ -1,7 +1,0 @@
-[[Complex]]
-[[Dissociation]]
-[[Geminivirus]]
-[[Mitogen-activated protein kinase]]
-[[C4]]
-[[Erecta]]
-[[Bki1]]

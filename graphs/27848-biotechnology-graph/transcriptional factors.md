@@ -1,8 +1,0 @@
-[[Drug resistance]]
-[[Pharmacogenomics]]
-[[Chip-seq]]
-[[Braf Inhibitor Resistance]]
-[[Xylose]]
-[[Glucose]]
-[[Non-conventional Yeasts]]
-[[Ogataea Polymorpha]]

@@ -1,3 +1,0 @@
-[[Mass spectrometry]]
-[[Chicken]]
-[[Colistin]]

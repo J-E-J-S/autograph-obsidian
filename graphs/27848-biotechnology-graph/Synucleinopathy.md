@@ -1,6 +1,0 @@
-[[Protein aggregation]]
-[[Parkinson’s Disease]]
-[[Cdnf]]
-[[Manf]]
-[[Cerebral Dopamine Neurotrophic Factor]]
-[[Mesencephalic Astrocyte-derived Neurotrophic Factor]]

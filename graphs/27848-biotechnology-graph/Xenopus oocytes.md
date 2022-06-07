@@ -1,6 +1,0 @@
-[[Malaria]]
-[[Plasmodium falciparum]]
-[[Chemosensitization]]
-[[chloroquine resistance]]
-[[Pfcrt]]
-[[Liver-stage Antimalarial]]

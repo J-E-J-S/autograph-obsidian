@@ -1,3 +1,0 @@
-[[Tissue engineering]]
-[[alginate]]
-[[hydrogel]]

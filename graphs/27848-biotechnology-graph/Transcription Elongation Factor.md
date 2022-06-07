@@ -1,6 +1,0 @@
-[[Schizosaccharomyces pombe]]
-[[RNA polymerase II]]
-[[Histone acetylation]]
-[[Chromatin remodeling]]
-[[Ell]]
-[[Epe1]]

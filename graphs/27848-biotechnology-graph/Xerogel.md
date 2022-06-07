@@ -1,7 +1,0 @@
-[[Sol-gel technique]]
-[[Ionic Liquids]]
-[[Calb]]
-[[Aerogel]]
-[[Polymer]]
-[[Silica Nanoparticles]]
-[[Hemostatic]]

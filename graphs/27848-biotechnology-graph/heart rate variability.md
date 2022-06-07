@@ -1,5 +1,0 @@
-[[ECG]]
-[[Atrial Tachycardia]]
-[[Normal Sinus Rhythm]]
-[[Premature Activation]]
-[[Pta Interval]]

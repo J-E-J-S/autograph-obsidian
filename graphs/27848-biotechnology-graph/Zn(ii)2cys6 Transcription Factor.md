@@ -1,5 +1,0 @@
-[[Carbon metabolism]]
-[[Hypsizygus marmoreus]]
-[[Oxidative Stress Response]]
-[[Fruiting Body Development]]
-[[Mitochondrial Stability]]

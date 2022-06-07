@@ -1,5 +1,0 @@
-[[Imidacloprid]]
-[[Insecticide resistance]]
-[[Nicotinic acetylcholine receptor]]
-[[Sulfoxaflor]]
-[[Nitenpyram]]

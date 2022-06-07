@@ -1,7 +1,0 @@
-[[Kinetic study]]
-[[Glucosinolate]]
-[[Substrate Inhibition]]
-[[Myrosinase]]
-[[Brassica Oleracea L. Var. Botrytis]]
-[[Brassica Oleracea L. Var. Italic]]
-[[Hplc-based Assay]]

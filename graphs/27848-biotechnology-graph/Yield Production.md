@@ -1,5 +1,0 @@
-[[Sorghum]]
-[[Drought]]
-[[Wax]]
-[[Chemical compositions]]
-[[Gene Expression]]

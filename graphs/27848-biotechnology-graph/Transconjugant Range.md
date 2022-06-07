@@ -1,4 +1,0 @@
-[[Conjugation]]
-[[Plasmid]]
-[[Anaerobe]]
-[[Aerobe]]

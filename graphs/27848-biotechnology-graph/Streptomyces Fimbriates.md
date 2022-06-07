@@ -1,3 +1,0 @@
-[[Bioactive compounds]]
-[[Streptothricin]]
-[[Halotolerant]]

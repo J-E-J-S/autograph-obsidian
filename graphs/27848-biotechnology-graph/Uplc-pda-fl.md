@@ -1,3 +1,0 @@
-[[Pancreatic lipase]]
-[[ACHE]]
-[[Buche]]

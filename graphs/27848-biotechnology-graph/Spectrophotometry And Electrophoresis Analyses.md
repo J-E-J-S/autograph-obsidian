@@ -1,2 +1,0 @@
-[[Magnetic Nanoparticles]]
-[[Electrostatic Absorption]]

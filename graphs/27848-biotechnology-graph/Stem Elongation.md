@@ -1,3 +1,0 @@
-[[gibberellins]]
-[[Jasmonate]]
-[[Ja-ile]]

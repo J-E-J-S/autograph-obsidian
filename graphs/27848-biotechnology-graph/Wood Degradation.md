@@ -1,2 +1,0 @@
-[[Cazy]]
-[[Brown Rot Fungi]]

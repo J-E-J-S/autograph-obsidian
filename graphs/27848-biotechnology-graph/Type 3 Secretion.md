@@ -1,7 +1,0 @@
-[[Resistance]]
-[[Potato]]
-[[Proteomics]]
-[[Ralstonia solanacearum]]
-[[Genomics]]
-[[Metabolomics]]
-[[T3es]]

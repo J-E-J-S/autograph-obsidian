@@ -1,7 +1,0 @@
-[[VBNC]]
-[[Culturability]]
-[[Akashiwo Sanguinea]]
-[[biomonitoring]]
-[[Environmental Dna]]
-[[Crispr/cas Systems]]
-[[Environmental Rna]]

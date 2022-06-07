@@ -1,6 +1,0 @@
-[[Structure-property Relationship]]
-[[Uv–vis Spectrum]]
-[[Feature Engineering]]
-[[Organic Dye Digital Structures]]
-[[Organic Dye Sensitized Solar Cells (Dsscs)]]
-[[Time-dependent Density Functional Theory (Td-dft) Calculations]]

@@ -1,5 +1,0 @@
-[[Bioassay]]
-[[FISH]]
-[[Dioxins]]
-[[Daily Intake]]
-[[Weekly Intake]]

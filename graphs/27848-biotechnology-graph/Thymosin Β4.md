@@ -1,5 +1,0 @@
-[[Sepsis]]
-[[Anti-inflammatory]]
-[[Pulmonary infection]]
-[[Legionella pneumophila]]
-[[Bactericidal]]

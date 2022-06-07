@@ -1,5 +1,0 @@
-[[Insulin]]
-[[Electroacupuncture]]
-[[Dexamethasone]]
-[[Antrodia Cinnamomea]]
-[[Signal Transduction Proteins]]

@@ -1,5 +1,0 @@
-[[ammonia-oxidizing bacteria]]
-[[Freshwater lake]]
-[[Ammonia-oxidizing Archaea]]
-[[Physicochemical Factors]]
-[[Anaerobic Ammonia-Oxidizing Bacteria]]

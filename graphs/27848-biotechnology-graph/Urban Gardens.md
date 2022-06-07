@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Genotoxicity]]
-[[micronuclei]]
-[[biomonitoring]]
-[[Particulate Material]]

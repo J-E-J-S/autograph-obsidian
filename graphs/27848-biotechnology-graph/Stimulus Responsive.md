@@ -1,6 +1,0 @@
-[[Surfactin]]
-[[Acetoin]]
-[[Interfacial Assembly]]
-[[Wettability Alteration]]
-[[Emulsification Stability]]
-[[Oil Washing]]

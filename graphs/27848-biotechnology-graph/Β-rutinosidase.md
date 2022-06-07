@@ -1,2 +1,0 @@
-[[Rutin]]
-[[Hesperidin]]

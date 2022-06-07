@@ -1,5 +1,0 @@
-[[phylogenetics]]
-[[Discrete Fourier Transform]]
-[[Chaos Game Representation]]
-[[Basic Local Alignment Search Tool]]
-[[Free-alignment Methods]]

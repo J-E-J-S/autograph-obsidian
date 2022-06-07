@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Paclitaxel]]
-[[Ovarian cancer]]

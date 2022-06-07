@@ -1,3 +1,0 @@
-[[Endophyte]]
-[[Actinobacterium]]
-[[Genome Mining]]

@@ -1,3 +1,0 @@
-[[Glutathione peroxidase]]
-[[Biomarker]]
-[[Therapeutic]]

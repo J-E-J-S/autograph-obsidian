@@ -1,5 +1,0 @@
-[[Polysaccharides]]
-[[Saponins]]
-[[Polygonatum sibiricum]]
-[[Therapeutic.]]
-[[Phytomedicines]]

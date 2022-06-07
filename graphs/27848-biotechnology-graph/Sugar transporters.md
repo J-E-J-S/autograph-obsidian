@@ -1,3 +1,0 @@
-[[Fungi]]
-[[Metatranscriptomics]]
-[[Environmental Genomics]]

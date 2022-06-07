@@ -1,5 +1,0 @@
-[[Taxonomy]]
-[[Evolution]]
-[[Mitochondrial Genomics]]
-[[Argasidae]]
-[[Carios]]

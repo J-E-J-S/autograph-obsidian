@@ -1,5 +1,0 @@
-[[Medicago Truncatula]]
-[[Inflorescence Development]]
-[[Mtfulc]]
-[[Mttfl1]]
-[[Secondary Inflorescence Meristem]]

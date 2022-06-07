@@ -1,2 +1,0 @@
-[[Environmental Toxicology]]
-[[Pharmaceutical Pollution]]

@@ -1,6 +1,0 @@
-[[Carrier]]
-[[Polyphenols]]
-[[Drying]]
-[[Juice]]
-[[Aronia Melanocarpa L.]]
-[[Chokeberry Powder]]

@@ -1,2 +1,0 @@
-[[Ultraviolet-c]]
-[[Bacterial Disinfection]]

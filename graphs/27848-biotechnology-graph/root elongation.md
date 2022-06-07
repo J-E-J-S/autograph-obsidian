@@ -1,5 +1,0 @@
-[[Comparative genomics]]
-[[Biological nitrogen fixation]]
-[[Klebsiella]]
-[[Pot Study]]
-[[Pgpr Genes]]

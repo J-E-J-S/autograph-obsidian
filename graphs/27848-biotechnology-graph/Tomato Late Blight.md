@@ -1,5 +1,0 @@
-[[Resistance]]
-[[Nanoparticles]]
-[[defense response]]
-[[Mycogenic]]
-[[Biostimulants]]

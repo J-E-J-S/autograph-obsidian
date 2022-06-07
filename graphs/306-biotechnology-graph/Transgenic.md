@@ -1,5 +1,0 @@
-[[Plant growth regulators]]
-[[HPLC]]
-[[PCR]]
-[[Southern blot]]
-[[Zygotic embryo]]

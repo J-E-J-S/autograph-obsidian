@@ -1,4 +1,0 @@
-[[Bioremediation]]
-[[Mechanisms]]
-[[Microbes]]
-[[Processes]]

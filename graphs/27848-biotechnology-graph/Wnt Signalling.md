@@ -1,2 +1,0 @@
-[[Sexual differentiation]]
-[[Eyestalk ablation]]

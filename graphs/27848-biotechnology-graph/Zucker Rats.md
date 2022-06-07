@@ -1,5 +1,0 @@
-[[Trace elements]]
-[[Rats]]
-[[Organs]]
-[[Obesity]]
-[[Quercetin]]

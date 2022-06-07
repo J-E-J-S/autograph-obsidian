@@ -1,5 +1,0 @@
-[[Pichia pastoris]]
-[[Ibuprofen]]
-[[Bidirectional Promoters]]
-[[Bioprocess Optimisation]]
-[[Human Cyp2c9]]

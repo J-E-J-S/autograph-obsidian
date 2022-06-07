@@ -1,7 +1,0 @@
-[[Tumorigenesis]]
-[[focal adhesion]]
-[[Wnt5a]]
-[[Hef]]
-[[Esophageal cancer]]
-[[Lncrna Tug1]]
-[[Mir-1294]]

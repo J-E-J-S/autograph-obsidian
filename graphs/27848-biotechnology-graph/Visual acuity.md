@@ -1,5 +1,0 @@
-[[Cornea]]
-[[Ocular Toxicity]]
-[[Pesticide Exposure]]
-[[Notch Signalling]]
-[[Visual Pathway Damage]]

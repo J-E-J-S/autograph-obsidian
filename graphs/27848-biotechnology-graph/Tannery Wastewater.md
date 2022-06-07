@@ -1,3 +1,0 @@
-[[Polyphenols]]
-[[Epi Suite]]
-[[Biowin]]

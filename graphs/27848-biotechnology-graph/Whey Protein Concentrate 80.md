@@ -1,5 +1,0 @@
-[[Acid tolerance]]
-[[Soybean lecithin]]
-[[Response surface methodology]]
-[[Bile Salt Tolerance]]
-[[Lacticaseibacillus Paracasei L9]]

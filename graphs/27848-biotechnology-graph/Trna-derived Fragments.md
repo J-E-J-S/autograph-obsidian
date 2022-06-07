@@ -1,5 +1,0 @@
-[[Post-transcriptional regulation]]
-[[Non-coding Rnas]]
-[[Small Rnas]]
-[[Trfs]]
-[[Tsrna]]

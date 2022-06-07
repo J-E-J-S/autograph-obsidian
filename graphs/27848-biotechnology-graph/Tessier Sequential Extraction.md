@@ -1,5 +1,0 @@
-[[Soil]]
-[[Paddy]]
-[[Cadmium (Cd)]]
-[[remediation]]
-[[Spent Mushroom Substrate]]

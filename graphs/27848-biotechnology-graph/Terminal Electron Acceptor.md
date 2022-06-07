@@ -1,8 +1,0 @@
-[[Bacillus subtilis]]
-[[Redox balance]]
-[[Energy Conservation]]
-[[Acetoin]]
-[[Microbial Electrochemical Technology]]
-[[Unbalanced Fermentation]]
-[[Aerobic Vs. Anaerobic Production]]
-[[Anodic Electro-fermentation]]

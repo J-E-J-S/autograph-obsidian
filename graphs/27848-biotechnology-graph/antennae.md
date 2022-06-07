@@ -1,5 +1,0 @@
-[[Behavior]]
-[[RNAi]]
-[[olfaction]]
-[[Brown Marmorated Stink Bug]]
-[[Tar1 Receptor]]

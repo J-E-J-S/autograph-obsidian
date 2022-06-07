@@ -1,5 +1,0 @@
-[[Cerebral ischemia]]
-[[Edema]]
-[[infarct volume]]
-[[Blood-Brain Barrier]]
-[[Neurological Severity Scores]]

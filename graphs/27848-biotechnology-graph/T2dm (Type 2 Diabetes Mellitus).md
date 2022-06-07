@@ -1,2 +1,0 @@
-[[Dementia]]
-[[Ad (Alzheimer Disease)]]

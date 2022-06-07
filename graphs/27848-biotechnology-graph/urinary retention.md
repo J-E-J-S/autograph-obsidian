@@ -1,3 +1,0 @@
-[[Antidepressants]]
-[[Antipsychotics]]
-[[Urinary Disorders]]

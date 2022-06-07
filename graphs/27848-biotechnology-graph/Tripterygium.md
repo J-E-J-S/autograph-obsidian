@@ -1,5 +1,0 @@
-[[Diterpenoid]]
-[[Triptolide]]
-[[ABC transporter]]
-[[metabolic engineering]]
-[[Pdr Transporter]]

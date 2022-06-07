@@ -1,5 +1,0 @@
-[[Supplement]]
-[[Storage stability]]
-[[Antioxidant]]
-[[Vegetable oil]]
-[[astaxanthin]]

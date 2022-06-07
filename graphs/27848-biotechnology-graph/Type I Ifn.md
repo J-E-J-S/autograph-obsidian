@@ -1,7 +1,0 @@
-[[Transcription]]
-[[Mandarin fish]]
-[[Rhabdovirus]]
-[[Siniperca chuatsi]]
-[[IFN]]
-[[Isre]]
-[[Irf11]]

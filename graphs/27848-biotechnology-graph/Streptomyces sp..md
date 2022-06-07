@@ -1,7 +1,0 @@
-[[Pine wilt disease]]
-[[Bursaphelenchus xylophilus]]
-[[Endophytic actinomycetes]]
-[[Teleocidin B4]]
-[[Actinomycin D]]
-[[Supercritical Fluid Chromatography]]
-[[Actinomycin X(2)]]

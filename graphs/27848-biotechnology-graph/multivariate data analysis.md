@@ -1,5 +1,0 @@
-[[Fingerprinting]]
-[[Chemometrics]]
-[[Black pepper]]
-[[Gc-hrms]]
-[[Untargeted Analysis]]

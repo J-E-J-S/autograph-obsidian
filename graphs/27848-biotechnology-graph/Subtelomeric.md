@@ -1,5 +1,0 @@
-[[Deletion]]
-[[Duplication]]
-[[Macrocephaly]]
-[[Robinow Syndrome]]
-[[Blended Phenotype]]

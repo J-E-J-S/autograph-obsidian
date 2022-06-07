@@ -1,5 +1,0 @@
-[[Effector]]
-[[Ralstonia solanacearum]]
-[[Bacterial wilt]]
-[[Plant Immunity]]
-[[Novel E3 Ubiquitin Ligase]]

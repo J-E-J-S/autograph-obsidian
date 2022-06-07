@@ -1,5 +1,0 @@
-[[Biotransformation]]
-[[Gas chromatography]]
-[[Phenol,2,4-bis(1,1-dimethylethyl)]]
-[[Klebsiella Pneumoniae Mb398]]
-[[Mordant Black 11 Dye (Eriochrome Black T)]]

@@ -1,5 +1,0 @@
-[[Liquid-chromatography Mass-spectrometry]]
-[[Gas-chromatography Mass-spectrometry]]
-[[S9 Fraction]]
-[[In-silico Prediction]]
-[[Phase I And Ii Metabolisms]]

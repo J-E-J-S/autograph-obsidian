@@ -1,5 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Lipid]]
-[[Polysaccharide]]
-[[Biofilm]]
-[[Klebsiella Pneumonia]]

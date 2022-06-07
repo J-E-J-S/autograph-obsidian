@@ -1,6 +1,0 @@
-[[CHO cells]]
-[[Biopharmaceuticals]]
-[[Metabolomics]]
-[[Scale-down]]
-[[Omics]]
-[[Culture Volumes]]

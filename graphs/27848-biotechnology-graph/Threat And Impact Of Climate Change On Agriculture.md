@@ -1,8 +1,0 @@
-[[Climate change]]
-[[Food security]]
-[[Cff]]
-[[Ideotype Breeding]]
-[[Biotic/abiotic Stresses On Agriculture]]
-[[Climate-smart Breeding]]
-[[Resilience In Agriculture]]
-[[Use Of Biotechnology And Genetic Engineering In Crop Improvement]]

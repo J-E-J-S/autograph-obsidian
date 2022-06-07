@@ -1,5 +1,0 @@
-[[Hirudin]]
-[[Recombinant Proteins]]
-[[Biopharming]]
-[[Wolffia Arrhiza]]
-[[Transgene Expression System]]

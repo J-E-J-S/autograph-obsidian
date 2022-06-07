@@ -1,5 +1,0 @@
-[[Cardiac toxicity]]
-[[Betel Nut]]
-[[Areca Nut]]
-[[Heart Damage]]
-[[Fas/fas Ligand]]

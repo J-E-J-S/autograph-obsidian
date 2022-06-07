@@ -1,5 +1,0 @@
-[[Staphylococcus aureus]]
-[[Lactobacillus plantarum]]
-[[Lipoteichoic acid]]
-[[Th1/th2 Response]]
-[[Chemokine (C–c Motif) Ligand 2 (Ccl2)]]

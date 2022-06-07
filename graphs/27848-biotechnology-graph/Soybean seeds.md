@@ -1,5 +1,0 @@
-[[Glutamate decarboxylase]]
-[[Aspartyl Aminopeptidase]]
-[[Serine Carboxypeptidases]]
-[[Aspartic Endopeptidases]]
-[[Serpin-zx]]

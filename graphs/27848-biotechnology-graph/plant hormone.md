@@ -1,8 +1,0 @@
-[[Salicylic acid]]
-[[Organic acid]]
-[[aspirin]]
-[[Transcription factor]]
-[[Maize root]]
-[[Root development]]
-[[root growth]]
-[[Rna Sequencing]]

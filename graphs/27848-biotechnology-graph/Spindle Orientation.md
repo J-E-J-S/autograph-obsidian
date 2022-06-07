@@ -1,7 +1,0 @@
-[[Cell division]]
-[[Microtubules]]
-[[Mitosis]]
-[[NuMA]]
-[[Cell Cortex]]
-[[Spindle Poles]]
-[[Aurora-a/tpx2 Complex]]

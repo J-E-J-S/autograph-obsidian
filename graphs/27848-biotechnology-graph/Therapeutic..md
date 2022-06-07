@@ -1,5 +1,0 @@
-[[Polysaccharides]]
-[[Saponins]]
-[[TCM]]
-[[Polygonatum sibiricum]]
-[[Phytomedicines]]

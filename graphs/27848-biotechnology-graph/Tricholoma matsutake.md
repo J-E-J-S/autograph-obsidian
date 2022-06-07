@@ -1,2 +1,0 @@
-[[Metagenomics]]
-[[Fungal Community]]

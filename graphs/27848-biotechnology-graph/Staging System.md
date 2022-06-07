@@ -1,5 +1,0 @@
-[[Artificial intelligence]]
-[[Gene]]
-[[Breast cancer]]
-[[Machine Learning]]
-[[Biomarker Identification]]

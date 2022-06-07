@@ -1,3 +1,0 @@
-[[Ethanol]]
-[[Saccharomyces cerevisiae]]
-[[Ammonium]]

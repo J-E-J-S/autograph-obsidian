@@ -1,6 +1,0 @@
-[[Caenorhabditis elegans]]
-[[Lactuca sativa]]
-[[Ibuprofen]]
-[[Simazine]]
-[[Ecotoxicological Impacts]]
-[[Polyethylene Microplastics]]

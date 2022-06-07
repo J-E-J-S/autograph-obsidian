@@ -1,5 +1,0 @@
-[[Estrous cycle]]
-[[Early pregnancy]]
-[[Cmklr1]]
-[[Gpr1]]
-[[Ccrl2]]

@@ -1,5 +1,0 @@
-[[Goat]]
-[[Sheep]]
-[[Cryopreservation]]
-[[Mass spectrometry]]
-[[Proteomics]]

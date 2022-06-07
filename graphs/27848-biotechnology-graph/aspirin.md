@@ -1,8 +1,0 @@
-[[Salicylic acid]]
-[[Organic acid]]
-[[plant hormone]]
-[[Aging]]
-[[NSAID]]
-[[Age-related Diseases]]
-[[Geroprotector]]
-[[Geroscience]]

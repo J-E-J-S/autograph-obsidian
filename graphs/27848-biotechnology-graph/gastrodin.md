@@ -1,7 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Phenolic glycoside]]
-[[metabolic engineering]]
-[[Chromosomal Integration]]
-[[Asugt]]
-[[Ampk]]
-[[Pediatric Epilepsy]]

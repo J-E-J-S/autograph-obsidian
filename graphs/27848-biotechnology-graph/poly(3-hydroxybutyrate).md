@@ -1,8 +1,0 @@
-[[Corn Steep Liquor]]
-[[Sugarcane Bagasse]]
-[[Saccharification Yield]]
-[[Peracetic Acid Pretreatment]]
-[[Lysinibacillus Sp. Rgs]]
-[[Bacillus megaterium]]
-[[Phosphate limitation]]
-[[Potassium Chloride]]

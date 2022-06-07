@@ -1,3 +1,0 @@
-[[China]]
-[[Styracaceae]]
-[[Phylogenetic analysis]]

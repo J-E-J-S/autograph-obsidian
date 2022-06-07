@@ -1,5 +1,0 @@
-[[Unfolded protein response (UPR)]]
-[[Er-stress]]
-[[Divergent Cell Fates]]
-[[Inositol-requiring Enzyme 1(Ire1)]]
-[[Regulated Ire1 Dependent Decay (Ridd)]]

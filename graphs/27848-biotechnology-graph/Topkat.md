@@ -1,5 +1,0 @@
-[[DNA damage]]
-[[EGFR]]
-[[Admet]]
-[[Chk1 Inhibitor]]
-[[Aminoarylbenzosuberene]]

@@ -1,8 +1,0 @@
-[[Zebrafish]]
-[[Drug screening]]
-[[Breast cancer]]
-[[Personalized Medicine]]
-[[Pdx]]
-[[Patient Derived Xenograft]]
-[[Genetic engineering]]
-[[Crispr/cas]]

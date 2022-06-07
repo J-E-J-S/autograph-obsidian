@@ -1,5 +1,0 @@
-[[Viability]]
-[[Alamar blue]]
-[[Resazurin Assay]]
-[[Heterotrophic Organisms]]
-[[Phototrophic Organisms]]

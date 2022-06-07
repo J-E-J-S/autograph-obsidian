@@ -1,5 +1,0 @@
-[[MMP-9]]
-[[Eosinophil]]
-[[ICAM-1]]
-[[Allergic asthma]]
-[[Th2 Cytokines]]

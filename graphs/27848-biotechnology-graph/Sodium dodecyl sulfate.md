@@ -1,8 +1,0 @@
-[[Phenanthrene]]
-[[Uv-c Irradiation]]
-[[Peroxydisulfate]]
-[[Surfactant Recovery]]
-[[Pseudomonas Aeruginosa Pao1]]
-[[Bacterial Biosensor]]
-[[Fluorescence-based Assay]]
-[[Sdsb1 Activator Protein]]

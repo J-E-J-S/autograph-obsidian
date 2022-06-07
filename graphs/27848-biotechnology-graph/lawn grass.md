@@ -1,6 +1,0 @@
-[[Copper]]
-[[Pollutant]]
-[[urban ecosystem]]
-[[Agrostis stolonifera]]
-[[Cell Selection]]
-[[Chrysanthemum Carinatum]]

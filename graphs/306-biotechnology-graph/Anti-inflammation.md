@@ -1,5 +1,0 @@
-[[IL-6]]
-[[Bone Erosion]]
-[[Il-17a]]
-[[Synovial Hyperplasia]]
-[[Inula Helenium L.]]

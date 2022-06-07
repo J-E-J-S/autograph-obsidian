@@ -1,5 +1,0 @@
-[[Hematology]]
-[[Dog]]
-[[Phylogenetic]]
-[[Bartonella]]
-[[cat]]

@@ -1,3 +1,0 @@
-[[Polyacrylamide]]
-[[Nanocomposites]]
-[[Antileukemic Agent]]

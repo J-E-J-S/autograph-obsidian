@@ -1,2 +1,0 @@
-[[Proteasomal Degradation]]
-[[Irf11]]

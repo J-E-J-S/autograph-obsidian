@@ -1,6 +1,0 @@
-[[Biomass]]
-[[Biofuel]]
-[[thermophilic anaerobic bacteria]]
-[[Consolidated Bioprocessing]]
-[[Cellulosome]]
-[[Multifunctional Enzymes]]

@@ -1,3 +1,0 @@
-[[Hacats]]
-[[Photodamge]]
-[[Phenylethanol Glycosides]]

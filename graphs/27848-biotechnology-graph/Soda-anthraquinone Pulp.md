@@ -1,7 +1,0 @@
-[[Xylanase]]
-[[Pectinase]]
-[[Rice straw]]
-[[Kappa Number]]
-[[Bio-bleaching]]
-[[Ultrafiltered Enzymes]]
-[[Bleaching Effluent]]

@@ -1,7 +1,0 @@
-[[Antibiotic Resistance]]
-[[Pseudomonas spp.]]
-[[Pandrug-resistant Bacteria]]
-[[Fatty acid biosynthesis]]
-[[Chlorella Sorokiniana]]
-[[Carotenoid Biosynthesis]]
-[[Porphyrin And Chlorophyll Metabolism]]

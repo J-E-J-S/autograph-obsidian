@@ -1,5 +1,0 @@
-[[Biotransformation]]
-[[NMR]]
-[[fungicide]]
-[[Azoxystrobin]]
-[[Azoxystrobin Amine]]

@@ -1,5 +1,0 @@
-[[Lactic acid]]
-[[Stress tolerance]]
-[[Bioethanol]]
-[[Chiral Alcohols]]
-[[Zygosaccharomyces]]

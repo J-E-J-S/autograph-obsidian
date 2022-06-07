@@ -1,6 +1,0 @@
-[[Trachea]]
-[[mucus]]
-[[Cystic Fibrosis]]
-[[Obstructive Lung Diseases]]
-[[Epithelial Sodium Channel Blockers]]
-[[Sodium/proton Exchanger]]

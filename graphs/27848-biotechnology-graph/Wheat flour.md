@@ -1,5 +1,0 @@
-[[Grain quality]]
-[[Plsr]]
-[[Wheat Grain]]
-[[Visible And Near-infrared Reflectance Spectroscopy]]
-[[Grain Nutritional Attribute]]

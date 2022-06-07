@@ -1,6 +1,0 @@
-[[Tubulin]]
-[[Spermine]]
-[[Self-assembly]]
-[[Conical-spiral]]
-[[Conical-spiral Tubules]]
-[[Inverted Tubules]]

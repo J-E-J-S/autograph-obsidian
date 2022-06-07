@@ -1,5 +1,0 @@
-[[Stomata]]
-[[Aba Response]]
-[[Stomatal Immunity]]
-[[Aba-induced Stomatal Closure]]
-[[Pathogen-triggered Stomatal Closure]]

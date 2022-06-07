@@ -1,5 +1,0 @@
-[[poly(N-isopropylacrylamide)]]
-[[Artificial Extracellular Matrix]]
-[[Time-lapse Microscopy]]
-[[Microchamber Microfluidics]]
-[[On-chip Cell Culture]]

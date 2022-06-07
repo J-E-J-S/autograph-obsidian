@@ -1,5 +1,0 @@
-[[Adjuvant]]
-[[Pasteurella multocida]]
-[[Biomaterial]]
-[[Polyhydroxyalkanoate]]
-[[Intramuscular]]

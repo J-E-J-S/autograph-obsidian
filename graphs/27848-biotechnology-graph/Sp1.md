@@ -1,5 +1,0 @@
-[[Mice]]
-[[Sertoli cell]]
-[[Tight junction]]
-[[Occludin]]
-[[Mir-122-5p]]

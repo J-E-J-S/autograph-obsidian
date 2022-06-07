@@ -1,3 +1,0 @@
-[[Prevention]]
-[[Migraine]]
-[[Erenumab]]

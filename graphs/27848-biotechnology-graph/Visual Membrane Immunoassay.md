@@ -1,2 +1,0 @@
-[[Porphyromonas gingivalis]]
-[[Periodontitis]]

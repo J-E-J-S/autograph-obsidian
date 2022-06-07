@@ -1,2 +1,0 @@
-[[Immobilization]]
-[[Aspergillus versicolor]]

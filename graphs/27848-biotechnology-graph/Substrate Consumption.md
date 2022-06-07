@@ -1,5 +1,0 @@
-[[Solid-state fermentation]]
-[[Bacterial community]]
-[[community dynamics]]
-[[Metabolite Production]]
-[[Succession Rate]]

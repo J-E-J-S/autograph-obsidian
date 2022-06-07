@@ -1,5 +1,0 @@
-[[Storage stability]]
-[[Antioxidant]]
-[[Vegetable oil]]
-[[astaxanthin]]
-[[isomerization]]

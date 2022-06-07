@@ -1,5 +1,0 @@
-[[Senescence]]
-[[Parental Age]]
-[[Trivers-willard Hypothesis]]
-[[Male Attractiveness]]
-[[Good Genes Hypothesis]]

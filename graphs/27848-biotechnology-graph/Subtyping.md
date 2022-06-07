@@ -1,7 +1,0 @@
-[[Identification]]
-[[Listeria monocytogenes]]
-[[MALDI-TOF MS]]
-[[Simca]]
-[[Metaboanalyst]]
-[[Axima® Performance]]
-[[Saramis]]

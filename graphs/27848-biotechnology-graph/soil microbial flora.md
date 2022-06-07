@@ -1,2 +1,0 @@
-[[Panax ginseng]]
-[[Dna Metabarcoding]]

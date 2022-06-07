@@ -1,5 +1,0 @@
-[[Season]]
-[[phyllosphere]]
-[[Plant Host]]
-[[Fungal Communities]]
-[[Archaeal Communities]]

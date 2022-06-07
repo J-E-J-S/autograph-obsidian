@@ -1,6 +1,0 @@
-[[Precursor]]
-[[Furfural]]
-[[Formation Pathway]]
-[[Volatile compounds]]
-[[Solid-state Acetic Acid Fermentation]]
-[[Acetoin (3-Hydroxy-2-butanone)]]

@@ -1,5 +1,0 @@
-[[SA]]
-[[plant defense]]
-[[Stress Signaling]]
-[[Abiotic And Biotic Stress]]
-[[Pr Proteins]]

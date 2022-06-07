@@ -1,3 +1,0 @@
-[[Paclitaxel]]
-[[Polymeric micelle]]
-[[Schizophyllan]]

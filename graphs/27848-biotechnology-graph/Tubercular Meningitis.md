@@ -1,2 +1,0 @@
-[[MRI]]
-[[Vessel Wall Imaging]]

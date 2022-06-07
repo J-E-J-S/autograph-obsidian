@@ -1,5 +1,0 @@
-[[Resistance]]
-[[sunflower]]
-[[plant growth promotion]]
-[[Metal Tolerance]]
-[[Consortium Of Rhizobacteria]]

@@ -1,7 +1,0 @@
-[[Synthesis]]
-[[Antimicrobial]]
-[[Dna Gyrase]]
-[[In Silico Studies]]
-[[Coumarin-pyridine]]
-[[Coumarin-pyrimidine]]
-[[Mic And Mbc Activities]]

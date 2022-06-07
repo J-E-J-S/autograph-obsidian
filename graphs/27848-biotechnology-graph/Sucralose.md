@@ -1,5 +1,0 @@
-[[Fatty acids]]
-[[surfactants]]
-[[Sweeteners]]
-[[Emulsifiers]]
-[[Non-ionic Surfactants]]

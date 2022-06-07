@@ -1,6 +1,0 @@
-[[Biotechnology]]
-[[Peel]]
-[[bark]]
-[[Patents]]
-[[Grape Pomace]]
-[[Technological Prospecting]]

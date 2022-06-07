@@ -1,5 +1,0 @@
-[[Breast cancer]]
-[[doxorubicin]]
-[[Graphene Quantum Dots]]
-[[3, 4-Dihydroxy-l-phenylalanine]]
-[[Her2 Protein Marker]]

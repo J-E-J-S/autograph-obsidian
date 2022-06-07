@@ -1,2 +1,0 @@
-[[Gabapentin]]
-[[Stability; Drug Release.]]

@@ -1,5 +1,0 @@
-[[Japanese Medaka]]
-[[Pharmacokinetic Model]]
-[[Bioconcentration Factor]]
-[[Microplastic]]
-[[Tissue Transparency]]

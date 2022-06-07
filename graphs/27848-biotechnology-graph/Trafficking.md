@@ -1,5 +1,0 @@
-[[Fumonisin B1]]
-[[sphingomyelin]]
-[[Gpcr]]
-[[Sphingolipids]]
-[[Serotonin1a Receptor]]

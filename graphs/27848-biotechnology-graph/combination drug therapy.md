@@ -1,6 +1,0 @@
-[[Antibiotics]]
-[[Staphylococcus aureus]]
-[[Lysostaphin]]
-[[Monotherapy]]
-[[Antibacterial Drones.]]
-[[Phage Endolysin Therapy]]

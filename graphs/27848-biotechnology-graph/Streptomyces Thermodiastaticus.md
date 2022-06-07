@@ -1,6 +1,0 @@
-[[Domain Function]]
-[[Mycodextranase]]
-[[Disulfide bond]]
-[[Crystal structure]]
-[[Thermostable Enzyme]]
-[[Glycoside Hydrolase Family 87]]

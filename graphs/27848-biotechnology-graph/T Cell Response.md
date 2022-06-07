@@ -1,5 +1,0 @@
-[[Immunization]]
-[[Vaccine]]
-[[Vibrio parahaemolyticus]]
-[[Neutralization]]
-[[csgA]]

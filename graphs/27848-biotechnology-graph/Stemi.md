@@ -1,6 +1,0 @@
-[[Emergency Medical System]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Coronavírus 2019]]
-[[Eamcsst]]
-[[Sistema De Emergência Médica]]

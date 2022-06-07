@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Applications]]
-[[Melanin]]
-[[polymers]]
-[[Material Science]]

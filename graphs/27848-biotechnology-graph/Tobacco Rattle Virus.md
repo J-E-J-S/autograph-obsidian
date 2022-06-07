@@ -1,8 +1,0 @@
-[[Phytoene desaturase]]
-[[Andrographis paniculata]]
-[[Virus-induced gene silencing]]
-[[Agroinfiltration]]
-[[Kalmegh]]
-[[Phytoene desaturase]]
-[[Hevea brasiliensis]]
-[[Virus-induced gene silencing]]

@@ -1,4 +1,0 @@
-[[Hesperidin]]
-[[Phytotherapy]]
-[[Neuroprotective]]
-[[Cardioprotective]]

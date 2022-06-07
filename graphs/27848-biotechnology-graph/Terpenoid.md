@@ -1,8 +1,0 @@
-[[Oxygen uptake]]
-[[NADPH]]
-[[Mep Pathway]]
-[[Fba]]
-[[Amorpha-4,11-diene]]
-[[Oxidation]]
-[[P450]]
-[[C–h Hydroxylation]]

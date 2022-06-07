@@ -1,4 +1,0 @@
-[[Biomarker]]
-[[Alopecia]]
-[[MicroRNA]]
-[[Theranostic]]

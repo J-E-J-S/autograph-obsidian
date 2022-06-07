@@ -1,4 +1,0 @@
-[[Toxicity]]
-[[Mercury]]
-[[Characterization]]
-[[Zebrafish]]

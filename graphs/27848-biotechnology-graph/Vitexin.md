@@ -1,6 +1,0 @@
-[[Fermentation optimization]]
-[[Cajanus cajan]]
-[[Fusarium Solani G6]]
-[[Osteoblastic Proliferation Activity]]
-[[Mesenchymal stem cell]]
-[[Osteogenic differentiation]]

@@ -1,2 +1,0 @@
-[[Smokers]]
-[[Oral Precancerous Lesions]]

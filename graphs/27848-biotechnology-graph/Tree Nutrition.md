@@ -1,5 +1,0 @@
-[[Phylogeny]]
-[[Acid Phosphatases]]
-[[Phosphorus Acquisition]]
-[[Phosphorus Starvation]]
-[[Root Secretome]]

@@ -1,5 +1,0 @@
-[[Gene]]
-[[Adaptation]]
-[[Genetic improvement]]
-[[Finfish]]
-[[Ocean Acidification]]

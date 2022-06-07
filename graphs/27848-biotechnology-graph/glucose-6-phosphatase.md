@@ -1,5 +1,0 @@
-[[Type 2 diabetes mellitus]]
-[[Oxymatrine]]
-[[gluconeogenesis]]
-[[AKT]]
-[[Phosphoenolpyruvate Carboxykinase]]

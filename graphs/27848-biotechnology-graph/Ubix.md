@@ -1,6 +1,0 @@
-[[Carboxylation]]
-[[Flavin]]
-[[Decarboxylation]]
-[[Prenylation]]
-[[Ubid]]
-[[Cofactor Reconstitution]]

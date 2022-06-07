@@ -1,2 +1,0 @@
-[[Mutation Databases]]
-[[Variant Interpretation]]

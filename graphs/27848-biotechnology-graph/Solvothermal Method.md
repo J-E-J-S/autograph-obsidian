@@ -1,5 +1,0 @@
-[[Antibacterial activity]]
-[[Photocatalyst]]
-[[Reusability]]
-[[Activated Carbon Fibers]]
-[[Bivo(4)@acf]]

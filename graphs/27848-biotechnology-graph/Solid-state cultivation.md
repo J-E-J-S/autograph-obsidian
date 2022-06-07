@@ -1,5 +1,0 @@
-[[Aspergillus]]
-[[Trichoderma]]
-[[Citric acid]]
-[[Sugarcane Bagasse]]
-[[Bench Packed-bed Bioreactor]]

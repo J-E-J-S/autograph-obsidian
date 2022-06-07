@@ -1,4 +1,0 @@
-[[Embryotoxicity]]
-[[Methylparaben]]
-[[Ethylparaben]]
-[[Butylparaben]]

@@ -1,7 +1,0 @@
-[[Cerebral cortex]]
-[[Biomarker]]
-[[Alzheimer’s disease]]
-[[gene ontology]]
-[[High-throughput Sequencing]]
-[[Presenilin 1]]
-[[Intracellular Neurofibrillary Tangles]]

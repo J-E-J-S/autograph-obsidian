@@ -1,8 +1,0 @@
-[[Directed evolution]]
-[[Methanol]]
-[[Methanol Dehydrogenase]]
-[[Formaldehyde]]
-[[Methanol]]
-[[Detoxification]]
-[[Lignin Valorization]]
-[[C1 Metabolism]]

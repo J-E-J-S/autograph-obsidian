@@ -1,5 +1,0 @@
-[[PCA]]
-[[Habitat structure]]
-[[Algeria]]
-[[Ciconia Ciconia]]
-[[Guerbes-sanhadja]]

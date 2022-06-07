@@ -1,2 +1,0 @@
-[[endotoxemia]]
-[[Tinospora Cordifolia]]

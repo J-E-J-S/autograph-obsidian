@@ -1,2 +1,0 @@
-[[Poultry]]
-[[Multiplex PCR]]

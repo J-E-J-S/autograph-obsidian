@@ -1,8 +1,0 @@
-[[Pesticides]]
-[[Accumulation]]
-[[Log K(ow)]]
-[[In Situ Pore Water]]
-[[Heavy metals]]
-[[Phytoremediation]]
-[[Mine Tailing]]
-[[Short-term Crops]]

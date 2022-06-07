@@ -1,8 +1,0 @@
-[[SDS-PAGE]]
-[[Protein]]
-[[GC-MS]]
-[[Natural product]]
-[[Myricetin]]
-[[Juglans regia]]
-[[staining]]
-[[Coomassie]]

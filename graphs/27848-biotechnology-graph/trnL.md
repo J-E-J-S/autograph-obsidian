@@ -1,6 +1,0 @@
-[[Mentha]]
-[[matK]]
-[[Plectranthus]]
-[[DNA Barcoding]]
-[[Ocimum]]
-[[Trnh-psba]]

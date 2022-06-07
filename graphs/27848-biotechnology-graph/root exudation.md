@@ -1,6 +1,0 @@
-[[Rice]]
-[[Oxidative damage]]
-[[Catabolism]]
-[[chlorpyrifos]]
-[[Agrochemical Stress]]
-[[Plant-endophyte Interaction]]

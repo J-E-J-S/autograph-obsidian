@@ -1,3 +1,0 @@
-[[Quasispecies]]
-[[Nodavirus]]
-[[Grouper]]

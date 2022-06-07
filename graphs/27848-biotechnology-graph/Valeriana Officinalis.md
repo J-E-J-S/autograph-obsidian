@@ -1,3 +1,0 @@
-[[Transcriptome]]
-[[metabolome]]
-[[Co-expression]]

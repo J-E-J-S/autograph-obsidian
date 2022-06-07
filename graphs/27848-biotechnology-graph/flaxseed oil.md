@@ -1,5 +1,0 @@
-[[Sesame oil]]
-[[Ldl Cholesterol]]
-[[Rice Bran Oil]]
-[[Blood Lipid Profile]]
-[[Blended Oil]]

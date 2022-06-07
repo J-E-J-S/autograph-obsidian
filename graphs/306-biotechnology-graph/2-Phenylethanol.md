@@ -1,6 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Biofilm]]
-[[Quorum-sensing]]
-[[Aro9]]
-[[Ehrlich Pathway]]
-[[Aro8]]

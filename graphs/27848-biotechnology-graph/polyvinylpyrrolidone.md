@@ -1,8 +1,0 @@
-[[Absorption]]
-[[Physical property]]
-[[Benzalkonium Chloride]]
-[[Contact Lens]]
-[[Cancer]]
-[[Chitosan]]
-[[Quercetin]]
-[[Controlled release]]

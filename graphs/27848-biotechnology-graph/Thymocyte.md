@@ -1,4 +1,0 @@
-[[glycolysis]]
-[[Impdh]]
-[[Cytoophidium]]
-[[Ctps]]

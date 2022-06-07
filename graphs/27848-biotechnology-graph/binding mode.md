@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cell cycle arrest]]
-[[Epidermal Growth Factor Receptor (Egfr)]]
-[[Tyrosine Kinase Inhibitor (Tki)]]
-[[Cucurbitacin Iib (Cuiib)]]

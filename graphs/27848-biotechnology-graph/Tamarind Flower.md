@@ -1,7 +1,0 @@
-[[Characterization]]
-[[Antioxidant]]
-[[Antibacterial]]
-[[Nanoliposome]]
-[[Antidiabetic]]
-[[Carbohydrate Polymers]]
-[[Anticancer And Anti-inflammatory Activities]]

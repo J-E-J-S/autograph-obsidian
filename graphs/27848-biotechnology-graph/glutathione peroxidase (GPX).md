@@ -1,5 +1,0 @@
-[[Catalase]]
-[[Lysosome]]
-[[Melanin]]
-[[B16f10]]
-[[Thiol Peroxidase (Tpx)]]

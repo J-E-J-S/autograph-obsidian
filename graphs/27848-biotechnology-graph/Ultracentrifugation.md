@@ -1,6 +1,0 @@
-[[Immunoglobulin G]]
-[[Lyophilization]]
-[[Chymotrypsin]]
-[[Albumin]]
-[[Gamma Globulin]]
-[[Glass-like Protein Condensate]]

@@ -1,7 +1,0 @@
-[[Optimization]]
-[[Sphingolipid]]
-[[Yarrowia lipolytica]]
-[[ceramides]]
-[[ATF2]]
-[[Sli1]]
-[[Tetraacetylphytosphingosine]]

@@ -1,7 +1,0 @@
-[[Resistance]]
-[[Staphylococcus aureus]]
-[[Plasmid]]
-[[Tn6636]]
-[[Biodegradation]]
-[[Delftia Lacustris]]
-[[Erythromycin Esterase]]

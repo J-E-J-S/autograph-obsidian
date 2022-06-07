@@ -1,5 +1,0 @@
-[[Safety]]
-[[Immunogenicity]]
-[[Conjugate vaccine]]
-[[Typhoid]]
-[[Vi-crm197]]

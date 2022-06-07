@@ -1,5 +1,0 @@
-[[Silver]]
-[[Radiation Therapy]]
-[[Polymer Gel]]
-[[Macrophage Cells]]
-[[Biocompatible Nanoparticles]]

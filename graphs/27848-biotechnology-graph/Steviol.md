@@ -1,5 +1,0 @@
-[[Cyanobacteria]]
-[[metabolic engineering]]
-[[Co2 Conversion]]
-[[Ent-kaurene]]
-[[Ent-kaurenoic Acid]]

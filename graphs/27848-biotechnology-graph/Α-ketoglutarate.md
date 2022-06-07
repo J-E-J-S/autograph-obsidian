@@ -1,3 +1,0 @@
-[[Biotechnology]]
-[[Microbiology]]
-[[Metabolic Networks]]

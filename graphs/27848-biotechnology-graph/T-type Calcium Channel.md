@@ -1,5 +1,0 @@
-[[Lung cancer]]
-[[Paclitaxel]]
-[[A549]]
-[[Tta-a2]]
-[[Synergistic/antagonistic Effect]]

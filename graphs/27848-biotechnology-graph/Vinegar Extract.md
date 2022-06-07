@@ -1,5 +1,0 @@
-[[Alcohol]]
-[[Polyphenols]]
-[[Inflammation]]
-[[Immunity]]
-[[Gut Microbiota]]

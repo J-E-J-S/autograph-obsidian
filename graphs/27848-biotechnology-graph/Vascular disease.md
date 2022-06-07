@@ -1,5 +1,0 @@
-[[Infection]]
-[[Vein]]
-[[Artery]]
-[[Inflammation.]]
-[[Infectious Agents]]

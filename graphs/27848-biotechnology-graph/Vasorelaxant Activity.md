@@ -1,2 +1,0 @@
-[[Spectroscopy]]
-[[Pyrazole-tetrazole]]

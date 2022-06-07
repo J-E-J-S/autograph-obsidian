@@ -1,5 +1,0 @@
-[[Self-organization]]
-[[Embryoid body]]
-[[Patterning]]
-[[Wnt3a]]
-[[Synthetic Biology]]

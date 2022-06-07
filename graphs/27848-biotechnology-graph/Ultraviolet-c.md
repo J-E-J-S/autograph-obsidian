@@ -1,2 +1,0 @@
-[[Wound Treatment]]
-[[Bacterial Disinfection]]

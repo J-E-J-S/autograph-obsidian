@@ -1,6 +1,0 @@
-[[Mass spectrometry]]
-[[Coverage]]
-[[Sample preparation]]
-[[Epigenetics]]
-[[Histone Code]]
-[[Gingisrex]]

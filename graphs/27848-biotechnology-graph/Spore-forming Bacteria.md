@@ -1,5 +1,0 @@
-[[Biological activity]]
-[[Animal feed]]
-[[Natto]]
-[[Probiotic]]
-[[Industrial Requirements]]

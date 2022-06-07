@@ -1,5 +1,0 @@
-[[Safety]]
-[[Immunogenicity]]
-[[Conjugate vaccine]]
-[[Typbar-tcv®]]
-[[Vi-crm197]]

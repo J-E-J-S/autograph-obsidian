@@ -1,5 +1,0 @@
-[[Potassium]]
-[[Tomato]]
-[[Antioxidant]]
-[[Salt stress]]
-[[B. Spizizenii]]

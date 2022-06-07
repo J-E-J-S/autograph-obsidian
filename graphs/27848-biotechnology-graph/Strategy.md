@@ -1,8 +1,0 @@
-[[Chlamydomonas reinhardtii]]
-[[Foreign protein]]
-[[Nuclear Transformation]]
-[[Mechanism]]
-[[Probiotics]]
-[[Intrinsic Antibiotic Resistance]]
-[[Potential Risks]]
-[[Acquired Antibiotic Resistance]]

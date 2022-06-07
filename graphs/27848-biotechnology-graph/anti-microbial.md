@@ -1,5 +1,0 @@
-[[Biosensors]]
-[[Anti-cancer]]
-[[Dye degradation]]
-[[Silver Nanoparticles]]
-[[Arabian Primrose]]

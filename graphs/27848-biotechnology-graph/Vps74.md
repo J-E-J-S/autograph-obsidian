@@ -1,5 +1,0 @@
-[[Schizosaccharomyces pombe]]
-[[Glycosyltransferase]]
-[[Golgi]]
-[[Och1]]
-[[Mnn9]]

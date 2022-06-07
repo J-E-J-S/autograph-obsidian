@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Proliferation]]
-[[Skin fibroblast]]
-[[Liaoning cashmere goat]]
-[[Dimethyl Arsenic Acid]]

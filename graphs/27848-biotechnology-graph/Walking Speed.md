@@ -1,6 +1,0 @@
-[[Anemia]]
-[[Cognition]]
-[[Hemoglobin]]
-[[Elderly]]
-[[Physical]]
-[[Handgrip]]

@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Survivin]]
-[[Ym155]]

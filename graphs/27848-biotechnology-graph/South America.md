@@ -1,8 +1,0 @@
-[[Rhizobia]]
-[[Central America]]
-[[Average Nucleotide Identity]]
-[[Genealogical Concordance]]
-[[Burkholderia Legume]]
-[[Phylogenetic]]
-[[america]]
-[[Bluetongue]]

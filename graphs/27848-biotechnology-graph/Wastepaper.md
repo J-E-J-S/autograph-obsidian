@@ -1,5 +1,0 @@
-[[Municipal solid waste]]
-[[Co-digestion]]
-[[Clostridium Acetobutylicum]]
-[[Biobutanol]]
-[[Garden Waste]]

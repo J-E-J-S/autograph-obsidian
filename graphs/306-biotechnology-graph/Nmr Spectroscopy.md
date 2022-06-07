@@ -1,5 +1,0 @@
-[[Crystal structure]]
-[[RNA binding protein]]
-[[RNA recognition motif]]
-[[Dnd1]]
-[[Domain Swapped Dimerization]]

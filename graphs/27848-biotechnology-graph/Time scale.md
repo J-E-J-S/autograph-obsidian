@@ -1,5 +1,0 @@
-[[Genetic differentiation]]
-[[Gene flow]]
-[[Barrier]]
-[[haplotype]]
-[[Western Ghats]]

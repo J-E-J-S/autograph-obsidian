@@ -1,5 +1,0 @@
-[[Cancer]]
-[[Drug carrier]]
-[[Hyperthermia]]
-[[Silk]]
-[[Iron Oxygen Nanoparticles]]

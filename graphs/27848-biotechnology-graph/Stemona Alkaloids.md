@@ -1,3 +1,0 @@
-[[Biotransformation]]
-[[Cunninghamella Elegans]]
-[[Stemofoline]]

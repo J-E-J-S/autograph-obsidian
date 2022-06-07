@@ -1,5 +1,0 @@
-[[Mutation]]
-[[Phylogeny]]
-[[Plaque assay]]
-[[Virus Isolates]]
-[[Sars-cov-2]]

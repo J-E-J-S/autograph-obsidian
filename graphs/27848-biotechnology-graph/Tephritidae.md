@@ -1,6 +1,0 @@
-[[Pheromones]]
-[[Diptera]]
-[[Fruit flies]]
-[[Semiochemicals]]
-[[Electroantennography]]
-[[Attractant Formulations]]

@@ -1,4 +1,0 @@
-[[Bostrichidae]]
-[[Ophiostomatales]]
-[[Ceratocystiopsis]]
-[[Raffaelea]]

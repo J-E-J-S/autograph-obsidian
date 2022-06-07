@@ -1,8 +1,0 @@
-[[Rhizosphere]]
-[[Rhizobia]]
-[[Soybean]]
-[[red soil]]
-[[Probiotics]]
-[[Coagulase-negative Staphylococci]]
-[[Sheedal]]
-[[Ethnic Fish Products]]

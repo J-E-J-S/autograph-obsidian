@@ -1,5 +1,0 @@
-[[Population genetics]]
-[[Interaction]]
-[[Leaf senescence]]
-[[Transcriptomic Profiling]]
-[[Autophagy And Auxin Pathways]]

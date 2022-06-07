@@ -1,8 +1,0 @@
-[[Phenol]]
-[[Biochar]]
-[[And Consecutive Treatment]]
-[[Steam Pyrolysis]]
-[[Inflammation]]
-[[Pulmonary fibrosis]]
-[[Bleomycin]]
-[[Natural compound]]

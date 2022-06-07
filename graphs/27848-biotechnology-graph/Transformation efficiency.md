@@ -1,7 +1,0 @@
-[[Transgene expression]]
-[[Synthetic Biology]]
-[[Bioproduction]]
-[[Scaffold Proteins]]
-[[Crispr/cas9]]
-[[Plant Genomes]]
-[[Programmable Genetic Circuits]]

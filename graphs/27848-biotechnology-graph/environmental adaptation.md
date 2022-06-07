@@ -1,5 +1,0 @@
-[[Biodiversity]]
-[[Mutation]]
-[[Regeneration]]
-[[Epigenetic]]
-[[Evo-devo]]

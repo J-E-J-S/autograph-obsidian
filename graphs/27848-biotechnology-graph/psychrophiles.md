@@ -1,2 +1,0 @@
-[[Thermophiles]]
-[[Halophiles]]

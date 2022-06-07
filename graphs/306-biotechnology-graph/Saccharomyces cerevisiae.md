@@ -1,6 +1,0 @@
-[[Biofilm]]
-[[Quorum-sensing]]
-[[2-Phenylethanol]]
-[[Aro9]]
-[[Ehrlich Pathway]]
-[[Aro8]]

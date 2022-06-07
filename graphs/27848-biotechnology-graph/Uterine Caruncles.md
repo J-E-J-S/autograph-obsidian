@@ -1,3 +1,0 @@
-[[Buffalo]]
-[[Transcriptome]]
-[[Lncrnas]]

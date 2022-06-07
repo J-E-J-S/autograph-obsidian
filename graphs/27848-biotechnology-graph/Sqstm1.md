@@ -1,5 +1,0 @@
-[[Inflammation]]
-[[Autophagy]]
-[[Lipotoxicity]]
-[[NASH]]
-[[Nafld]]

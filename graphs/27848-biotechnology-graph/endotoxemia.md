@@ -1,7 +1,0 @@
-[[THP-1]]
-[[Tinospora Cordifolia]]
-[[LPS]]
-[[Antimicrobial peptide]]
-[[Gram-negative Infection]]
-[[Std-nmr]]
-[[Lps Binding Assay]]

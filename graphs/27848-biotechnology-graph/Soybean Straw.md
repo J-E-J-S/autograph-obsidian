@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[Toxicity]]
-[[thermodynamics]]
-[[Brilliant Green]]
-[[Biochar]]

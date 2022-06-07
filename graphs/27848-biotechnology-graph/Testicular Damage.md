@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Epididymis]]
-[[Sex hormones]]
-[[Testicular Ischemia]]
-[[Proxeed Plus]]

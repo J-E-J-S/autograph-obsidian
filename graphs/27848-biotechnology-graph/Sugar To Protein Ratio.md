@@ -1,5 +1,0 @@
-[[O-polysaccharide]]
-[[Expec]]
-[[Glycoconjugate Vaccine]]
-[[Glycosylation Efficiency]]
-[[Glyco-optimized Chassis Strain]]

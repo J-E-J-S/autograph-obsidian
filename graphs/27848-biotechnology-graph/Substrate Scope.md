@@ -1,5 +1,0 @@
-[[Biocatalysis]]
-[[Enzyme Engineering]]
-[[Rare sugar]]
-[[Central Carbon Metabolism]]
-[[Ribose-5-phosphate Isomerase B]]

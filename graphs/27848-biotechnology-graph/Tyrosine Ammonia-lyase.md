@@ -1,8 +1,0 @@
-[[Biosynthesis]]
-[[Directed evolution]]
-[[Escherichia Coli]]
-[[P-coumaric Acid]]
-[[Melanin]]
-[[metabolic engineering]]
-[[Protein Delivery]]
-[[Cell-penetrating Peptide]]

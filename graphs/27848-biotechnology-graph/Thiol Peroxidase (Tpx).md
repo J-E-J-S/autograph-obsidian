@@ -1,5 +1,0 @@
-[[Catalase]]
-[[Lysosome]]
-[[Melanin]]
-[[glutathione peroxidase (GPX)]]
-[[B16f10]]

@@ -1,5 +1,0 @@
-[[industrial biotechnology]]
-[[Bioeconomy]]
-[[Bio-based Plastics]]
-[[Renewable Feedstock]]
-[[Bio-based Industry]]

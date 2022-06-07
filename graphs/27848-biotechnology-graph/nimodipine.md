@@ -1,5 +1,0 @@
-[[Inhibitor]]
-[[Tmem16a]]
-[[Smooth Muscle Contraction]]
-[[Short-circuit Current]]
-[[Caccs]]

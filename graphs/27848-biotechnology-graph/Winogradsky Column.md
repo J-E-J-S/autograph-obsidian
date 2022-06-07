@@ -1,7 +1,0 @@
-[[Biofilm]]
-[[Linear regression]]
-[[Mathematical Modeling]]
-[[In Silico Analysis]]
-[[Low-density Polyethylene]]
-[[Sulfur Oxidizing Bacteria]]
-[[Arima Model]]

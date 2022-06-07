@@ -1,5 +1,0 @@
-[[Exopolysaccharides]]
-[[Overexpression]]
-[[Probiotics]]
-[[Lactobacillus plantarum]]
-[[adsorption]]

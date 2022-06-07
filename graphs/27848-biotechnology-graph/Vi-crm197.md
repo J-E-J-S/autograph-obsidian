@@ -1,5 +1,0 @@
-[[Safety]]
-[[Immunogenicity]]
-[[Conjugate vaccine]]
-[[Typhoid]]
-[[Typbar-tcv®]]

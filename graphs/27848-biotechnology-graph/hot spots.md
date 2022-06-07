@@ -1,5 +1,0 @@
-[[Neural networks]]
-[[Machine Learning]]
-[[Python]]
-[[Protein–protein Interactions]]
-[[Tensorflow]]

@@ -1,6 +1,0 @@
-[[N-terminal domain]]
-[[amylomaltase]]
-[[Conserved Sequence Regions]]
-[[Evolutionary Relatedness]]
-[[Cbm Families]]
-[[Family Gh77]]

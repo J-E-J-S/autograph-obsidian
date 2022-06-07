@@ -1,7 +1,0 @@
-[[Lung]]
-[[Swim bladder]]
-[[Genome evolution]]
-[[Cardiorespiratory System]]
-[[Terrestrial Adaptation]]
-[[Basal Ray-finned Fishes]]
-[[Vertebrate Landing]]

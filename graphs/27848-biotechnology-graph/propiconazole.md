@@ -1,3 +1,0 @@
-[[Mobility]]
-[[Competitive Adsorption]]
-[[Difenoconazole]]

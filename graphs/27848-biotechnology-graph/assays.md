@@ -1,5 +1,0 @@
-[[Antibody]]
-[[Immunity]]
-[[Infections]]
-[[Nigeria]]
-[[Yellow Fever Virus]]

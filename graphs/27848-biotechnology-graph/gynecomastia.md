@@ -1,5 +1,0 @@
-[[Breast]]
-[[Surgery]]
-[[Sequelae]]
-[[Fat Grafting]]
-[[Tuberous Breast]]

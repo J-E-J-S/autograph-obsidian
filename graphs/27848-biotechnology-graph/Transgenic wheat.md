@@ -1,5 +1,0 @@
-[[ABA]]
-[[Abiotic stress]]
-[[ROS]]
-[[Grain Yield]]
-[[Asr]]

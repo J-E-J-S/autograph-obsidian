@@ -1,5 +1,0 @@
-[[Chloroplast DNA]]
-[[Chrysanthemum indicum]]
-[[Snp Marker]]
-[[Multiplex Allele-specific Pcr]]
-[[Rpoc2]]

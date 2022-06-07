@@ -1,2 +1,0 @@
-[[Maize]]
-[[Endosperm development]]

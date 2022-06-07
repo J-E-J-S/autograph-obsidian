@@ -1,5 +1,0 @@
-[[Glucose-dependent Insulinotropic Polypeptide]]
-[[Efflux Pump Inhibitors]]
-[[Antibiotic Adjuvant]]
-[[Mean Inhibitory Concentration]]
-[[Potentiation Of Antimicrobial Activity]]

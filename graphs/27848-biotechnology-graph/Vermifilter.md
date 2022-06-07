@@ -1,6 +1,0 @@
-[[Antibiotic resistance genes]]
-[[Antimicrobial resistance]]
-[[Earthworms]]
-[[wastewater treatment]]
-[[pathogens]]
-[[Clinical Laboratory Wastewater]]

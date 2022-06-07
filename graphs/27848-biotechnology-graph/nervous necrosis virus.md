@@ -1,5 +1,0 @@
-[[Orange-spotted grouper]]
-[[Type I Interferon Receptor]]
-[[Immunoproteasome]]
-[[Psmb8]]
-[[Seven Band Grouper]]

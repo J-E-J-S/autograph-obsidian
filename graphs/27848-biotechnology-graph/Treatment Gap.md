@@ -1,4 +1,0 @@
-[[Tobacco]]
-[[India]]
-[[Availability]]
-[[Cessation]]

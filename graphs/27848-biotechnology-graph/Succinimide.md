@@ -1,7 +1,0 @@
-[[Enzyme inhibitors]]
-[[Antitumor]]
-[[Antimicrobial]]
-[[SAR]]
-[[Derivatives]]
-[[Anti-inflammatory]]
-[[5-Ht Receptor Ligands]]

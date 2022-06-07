@@ -1,3 +1,0 @@
-[[Zebrafish]]
-[[Ischemic stroke]]
-[[Isoliquiritin]]

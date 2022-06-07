@@ -1,3 +1,0 @@
-[[GnRH]]
-[[Kisspeptin]]
-[[Equid (Horse)]]

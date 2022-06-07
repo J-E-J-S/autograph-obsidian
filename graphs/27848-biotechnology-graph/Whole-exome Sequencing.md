@@ -1,7 +1,0 @@
-[[Epilepsy]]
-[[Genetic variation]]
-[[Lennox-gastaut Syndrome]]
-[[Rare-Diseases]]
-[[Muscular dystrophy]]
-[[Duchenne muscular dystrophy]]
-[[Sanger Sequencing]]

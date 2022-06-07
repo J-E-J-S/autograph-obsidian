@@ -1,7 +1,0 @@
-[[Molecular markers]]
-[[QTL]]
-[[MAS]]
-[[Genetic Selection]]
-[[Zfn]]
-[[Crispr/cas9]]
-[[Genomic Editing]]

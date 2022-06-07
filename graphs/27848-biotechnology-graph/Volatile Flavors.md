@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Quality control]]
-[[lactobacillus]]
-[[Baijiu]]
-[[Succession Rate]]

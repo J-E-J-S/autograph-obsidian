@@ -1,7 +1,0 @@
-[[Protein-DNA interaction]]
-[[Crystal structure]]
-[[Pd-d/exk Family]]
-[[Thermoactinomyces Vulgaris]]
-[[Haeiii]]
-[[Restriction-modification System]]
-[[Tvu2hi]]

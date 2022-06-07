@@ -1,6 +1,0 @@
-[[multivariate analysis]]
-[[Autofluorescence Imaging]]
-[[Photonics]]
-[[Smooth Muscle Differentiation]]
-[[Carotid Artery Ligation]]
-[[Lineage Tracing, Arteriosclerosis]]

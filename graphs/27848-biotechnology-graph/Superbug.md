@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[Pediatric patients]]
-[[Dysbiosis]]
-[[Shotgun Metagenomic Sequencing]]
-[[Resistome Diversities]]

@@ -1,3 +1,0 @@
-[[Phylogenetic]]
-[[South America]]
-[[Bluetongue]]

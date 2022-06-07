@@ -1,5 +1,0 @@
-[[Pentose phosphate pathway]]
-[[Glucose repression]]
-[[Transcriptomics]]
-[[Gcr2]]
-[[Lignocellulosic Biomass]]

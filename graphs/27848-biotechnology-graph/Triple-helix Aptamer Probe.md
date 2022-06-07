@@ -1,3 +1,0 @@
-[[Tetracycline]]
-[[Biosensor]]
-[[Fluorescent]]

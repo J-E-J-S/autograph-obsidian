@@ -1,8 +1,0 @@
-[[Tolerance]]
-[[Metabolism]]
-[[Regulations]]
-[[Acetate]]
-[[Methyltransferase]]
-[[Acetogen]]
-[[Biofuel, Biotechnology]]
-[[Biocommodities]]

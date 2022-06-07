@@ -1,8 +1,0 @@
-[[Transformation]]
-[[Genetic engineering]]
-[[Agrobacterium rhizogenes]]
-[[Site-specific recombination]]
-[[Plant Biotechnology]]
-[[Gene Stacking]]
-[[Transfer Dna (T-dna)]]
-[[Transgene Assembly]]

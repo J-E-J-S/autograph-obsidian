@@ -1,5 +1,0 @@
-[[Aspergillus]]
-[[Evolution]]
-[[Genetics]]
-[[Selectivity]]
-[[Nucleobase]]

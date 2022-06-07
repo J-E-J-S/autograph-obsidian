@@ -1,3 +1,0 @@
-[[Protein A]]
-[[Productivity]]
-[[Continuous]]

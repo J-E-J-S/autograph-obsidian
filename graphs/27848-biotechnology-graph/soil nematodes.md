@@ -1,5 +1,0 @@
-[[Rhizosphere]]
-[[Secondary metabolites]]
-[[Plant age]]
-[[Chemical Defence]]
-[[Root Lesion Nematode]]

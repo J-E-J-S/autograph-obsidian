@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[DNA damage]]
-[[Cell cycle]]
-[[Sclareol]]
-[[Small Cell Lung Carcinoma]]

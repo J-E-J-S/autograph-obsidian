@@ -1,6 +1,0 @@
-[[Tubulin]]
-[[Self-assembly]]
-[[Time-resolved Small-angle X-ray Scattering]]
-[[Conical-spiral]]
-[[Conical-spiral Tubules]]
-[[Inverted Tubules]]

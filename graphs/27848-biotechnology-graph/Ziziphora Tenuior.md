@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Liver]]
-[[Lung]]
-[[Oxidative stress]]
-[[Inflammation]]
-[[Gene Expression]]
-[[chlorpyrifos]]

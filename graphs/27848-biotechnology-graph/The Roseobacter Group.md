@@ -1,5 +1,0 @@
-[[polyphasic taxonomy]]
-[[Dmsp Lyases]]
-[[Genomic Sequencing And Analysis]]
-[[Tritonibacter Aquimaris Sp. Nov.]]
-[[Tritonibacter Litoralis Sp. Nov.]]

@@ -1,5 +1,0 @@
-[[Yeast]]
-[[Azo dyes]]
-[[Osmo-tolerance]]
-[[Transcriptomic Responses]]
-[[Candida Tropicalis A1]]

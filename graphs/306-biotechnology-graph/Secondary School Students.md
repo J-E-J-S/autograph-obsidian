@@ -1,2 +1,0 @@
-[[Biotechnology]]
-[[Calabar]]

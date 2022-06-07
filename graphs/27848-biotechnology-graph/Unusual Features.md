@@ -1,5 +1,0 @@
-[[Neurodegenerative disease]]
-[[Glioblastoma]]
-[[Circular Rna]]
-[[Shprh-146aa]]
-[[Unusual Peptide]]

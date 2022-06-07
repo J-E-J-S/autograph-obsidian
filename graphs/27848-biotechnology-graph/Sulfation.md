@@ -1,7 +1,0 @@
-[[Liver]]
-[[Enzymology]]
-[[X-ray crystallography]]
-[[Species differences]]
-[[Bile Acid Metabolism]]
-[[Cytosolic Sulfotransferase]]
-[[Bile Acid And Salts/metabolism]]

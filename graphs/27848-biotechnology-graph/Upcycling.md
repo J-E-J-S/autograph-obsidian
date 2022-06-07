@@ -1,8 +1,0 @@
-[[Fermentation]]
-[[Enzyme]]
-[[Biodegradation]]
-[[metabolic engineering]]
-[[Biodegradable]]
-[[Bioplastics]]
-[[Microbial Valorization]]
-[[Bio-recycling]]

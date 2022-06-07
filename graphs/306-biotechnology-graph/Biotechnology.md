@@ -1,2 +1,0 @@
-[[Calabar]]
-[[Secondary School Students]]

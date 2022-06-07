@@ -1,5 +1,0 @@
-[[HPLC]]
-[[PCR]]
-[[Southern blot]]
-[[Zygotic embryo]]
-[[Transgenic]]

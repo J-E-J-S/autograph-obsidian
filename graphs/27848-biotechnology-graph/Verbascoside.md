@@ -1,7 +1,0 @@
-[[Biopesticide]]
-[[Growth Inhibitor]]
-[[Verbena Incompta]]
-[[Cytotoxic activity]]
-[[Saponin Glycosides]]
-[[Verbascum Nigrum]]
-[[Lc/hr-ms/ms]]

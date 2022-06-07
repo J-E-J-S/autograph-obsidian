@@ -1,5 +1,0 @@
-[[Eutrophication]]
-[[Global change]]
-[[Meta-analysis]]
-[[Trophic level]]
-[[trophic cascade]]

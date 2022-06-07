@@ -1,5 +1,0 @@
-[[Neurotoxin]]
-[[Non-cell-autonomous]]
-[[Ridl]]
-[[Genetic Pest Management]]
-[[Genetic Biocontrol]]

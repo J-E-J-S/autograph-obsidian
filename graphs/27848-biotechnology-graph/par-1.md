@@ -1,6 +1,0 @@
-[[Cytokines]]
-[[IL-6]]
-[[Curcumin]]
-[[Ace-2]]
-[[Covid-19]]
-[[Sars-cov-2]]

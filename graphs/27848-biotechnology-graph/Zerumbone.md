@@ -1,2 +1,0 @@
-[[Inflammation]]
-[[Activated Fibroblasts]]

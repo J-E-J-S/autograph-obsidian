@@ -1,8 +1,0 @@
-[[Morphology]]
-[[Mutation]]
-[[Viscosity]]
-[[Productivity]]
-[[Cellulase]]
-[[Filamentous fungus]]
-[[Protein Production]]
-[[Hyphal Morphology]]

@@ -1,3 +1,0 @@
-[[Phosphorylation]]
-[[Tubulin]]
-[[Tau proteins]]

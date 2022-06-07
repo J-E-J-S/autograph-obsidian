@@ -1,5 +1,0 @@
-[[Purification]]
-[[Expression]]
-[[Membrane protein]]
-[[Database]]
-[[Detergent.]]

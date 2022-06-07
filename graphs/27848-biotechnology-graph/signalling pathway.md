@@ -1,7 +1,0 @@
-[[MAPK]]
-[[Virus infection]]
-[[P38]]
-[[EGFR]]
-[[Liver cancer]]
-[[Antagonist]]
-[[Anti-idiotypic antibody]]

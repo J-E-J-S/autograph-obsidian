@@ -1,7 +1,0 @@
-[[metabolic syndrome]]
-[[Methylglyoxal]]
-[[Metabolic Programming]]
-[[Glycotoxins]]
-[[Chronic obstructive pulmonary disease (COPD)]]
-[[Srage]]
-[[Age-rage Signalling]]

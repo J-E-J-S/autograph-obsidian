@@ -1,6 +1,0 @@
-[[insulin secretion]]
-[[Microfluidic System]]
-[[Glucagon Secretion]]
-[[Lab-on-a-chip System]]
-[[Islet-on-a-chip Diabetes Mellitus]]
-[[Three-dimensional Cellular Model]]

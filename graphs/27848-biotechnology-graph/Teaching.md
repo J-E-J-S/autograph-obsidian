@@ -1,5 +1,0 @@
-[[Socioscientific Issues]]
-[[School Science Education]]
-[[Scientific Research]]
-[[Integrated Development]]
-[[Innovative Talents]]

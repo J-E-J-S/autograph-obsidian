@@ -1,5 +1,0 @@
-[[Enniatin]]
-[[LC-MS/MS]]
-[[Beauvericin]]
-[[Depsipeptides]]
-[[Molecular Networking]]

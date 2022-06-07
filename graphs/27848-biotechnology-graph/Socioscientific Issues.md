@@ -1,2 +1,0 @@
-[[Teaching]]
-[[School Science Education]]

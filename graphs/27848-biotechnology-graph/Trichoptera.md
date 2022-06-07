@@ -1,8 +1,0 @@
-[[Ecology]]
-[[Plankton]]
-[[Water quality]]
-[[detrended correspondence analysis]]
-[[Permanova]]
-[[Extrinsic Factors]]
-[[Man-made Lake]]
-[[Intrinsic Variables]]

@@ -1,2 +1,0 @@
-[[Neuron]]
-[[Triclosan]]

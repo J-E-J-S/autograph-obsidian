@@ -1,7 +1,0 @@
-[[Birds]]
-[[Flexibility]]
-[[Drone]]
-[[Aerodynamics]]
-[[Biomimetics]]
-[[feather]]
-[[Fluid-structure Interaction]]

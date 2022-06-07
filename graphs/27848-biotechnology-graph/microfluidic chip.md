@@ -1,8 +1,0 @@
-[[Antibiotic Resistance]]
-[[fluorescence detection]]
-[[Concentration Gradient]]
-[[High-throughput Test]]
-[[Flow cytometry]]
-[[Single cell]]
-[[High-throughput]]
-[[In Vitro Compartmentalization]]

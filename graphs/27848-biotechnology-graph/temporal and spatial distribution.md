@@ -1,2 +1,0 @@
-[[Lotus leaf]]
-[[alkaloids]]

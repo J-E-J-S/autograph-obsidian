@@ -1,5 +1,0 @@
-[[Bioremediation]]
-[[Phytoremediation]]
-[[Biochar]]
-[[Plant Growth-promoting Bacteria]]
-[[Toxic Heavy Metals]]

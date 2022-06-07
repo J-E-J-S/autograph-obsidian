@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[Crystal structure]]
-[[Fluorene]]
-[[Hydantoin]]
-[[P-glycoprotein (Abcb1)]]

@@ -1,7 +1,0 @@
-[[Abscisic acid]]
-[[Wheat]]
-[[Drought]]
-[[stomatal closure]]
-[[Aba-induced Protein]]
-[[Ripening-induced Protein]]
-[[Stress-induced Protein]]

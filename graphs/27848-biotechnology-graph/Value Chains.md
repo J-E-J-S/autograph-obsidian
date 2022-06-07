@@ -1,7 +1,0 @@
-[[Biotechnology]]
-[[Chemical Industry]]
-[[Waste Management]]
-[[Infrastructure]]
-[[Bioeconomy]]
-[[Cascade Use]]
-[[Framework Conditions]]

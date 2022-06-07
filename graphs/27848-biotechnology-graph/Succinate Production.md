@@ -1,2 +1,0 @@
-[[Succinate Transport]]
-[[Shochu Slop]]

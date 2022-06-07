@@ -1,7 +1,0 @@
-[[Molecular cloning]]
-[[Green algae]]
-[[Seaweed]]
-[[transgenic lines]]
-[[Gene Tagging]]
-[[Golden Gate]]
-[[Molecular Toolkit]]

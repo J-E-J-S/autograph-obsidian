@@ -1,6 +1,0 @@
-[[Decarboxylase]]
-[[Sdr]]
-[[Epimerase]]
-[[Short-chain Dehydrogenase/reductase]]
-[[Dehydratase]]
-[[Stereo-electronic Effect]]

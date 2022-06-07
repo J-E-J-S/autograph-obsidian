@@ -1,8 +1,0 @@
-[[Plant extracts]]
-[[Staphylococcus aureus]]
-[[Biofilm]]
-[[Prevention]]
-[[Infections]]
-[[Staphylococcal Protein A]]
-[[Viburnum Opulus]]
-[[Cell Membrane Lipids]]

@@ -1,7 +1,0 @@
-[[Nitrogen]]
-[[Lipase]]
-[[Lipoxygenase]]
-[[Antioxidant activity]]
-[[Wheat germ]]
-[[Argon]]
-[[Atmospheric Cold Plasma]]

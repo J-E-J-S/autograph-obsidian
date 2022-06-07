@@ -1,8 +1,0 @@
-[[Ecology]]
-[[Plankton]]
-[[Water quality]]
-[[Trichoptera]]
-[[Permanova]]
-[[Extrinsic Factors]]
-[[Man-made Lake]]
-[[Intrinsic Variables]]

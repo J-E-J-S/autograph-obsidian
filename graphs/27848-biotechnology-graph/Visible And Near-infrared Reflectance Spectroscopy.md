@@ -1,5 +1,0 @@
-[[Grain quality]]
-[[Wheat flour]]
-[[Plsr]]
-[[Wheat Grain]]
-[[Grain Nutritional Attribute]]

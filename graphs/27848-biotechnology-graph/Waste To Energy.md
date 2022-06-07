@@ -1,3 +1,0 @@
-[[Biomass]]
-[[Biofuel]]
-[[Renewable]]

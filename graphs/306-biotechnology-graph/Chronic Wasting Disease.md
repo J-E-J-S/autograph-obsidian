@@ -1,6 +1,0 @@
-[[PrP]]
-[[PRNP]]
-[[prion protein]]
-[[Axis Axis]]
-[[Chital]]
-[[Axis Deer]]

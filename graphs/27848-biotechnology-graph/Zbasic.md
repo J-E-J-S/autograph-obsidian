@@ -1,5 +1,0 @@
-[[Ion-exchange chromatography]]
-[[Protein A]]
-[[proteolytic cleavage]]
-[[Fusion Tag]]
-[[Solid-phase Refolding]]

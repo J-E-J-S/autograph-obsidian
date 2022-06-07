@@ -1,7 +1,0 @@
-[[Extracellular matrix]]
-[[Stromal cells]]
-[[tissue-engineering]]
-[[Compartmentalization]]
-[[Tumor Stroma]]
-[[3D Models]]
-[[Collagen Density]]

@@ -1,5 +1,0 @@
-[[Inhibitors]]
-[[Cancer]]
-[[Drug target]]
-[[PTPases]]
-[[Kinetic Studies]]

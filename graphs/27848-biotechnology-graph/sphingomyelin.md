@@ -1,5 +1,0 @@
-[[Fumonisin B1]]
-[[Trafficking]]
-[[Gpcr]]
-[[Sphingolipids]]
-[[Serotonin1a Receptor]]

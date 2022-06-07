@@ -1,7 +1,0 @@
-[[Plants]]
-[[Toxicity]]
-[[Chelation]]
-[[Phytoremediation]]
-[[Detoxification]]
-[[Metalloids]]
-[[Aquaglyceroporins]]

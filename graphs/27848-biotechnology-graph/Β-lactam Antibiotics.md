@@ -1,4 +1,0 @@
-[[Resistance]]
-[[Variants]]
-[[Inhibitor]]
-[[Ndm]]

@@ -1,8 +1,0 @@
-[[Mutations]]
-[[Consanguineous]]
-[[Intellectual Disability]]
-[[Pakistani Population]]
-[[India]]
-[[Giant Axonal Neuropathy]]
-[[Jammu And Kashmir]]
-[[Consanguineous Family]]

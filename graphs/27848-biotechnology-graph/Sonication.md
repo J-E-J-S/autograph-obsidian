@@ -1,8 +1,0 @@
-[[Agrobacterium tumefaciens]]
-[[Cowpea]]
-[[Vacuum infiltration]]
-[[Seedling In-planta Transformation]]
-[[Disruption]]
-[[Acid hydrolysis]]
-[[Sco]]
-[[Yeast Lipids]]
