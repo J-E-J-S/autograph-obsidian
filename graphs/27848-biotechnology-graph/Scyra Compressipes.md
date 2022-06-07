@@ -1,3 +1,0 @@
-[[Phylogeny]]
-[[Mitogenome]]
-[[Epialtidae]]

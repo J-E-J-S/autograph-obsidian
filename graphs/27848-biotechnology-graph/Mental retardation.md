@@ -1,7 +1,0 @@
-[[Candidate gene]]
-[[Alopecia]]
-[[Lss]]
-[[Ahsg]]
-[[Apmr1]]
-[[Apmr2]]
-[[Apmr3]]

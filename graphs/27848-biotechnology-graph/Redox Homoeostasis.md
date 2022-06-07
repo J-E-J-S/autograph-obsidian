@@ -1,5 +1,0 @@
-[[Mechanism]]
-[[Signaling]]
-[[Salinity]]
-[[Transcriptomics]]
-[[Lentil]]

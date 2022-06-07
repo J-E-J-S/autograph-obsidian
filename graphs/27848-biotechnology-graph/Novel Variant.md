@@ -1,5 +1,0 @@
-[[Molecular diagnosis]]
-[[Hemophilia A]]
-[[Next Generation Sequencing]]
-[[F8]]
-[[Variant Spectrum]]

@@ -1,5 +1,0 @@
-[[Exopolysaccharides]]
-[[Antimicrobial activity]]
-[[Probiotic]]
-[[Lactobacillus Brevis]]
-[[Ultrafiltration Membrane]]

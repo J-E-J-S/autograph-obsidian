@@ -1,7 +1,0 @@
-[[Crystallization]]
-[[Purification]]
-[[Protein expression]]
-[[X-ray diffraction]]
-[[DNA binding]]
-[[B-cell Acute Lymphoblastic Leukemia]]
-[[Mef2d-fusions]]

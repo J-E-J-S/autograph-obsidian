@@ -1,5 +1,0 @@
-[[Neural tube defects]]
-[[SNP]]
-[[Allosteric regulation]]
-[[Electron Transport Chain]]
-[[Mtrr]]

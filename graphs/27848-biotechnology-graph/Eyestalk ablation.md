@@ -1,2 +1,0 @@
-[[Sexual differentiation]]
-[[Wnt Signalling]]

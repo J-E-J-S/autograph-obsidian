@@ -1,5 +1,0 @@
-[[6-mercaptopurine]]
-[[Genetic markers]]
-[[Acute lymphoblastic leukemia]]
-[[Tpmt]]
-[[Slc19a1]]

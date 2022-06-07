@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[DNA damage]]
-[[Cell cycle]]
-[[xenograft]]
-[[Sclareol]]

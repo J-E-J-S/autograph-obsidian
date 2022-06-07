@@ -1,5 +1,0 @@
-[[Biomarker]]
-[[Aptamer]]
-[[Ultrasensitive detection]]
-[[signal amplification]]
-[[Diagnostics]]

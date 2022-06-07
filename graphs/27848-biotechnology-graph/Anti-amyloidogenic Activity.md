@@ -1,5 +1,0 @@
-[[Amyloidosis]]
-[[Amyloid Fibril]]
-[[Hewl]]
-[[4-Methylthiocoumarin]]
-[[4-Methylcoumarin]]

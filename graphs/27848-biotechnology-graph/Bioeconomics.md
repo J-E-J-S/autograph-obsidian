@@ -1,2 +1,0 @@
-[[Environment]]
-[[Bibliometric Analysis]]

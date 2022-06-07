@@ -1,5 +1,0 @@
-[[Unfolded protein response (UPR)]]
-[[X-box Protein 1 (Xbp1)]]
-[[Divergent Cell Fates]]
-[[Inositol-requiring Enzyme 1(Ire1)]]
-[[Regulated Ire1 Dependent Decay (Ridd)]]

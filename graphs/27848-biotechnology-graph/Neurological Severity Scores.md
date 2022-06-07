@@ -1,5 +1,0 @@
-[[Cerebral ischemia]]
-[[Edema]]
-[[Umbilical cord]]
-[[infarct volume]]
-[[Blood-Brain Barrier]]

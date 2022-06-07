@@ -1,5 +1,0 @@
-[[Proton efflux]]
-[[Biofilms Formation]]
-[[Bioleaching Microorganisms]]
-[[Acid-resistant Components]]
-[[Reversal Of Membrane Potential]]

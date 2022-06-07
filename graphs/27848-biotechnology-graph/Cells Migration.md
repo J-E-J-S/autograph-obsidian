@@ -1,5 +1,0 @@
-[[Polysaccharide]]
-[[structural characteristic]]
-[[Tube formation]]
-[[Bangia Fusco-purpurea]]
-[[Intracellular Signal Pathway]]

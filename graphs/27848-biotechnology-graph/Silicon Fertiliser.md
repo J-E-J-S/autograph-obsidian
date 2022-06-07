@@ -1,5 +1,0 @@
-[[Wheat]]
-[[Osmotic stress]]
-[[Drought stress]]
-[[Landraces]]
-[[genotypic variation]]

@@ -1,5 +1,0 @@
-[[Pesticides]]
-[[paddy Soils]]
-[[Functional genes]]
-[[N Cycle]]
-[[Comammox]]

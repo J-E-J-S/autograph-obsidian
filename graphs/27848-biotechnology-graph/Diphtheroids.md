@@ -1,5 +1,0 @@
-[[Genome]]
-[[Corynebacterium]]
-[[Evolution]]
-[[Virulence]]
-[[Multidrug resistance]]

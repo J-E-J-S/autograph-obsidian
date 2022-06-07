@@ -1,5 +1,0 @@
-[[Toxicity]]
-[[Decomposition]]
-[[Pollution]]
-[[Cigarette Butt]]
-[[Recycling Waste]]

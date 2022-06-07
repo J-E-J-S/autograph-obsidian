@@ -1,5 +1,0 @@
-[[NMR]]
-[[Mass spectrometry]]
-[[Modelling]]
-[[cross-linking]]
-[[Nanobodies]]

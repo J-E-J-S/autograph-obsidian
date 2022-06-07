@@ -1,4 +1,0 @@
-[[Palynology]]
-[[Diversity]]
-[[SEM]]
-[[Pakistan]]

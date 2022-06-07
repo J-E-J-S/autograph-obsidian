@@ -1,6 +1,0 @@
-[[Metformin]]
-[[rifampicin]]
-[[Active Tuberculosis]]
-[[Dosr]]
-[[Antimycobacterial Activity]]
-[[Pyrano[3,2-b]indolone]]

@@ -1,5 +1,0 @@
-[[Mouse]]
-[[synergy]]
-[[biofilms]]
-[[Candida Auris]]
-[[Isavuconazole]]

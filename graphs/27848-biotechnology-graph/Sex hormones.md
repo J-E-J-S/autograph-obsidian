@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Epididymis]]
-[[Testicular Ischemia]]
-[[Testicular Damage]]
-[[Proxeed Plus]]

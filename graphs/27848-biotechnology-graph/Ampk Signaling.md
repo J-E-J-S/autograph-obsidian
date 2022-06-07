@@ -1,5 +1,0 @@
-[[carcinogenesis]]
-[[Vildagliptin]]
-[[Drug Repurposing]]
-[[Akt-mtor]]
-[[Betel-nut]]

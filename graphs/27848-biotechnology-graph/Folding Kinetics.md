@@ -1,5 +1,0 @@
-[[Substrate specificity]]
-[[Chaperone]]
-[[Outer membrane protein]]
-[[Electrophoretic mobility]]
-[[Bama]]

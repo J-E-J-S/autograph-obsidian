@@ -1,5 +1,0 @@
-[[Tomato]]
-[[Heat]]
-[[ER stress]]
-[[Unfolded protein response (UPR)]]
-[[Bzip60]]

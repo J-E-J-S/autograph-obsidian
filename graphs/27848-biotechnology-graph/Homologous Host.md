@@ -1,5 +1,0 @@
-[[Serratia]]
-[[PGPR]]
-[[Ahls]]
-[[Iaa Production]]
-[[Non-homologous Host]]

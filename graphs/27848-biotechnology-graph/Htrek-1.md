@@ -1,5 +1,0 @@
-[[Hypoxia]]
-[[Alternative splicing]]
-[[Lactate]]
-[[Ischemia]]
-[[neuroprotection]]

@@ -1,6 +1,0 @@
-[[Poultry]]
-[[Digestive enzyme]]
-[[Mannan]]
-[[Inflammation]]
-[[Immunity]]
-[[Yeast Cell Wall]]

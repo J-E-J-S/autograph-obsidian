@@ -1,7 +1,0 @@
-[[Rehabilitation]]
-[[Anticoagulation]]
-[[Chronic disease]]
-[[Pulmonary embolism]]
-[[Deep vein thrombosis]]
-[[Outcome]]
-[[Clinical Prediction Rule]]

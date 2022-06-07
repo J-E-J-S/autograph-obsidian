@@ -1,5 +1,0 @@
-[[Scx]]
-[[Platelet-derived Growth Factor-bb]]
-[[Adipose-derived Mscs]]
-[[Tenogenic Differentiation]]
-[[Tnmd]]

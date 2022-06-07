@@ -1,5 +1,0 @@
-[[Bioluminescence]]
-[[Diptera]]
-[[Rna-seq]]
-[[Chaperones]]
-[[Orfelia]]

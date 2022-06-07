@@ -1,6 +1,0 @@
-[[Drugs]]
-[[Cancer]]
-[[Multiple drug resistance]]
-[[Diabetic foot]]
-[[pathogens]]
-[[Antidiabetic]]

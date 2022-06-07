@@ -1,3 +1,0 @@
-[[inulin]]
-[[Inulosucrase]]
-[[Gh68]]

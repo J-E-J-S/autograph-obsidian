@@ -1,5 +1,0 @@
-[[Transmembrane Proteins]]
-[[Cancer Metabolism]]
-[[Monocarboxylate Transporter 4]]
-[[Evolutionary Study]]
-[[Pharmacophore Design]]

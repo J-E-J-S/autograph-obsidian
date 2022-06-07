@@ -1,2 +1,0 @@
-[[Neuronal apoptosis]]
-[[Aatf]]

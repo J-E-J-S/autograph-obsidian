@@ -1,5 +1,0 @@
-[[Leguminosae]]
-[[Nodulation]]
-[[Glycogen-synthase Kinase 3]]
-[[Shaggy-like Kinase]]
-[[Lateral Root Potentiation]]

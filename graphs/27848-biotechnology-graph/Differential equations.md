@@ -1,5 +1,0 @@
-[[Model]]
-[[Gene Expression]]
-[[Mathematics]]
-[[Sdes]]
-[[Stochastic Simulation Algorithm (Ssa)]]

@@ -1,5 +1,0 @@
-[[Evolutionary Conservation]]
-[[Missense Mutations]]
-[[Transmembrane Proteins]]
-[[Single Amino Acid Variants]]
-[[Direct Coupling Analysis]]

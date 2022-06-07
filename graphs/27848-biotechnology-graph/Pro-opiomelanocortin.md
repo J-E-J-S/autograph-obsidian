@@ -1,5 +1,0 @@
-[[Phagocytosis]]
-[[Monocytes/macrophages]]
-[[Anti-inflammation]]
-[[Adrenocorticotropic Hormone]]
-[[Ayu]]

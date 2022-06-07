@@ -1,8 +1,0 @@
-[[Corynebacterium glutamicum]]
-[[Chemostat]]
-[[L-leucine]]
-[[fed-batch]]
-[[Site-directed mutagenesis]]
-[[Enzyme properties]]
-[[Acinetobacter Radioresistens]]
-[[Aspartate 4-Decarboxylase]]

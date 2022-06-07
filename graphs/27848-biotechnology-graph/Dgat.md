@@ -1,3 +1,0 @@
-[[Inhibitory]]
-[[Psoralea corylifolia]]
-[[Meroterpenes]]

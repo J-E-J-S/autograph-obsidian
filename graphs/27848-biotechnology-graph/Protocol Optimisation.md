@@ -1,7 +1,0 @@
-[[Proteomics]]
-[[Cricket]]
-[[protein extraction]]
-[[allergen]]
-[[Cross-reactive]]
-[[Arginine Kinase]]
-[[Lc-mrm-ms]]

@@ -1,8 +1,0 @@
-[[Stem cell]]
-[[Crispr]]
-[[Gene Editing]]
-[[Organoid]]
-[[Immunomodulation]]
-[[type 1 diabetes]]
-[[Clonal Mesenchymal Stem Cell]]
-[[Glp1 Agonist]]

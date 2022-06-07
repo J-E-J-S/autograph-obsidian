@@ -1,3 +1,0 @@
-[[Antioxidant]]
-[[Polysaccharide]]
-[[Gracilaria Blodgettii]]

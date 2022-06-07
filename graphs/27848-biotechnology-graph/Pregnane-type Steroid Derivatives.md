@@ -1,5 +1,0 @@
-[[Anti-inflammatory activity]]
-[[Microcionidae]]
-[[Clathria (Thalysias) Vulpina]]
-[[Cyclooxygenase-2 And 5-Lipoxygenase]]
-[[Clathroids A-b]]

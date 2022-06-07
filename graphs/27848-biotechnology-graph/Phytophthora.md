@@ -1,5 +1,0 @@
-[[Medicinal plants]]
-[[HPLC]]
-[[Endophytic bacteria]]
-[[Biocontrol agents]]
-[[Bioactivity-driven Fractionation]]

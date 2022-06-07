@@ -1,4 +1,0 @@
-[[Cholesterol]]
-[[Microarray]]
-[[Convulsion]]
-[[Neurological]]

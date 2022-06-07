@@ -1,5 +1,0 @@
-[[Leishmaniasis]]
-[[Silver Nanoparticles]]
-[[Green Synthesis]]
-[[Reaction Dynamics]]
-[[Ros Quantification]]

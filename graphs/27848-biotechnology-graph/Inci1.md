@@ -1,5 +1,0 @@
-[[Broiler]]
-[[Plasmid]]
-[[Escherichia Coli]]
-[[Cephalosporin Resistance]]
-[[Blactx–m–1]]

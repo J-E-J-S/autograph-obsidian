@@ -1,5 +1,0 @@
-[[Metallothionein]]
-[[Glutathione reductase]]
-[[Castor]]
-[[Phytochelatin synthase]]
-[[Abcc Transporter]]

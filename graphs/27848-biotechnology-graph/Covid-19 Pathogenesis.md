@@ -1,5 +1,0 @@
-[[Spike protein]]
-[[renin-angiotensin system]]
-[[Sars-cov-2]]
-[[D614g Mutation]]
-[[S1 Subunit Shedding]]

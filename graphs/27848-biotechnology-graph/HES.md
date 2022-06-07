@@ -1,5 +1,0 @@
-[[Drosophila]]
-[[Transcription factors]]
-[[Neural stem cells]]
-[[Notch Signalling]]
-[[Cancer Models In Drosophila]]

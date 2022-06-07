@@ -1,8 +1,0 @@
-[[Biosynthesis]]
-[[Genetic diversity]]
-[[Polyphenols]]
-[[gold nanoparticles]]
-[[Bioactive compounds]]
-[[Phytotherapy]]
-[[Nutraceutical]]
-[[Pharmaceutical Properties]]

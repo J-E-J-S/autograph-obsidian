@@ -1,5 +1,0 @@
-[[Knowledge]]
-[[Beliefs]]
-[[Sickle Cell Disease]]
-[[Indigenous Communities]]
-[[Tribal]]

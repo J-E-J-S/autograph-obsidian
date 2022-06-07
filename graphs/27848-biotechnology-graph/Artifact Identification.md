@@ -1,5 +1,0 @@
-[[Quality control]]
-[[DNA analysis]]
-[[Artifact Removal]]
-[[Osiris]]
-[[Str Analysis Software]]

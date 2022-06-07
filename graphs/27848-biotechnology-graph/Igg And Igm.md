@@ -1,5 +1,0 @@
-[[ELISA]]
-[[Toxoplasma gondii]]
-[[Hemodialysis patients]]
-[[LAMP]]
-[[Gra5]]

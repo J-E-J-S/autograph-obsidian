@@ -1,5 +1,0 @@
-[[Skull]]
-[[Ontogeny]]
-[[Birds]]
-[[Shape]]
-[[Macroevolution]]

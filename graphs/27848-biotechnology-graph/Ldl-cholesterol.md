@@ -1,5 +1,0 @@
-[[Lipids]]
-[[Pcsk9 Antibodies]]
-[[Volanesorsen]]
-[[Evinacumab]]
-[[Apo(a) Antisense Oligonucleotides]]

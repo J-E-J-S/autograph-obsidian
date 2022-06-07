@@ -1,5 +1,0 @@
-[[Tcp Transcription Factors]]
-[[Intrinsically Disordered Domains]]
-[[Plant–pathogen Interactions]]
-[[Jaz Transcription Factors]]
-[[Effector Hub]]

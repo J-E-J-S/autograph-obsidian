@@ -1,8 +1,0 @@
-[[Plant extracts]]
-[[Staphylococcus aureus]]
-[[Biofilm]]
-[[Prevention]]
-[[Infections]]
-[[Staphylococcal Protein A]]
-[[Sortase A]]
-[[Viburnum Opulus]]

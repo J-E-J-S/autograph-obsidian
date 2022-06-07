@@ -1,7 +1,0 @@
-[[Gut]]
-[[Microbiota]]
-[[Probiotic]]
-[[anandamide]]
-[[Intestinal barrier]]
-[[Endocannabinoid System]]
-[[Gut Brain Axis]]

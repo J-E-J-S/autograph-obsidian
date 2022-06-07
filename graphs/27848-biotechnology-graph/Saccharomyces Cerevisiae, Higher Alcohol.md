@@ -1,2 +1,0 @@
-[[Alcoholic fermentation]]
-[[Transcriptome]]

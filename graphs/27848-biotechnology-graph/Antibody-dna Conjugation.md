@@ -1,7 +1,0 @@
-[[Proteomics]]
-[[Microarray]]
-[[DNA Barcoding]]
-[[Multiplex]]
-[[Antibody Array]]
-[[Single-cell Analysis]]
-[[Protein Detection]]

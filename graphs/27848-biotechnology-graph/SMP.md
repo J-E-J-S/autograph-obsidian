@@ -1,5 +1,0 @@
-[[Endoplasmic reticulum]]
-[[Plasma membrane]]
-[[Lipid Transfer]]
-[[Membrane Contact Sites]]
-[[Tricalbin]]

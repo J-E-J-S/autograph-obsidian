@@ -1,5 +1,0 @@
-[[Technology]]
-[[Regulation]]
-[[Postmodernism]]
-[[Enlightenment]]
-[[Judiciary]]

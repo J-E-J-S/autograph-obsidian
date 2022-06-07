@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Marine sediment]]
-[[Bacterial community]]
-[[Anthropogenic Activities]]
-[[Pollution Indices]]

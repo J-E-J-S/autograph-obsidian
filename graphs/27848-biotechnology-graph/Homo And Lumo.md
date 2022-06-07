@@ -1,6 +1,0 @@
-[[Monte Carlo simulation]]
-[[Antimicrobial resistance]]
-[[Density Functional Theory (Dft)]]
-[[Antimicrobial Peptides (Amps)]]
-[[Alpha Helical Peptide]]
-[[Ocellatin]]

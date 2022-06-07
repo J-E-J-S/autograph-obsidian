@@ -1,6 +1,0 @@
-[[Bacillus licheniformis]]
-[[Bread wheat]]
-[[Genome walking]]
-[[Maltogenic Amylase]]
-[[Starch Retrogradation]]
-[[Bread Baking]]

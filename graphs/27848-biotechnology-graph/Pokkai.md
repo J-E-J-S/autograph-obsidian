@@ -1,5 +1,0 @@
-[[Toxicity]]
-[[QTL]]
-[[Al3+]]
-[[Composite Interval Mapping (Cim)]]
-[[Pak Basmati]]

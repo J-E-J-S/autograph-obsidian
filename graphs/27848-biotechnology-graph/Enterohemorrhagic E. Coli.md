@@ -1,7 +1,0 @@
-[[Inhibitors]]
-[[Hemolysin]]
-[[Intimin]]
-[[Shiga toxin-producing E. coli]]
-[[adhesion]]
-[[Nanobody]]
-[[Stec]]

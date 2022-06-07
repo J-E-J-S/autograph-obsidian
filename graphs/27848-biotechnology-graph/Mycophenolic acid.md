@@ -1,3 +1,0 @@
-[[Fermentation]]
-[[Ultrasonication]]
-[[Penicillium Brevicompactum]]

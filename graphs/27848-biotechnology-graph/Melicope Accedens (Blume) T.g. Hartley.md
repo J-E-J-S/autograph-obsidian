@@ -1,5 +1,0 @@
-[[Quercetin]]
-[[Flavonoids]]
-[[Anti-inflammation]]
-[[Gastritis]]
-[[Syk]]

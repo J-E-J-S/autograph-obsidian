@@ -1,3 +1,0 @@
-[[Mice]]
-[[Pharmacokinetics]]
-[[Bioavailability]]

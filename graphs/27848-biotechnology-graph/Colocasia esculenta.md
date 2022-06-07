@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[Isotherm]]
-[[Trace metals]]
-[[thermodynamics]]
-[[biosorption]]

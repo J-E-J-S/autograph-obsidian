@@ -1,5 +1,0 @@
-[[p38 MAPK]]
-[[Autophagy]]
-[[Ubiquitin Proteasome System]]
-[[Mutant Huntingtin]]
-[[Huntington’s Disease (Hd)]]

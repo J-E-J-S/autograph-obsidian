@@ -1,3 +1,0 @@
-[[Breeding]]
-[[Microorganism]]
-[[Agricultural antibiotics]]

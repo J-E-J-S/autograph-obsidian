@@ -1,5 +1,0 @@
-[[Acetylcholinesterase]]
-[[Triclosan]]
-[[Locomotor Behavior]]
-[[Zebrafish Larvae]]
-[[Sublethal]]

@@ -1,5 +1,0 @@
-[[Neuroscience]]
-[[Organoids]]
-[[Crispr]]
-[[Ipscs]]
-[[Assembloids]]

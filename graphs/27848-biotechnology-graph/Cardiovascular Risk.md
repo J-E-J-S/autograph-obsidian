@@ -1,8 +1,0 @@
-[[Atherosclerosis]]
-[[Gut]]
-[[Psoriasis]]
-[[Systemic Sclerosis]]
-[[Dysbiosis]]
-[[Microbiome]]
-[[Tmao]]
-[[Trimethylamine N-oxide]]

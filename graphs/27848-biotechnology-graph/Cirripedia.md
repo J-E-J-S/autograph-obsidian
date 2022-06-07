@@ -1,3 +1,0 @@
-[[Phylogenetic]]
-[[Tetraclitidae]]
-[[Tetraclita Kuroshioensis]]

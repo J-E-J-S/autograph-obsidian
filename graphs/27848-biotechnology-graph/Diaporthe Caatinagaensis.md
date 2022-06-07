@@ -1,5 +1,0 @@
-[[Camptothecin]]
-[[Minimum inhibitory concentration]]
-[[Endophytic fungi]]
-[[Anticancer drug]]
-[[Buchanania Axillaris]]

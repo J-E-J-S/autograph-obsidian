@@ -1,4 +1,0 @@
-[[Carotenoids]]
-[[Chromatography]]
-[[Yeast]]
-[[Separation]]

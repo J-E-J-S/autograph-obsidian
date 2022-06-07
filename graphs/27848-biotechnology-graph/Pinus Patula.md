@@ -1,5 +1,0 @@
-[[Signaling]]
-[[Pathogenicity]]
-[[GTPase]]
-[[Ras2]]
-[[Fusarium Circinatum]]

@@ -1,5 +1,0 @@
-[[Identification]]
-[[Markers]]
-[[In Vitro Assay]]
-[[Lc–ms/ms]]
-[[Tryptic Digest]]

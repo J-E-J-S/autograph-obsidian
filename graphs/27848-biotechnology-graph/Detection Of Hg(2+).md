@@ -1,2 +1,0 @@
-[[Photocatalytic]]
-[[Ag-cellulose Nanocomposite]]

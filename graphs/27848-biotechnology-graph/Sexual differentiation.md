@@ -1,2 +1,0 @@
-[[Eyestalk ablation]]
-[[Wnt Signalling]]

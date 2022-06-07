@@ -1,6 +1,0 @@
-[[Genetics]]
-[[Retinoic acid]]
-[[Congenital heart defects]]
-[[Fetal development]]
-[[Aldh1a2]]
-[[Diaphragmatic Defects]]

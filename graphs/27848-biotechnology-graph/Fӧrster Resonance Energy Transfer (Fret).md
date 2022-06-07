@@ -1,6 +1,0 @@
-[[Drug Delivery]]
-[[Quantum Dot (Qd)]]
-[[Photodynamic Therapy (Pdt)]]
-[[Photothermal Therapy (Ptt)]]
-[[Up-conversion Nanoparticles (Ucnps)]]
-[[Time-resolved Fluorescence (Trf)]]

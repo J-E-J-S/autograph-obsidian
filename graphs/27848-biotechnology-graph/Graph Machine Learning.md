@@ -1,2 +1,0 @@
-[[drug discovery]]
-[[Drug Development]]

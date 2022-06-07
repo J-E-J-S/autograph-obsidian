@@ -1,5 +1,0 @@
-[[Phenol]]
-[[Oxidative stress]]
-[[Polynuclear aromatic hydrocarbons]]
-[[Funneliformis Caledonium]]
-[[Diversispora Varaderana]]

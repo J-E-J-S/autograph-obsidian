@@ -1,5 +1,0 @@
-[[Disease resistance]]
-[[Banana]]
-[[Crispr]]
-[[Cas9]]
-[[Genome Editing]]

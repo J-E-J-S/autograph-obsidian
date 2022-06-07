@@ -1,8 +1,0 @@
-[[Malaria]]
-[[Plasmodium falciparum]]
-[[Ligand Binding Sites]]
-[[Gpi Anchor Transamidase]]
-[[Single Nucleotide Polymorphism (SNP)]]
-[[Retinoblastoma]]
-[[Computational Analysis]]
-[[E2f2]]

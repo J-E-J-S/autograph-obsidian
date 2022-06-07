@@ -1,6 +1,0 @@
-[[Phylogeny]]
-[[Chloroplast genome]]
-[[MADS-box genes]]
-[[Divergence time]]
-[[Expression Profiling]]
-[[Draft Genome]]

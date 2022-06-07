@@ -1,6 +1,0 @@
-[[Ecology]]
-[[Sustainability]]
-[[Natural capital]]
-[[Bioeconomy]]
-[[Sustainable Economic Growth]]
-[[Habitability]]

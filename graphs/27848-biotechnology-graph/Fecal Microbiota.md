@@ -1,3 +1,0 @@
-[[Lactulose]]
-[[Dose]]
-[[Blautia]]

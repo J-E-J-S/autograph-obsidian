@@ -1,4 +1,0 @@
-[[Chromatography]]
-[[Tetracycline]]
-[[Digestion]]
-[[Detection]]

@@ -1,4 +1,0 @@
-[[Sequencing]]
-[[PCR]]
-[[Diatom]]
-[[Drowning]]

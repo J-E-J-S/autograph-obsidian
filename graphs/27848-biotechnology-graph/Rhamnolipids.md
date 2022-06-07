@@ -1,5 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Liquid Detergent]]
-[[Dairy Whey]]
-[[Refinery Vegetable Oil Wastes]]
-[[Bio-Cleaning]]

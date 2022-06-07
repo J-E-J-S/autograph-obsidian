@@ -1,6 +1,0 @@
-[[Transcription regulation]]
-[[E3 ubiquitin ligase]]
-[[cancer cell]]
-[[Dna Damage Response]]
-[[H2b Mono6ubiquitination (H2bub1)]]
-[[Rnf20/rnf40]]

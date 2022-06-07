@@ -1,8 +1,0 @@
-[[Insulin resistance]]
-[[Type 2 diabetes mellitus]]
-[[Exosome]]
-[[glucose metabolism]]
-[[Chronic Inflammation]]
-[[Metabolic Stress]]
-[[Traf3]]
-[[Monocytes And Macrophages]]

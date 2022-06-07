@@ -1,5 +1,0 @@
-[[Plastics]]
-[[Rov]]
-[[Hydrothermal Habitat]]
-[[Derelict Fishing Gear]]
-[[Aeolian Archipelago]]

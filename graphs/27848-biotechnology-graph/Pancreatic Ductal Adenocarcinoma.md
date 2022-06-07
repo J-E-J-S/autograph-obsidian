@@ -1,3 +1,0 @@
-[[Biomarker]]
-[[Lncrna]]
-[[Ncrnas]]

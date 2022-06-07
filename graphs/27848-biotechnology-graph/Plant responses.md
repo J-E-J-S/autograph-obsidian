@@ -1,7 +1,0 @@
-[[Climate change]]
-[[Osmoregulation]]
-[[Drought]]
-[[Soil water deficit]]
-[[PGPR]]
-[[yield losses]]
-[[Stress Management Strategies]]

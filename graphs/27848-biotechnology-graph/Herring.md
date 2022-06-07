@@ -1,5 +1,0 @@
-[[Molecular]]
-[[Epidemiological]]
-[[Egypt]]
-[[Anisakis Simplex]]
-[[Its-2 Gene]]

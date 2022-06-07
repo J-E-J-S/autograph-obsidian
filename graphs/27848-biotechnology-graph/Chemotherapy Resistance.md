@@ -1,4 +1,0 @@
-[[Glioblastoma]]
-[[bioactive]]
-[[Phytomedicine]]
-[[Phytochemicals]]

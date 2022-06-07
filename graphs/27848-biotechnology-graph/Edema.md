@@ -1,5 +1,0 @@
-[[Cerebral ischemia]]
-[[Umbilical cord]]
-[[infarct volume]]
-[[Blood-Brain Barrier]]
-[[Neurological Severity Scores]]

@@ -1,4 +1,0 @@
-[[Aptamer]]
-[[Syringe]]
-[[Nanosensors]]
-[[Colorimetric]]

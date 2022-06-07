@@ -1,5 +1,0 @@
-[[B7-1]]
-[[CD80]]
-[[SNPs]]
-[[Snp Analysis]]
-[[Structural Homology-based Analysis]]

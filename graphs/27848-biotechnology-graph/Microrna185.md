@@ -1,3 +1,0 @@
-[[Liposomes]]
-[[PEGylation]]
-[[Antisense oligonucleotide]]

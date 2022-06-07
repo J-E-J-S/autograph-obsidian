@@ -1,5 +1,0 @@
-[[Cross-regulation]]
-[[Pseudomonas Putida Nd6]]
-[[Catbiciai And Catbiiciiaii Operons]]
-[[Catechol Ortho-cleavage Pathway]]
-[[Evolution Of Catabolic Pathways]]

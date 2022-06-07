@@ -1,3 +1,0 @@
-[[Purification]]
-[[Separation]]
-[[Monascus pigments]]

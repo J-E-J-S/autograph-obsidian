@@ -1,8 +1,0 @@
-[[Expression vector]]
-[[Signal peptide]]
-[[Protein expression]]
-[[Post-translational modifications]]
-[[Culture conditions]]
-[[Lpmos]]
-[[Active-site Copper]]
-[[Auxiliary Activity]]

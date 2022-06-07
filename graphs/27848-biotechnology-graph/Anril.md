@@ -1,5 +1,0 @@
-[[Multiple sclerosis]]
-[[H19]]
-[[Hotair]]
-[[Nkila]]
-[[Thril]]

@@ -1,5 +1,0 @@
-[[Toxicity]]
-[[Degradation mechanism]]
-[[Photocatalytic degradation]]
-[[amoxicillin]]
-[[Go/tio2 Nanocomposite]]

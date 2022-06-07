@@ -1,3 +1,0 @@
-[[Telemedicine]]
-[[Anaesthetics]]
-[[Biotechnology & Bioinformatics]]

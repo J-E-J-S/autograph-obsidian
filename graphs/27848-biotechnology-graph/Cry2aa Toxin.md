@@ -1,5 +1,0 @@
-[[Genetic transformation]]
-[[Plant resistance]]
-[[Cowpea]]
-[[Maruca vitrata]]
-[[Maruca Pod Borer]]

@@ -1,7 +1,0 @@
-[[Composite]]
-[[Antibacterial activity]]
-[[Dispersant]]
-[[Cytocompatibility]]
-[[chitosan nanoparticles]]
-[[Bacterial Nanocellulose]]
-[[Template Effect]]

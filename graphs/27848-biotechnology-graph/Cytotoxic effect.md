@@ -1,5 +1,0 @@
-[[Antimicrobial activity]]
-[[Antioxidant activity]]
-[[Silver Nanoparticles]]
-[[Green Synthesis]]
-[[Ziziphus Nummularia]]

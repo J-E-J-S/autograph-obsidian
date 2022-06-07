@@ -1,7 +1,0 @@
-[[Correlation]]
-[[Pandemic]]
-[[Supply Chain]]
-[[Fuzzy Analytical Hierarchy Process (Fahp)]]
-[[Academicians-Industry Professionals Gap]]
-[[Manufacturing Sector]]
-[[‘Make In India’]]

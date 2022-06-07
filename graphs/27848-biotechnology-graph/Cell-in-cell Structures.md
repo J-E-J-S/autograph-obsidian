@@ -1,6 +1,0 @@
-[[Cell death]]
-[[Vinculin]]
-[[Actomyosin]]
-[[Adherens Junction]]
-[[Entosis]]
-[[Mechanical Ring]]

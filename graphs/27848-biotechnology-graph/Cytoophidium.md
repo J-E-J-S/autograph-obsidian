@@ -1,4 +1,0 @@
-[[Thymocyte]]
-[[glycolysis]]
-[[Impdh]]
-[[Ctps]]

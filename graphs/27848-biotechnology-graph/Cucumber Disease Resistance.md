@@ -1,2 +1,0 @@
-[[Defense enzyme]]
-[[Chitosan Priming]]

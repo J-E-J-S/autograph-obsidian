@@ -1,3 +1,0 @@
-[[BSA]]
-[[Chip-seq]]
-[[Nlr]]

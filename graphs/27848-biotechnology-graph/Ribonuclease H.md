@@ -1,3 +1,0 @@
-[[Oligonucleotide]]
-[[Antisense DNA]]
-[[Toxicogenetics]]

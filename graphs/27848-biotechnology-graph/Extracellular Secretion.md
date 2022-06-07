@@ -1,5 +1,0 @@
-[[Escherichia Coli]]
-[[Sucrose Phosphorylase]]
-[[Thermobacillus]]
-[[Cela]]
-[[Signal Recognition Particle-dependent Pathway]]

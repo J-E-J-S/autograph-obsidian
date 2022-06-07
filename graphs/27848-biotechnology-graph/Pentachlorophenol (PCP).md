@@ -1,5 +1,0 @@
-[[Allium cepa]]
-[[Reactive oxygen species]]
-[[DNA fragmentation]]
-[[Vigna Radiata]]
-[[Defense Mechanism]]

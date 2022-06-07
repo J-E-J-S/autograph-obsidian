@@ -1,3 +1,0 @@
-[[Europe]]
-[[Seafood]]
-[[Net Supply]]

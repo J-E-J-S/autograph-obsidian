@@ -1,5 +1,0 @@
-[[Co-culture]]
-[[Organic acid]]
-[[Sake Brewing]]
-[[Kocuria]]
-[[Ethanol Concentration]]

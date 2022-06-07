@@ -1,7 +1,0 @@
-[[Wastewater]]
-[[Antibacterial]]
-[[Nanoparticle]]
-[[Silver]]
-[[Green Synthesis]]
-[[Eco-friendly]]
-[[Banana Peels]]

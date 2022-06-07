@@ -1,5 +1,0 @@
-[[Receptivity]]
-[[Helicoverpa]]
-[[Calling]]
-[[Male Accessory Glands]]
-[[Pheromonostasis]]

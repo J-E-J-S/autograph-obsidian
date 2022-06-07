@@ -1,5 +1,0 @@
-[[Aspergillus niger]]
-[[Cloning]]
-[[Characterization]]
-[[Aminopeptidase]]
-[[Hydrolytic Property]]

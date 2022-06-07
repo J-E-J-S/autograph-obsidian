@@ -1,7 +1,0 @@
-[[Anthropometry]]
-[[somatotypes]]
-[[Health protection]]
-[[Personalized Medicine]]
-[[Innovative Technologies]]
-[[Nutrition Science]]
-[[Anthroponutritiology]]

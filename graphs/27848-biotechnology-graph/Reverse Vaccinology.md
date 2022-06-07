@@ -1,5 +1,0 @@
-[[Protection]]
-[[Proteomics]]
-[[Biofilm Vaccine]]
-[[Aeromonas Hydrophila Isolates]]
-[[Protective Protein]]

@@ -1,1 +1,0 @@
-[[Diabetes mellitus]]

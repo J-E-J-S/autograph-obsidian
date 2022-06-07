@@ -1,5 +1,0 @@
-[[MDA]]
-[[Wolbachia]]
-[[Vector Control]]
-[[Crispr]]
-[[Gene Editing]]

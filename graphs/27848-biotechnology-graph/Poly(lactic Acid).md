@@ -1,5 +1,0 @@
-[[Rheological properties]]
-[[3D Printing]]
-[[Poly(3-hydroxybutyrate-co-4-hydroxybutyrate)]]
-[[Fused Deposition Modelling]]
-[[Cupriavidus Malaysiensis]]

@@ -1,3 +1,0 @@
-[[Cassava]]
-[[Antimicrobial peptides]]
-[[Snakins]]

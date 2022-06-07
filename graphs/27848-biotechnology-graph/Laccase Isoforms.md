@@ -1,8 +1,0 @@
-[[Enzymatic degradation]]
-[[2,3,7,8-Tetrachlorodibenzo-p-dioxin]]
-[[Fungal Genome]]
-[[Lignin-modifying Enzymes]]
-[[Laccase Genes]]
-[[Effluent Treatment]]
-[[Cyathus Bulleri]]
-[[Dye Detoxification]]

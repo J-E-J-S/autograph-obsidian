@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Neomycin]]
-[[MTT assay]]
-[[Fea]]
-[[Vero]]
-[[Bhk21]]

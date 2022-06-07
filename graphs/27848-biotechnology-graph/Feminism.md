@@ -1,5 +1,0 @@
-[[Reproduction]]
-[[Sex differences]]
-[[Chirality]]
-[[Equipoise]]
-[[Ethics Of Clinical Research]]

@@ -1,6 +1,0 @@
-[[Methylene blue]]
-[[photochemical treatment]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Convalescent Plasma Therapy]]
-[[Plasma Virus Inactivation]]

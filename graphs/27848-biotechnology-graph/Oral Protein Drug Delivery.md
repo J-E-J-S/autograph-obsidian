@@ -1,5 +1,0 @@
-[[toxicology]]
-[[anaphylaxis]]
-[[Regulatory Approval]]
-[[Tolerance Induction]]
-[[Antibiotic Resistance Free Plants]]

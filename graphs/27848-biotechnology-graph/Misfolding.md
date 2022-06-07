@@ -1,5 +1,0 @@
-[[Yeast]]
-[[Biosensor]]
-[[Proteome]]
-[[Protein Aggregates]]
-[[Promoter Engineering]]

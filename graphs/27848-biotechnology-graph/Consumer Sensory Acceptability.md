@@ -1,7 +1,0 @@
-[[Fermentation]]
-[[lactobacillus]]
-[[Volatile Profile]]
-[[Watermelon Juice]]
-[[Sodium Chloride (Pubchem Cid: 5234)]]
-[[Acetic Acid (Pubchem Cid: 176)]]
-[[2-Octanol (Pubchem Cid: 20083)]]

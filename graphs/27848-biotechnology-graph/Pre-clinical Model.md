@@ -1,7 +1,0 @@
-[[Biomechanics]]
-[[Tensile strain]]
-[[Mechanobiology]]
-[[Fluid Shear]]
-[[Microphysiological Systems]]
-[[Biomechanical Stimulation]]
-[[Organ-on-chip]]

@@ -1,2 +1,0 @@
-[[Genetic evaluation]]
-[[Retrognathic Mandible]]

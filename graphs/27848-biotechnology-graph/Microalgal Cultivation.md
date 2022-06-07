@@ -1,7 +1,0 @@
-[[Environmental changes]]
-[[Sustainability]]
-[[polyculture]]
-[[Microbial consortium]]
-[[Functional Diversity]]
-[[Thermal Regime]]
-[[Algal Productivity]]

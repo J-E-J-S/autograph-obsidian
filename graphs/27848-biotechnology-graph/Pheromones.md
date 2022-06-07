@@ -1,6 +1,0 @@
-[[Diptera]]
-[[Tephritidae]]
-[[Fruit flies]]
-[[Semiochemicals]]
-[[Electroantennography]]
-[[Attractant Formulations]]

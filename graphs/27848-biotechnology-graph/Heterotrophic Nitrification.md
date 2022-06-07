@@ -1,7 +1,0 @@
-[[Constructed wetlands]]
-[[Aerobic denitrification]]
-[[Anaerobic ammonium oxidation]]
-[[Aerobic denitrification]]
-[[Psychrotolerant]]
-[[Bacillus Simplex]]
-[[Nitrogen Contaminated Wastewater Treatment]]

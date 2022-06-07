@@ -1,3 +1,0 @@
-[[Symbiosis]]
-[[Alphaproteobacteria]]
-[[Midichloria Mitochondrii]]

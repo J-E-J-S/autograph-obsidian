@@ -1,7 +1,0 @@
-[[Biotechnology]]
-[[Biological nitrogen fixation]]
-[[Restoration ecology]]
-[[Soil fertilization]]
-[[Microbial ecology]]
-[[Diazotrophs]]
-[[Biofertilization]]

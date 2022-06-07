@@ -1,5 +1,0 @@
-[[Biosynthesis]]
-[[Saponins]]
-[[Extraction]]
-[[herbal drugs]]
-[[Anti-viral]]

@@ -1,5 +1,0 @@
-[[Protease]]
-[[Expression]]
-[[Homology modeling]]
-[[Laundry Detergent]]
-[[Gracilibacillus Boraciitolerans]]

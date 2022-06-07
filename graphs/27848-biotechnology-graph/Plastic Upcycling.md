@@ -1,5 +1,0 @@
-[[Metabolic network]]
-[[Pseudomonas putida]]
-[[Polyhydroxyalkanoate]]
-[[metabolic engineering]]
-[[Adipic Acid]]

@@ -1,4 +1,0 @@
-[[Infection]]
-[[Complication]]
-[[amputation]]
-[[Prosthesis]]

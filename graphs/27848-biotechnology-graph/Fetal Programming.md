@@ -1,3 +1,0 @@
-[[Placenta]]
-[[Atherosclerosis]]
-[[Maternal Hypercholesterolemia]]

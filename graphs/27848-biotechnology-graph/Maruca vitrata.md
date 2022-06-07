@@ -1,5 +1,0 @@
-[[Genetic transformation]]
-[[Plant resistance]]
-[[Cowpea]]
-[[Cry2aa Toxin]]
-[[Maruca Pod Borer]]

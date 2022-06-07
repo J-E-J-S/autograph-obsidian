@@ -1,2 +1,0 @@
-[[Ecofriendly Solvent]]
-[[Ulvan Nanofibers]]

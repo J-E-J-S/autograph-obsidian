@@ -1,5 +1,0 @@
-[[Calmodulin (CaM)]]
-[[Moonlighting Protein]]
-[[Phosphodiesterase (Pde)]]
-[[Adenylate Cyclase (Ac)]]
-[[Ac-Pde Activity]]

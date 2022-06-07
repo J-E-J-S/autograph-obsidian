@@ -1,5 +1,0 @@
-[[Liver]]
-[[Reperfusion]]
-[[Ischemia]]
-[[Optical Biopsy]]
-[[Bichromophore]]

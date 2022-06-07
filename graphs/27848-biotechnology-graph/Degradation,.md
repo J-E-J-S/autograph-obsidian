@@ -1,6 +1,0 @@
-[[Lin Genes]]
-[[Stress,]]
-[[Pesticide,]]
-[[Sphingobium Indicum B90a,]]
-[[Hexachlorocyclohexane,]]
-[[Proteomics,]]

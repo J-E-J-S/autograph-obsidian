@@ -1,6 +1,0 @@
-[[Germination]]
-[[Chemotaxis]]
-[[Inhibition]]
-[[Resting spore]]
-[[Encystment]]
-[[Zoospore]]

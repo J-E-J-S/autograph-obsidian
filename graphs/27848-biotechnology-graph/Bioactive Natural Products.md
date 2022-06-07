@@ -1,5 +1,0 @@
-[[Endophytes]]
-[[Bioactive compounds]]
-[[drug discovery]]
-[[Phomopsis Sp.]]
-[[Diaporthe Sp.]]

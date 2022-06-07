@@ -1,7 +1,0 @@
-[[Evolution]]
-[[Parthenogenesis]]
-[[Feminization]]
-[[Wolbachia]]
-[[Cytoplasmic incompatibility]]
-[[Vector Control]]
-[[Phage Wo]]

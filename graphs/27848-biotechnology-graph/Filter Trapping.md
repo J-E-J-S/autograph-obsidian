@@ -1,5 +1,0 @@
-[[Heparin]]
-[[Capillary electrophoresis]]
-[[Mass spectrometry]]
-[[Antithrombin III]]
-[[Heparin-binding Proteins]]

@@ -1,3 +1,0 @@
-[[Telomerase]]
-[[Plant]]
-[[Telomere]]

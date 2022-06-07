@@ -1,7 +1,0 @@
-[[Abscisic acid]]
-[[Gibberellic acid]]
-[[Seed germination]]
-[[Transcriptional regulation]]
-[[chromatin]]
-[[Histones]]
-[[Somatic Stress-induced Memory]]

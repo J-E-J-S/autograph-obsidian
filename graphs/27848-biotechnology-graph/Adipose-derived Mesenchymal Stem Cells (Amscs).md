@@ -1,5 +1,0 @@
-[[Differentiation]]
-[[Cell cycle]]
-[[Proliferation]]
-[[Ciliary Neurotrophic Factor (Cntf)]]
-[[Retinoblastoma (Y79)]]

@@ -1,5 +1,0 @@
-[[Strain]]
-[[ER stress]]
-[[Waterborne Cadmium]]
-[[HepG2 cells]]
-[[Wheat Germ Polysaccharide]]

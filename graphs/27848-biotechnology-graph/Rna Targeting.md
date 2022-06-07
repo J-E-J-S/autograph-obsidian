@@ -1,7 +1,0 @@
-[[RNA editing]]
-[[Plant virus]]
-[[Plant Biotechnology]]
-[[Mrna Interference]]
-[[Antiviral Protection]]
-[[Crispr-cas13]]
-[[Transcriptome Editing]]

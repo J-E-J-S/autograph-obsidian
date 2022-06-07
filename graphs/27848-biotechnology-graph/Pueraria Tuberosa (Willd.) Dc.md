@@ -1,5 +1,0 @@
-[[Drosophila melanogaster]]
-[[Alzheimer's disease]]
-[[Molecular docking]]
-[[MD simulation]]
-[[Bace1]]

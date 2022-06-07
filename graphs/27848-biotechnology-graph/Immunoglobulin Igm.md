@@ -1,5 +1,0 @@
-[[Phage display]]
-[[serological diagnosis]]
-[[Immunophenotyping]]
-[[Nanobody]]
-[[Immunoassay/elisa]]

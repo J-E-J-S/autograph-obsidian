@@ -1,8 +1,0 @@
-[[risk management]]
-[[Safe-by-design]]
-[[Gmo Regulation]]
-[[Forward-looking Responsibility]]
-[[Genetic engineering]]
-[[Climate change]]
-[[Regulation]]
-[[Genome Editing]]

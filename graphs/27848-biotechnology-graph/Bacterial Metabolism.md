@@ -1,5 +1,0 @@
-[[Probiotics]]
-[[Prebiotics]]
-[[Streptococcus Salivarius]]
-[[Oral Microbiota]]
-[[Tapioca Starch]]

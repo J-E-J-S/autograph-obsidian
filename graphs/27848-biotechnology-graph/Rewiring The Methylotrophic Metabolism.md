@@ -1,5 +1,0 @@
-[[NADPH]]
-[[3-Hydroxypropionic Acid]]
-[[Ribulose Monophosphate Cycle]]
-[[Methylorubrum Extorquens]]
-[[Synergistic Methanol Assimilation]]

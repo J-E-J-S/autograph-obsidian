@@ -1,5 +1,0 @@
-[[Sperm]]
-[[Early embryonic development]]
-[[Bovine]]
-[[Sept7]]
-[[Mir-202]]

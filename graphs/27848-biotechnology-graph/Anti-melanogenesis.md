@@ -1,5 +1,0 @@
-[[Keratinocytes]]
-[[ROS]]
-[[Ellagic acid]]
-[[Melanoma cells]]
-[[Autophagy]]

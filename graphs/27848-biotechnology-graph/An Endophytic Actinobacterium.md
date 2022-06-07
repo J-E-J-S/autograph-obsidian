@@ -1,1 +1,0 @@
-[[Pseudonocardia Pini Sp. Nov.]]

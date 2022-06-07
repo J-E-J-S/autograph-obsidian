@@ -1,5 +1,0 @@
-[[Monoclonal antibodies]]
-[[Artificial intelligence]]
-[[Machine Learning]]
-[[Antibody Discovery]]
-[[Animal Immunization]]

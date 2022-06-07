@@ -1,2 +1,0 @@
-[[psychrophiles]]
-[[Thermophiles]]

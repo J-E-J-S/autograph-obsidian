@@ -1,4 +1,0 @@
-[[Methylparaben]]
-[[Thigmotaxis]]
-[[Ethylparaben]]
-[[Butylparaben]]

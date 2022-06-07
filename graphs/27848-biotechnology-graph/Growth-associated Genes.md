@@ -1,6 +1,0 @@
-[[Penaeus monodon]]
-[[Transcriptomics]]
-[[Pacbio]]
-[[Hi-c]]
-[[Black Tiger Shrimp]]
-[[Reference Genome]]

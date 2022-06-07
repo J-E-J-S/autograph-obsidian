@@ -1,3 +1,0 @@
-[[Microalgae]]
-[[Mixing]]
-[[Microbioreactor]]

@@ -1,5 +1,0 @@
-[[Bioremediation]]
-[[Phytoremediation]]
-[[volatile organic compounds]]
-[[biological methods]]
-[[Toxic Pollutants]]

@@ -1,5 +1,0 @@
-[[Process Economics]]
-[[Cost Of Goods]]
-[[Chemistry, Manufacturing And Controls]]
-[[Monoclonal Antibody Manufacture]]
-[[End-to-end Continuous Processing]]

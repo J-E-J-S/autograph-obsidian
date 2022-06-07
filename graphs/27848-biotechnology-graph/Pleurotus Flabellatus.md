@@ -1,4 +1,0 @@
-[[Cytotoxicity]]
-[[Genotoxicity]]
-[[antioxidative]]
-[[antifungal]]

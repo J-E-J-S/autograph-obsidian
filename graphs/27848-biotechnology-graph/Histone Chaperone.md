@@ -1,7 +1,0 @@
-[[Development]]
-[[Implantation]]
-[[CDX2]]
-[[Cdh1]]
-[[Aplf]]
-[[Sflt1]]
-[[Ts Cells]]

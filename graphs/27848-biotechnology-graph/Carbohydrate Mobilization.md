@@ -1,5 +1,0 @@
-[[AMF]]
-[[Biofertilizer]]
-[[water deficit]]
-[[Soybean yield]]
-[[Seed Metabolism]]

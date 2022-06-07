@@ -1,5 +1,0 @@
-[[Staphylococcus aureus]]
-[[Virulence]]
-[[Small RNA]]
-[[Autolysin]]
-[[Sprx]]

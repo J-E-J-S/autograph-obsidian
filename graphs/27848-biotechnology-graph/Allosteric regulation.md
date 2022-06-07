@@ -1,5 +1,0 @@
-[[Neural tube defects]]
-[[SNP]]
-[[Electron Transport Chain]]
-[[Mtrr]]
-[[Functional Dynamics]]

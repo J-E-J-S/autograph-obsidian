@@ -1,5 +1,0 @@
-[[Congo red]]
-[[Bromocresol Purple]]
-[[Dye-decolorization]]
-[[Commassie Brilliant Blue]]
-[[Sarranine]]

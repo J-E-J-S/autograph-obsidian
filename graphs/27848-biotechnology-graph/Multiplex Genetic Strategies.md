@@ -1,2 +1,0 @@
-[[Bacillus amyloliquefaciens]]
-[[Crispr]]

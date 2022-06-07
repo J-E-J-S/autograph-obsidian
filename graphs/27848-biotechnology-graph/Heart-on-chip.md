@@ -1,4 +1,0 @@
-[[Heart]]
-[[Maturation]]
-[[Perfusion]]
-[[Mechanotransduction]]

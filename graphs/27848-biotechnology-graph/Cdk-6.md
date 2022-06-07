@@ -1,5 +1,0 @@
-[[Cancer]]
-[[bcl-2]]
-[[Puerarin]]
-[[doxorubicin]]
-[[Anti-cancer]]

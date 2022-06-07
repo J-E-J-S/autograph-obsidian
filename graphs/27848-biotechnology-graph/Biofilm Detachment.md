@@ -1,5 +1,0 @@
-[[Vibrio alginolyticus]]
-[[Gene Expression]]
-[[cell density]]
-[[Rpon]]
-[[Biofilm Formation]]

@@ -1,5 +1,0 @@
-[[Pig]]
-[[Estrous cycle]]
-[[Early pregnancy]]
-[[Ovarian Steroidogenesis]]
-[[Steroid Hormones Secretion]]

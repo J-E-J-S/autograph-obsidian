@@ -1,2 +1,0 @@
-[[Cytokines]]
-[[Inflammation]]

@@ -1,6 +1,0 @@
-[[Microalgae]]
-[[Cyclooxygenase]]
-[[Polyunsaturated fatty acid]]
-[[Fistulifera Solaris]]
-[[Lepidoptera]]
-[[Prostaglandin E Synthase]]

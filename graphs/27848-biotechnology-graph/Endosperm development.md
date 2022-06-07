@@ -1,2 +1,0 @@
-[[Maize]]
-[[Transcriptional Regulatory Network]]

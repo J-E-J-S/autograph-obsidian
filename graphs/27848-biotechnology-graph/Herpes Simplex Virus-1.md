@@ -1,5 +1,0 @@
-[[Vaccine]]
-[[Immunity]]
-[[Envelope glycoprotein]]
-[[Immunoinformatics]]
-[[Herpes Simplex Virus-2]]

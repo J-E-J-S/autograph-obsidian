@@ -1,2 +1,0 @@
-[[Candida Spp]]
-[[Antibiofilm Activity]]

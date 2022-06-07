@@ -1,5 +1,0 @@
-[[Biotransformation]]
-[[Gas chromatography]]
-[[Phenol,2,4-bis(1,1-dimethylethyl)]]
-[[Mordant Black 11 Dye (Eriochrome Black T)]]
-[[Valeraldehyde,2,4-dimethyl]]

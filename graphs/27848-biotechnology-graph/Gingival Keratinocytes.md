@@ -1,6 +1,0 @@
-[[Estradiol]]
-[[Bisphenol A]]
-[[Indirect immunofluorescence]]
-[[Gene Expression]]
-[[Bisphenol F]]
-[[Bisphenol S]]

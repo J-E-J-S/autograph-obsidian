@@ -1,5 +1,0 @@
-[[Carotenoids]]
-[[Ultraviolet radiation]]
-[[Melanin]]
-[[Extremophiles]]
-[[Photoprotective Compounds]]

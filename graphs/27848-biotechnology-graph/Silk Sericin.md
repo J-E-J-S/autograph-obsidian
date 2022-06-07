@@ -1,7 +1,0 @@
-[[Antibacterial activity]]
-[[Green Synthesis]]
-[[Ss-agnps]]
-[[hydrogels]]
-[[Glycosaminoglycans]]
-[[Skin Repair]]
-[[Growth Factors Delivery]]

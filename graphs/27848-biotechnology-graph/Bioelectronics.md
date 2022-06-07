@@ -1,8 +1,0 @@
-[[Bioremediation]]
-[[Nanotechnology]]
-[[Geobacter]]
-[[Extracellular Electron Transfer]]
-[[Type Iv Pili]]
-[[Data fusion]]
-[[Multiplexed Biosensors]]
-[[Biodevices]]

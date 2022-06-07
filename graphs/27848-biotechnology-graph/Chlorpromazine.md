@@ -1,6 +1,0 @@
-[[PI3K]]
-[[Oral Cancer]]
-[[Autophagy]]
-[[Mtor]]
-[[AKT]]
-[[P70s6k Pathway]]

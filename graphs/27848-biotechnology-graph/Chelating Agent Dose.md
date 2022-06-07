@@ -1,3 +1,0 @@
-[[Phytoremediation]]
-[[Radionuclides]]
-[[Constrained Optimization]]

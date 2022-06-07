@@ -1,7 +1,0 @@
-[[Sugar]]
-[[Roasting]]
-[[Coffee]]
-[[Water type]]
-[[Mesh size]]
-[[5-Hmf]]
-[[Brewing Method]]

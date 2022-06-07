@@ -1,6 +1,0 @@
-[[E. coli]]
-[[Genetic stability]]
-[[Adaptive evolution]]
-[[Chemostat cultivation]]
-[[Long-term Stability]]
-[[Fab Fragments]]

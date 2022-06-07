@@ -1,4 +1,0 @@
-[[Diet]]
-[[Microbiota]]
-[[Breastfeeding]]
-[[Xenobiotic]]

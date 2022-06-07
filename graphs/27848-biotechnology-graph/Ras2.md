@@ -1,5 +1,0 @@
-[[Signaling]]
-[[Pathogenicity]]
-[[GTPase]]
-[[Pinus Patula]]
-[[Fusarium Circinatum]]

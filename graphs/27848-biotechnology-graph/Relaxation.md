@@ -1,8 +1,0 @@
-[[Fruits]]
-[[Agriculture]]
-[[Starch]]
-[[Food]]
-[[Oil]]
-[[vegetables]]
-[[Biofuels]]
-[[Td-nmr]]

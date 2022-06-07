@@ -1,2 +1,0 @@
-[[Corynebacterium glutamicum]]
-[[Glutamate decarboxylase]]

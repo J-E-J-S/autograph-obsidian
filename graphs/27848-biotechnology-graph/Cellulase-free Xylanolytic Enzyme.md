@@ -1,5 +1,0 @@
-[[Glucose]]
-[[Bacillus firmus]]
-[[Xylooligosaccharide]]
-[[Biological Pretreatment]]
-[[Corn Cob]]

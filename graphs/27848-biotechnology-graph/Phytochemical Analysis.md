@@ -1,5 +1,0 @@
-[[Seeds]]
-[[Chemotaxonomy]]
-[[Plantaginaceae]]
-[[New Population]]
-[[Plantago Ovata Forssk.]]

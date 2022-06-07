@@ -1,5 +1,0 @@
-[[Ulcerative colitis]]
-[[Colorectal Cancer]]
-[[NRF2]]
-[[Gut Microbiota]]
-[[Inflammatory Bowel Diseases]]

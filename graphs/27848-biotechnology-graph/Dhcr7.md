@@ -1,6 +1,0 @@
-[[Vitamin D]]
-[[SNP]]
-[[acute coronary syndrome]]
-[[Nadsyn1]]
-[[Rs11606033]]
-[[Rs2276360]]

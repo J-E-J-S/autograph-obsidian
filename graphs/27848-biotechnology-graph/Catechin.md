@@ -1,8 +1,0 @@
-[[Azadirachta indica]]
-[[Quorum sensing]]
-[[Antibiofilm]]
-[[Epicatechin]]
-[[Rutin]]
-[[Diabetes]]
-[[Simplex-centroid Design]]
-[[Mixture Design Experiment]]

@@ -1,8 +1,0 @@
-[[BDNF]]
-[[Anxiety-like behavior]]
-[[Ethanol Withdrawal]]
-[[Depression-like Behavior]]
-[[Puerariae Flos Extract]]
-[[adiponectin]]
-[[Adiponectin Receptor]]
-[[Eurasian Beaver]]

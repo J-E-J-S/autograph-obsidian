@@ -1,5 +1,0 @@
-[[Pathway analysis]]
-[[Go Analysis]]
-[[Three-layer Network]]
-[[Topology Attributes]]
-[[Monolayer Network]]

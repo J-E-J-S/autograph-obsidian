@@ -1,6 +1,0 @@
-[[Poultry]]
-[[Mannan]]
-[[Inflammation]]
-[[Immunity]]
-[[Intestinal Integrity]]
-[[Yeast Cell Wall]]

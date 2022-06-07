@@ -1,2 +1,0 @@
-[[Self-assembly]]
-[[Gas Vesicles]]

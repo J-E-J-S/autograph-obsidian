@@ -1,3 +1,0 @@
-[[Inhibitory]]
-[[Meroterpenes]]
-[[Dgat]]

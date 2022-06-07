@@ -1,3 +1,0 @@
-[[Yeast]]
-[[Compartmentalization]]
-[[Vacuolar Transporter]]

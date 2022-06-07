@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Zebrafish]]
-[[Ovarian cancer]]

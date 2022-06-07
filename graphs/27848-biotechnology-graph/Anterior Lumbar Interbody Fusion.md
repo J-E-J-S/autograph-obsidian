@@ -1,5 +1,0 @@
-[[Finite element]]
-[[Whole Body Vibration]]
-[[Cage Subsidence]]
-[[Lumbar Biomechanics]]
-[[Supplementary Fixation]]

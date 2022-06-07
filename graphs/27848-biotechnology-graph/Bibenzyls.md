@@ -1,3 +1,0 @@
-[[Tropolone]]
-[[Dendrobium Gratiossimum]]
-[[Dengratiols]]

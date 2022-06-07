@@ -1,5 +1,0 @@
-[[Gene therapy]]
-[[CNS]]
-[[Vectors]]
-[[AAV]]
-[[Neurodegenerative disorder]]

@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Spinal cord injury]]
-[[Inflammatory Response]]
-[[Neuronal Loss]]
-[[Astrocyte Activation]]
-[[Cisd2]]
-[[Cryogen Spray Cooling]]

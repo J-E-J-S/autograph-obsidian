@@ -1,3 +1,0 @@
-[[Proteomics]]
-[[Hevea brasiliensis]]
-[[Metabolomics]]

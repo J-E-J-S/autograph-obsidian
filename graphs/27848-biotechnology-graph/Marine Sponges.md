@@ -1,4 +1,0 @@
-[[Bromotyrosine]]
-[[Suberea]]
-[[Ianthelliformisamines]]
-[[Subereamines]]

@@ -1,5 +1,0 @@
-[[Activities]]
-[[Carbon source]]
-[[Structural properties]]
-[[Inonotus obliquus]]
-[[liquid fermentation]]

@@ -1,8 +1,0 @@
-[[Antibiotic]]
-[[Vaccine]]
-[[Antimicrobial resistance]]
-[[Diphtheria]]
-[[Cholera]]
-[[Patents]]
-[[Eskape]]
-[[Traveller’s Diarrhea]]

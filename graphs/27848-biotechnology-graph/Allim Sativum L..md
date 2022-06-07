@@ -1,2 +1,0 @@
-[[Molecular docking]]
-[[In silico]]

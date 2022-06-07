@@ -1,6 +1,0 @@
-[[Seasonal dynamics]]
-[[community composition]]
-[[Climate warming]]
-[[Quercus Robur]]
-[[Foliar Fungal Community]]
-[[Warming-by-genotype Interaction]]

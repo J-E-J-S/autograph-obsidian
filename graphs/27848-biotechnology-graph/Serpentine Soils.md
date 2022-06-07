@@ -1,5 +1,0 @@
-[[Endophytic fungi]]
-[[Hyperaccumulators]]
-[[Ni]]
-[[Irt1]]
-[[Irt2]]

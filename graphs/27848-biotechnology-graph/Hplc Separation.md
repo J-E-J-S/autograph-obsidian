@@ -1,3 +1,0 @@
-[[Synthesis]]
-[[Degradation]]
-[[Fluorescence Changes]]

@@ -1,5 +1,0 @@
-[[Protease]]
-[[Laccase]]
-[[Thermophilic]]
-[[Agro-industrial Residues]]
-[[Alkali-stable]]

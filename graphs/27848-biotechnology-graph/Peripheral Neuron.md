@@ -1,4 +1,0 @@
-[[ATP]]
-[[Keratinocyte]]
-[[SKin]]
-[[hydrogel]]

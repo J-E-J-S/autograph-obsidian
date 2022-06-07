@@ -1,2 +1,0 @@
-[[Ganciclovir]]
-[[Dnaemia]]

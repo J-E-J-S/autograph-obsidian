@@ -1,6 +1,0 @@
-[[Bioinformatics]]
-[[Genomics]]
-[[Rna-seq]]
-[[Transcriptomics]]
-[[Hpc]]
-[[Alternative Splicing Sites]]

@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Neurodegenerative diseases]]
-[[Mitochondrial Dynamics]]
-[[Ca(2+) Homeostasis]]
-[[Mitochondrial Axonal Transport]]

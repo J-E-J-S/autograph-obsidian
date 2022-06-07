@@ -1,5 +1,0 @@
-[[Cross-pollination]]
-[[Helicoverpa zea]]
-[[Refuge In A Bag]]
-[[Seed Blend]]
-[[Refuge Mandates]]

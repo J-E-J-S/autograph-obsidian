@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Heat stress]]
-[[Ceramide]]

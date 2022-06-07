@@ -1,5 +1,0 @@
-[[Nanobiotechnology]]
-[[Magnetotactic bacteria]]
-[[Magnetic Nanoparticles]]
-[[Iron Oxide Nanoparticles]]
-[[Microbial Nanoparticles Production]]

@@ -1,5 +1,0 @@
-[[Parasitism]]
-[[Meloidogyne incognita]]
-[[Transgenics]]
-[[Host-induced Gene Silencing]]
-[[Micro Rna-induced Gene Silencing]]

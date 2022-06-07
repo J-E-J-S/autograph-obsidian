@@ -1,8 +1,0 @@
-[[Stability]]
-[[Temperature]]
-[[Cold storage]]
-[[Spike protein]]
-[[ACE2]]
-[[Sars-cov-2]]
-[[D614g Mutation]]
-[[D614 Variant]]

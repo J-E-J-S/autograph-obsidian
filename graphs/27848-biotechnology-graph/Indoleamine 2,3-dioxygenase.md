@@ -1,6 +1,0 @@
-[[Kinetics]]
-[[Molecular evolution]]
-[[Methylene blue]]
-[[Ascorbate]]
-[[Autoxidation]]
-[[Tryptophan 2,3-Dioxygenase]]

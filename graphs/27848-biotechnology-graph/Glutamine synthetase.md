@@ -1,5 +1,0 @@
-[[CHO cells]]
-[[industrial biotechnology]]
-[[Site specific integration]]
-[[Bioprocess Development]]
-[[Gene Expression Systems]]

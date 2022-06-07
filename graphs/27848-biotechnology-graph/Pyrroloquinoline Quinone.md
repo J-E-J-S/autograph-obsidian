@@ -1,5 +1,0 @@
-[[Enzyme]]
-[[glycerol]]
-[[Dihydroxyacetone]]
-[[Pacbio Rs Ii]]
-[[Gluconobacter Thailandicus]]

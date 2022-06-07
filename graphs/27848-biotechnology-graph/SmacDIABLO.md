@@ -1,6 +1,0 @@
-[[Mitochondria]]
-[[Phospholipids]]
-[[Cancer]]
-[[Smac/DIABLO]]
-[[PSD]]
-[[Phosphatidylethanolamine Synthesis]]

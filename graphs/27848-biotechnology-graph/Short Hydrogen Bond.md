@@ -1,2 +1,0 @@
-[[Intrinsic fluorescence]]
-[[Ultraviolet Fluorescence]]

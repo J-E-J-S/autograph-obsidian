@@ -1,3 +1,0 @@
-[[Optimization]]
-[[GABA]]
-[[Pedioccocus Pentosaceus]]

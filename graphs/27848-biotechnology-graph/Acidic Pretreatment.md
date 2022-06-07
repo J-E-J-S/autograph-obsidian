@@ -1,5 +1,0 @@
-[[GC-MS analysis]]
-[[Organic matter]]
-[[Industrial Wastewater]]
-[[Bioinsecticide Production]]
-[[Photorhabdus Temperata]]

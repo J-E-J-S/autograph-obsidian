@@ -1,5 +1,0 @@
-[[Malaria]]
-[[Artemisinin]]
-[[Antimalarial Agents]]
-[[Hybrid Molecules]]
-[[Falcipain-2]]

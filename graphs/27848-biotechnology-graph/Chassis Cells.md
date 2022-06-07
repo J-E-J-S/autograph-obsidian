@@ -1,5 +1,0 @@
-[[biosafety]]
-[[Synthetic Biology]]
-[[Microbial Cell Factories]]
-[[Industrial Microorganism]]
-[[Non-model Microorganisms]]

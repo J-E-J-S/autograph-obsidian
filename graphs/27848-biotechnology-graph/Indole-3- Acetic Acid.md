@@ -1,6 +1,0 @@
-[[Comparative genomics]]
-[[Siderophore]]
-[[Western Himalaya]]
-[[Phylo-taxono-genomics]]
-[[Lahaul]]
-[[Non-ribosomal Peptide-synthetase (Nrps)]]

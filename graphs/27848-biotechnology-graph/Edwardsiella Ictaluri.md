@@ -1,6 +1,0 @@
-[[Comparative genomics]]
-[[Complete genome]]
-[[Biomarkers]]
-[[Vaccine Candidates]]
-[[Pangenome Analysis]]
-[[Host-specific Genotypes]]

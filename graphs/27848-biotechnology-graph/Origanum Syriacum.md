@@ -1,5 +1,0 @@
-[[Lipoxygenase]]
-[[Inflammation]]
-[[Cyclooxygenase]]
-[[Salvia Lanigera]]
-[[Secretoryphospholipasea2]]

@@ -1,5 +1,0 @@
-[[Lipoprotein]]
-[[Biofilm]]
-[[Quorum sensing]]
-[[Streptococcus Gordonii]]
-[[Luxs/ai-2]]

@@ -1,4 +1,0 @@
-[[Diatoms]]
-[[Genomics]]
-[[Transcriptomics]]
-[[Omics]]

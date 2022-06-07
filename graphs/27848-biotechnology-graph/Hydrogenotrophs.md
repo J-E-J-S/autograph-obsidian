@@ -1,5 +1,0 @@
-[[Microbial community]]
-[[Thermophiles]]
-[[Chloroflexi]]
-[[Coal Gases]]
-[[Candidatus Udaeobacter]]

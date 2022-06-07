@@ -1,5 +1,0 @@
-[[Mortierella alpina]]
-[[Lipid accumulation]]
-[[Nad+-isocitrate Dehydrogenase]]
-[[GABA shunt]]
-[[Citrate-oxoglutarate Carrier]]

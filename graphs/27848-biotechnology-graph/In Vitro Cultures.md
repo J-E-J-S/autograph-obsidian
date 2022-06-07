@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Secondary metabolites]]
-[[Plants-medicinal]]
-[[Covid-19]]
-[[Sars-cov-2]]

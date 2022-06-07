@@ -1,3 +1,0 @@
-[[Bioactivity]]
-[[photocatalysis]]
-[[Silver Nanoparticles]]

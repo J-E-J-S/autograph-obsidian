@@ -1,6 +1,0 @@
-[[Staphylococcus]]
-[[ACNE]]
-[[SKin]]
-[[Microbiome]]
-[[16s Rrna Gene Sequencing]]
-[[Mycobiome]]

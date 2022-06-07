@@ -1,6 +1,0 @@
-[[Rice]]
-[[Photoperiod]]
-[[anther development]]
-[[Myb Transcription Factor]]
-[[Sugar Partitioning]]
-[[Carbon Starved Anther]]

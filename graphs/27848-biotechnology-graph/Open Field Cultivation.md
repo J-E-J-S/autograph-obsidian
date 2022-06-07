@@ -1,5 +1,0 @@
-[[Greenhouse]]
-[[Process Monitoring]]
-[[Plant-made Pharmaceuticals]]
-[[Indoor Farming]]
-[[Vertical Farming Unit]]

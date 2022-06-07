@@ -1,6 +1,0 @@
-[[FMDV]]
-[[Immunoreactivity]]
-[[Bacterial Gene Expression]]
-[[Insolubility]]
-[[Recombinant 3Ab]]
-[[3C Removal]]

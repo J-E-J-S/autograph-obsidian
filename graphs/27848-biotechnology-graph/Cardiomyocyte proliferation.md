@@ -1,7 +1,0 @@
-[[Laminin]]
-[[Heart regeneration]]
-[[YAP]]
-[[Agrin]]
-[[Dystroglycan]]
-[[Hippo Pathway]]
-[[Dystrophin-glycoprotein Complex]]

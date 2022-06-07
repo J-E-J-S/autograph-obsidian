@@ -1,8 +1,0 @@
-[[Corncob]]
-[[Furfuryl Alcohol]]
-[[Recombinant E. Coli Cg-19]]
-[[Sn-zeolite Catalyst]]
-[[Dehydrogenase]]
-[[Ethanol tolerance]]
-[[Peptidase]]
-[[Lactobacillus Buchneri]]

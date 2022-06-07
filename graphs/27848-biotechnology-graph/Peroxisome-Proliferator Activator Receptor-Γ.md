@@ -1,5 +1,0 @@
-[[Helicobacter Pylori]]
-[[Reactive oxygen species]]
-[[Invasion]]
-[[Gastric epithelial cells]]
-[[matrix metalloproteinases]]

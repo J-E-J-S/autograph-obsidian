@@ -1,5 +1,0 @@
-[[Antibacterial activity]]
-[[Photocatalyst]]
-[[Solvothermal Method]]
-[[Reusability]]
-[[Activated Carbon Fibers]]

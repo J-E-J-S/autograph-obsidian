@@ -1,5 +1,0 @@
-[[Microsatellites]]
-[[Wing Geometric Morphometrics]]
-[[L-lineage]]
-[[Apis Mellifera Unicolor]]
-[[Coi-coii]]

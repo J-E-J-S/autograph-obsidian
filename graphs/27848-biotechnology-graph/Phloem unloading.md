@@ -1,5 +1,0 @@
-[[Cytokinin]]
-[[ABC transporter]]
-[[Long-distance Transport]]
-[[Apoplastic Pathway]]
-[[Shoot Distribution]]

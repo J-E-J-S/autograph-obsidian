@@ -1,2 +1,0 @@
-[[Geobacter]]
-[[Extracellular Electron Transfer]]

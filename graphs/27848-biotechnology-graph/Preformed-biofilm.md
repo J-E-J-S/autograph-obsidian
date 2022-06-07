@@ -1,8 +1,0 @@
-[[Curcumin]]
-[[Antimicrobial resistance]]
-[[Rat model]]
-[[Antimicrobial Photodynamic Therapy (Apdt)]]
-[[Skin Abrasion]]
-[[Cytokine Profiling]]
-[[Blue Laser Light]]
-[[Vancomycin Resistant Staphylococcus Aureus (Vrsa)]]

@@ -1,5 +1,0 @@
-[[Ngs]]
-[[Adulteration]]
-[[Mini-barcode]]
-[[Meta-barcoding]]
-[[Natural Medicine/herbal Formulation]]

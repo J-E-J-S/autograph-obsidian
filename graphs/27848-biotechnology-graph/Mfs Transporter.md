@@ -1,5 +1,0 @@
-[[Organic acid]]
-[[Differential gene expression]]
-[[Non-conventional Yeast]]
-[[Membrane Transport Protein]]
-[[Isocitric Acid]]

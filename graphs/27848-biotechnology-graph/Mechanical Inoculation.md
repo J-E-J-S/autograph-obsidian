@@ -1,5 +1,0 @@
-[[Virus-induced gene silencing]]
-[[Coccinia grandis]]
-[[Agroinfiltration]]
-[[Photobleaching]]
-[[Apple Latent Spherical Virus]]

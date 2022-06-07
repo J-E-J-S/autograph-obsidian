@@ -1,5 +1,0 @@
-[[Classification]]
-[[Evolutionary significance]]
-[[Mutational Analysis]]
-[[Protein Domain Analysis]]
-[[Mammalian Shsps]]

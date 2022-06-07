@@ -1,8 +1,0 @@
-[[Cell culture]]
-[[Phenolic compounds]]
-[[Phenolic acids]]
-[[Anti-inflammatory agents]]
-[[Dietary (Poly)phenols]]
-[[Inosine]]
-[[Uric acid]]
-[[Hyperuricaemia]]

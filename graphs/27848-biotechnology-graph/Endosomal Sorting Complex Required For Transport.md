@@ -1,5 +1,0 @@
-[[Atherosclerosis]]
-[[Vascular smooth muscle cells]]
-[[Chronic Kidney Disease]]
-[[Exosomes]]
-[[Coronary Artery Calcification]]

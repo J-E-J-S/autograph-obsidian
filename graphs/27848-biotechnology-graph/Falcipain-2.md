@@ -1,5 +1,0 @@
-[[Malaria]]
-[[Artemisinin]]
-[[Antimalarial Agents]]
-[[Hybrid Molecules]]
-[[Peptidyl Vinyl Phosphonate]]

@@ -1,5 +1,0 @@
-[[schistosomiasis]]
-[[Structure-guided Drug Design]]
-[[Triazine Dyes]]
-[[Affinity Labelling]]
-[[Cibacron Blue 3Ga]]

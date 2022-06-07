@@ -1,5 +1,0 @@
-[[Coronavirus]]
-[[Hcov-oc43]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Carrimycin]]

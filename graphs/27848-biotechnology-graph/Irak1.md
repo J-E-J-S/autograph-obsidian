@@ -1,7 +1,0 @@
-[[MicroRNA]]
-[[negative regulation]]
-[[Innate Immune]]
-[[Rainbow trout]]
-[[MyD88]]
-[[Traf6]]
-[[Irak4]]

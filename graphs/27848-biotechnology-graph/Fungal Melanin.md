@@ -1,8 +1,0 @@
-[[Heavy metals]]
-[[biosorption]]
-[[Melanin Pigment]]
-[[Amorphotheca Resinae]]
-[[Microbial Biosorbent]]
-[[Bioinformatics]]
-[[Melanin Pigments]]
-[[Amorphotheca Resinae]]

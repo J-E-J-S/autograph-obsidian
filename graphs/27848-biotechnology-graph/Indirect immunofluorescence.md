@@ -1,6 +1,0 @@
-[[Estradiol]]
-[[Bisphenol A]]
-[[Gene Expression]]
-[[Bisphenol F]]
-[[Bisphenol S]]
-[[Gingival Keratinocytes]]

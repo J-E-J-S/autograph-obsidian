@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Blue light]]
-[[sumoylation]]
-[[Phototropin]]
-[[Chloroplast Movements]]

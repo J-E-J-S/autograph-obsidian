@@ -1,7 +1,0 @@
-[[Peripheral blood mononuclear cells]]
-[[Parkinson's Disease]]
-[[Mpp+]]
-[[Mir-193b]]
-[[Drosophila]]
-[[tau Protein]]
-[[N-Glycosylation]]

@@ -1,5 +1,0 @@
-[[Anticancer]]
-[[Antibacterial]]
-[[Anti-inflammatory]]
-[[Laurencia Papillosa]]
-[[Bacillus Velezensis mbtdlp1]]

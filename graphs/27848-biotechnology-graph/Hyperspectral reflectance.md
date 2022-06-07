@@ -1,5 +1,0 @@
-[[Triticum aestivum]]
-[[Aegilops tauschii]]
-[[Gwas]]
-[[Capture Sequencing]]
-[[Exotic Material]]

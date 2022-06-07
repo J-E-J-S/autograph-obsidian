@@ -1,5 +1,0 @@
-[[Knowledge Sources]]
-[[Student Knowledge]]
-[[Illegal Drugs]]
-[[Drug Classification]]
-[[Drug Addiction Symptoms]]

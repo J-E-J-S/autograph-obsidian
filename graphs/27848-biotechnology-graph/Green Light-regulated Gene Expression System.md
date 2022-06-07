@@ -1,5 +1,0 @@
-[[Cyanobacteria]]
-[[T7 Rna Polymerase]]
-[[Synechocystis Sp. Pcc6803]]
-[[Ccas/ccar]]
-[[Light-regulated Bioprocesses]]

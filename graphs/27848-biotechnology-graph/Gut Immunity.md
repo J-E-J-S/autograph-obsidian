@@ -1,8 +1,0 @@
-[[Lactic acid bacteria]]
-[[Peyer's patches]]
-[[IGA]]
-[[Membrane Vesicle]]
-[[Lentinan]]
-[[Rotavirus]]
-[[Ipec-j2 Cells]]
-[[Weaned Pigs]]

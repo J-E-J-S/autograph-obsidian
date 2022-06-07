@@ -1,5 +1,0 @@
-[[Pancreas]]
-[[Gastrointestinal tract]]
-[[Immunodetection]]
-[[Testes]]
-[[Enteric nervous system]]

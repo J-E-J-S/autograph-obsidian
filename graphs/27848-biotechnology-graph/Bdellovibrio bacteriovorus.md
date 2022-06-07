@@ -1,3 +1,0 @@
-[[Predation]]
-[[Biocontrol]]
-[[Bdellovibrio Applications]]

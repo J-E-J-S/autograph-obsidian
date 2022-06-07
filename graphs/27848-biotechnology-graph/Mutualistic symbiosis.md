@@ -1,6 +1,0 @@
-[[Elicitors]]
-[[secondary metabolism]]
-[[Pamps]]
-[[Environmental Signals]]
-[[Mamps]]
-[[Plant Responses To Pathogens]]

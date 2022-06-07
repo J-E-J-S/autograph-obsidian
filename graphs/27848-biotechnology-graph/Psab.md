@@ -1,5 +1,0 @@
-[[Topology]]
-[[Phylogenetic analysis]]
-[[Green algae]]
-[[rbcL]]
-[[Tufa]]

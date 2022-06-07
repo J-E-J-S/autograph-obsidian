@@ -1,5 +1,0 @@
-[[Genetic diversity]]
-[[Auxotrophy]]
-[[Biosynthesis Pathways And Regulation]]
-[[Cobalamin Biotechnology]]
-[[Cobamide-producing Strains]]

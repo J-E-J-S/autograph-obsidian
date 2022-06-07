@@ -1,8 +1,0 @@
-[[Taxonomy]]
-[[Phylogeny]]
-[[psbA]]
-[[rbcL]]
-[[Coi-5p]]
-[[Corallinapetraceae]]
-[[Corallinapetrales]]
-[[Corallinophycidae]]

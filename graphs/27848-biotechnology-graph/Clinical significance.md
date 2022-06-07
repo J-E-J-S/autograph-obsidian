@@ -1,5 +1,0 @@
-[[Taxonomy]]
-[[Genome analysis]]
-[[Cutibacterium Acnes]]
-[[“Propionibacterium Humerusii”]]
-[[Cutibacterium Modestum]]

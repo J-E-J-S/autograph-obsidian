@@ -1,5 +1,0 @@
-[[Bacillus]]
-[[Phytophthora infestans]]
-[[Protein interaction]]
-[[Iturin A]]
-[[Modeller V9.17]]

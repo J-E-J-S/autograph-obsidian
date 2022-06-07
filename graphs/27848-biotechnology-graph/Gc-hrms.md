@@ -1,5 +1,0 @@
-[[Fingerprinting]]
-[[Chemometrics]]
-[[Black pepper]]
-[[multivariate data analysis]]
-[[Untargeted Analysis]]

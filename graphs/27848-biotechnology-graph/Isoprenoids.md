@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Aromatic compounds]]
-[[Corynebacterium glutamicum]]
-[[metabolic engineering]]
-[[Coenzyme Q10 (Coq 10)]]

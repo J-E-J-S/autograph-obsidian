@@ -1,5 +1,0 @@
-[[Secondary metabolites]]
-[[Antimicrobial activity]]
-[[Marine-derived fungi]]
-[[Antifouling Agents]]
-[[Synthetic Pyrones]]

@@ -1,5 +1,0 @@
-[[Scanning electron microscopy]]
-[[Palynology]]
-[[leaf anatomy]]
-[[Grass Phytoliths]]
-[[Grass Systematics]]

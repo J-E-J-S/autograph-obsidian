@@ -1,6 +1,0 @@
-[[Dogs]]
-[[GnRH]]
-[[GnRHR]]
-[[contraceptive vaccine]]
-[[Recombinant fusion protein]]
-[[Zp3]]

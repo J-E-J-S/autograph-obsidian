@@ -1,3 +1,0 @@
-[[Endocytosis]]
-[[Macropinocytosis]]
-[[Multivesicular Endosomes]]

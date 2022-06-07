@@ -1,6 +1,0 @@
-[[Chromosome]]
-[[Plasmid]]
-[[Transposon]]
-[[Horizontal Transfer]]
-[[Sake Brewing]]
-[[Kocuria]]

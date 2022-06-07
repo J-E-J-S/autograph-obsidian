@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Autophagy]]
-[[P62]]

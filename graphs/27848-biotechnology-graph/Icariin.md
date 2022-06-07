@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Glutamate]]
-[[NADPH oxidase]]
-[[Excitotoxicity]]
-[[SH-SY5Y]]

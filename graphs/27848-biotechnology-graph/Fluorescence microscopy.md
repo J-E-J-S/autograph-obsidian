@@ -1,8 +1,0 @@
-[[Low temperature]]
-[[Arabidopsis thaliana]]
-[[plant growth promotion]]
-[[Indian Himalayan Region]]
-[[Oleosin]]
-[[lipid droplets]]
-[[Oil Bodies]]
-[[Membrane Protein Reconstitution]]

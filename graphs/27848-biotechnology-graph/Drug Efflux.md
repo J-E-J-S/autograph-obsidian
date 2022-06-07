@@ -1,6 +1,0 @@
-[[Mitochondria]]
-[[Candida albicans]]
-[[Magnesium]]
-[[MDR]]
-[[Ergosterol]]
-[[Abc Transporters]]

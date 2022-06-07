@@ -1,5 +1,0 @@
-[[Anthracene]]
-[[Japanese Medaka]]
-[[Microplastics]]
-[[Vector Effects]]
-[[One Compartment With First-order Elimination Model]]

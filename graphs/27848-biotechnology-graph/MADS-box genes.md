@@ -1,6 +1,0 @@
-[[Phylogeny]]
-[[Chloroplast genome]]
-[[Rattan]]
-[[Divergence time]]
-[[Expression Profiling]]
-[[Draft Genome]]

@@ -1,8 +1,0 @@
-[[Liver cancer]]
-[[Alpha-fetoprotein]]
-[[Enzyme-linked Immunosorbent Assay]]
-[[Noncanonical Amino Acid]]
-[[Genetic Code Expansion]]
-[[Amber Suppression]]
-[[Bl21(de3) Gp2]]
-[[Growth-decoupled Protein Production]]

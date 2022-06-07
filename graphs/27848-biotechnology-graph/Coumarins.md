@@ -1,5 +1,0 @@
-[[Biological control]]
-[[In silico]]
-[[Fusarium Foetens]]
-[[Fusarium Fujikori]]
-[[Fusarium Pseudoanthophilum]]

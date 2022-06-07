@@ -1,5 +1,0 @@
-[[Electron transfer]]
-[[Cytochrome c]]
-[[protein-protein interactions]]
-[[Cytochrome B5]]
-[[Murburn Concept]]

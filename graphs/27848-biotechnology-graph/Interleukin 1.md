@@ -1,5 +1,0 @@
-[[Gene therapy]]
-[[Obesity]]
-[[Molecular mechanism]]
-[[Inflammatory Diseases]]
-[[Low-grade Inflammation]]

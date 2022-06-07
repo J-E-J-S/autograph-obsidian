@@ -1,3 +1,0 @@
-[[Biotransformation]]
-[[Stemona Alkaloids]]
-[[Stemofoline]]

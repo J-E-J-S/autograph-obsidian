@@ -1,5 +1,0 @@
-[[Transcriptional regulation]]
-[[Multidrug resistance]]
-[[Salmonella]]
-[[TolC]]
-[[Rama]]

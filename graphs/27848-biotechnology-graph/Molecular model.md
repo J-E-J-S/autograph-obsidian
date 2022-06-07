@@ -1,5 +1,0 @@
-[[Site specific mutagenesis]]
-[[Nhe1]]
-[[Na(+)/h(+) Exchanger]]
-[[Inhibitor Binding]]
-[[Emd87580]]

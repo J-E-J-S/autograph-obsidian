@@ -1,7 +1,0 @@
-[[Bioactive compounds]]
-[[Streptothricin]]
-[[Streptomyces Fimbriates]]
-[[Cellulase]]
-[[Bacillus sp]]
-[[Concomitant Production]]
-[[16S Rrna Analysis]]

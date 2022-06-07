@@ -1,4 +1,0 @@
-[[Embryology]]
-[[History]]
-[[Racism]]
-[[Sexism]]

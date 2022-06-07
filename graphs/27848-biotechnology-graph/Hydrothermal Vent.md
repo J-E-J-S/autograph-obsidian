@@ -1,7 +1,0 @@
-[[polyphasic taxonomy]]
-[[Sulfur-oxidation]]
-[[Sulfurimonas Sediminis]]
-[[Microbiota]]
-[[Metaproteomics]]
-[[Analysis Pipeline]]
-[[Metagenome Data]]

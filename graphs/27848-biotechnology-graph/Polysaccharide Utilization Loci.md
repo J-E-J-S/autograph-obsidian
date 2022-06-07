@@ -1,6 +1,0 @@
-[[Agarase]]
-[[Gene Gain]]
-[[Metabolic Versatility]]
-[[Agar Metabolism]]
-[[Gh96]]
-[[Novel Auxiliary Pathway]]

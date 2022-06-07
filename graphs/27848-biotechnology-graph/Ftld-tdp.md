@@ -1,5 +1,0 @@
-[[ALS]]
-[[Tdp-43]]
-[[Proteinopathy]]
-[[Zn(2+)]]
-[[Llps]]

@@ -1,5 +1,0 @@
-[[Cytochrome C oxidase]]
-[[mutants]]
-[[Thermus Thermophilus]]
-[[Charge Transfer Steps]]
-[[Catalytic Cycle Intermediates]]

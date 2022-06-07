@@ -1,5 +1,0 @@
-[[Species richness]]
-[[Aquatic insects]]
-[[Macroinvertebrates]]
-[[Biotic Filtering]]
-[[Joint Species-distribution Modeling]]

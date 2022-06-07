@@ -1,5 +1,0 @@
-[[FTIR]]
-[[Glycolipid]]
-[[Foam flotation]]
-[[Metal Extraction]]
-[[Copper Sulfide]]

@@ -1,5 +1,0 @@
-[[Parasitism]]
-[[Transgenics]]
-[[Fmrfamide-like Peptides]]
-[[Host-induced Gene Silencing]]
-[[Micro Rna-induced Gene Silencing]]

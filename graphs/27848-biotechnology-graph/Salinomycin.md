@@ -1,7 +1,0 @@
-[[Liposomes]]
-[[Cancer therapy]]
-[[Paclitaxel]]
-[[Combination therapy]]
-[[Cancer Stem Cells]]
-[[Targeted Drug Delivery]]
-[[Monoclonal Antibody 2C5]]

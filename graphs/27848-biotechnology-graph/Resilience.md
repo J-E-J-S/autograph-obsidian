@@ -1,5 +1,0 @@
-[[Evolution]]
-[[Dynamic]]
-[[Generator]]
-[[Dance]]
-[[Harmonic]]

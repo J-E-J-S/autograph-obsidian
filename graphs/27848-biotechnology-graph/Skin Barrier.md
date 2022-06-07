@@ -1,3 +1,0 @@
-[[Epidermis]]
-[[Inflammation]]
-[[Fractional Laser]]

@@ -1,5 +1,0 @@
-[[Fungus]]
-[[Effector]]
-[[Molecular Pathogenesis]]
-[[Plant Immunity]]
-[[Rxlr]]

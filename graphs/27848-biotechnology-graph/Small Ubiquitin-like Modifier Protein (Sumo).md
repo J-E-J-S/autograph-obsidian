@@ -1,5 +1,0 @@
-[[Flow cytometry]]
-[[Interleukin-24]]
-[[Auto-induction]]
-[[Cancer Cells’ Inhibition]]
-[[Immunomodulatory Cytokine]]

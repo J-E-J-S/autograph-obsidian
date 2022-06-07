@@ -1,5 +1,0 @@
-[[Zea mays]]
-[[Abiotic stress]]
-[[Phytoremediation]]
-[[Plant Growth-promoting Bacteria]]
-[[Increased Temperature]]

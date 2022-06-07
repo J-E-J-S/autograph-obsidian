@@ -1,5 +1,0 @@
-[[Water quality]]
-[[Sustainability]]
-[[Lca]]
-[[Pla Bottle]]
-[[Aluminum Refillable Bottle]]

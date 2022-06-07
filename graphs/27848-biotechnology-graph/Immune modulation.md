@@ -1,5 +1,0 @@
-[[Disease resistance]]
-[[Cyprinus carpio]]
-[[Aeromonas hydrophila]]
-[[Lymphoid Organs]]
-[[Aeromonas Veronii]]

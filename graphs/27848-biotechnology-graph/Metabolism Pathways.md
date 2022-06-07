@@ -1,8 +1,0 @@
-[[Structure]]
-[[Ergosterol]]
-[[molecular interaction]]
-[[anti-tumor function]]
-[[N6-(2-hydroxyethyl) Adenosine]]
-[[C. militaris]]
-[[Large-scale Extraction]]
-[[Anti-insomnia Function]]

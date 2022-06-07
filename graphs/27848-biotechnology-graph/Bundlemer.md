@@ -1,5 +1,0 @@
-[[Peptide]]
-[[Recombinant expression]]
-[[Self-assembly]]
-[[Escherichia Coli]]
-[[Computational Design]]

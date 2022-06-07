@@ -1,8 +1,0 @@
-[[Biosynthesis]]
-[[Molecular probe]]
-[[Mass spectrometry]]
-[[Pea Aphid]]
-[[Electron microscopy]]
-[[Light microscopy]]
-[[Rhodnius Prolixus]]
-[[Metasternal Glands]]

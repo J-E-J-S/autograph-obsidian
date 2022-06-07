@@ -1,5 +1,0 @@
-[[tertiary structure]]
-[[Gene Expression]]
-[[Gene Family Evolution]]
-[[Solute Specificity]]
-[[Aquaporin Proteins]]

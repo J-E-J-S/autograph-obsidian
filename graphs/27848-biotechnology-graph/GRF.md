@@ -1,5 +1,0 @@
-[[Populus]]
-[[Wood Formation]]
-[[Gif1]]
-[[Xylem Development]]
-[[Xnd1]]

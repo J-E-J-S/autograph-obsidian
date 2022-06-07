@@ -1,6 +1,0 @@
-[[Polymorphism]]
-[[Somatic hybrid]]
-[[ISSR]]
-[[Molecular characterization]]
-[[Calocybe Indica]]
-[[Nutritional Analysis]]

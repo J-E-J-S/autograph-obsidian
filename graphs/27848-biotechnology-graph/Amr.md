@@ -1,5 +1,0 @@
-[[Streptococcus]]
-[[Bacteriophage]]
-[[Antibacterial peptides]]
-[[Deep Learning]]
-[[Bilstm]]

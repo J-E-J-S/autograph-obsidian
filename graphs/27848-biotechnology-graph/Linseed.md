@@ -1,3 +1,0 @@
-[[Milk]]
-[[Livestock]]
-[[Mammalian Lignan]]

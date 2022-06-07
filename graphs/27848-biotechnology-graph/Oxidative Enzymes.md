@@ -1,6 +1,0 @@
-[[Screening]]
-[[Glycoside hydrolases]]
-[[Carbohydrate Esterases]]
-[[Immobilized-metal Affinity Chromatography]]
-[[Agar Plate Assay]]
-[[Biomass-degrading Enzymes]]

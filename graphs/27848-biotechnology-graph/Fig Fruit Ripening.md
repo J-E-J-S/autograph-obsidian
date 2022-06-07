@@ -1,7 +1,0 @@
-[[Biosynthesis]]
-[[Abscisic acid]]
-[[Ethylene]]
-[[Signaling]]
-[[Aco2]]
-[[Pyl8]]
-[[Aao3]]

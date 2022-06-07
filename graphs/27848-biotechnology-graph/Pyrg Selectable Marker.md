@@ -1,5 +1,0 @@
-[[Genetic engineering]]
-[[Aspergillus oryzae]]
-[[Agrobacterium-mediated Transformation System]]
-[[Dual Auxotrophic Mutant]]
-[[Hisb Selectable Marker]]

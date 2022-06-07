@@ -1,2 +1,0 @@
-[[nonradioactive]]
-[[Direct Telomerase Activity]]

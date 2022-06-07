@@ -1,5 +1,0 @@
-[[Heat resistance]]
-[[Mannitol]]
-[[Aspergillus nidulans]]
-[[Hyphal Branching]]
-[[Mannitol Phosphate Dehydrogenase]]

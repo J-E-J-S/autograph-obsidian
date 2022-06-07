@@ -1,5 +1,0 @@
-[[Translation]]
-[[Proteome]]
-[[Clozapine]]
-[[Mtor]]
-[[Antipsychotic Drugs]]

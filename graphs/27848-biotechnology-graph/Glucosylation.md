@@ -1,1 +1,0 @@
-[[Xanthomonas campestris]]

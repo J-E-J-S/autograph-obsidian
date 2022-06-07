@@ -1,7 +1,0 @@
-[[Anthocyanins]]
-[[Rice]]
-[[Functional analysis]]
-[[Genome Editing]]
-[[Functional Redundancy]]
-[[Allelic Divergence]]
-[[Osttg1]]

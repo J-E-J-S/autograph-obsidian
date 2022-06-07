@@ -1,7 +1,0 @@
-[[Artificial intelligence]]
-[[Adverse drug reaction]]
-[[Artificial neural Network]]
-[[Drug-drug Interaction]]
-[[Transcriptomic Data]]
-[[Lincs L1000]]
-[[Twosides Dataset]]

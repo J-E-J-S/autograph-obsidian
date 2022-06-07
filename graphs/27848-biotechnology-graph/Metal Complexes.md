@@ -1,8 +1,0 @@
-[[Nucleic acids]]
-[[Dna Targeting]]
-[[Artificial Metallonucleases]]
-[[Inorganic Chemotherapeutics]]
-[[DPPH]]
-[[Enzyme inhibition]]
-[[Lc–ms]]
-[[Sulfonamide Schiff Bases]]

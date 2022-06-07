@@ -1,6 +1,0 @@
-[[Lactic acid]]
-[[Lactobacillus plantarum]]
-[[Malic acid]]
-[[Flavonols]]
-[[Orac]]
-[[Oenoccocus Oeni]]

@@ -1,5 +1,0 @@
-[[Bioinformatics]]
-[[Molecular docking]]
-[[Selection pressure]]
-[[Carbapenemases]]
-[[Protein Stability]]

@@ -1,5 +1,0 @@
-[[Midbrain]]
-[[Cyclopamine]]
-[[Sonic Hedgehog (Shh)]]
-[[Foxa2]]
-[[Trim46a]]

@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Antioxidant activity]]
-[[Peach seeds]]
-[[Acute oral toxicity]]
-[[CCl4]]
-[[Hepatoprotective Activity]]

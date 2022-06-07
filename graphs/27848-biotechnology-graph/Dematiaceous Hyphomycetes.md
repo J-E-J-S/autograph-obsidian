@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Cornea]]
-[[Diagnosis]]
-[[Treatment]]
-[[Mycotic Keratitis]]

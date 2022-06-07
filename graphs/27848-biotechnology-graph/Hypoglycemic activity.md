@@ -1,6 +1,0 @@
-[[Dextran]]
-[[Conjugates]]
-[[Oxime Ligation]]
-[[Extendin 4]]
-[[Diabetes mellitus]]
-[[Plant Insulin-mimetic Protein]]

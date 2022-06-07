@@ -1,5 +1,0 @@
-[[Obesity]]
-[[Anxiety]]
-[[high fat diet]]
-[[neuroinflammation]]
-[[Tinospora Cordifolia]]

@@ -1,5 +1,0 @@
-[[Medicinal plants]]
-[[Phytophthora]]
-[[HPLC]]
-[[Endophytic bacteria]]
-[[Biocontrol agents]]

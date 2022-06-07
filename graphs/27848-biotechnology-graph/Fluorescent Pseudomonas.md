@@ -1,2 +1,0 @@
-[[Quorum sensing]]
-[[Luxr Solos]]

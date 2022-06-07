@@ -1,8 +1,0 @@
-[[Solasodine]]
-[[Agrobacterium Rhizogenes A4 Strain]]
-[[Solanum Erianthum D. Don]]
-[[Trigonella foenum-graecum]]
-[[Fenugreek]]
-[[Tsar]]
-[[Agrobacterium Rhizogenes Transformation]]
-[[Triterpene Saponin Activating Regulator]]

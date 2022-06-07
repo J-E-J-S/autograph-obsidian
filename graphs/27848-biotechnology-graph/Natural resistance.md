@@ -1,5 +1,0 @@
-[[Plant extracts]]
-[[Antagonistic bacteria]]
-[[Beneficial Microbes]]
-[[Bio-control Agents]]
-[[Antifungal Secondary Metabolites]]

@@ -1,5 +1,0 @@
-[[Sepsis]]
-[[Diagnosis]]
-[[Prognosis]]
-[[Markers]]
-[[Lncrna-h19]]

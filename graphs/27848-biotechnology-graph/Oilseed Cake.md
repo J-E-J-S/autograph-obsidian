@@ -1,5 +1,0 @@
-[[Trichoderma harzianum]]
-[[Antagonistic]]
-[[Bioactive compounds]]
-[[Fusarium Oxysporum F. Sp. Lycopersici]]
-[[Wilting]]

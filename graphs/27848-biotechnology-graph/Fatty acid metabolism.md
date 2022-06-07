@@ -1,7 +1,0 @@
-[[CD36]]
-[[Diabetic cardiomyopathy]]
-[[Foxo1]]
-[[Ep4]]
-[[Metabolism]]
-[[Gastric cancer]]
-[[glucose metabolism]]

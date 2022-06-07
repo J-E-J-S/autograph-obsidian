@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Protease inhibitors]]
-[[Neutrophil elastase]]
-[[Caesalpinia Echinata Lam]]
-[[Inhibitor Based-peptides]]

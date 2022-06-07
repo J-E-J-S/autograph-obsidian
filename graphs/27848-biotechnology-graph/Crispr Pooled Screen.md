@@ -1,3 +1,0 @@
-[[Metabolism]]
-[[Glutamine]]
-[[CHO]]

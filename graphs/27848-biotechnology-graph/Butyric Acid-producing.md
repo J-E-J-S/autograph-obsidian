@@ -1,2 +1,0 @@
-[[Lachnospiraceae]]
-[[Butyribacter Intestine]]

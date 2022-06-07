@@ -1,5 +1,0 @@
-[[Population structure]]
-[[Fragmentation]]
-[[Admixture]]
-[[bottleneck]]
-[[Population Demography]]

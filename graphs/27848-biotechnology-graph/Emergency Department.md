@@ -1,3 +1,0 @@
-[[Ethics]]
-[[Restraint]]
-[[Principlism]]

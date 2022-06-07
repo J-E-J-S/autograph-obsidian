@@ -1,4 +1,0 @@
-[[Biotechnology]]
-[[Immunohistochemistry]]
-[[Microbiology]]
-[[immunology]]

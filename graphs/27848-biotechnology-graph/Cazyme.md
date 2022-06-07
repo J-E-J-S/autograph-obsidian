@@ -1,5 +1,0 @@
-[[Polysaccharide]]
-[[Rhodococcus]]
-[[Cutinase]]
-[[Biotechnological Potential]]
-[[Phytopathogenic Property]]

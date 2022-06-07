@@ -1,4 +1,0 @@
-[[Infertility]]
-[[Autophagy]]
-[[chromatin]]
-[[Globozoospermia]]

@@ -1,5 +1,0 @@
-[[Retina]]
-[[Algae]]
-[[FISH]]
-[[retinopathy]]
-[[Omega-3 Fatty Acids]]

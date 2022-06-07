@@ -1,5 +1,0 @@
-[[Technology]]
-[[Regulation]]
-[[Enlightenment]]
-[[Political Actions]]
-[[Judiciary]]

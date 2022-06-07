@@ -1,4 +1,0 @@
-[[Mice]]
-[[Bifidobacterium]]
-[[Cholesterol]]
-[[LDL]]

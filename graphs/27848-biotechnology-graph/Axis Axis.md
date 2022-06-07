@@ -1,6 +1,0 @@
-[[PrP]]
-[[PRNP]]
-[[prion protein]]
-[[Chronic Wasting Disease]]
-[[Chital]]
-[[Axis Deer]]

@@ -1,3 +1,0 @@
-[[Taurine]]
-[[lysozyme]]
-[[Protein Stability]]

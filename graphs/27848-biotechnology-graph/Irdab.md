@@ -1,5 +1,0 @@
-[[Iran]]
-[[Registry]]
-[[Treat-nmd]]
-[[Dmd Bmd]]
-[[Duchenne Becker Muscular Dystrophy]]

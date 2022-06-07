@@ -1,5 +1,0 @@
-[[Biosurfactant]]
-[[Olive Oil Mill Wastewater]]
-[[Polluted Soils]]
-[[Removal Hydrocarbons]]
-[[Rhodotorula Sp.ybr]]

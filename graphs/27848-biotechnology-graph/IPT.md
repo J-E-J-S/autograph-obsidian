@@ -1,6 +1,0 @@
-[[Cytokinin]]
-[[Abiotic stress]]
-[[Phytohormone]]
-[[biotic stress]]
-[[Stress response]]
-[[Plant Yield]]

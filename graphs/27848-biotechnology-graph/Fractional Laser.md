@@ -1,3 +1,0 @@
-[[Epidermis]]
-[[Inflammation]]
-[[Skin Barrier]]

@@ -1,7 +1,0 @@
-[[Cartilage]]
-[[Hydroxyapatite]]
-[[Bacterial adherence]]
-[[Biomaterial]]
-[[Silicone]]
-[[Titanium dioxide]]
-[[Hemocompatibility]]

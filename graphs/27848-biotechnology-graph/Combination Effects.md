@@ -1,5 +1,0 @@
-[[Promoter]]
-[[Corynebacterium glutamicum]]
-[[Rbs]]
-[[Orthogonality]]
-[[Arginine Synthesis Pathway]]

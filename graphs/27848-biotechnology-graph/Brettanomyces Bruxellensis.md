@@ -1,5 +1,0 @@
-[[Wine]]
-[[Beer]]
-[[Yeast Starter]]
-[[4-Ethylphenol]]
-[[Non-conventional Yeasts]]

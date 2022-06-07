@@ -1,6 +1,0 @@
-[[Population genetics]]
-[[Migration]]
-[[Mating type]]
-[[Microsatellite]]
-[[Africa]]
-[[gray leaf spot]]

@@ -1,6 +1,0 @@
-[[Thermal stability]]
-[[Characterization]]
-[[Lipase]]
-[[Biodegradation]]
-[[thermodynamics]]
-[[Penicillium Fellutanum]]

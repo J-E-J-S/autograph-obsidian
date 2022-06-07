@@ -1,2 +1,0 @@
-[[Spectral Reconstruction]]
-[[Spin Relaxation]]

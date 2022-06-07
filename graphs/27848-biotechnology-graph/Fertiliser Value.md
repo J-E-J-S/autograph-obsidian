@@ -1,5 +1,0 @@
-[[Flocculation]]
-[[Digestate]]
-[[Solid Fraction]]
-[[Mechanical Separation]]
-[[Liquid Fraction]]

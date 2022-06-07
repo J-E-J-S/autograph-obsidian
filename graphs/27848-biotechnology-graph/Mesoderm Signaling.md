@@ -1,5 +1,0 @@
-[[Sea urchin]]
-[[Abc Transporters]]
-[[MRP]]
-[[Small Molecule]]
-[[Gut Development]]

@@ -1,6 +1,0 @@
-[[Fern]]
-[[Aquatic plants]]
-[[Duckweed]]
-[[WRKY]]
-[[Synteny]]
-[[Abiotic Stresses]]

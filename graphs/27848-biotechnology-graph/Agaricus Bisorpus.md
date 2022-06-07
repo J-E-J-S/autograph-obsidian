@@ -1,5 +1,0 @@
-[[Rats]]
-[[Histopathology]]
-[[Synergistic effects]]
-[[MRSA]]
-[[Vancomycin–silver Nanoparticles]]

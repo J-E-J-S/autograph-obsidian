@@ -1,8 +1,0 @@
-[[DNA binding proteins]]
-[[Chloroplast]]
-[[RNA polymerase]]
-[[Transcriptional regulation]]
-[[pep]]
-[[Promoters]]
-[[Gene Expression]]
-[[Sigma Factors]]

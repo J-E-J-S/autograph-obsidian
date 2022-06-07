@@ -1,5 +1,0 @@
-[[Enzymes]]
-[[Signal transduction pathways]]
-[[Interactomics]]
-[[Specialized Metabolites]]
-[[Metabolite–protein Interactions]]

@@ -1,5 +1,0 @@
-[[MCF-7]]
-[[Mr Imaging]]
-[[Theranostic Agent]]
-[[Sonochemical]]
-[[Fe(3)o(4)@aunps]]

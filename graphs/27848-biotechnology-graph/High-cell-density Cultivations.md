@@ -1,5 +1,0 @@
-[[fed-batch]]
-[[Vibrio Natriegens]]
-[[Deep-well Plate]]
-[[Fast Growing Microorganism]]
-[[Parallel Bioreactor Cultivations]]

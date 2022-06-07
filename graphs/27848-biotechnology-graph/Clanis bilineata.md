@@ -1,5 +1,0 @@
-[[Beauveria bassiana]]
-[[Bombyx mori]]
-[[Helicoverpa armigera]]
-[[Infection Strategy]]
-[[Transcriptomic Analysis]]

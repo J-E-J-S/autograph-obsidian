@@ -1,7 +1,0 @@
-[[Colorectal Cancer]]
-[[Single Nucleotide Polymorphisms]]
-[[risk]]
-[[Adcy9]]
-[[Gene polymorphism]]
-[[Cyp24a1]]
-[[Urinary System Tumors]]

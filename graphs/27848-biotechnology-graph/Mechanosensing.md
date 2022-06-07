@@ -1,5 +1,0 @@
-[[Cytoskeleton]]
-[[Integrins]]
-[[YAP]]
-[[Src]]
-[[P130cas]]

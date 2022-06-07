@@ -1,5 +1,0 @@
-[[Thermostability]]
-[[Granulopoiesis]]
-[[Gcsf]]
-[[In Vivo Pharmacodynamics]]
-[[In Vitro Cell Based Assay]]

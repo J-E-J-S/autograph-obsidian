@@ -1,5 +1,0 @@
-[[Rhizobia]]
-[[Central America]]
-[[South America]]
-[[Genealogical Concordance]]
-[[Burkholderia Legume]]

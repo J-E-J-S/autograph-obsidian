@@ -1,5 +1,0 @@
-[[Hepatocellular carcinoma]]
-[[Liver cancer]]
-[[Marker]]
-[[Nanobody]]
-[[Gpc3]]

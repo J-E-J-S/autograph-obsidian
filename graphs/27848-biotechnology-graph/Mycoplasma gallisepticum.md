@@ -1,5 +1,0 @@
-[[Poultry]]
-[[epidemiology]]
-[[Mycoplasma Synoviae]]
-[[Economic Significance]]
-[[Avian Mycoplasmosis]]

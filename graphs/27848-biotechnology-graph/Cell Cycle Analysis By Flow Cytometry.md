@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Allium cepa]]
-[[Genotoxicity]]
-[[Ht-29 Cells]]
-[[Zno-nps]]
-[[Ipomoea Obscura]]

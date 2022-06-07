@@ -1,5 +1,0 @@
-[[Image analysis]]
-[[Microhabitat]]
-[[Degree-days]]
-[[Horse-chestnut Leaf-miner]]
-[[Mine Size]]

@@ -1,3 +1,0 @@
-[[gibberellins]]
-[[Jasmonate]]
-[[Stem Elongation]]

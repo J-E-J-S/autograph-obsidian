@@ -1,5 +1,0 @@
-[[Morphogenesis]]
-[[Streptomyces]]
-[[Transcriptome]]
-[[Polyketide]]
-[[Filamentous Microbe]]

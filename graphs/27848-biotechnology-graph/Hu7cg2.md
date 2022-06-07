@@ -1,5 +1,0 @@
-[[EGFR]]
-[[Targeted Therapy]]
-[[Humanized]]
-[[Nanobody]]
-[[Biparatope]]

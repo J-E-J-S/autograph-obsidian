@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Resistance]]
-[[Deltamethrin]]
-[[Sodium channel]]
-[[knockdown resistance]]

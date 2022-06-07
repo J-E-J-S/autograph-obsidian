@@ -1,6 +1,0 @@
-[[Anticancer drugs]]
-[[Nanotechnology]]
-[[Drug delivery system]]
-[[Cgas-sting]]
-[[Marine-derived Products]]
-[[Jak/stat Immune Pathway]]

@@ -1,5 +1,0 @@
-[[Flavonoids]]
-[[Phenolic acids]]
-[[Terpenoids]]
-[[Antidiabetic Effects]]
-[[Centaurium Erythraea]]

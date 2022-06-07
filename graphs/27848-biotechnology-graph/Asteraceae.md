@@ -1,8 +1,0 @@
-[[Chloroplast genome]]
-[[Phylogenetic analysis]]
-[[Sinosenecio Jishouensis]]
-[[Carbohydrates]]
-[[Cichorium intybus]]
-[[Fructan]]
-[[Gene Expression]]
-[[Cichorium Endive]]

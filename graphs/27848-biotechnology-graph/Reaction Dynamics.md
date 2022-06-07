@@ -1,5 +1,0 @@
-[[Leishmaniasis]]
-[[Silver Nanoparticles]]
-[[Green Synthesis]]
-[[Hct116 Colon Cancer Cells]]
-[[Ros Quantification]]

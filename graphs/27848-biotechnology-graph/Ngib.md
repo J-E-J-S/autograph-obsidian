@@ -1,5 +1,0 @@
-[[PHB]]
-[[Polyhydroxyalkanoates]]
-[[Halomonas]]
-[[Microbial Production]]
-[[Next-generation Industrial Biotechnology]]

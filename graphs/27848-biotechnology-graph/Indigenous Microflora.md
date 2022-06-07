@@ -1,3 +1,0 @@
-[[Chitinase]]
-[[phytopathogens]]
-[[Banana Disease]]

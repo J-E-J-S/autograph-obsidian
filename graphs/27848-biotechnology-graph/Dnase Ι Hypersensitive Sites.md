@@ -1,5 +1,0 @@
-[[Enhancer]]
-[[Oviduct]]
-[[Transgenic chicken]]
-[[Gene Expression]]
-[[Chicken Lysozyme]]

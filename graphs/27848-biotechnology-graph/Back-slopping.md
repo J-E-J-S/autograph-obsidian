@@ -1,6 +1,0 @@
-[[PCR-DGGE]]
-[[quantitative PCR]]
-[[Latilactobacillus Curvatus]]
-[[Fructilactobacillus Sanfranciscensis]]
-[[Korean Sourdough]]
-[[Levilactobacillus Brevis]]

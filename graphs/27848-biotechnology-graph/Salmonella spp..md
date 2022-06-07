@@ -1,4 +1,0 @@
-[[Fruits]]
-[[Prevalence]]
-[[vegetables]]
-[[Metanalysis]]

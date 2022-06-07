@@ -1,5 +1,0 @@
-[[Linker]]
-[[Anti-tumor]]
-[[Mitotic Catastrophe]]
-[[Tubulin Polymerization Inhibitor]]
-[[Ca-4 Modification]]

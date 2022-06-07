@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Lactic acid]]
-[[lactobacillus]]
-[[Green Biorefinery]]
-[[Green Juice]]

@@ -1,6 +1,0 @@
-[[Microbiota]]
-[[Polypropylene]]
-[[Galleria mellonella]]
-[[Polyethylene]]
-[[Polystyrene]]
-[[Gut Content]]

@@ -1,6 +1,0 @@
-[[Copper]]
-[[Apoptosis]]
-[[Reactive oxygen species]]
-[[Embryonic development]]
-[[Porcine oocytes]]
-[[In vitro Maturation]]

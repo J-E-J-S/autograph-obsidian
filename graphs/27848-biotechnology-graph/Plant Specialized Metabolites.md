@@ -1,5 +1,0 @@
-[[Plant cell suspension culture]]
-[[metabolic engineering]]
-[[Computational Modeling]]
-[[Artificial Gene Cluster]]
-[[Plant Gene Clusters]]

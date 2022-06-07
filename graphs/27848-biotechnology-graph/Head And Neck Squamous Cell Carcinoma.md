@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Neferine]]
-[[Autophagy]]

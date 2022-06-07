@@ -1,3 +1,0 @@
-[[Chitin]]
-[[Cellulosome]]
-[[Clostridium Cellulovorans]]

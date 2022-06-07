@@ -1,5 +1,0 @@
-[[Wound healing]]
-[[Sialylation]]
-[[Emt]]
-[[Sg2na]]
-[[F-/g-actin]]

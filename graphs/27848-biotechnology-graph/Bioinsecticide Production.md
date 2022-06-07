@@ -1,5 +1,0 @@
-[[GC-MS analysis]]
-[[Organic matter]]
-[[Industrial Wastewater]]
-[[Acidic Pretreatment]]
-[[Photorhabdus Temperata]]

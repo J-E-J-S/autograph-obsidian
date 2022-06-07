@@ -1,6 +1,0 @@
-[[Methanol]]
-[[Inducer]]
-[[Formate]]
-[[Aox Induction]]
-[[Komagataella Phaffii (Pichia Pastoris)]]
-[[Mut Phenotype]]

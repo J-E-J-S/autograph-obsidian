@@ -1,5 +1,0 @@
-[[PCA]]
-[[Habitat structure]]
-[[Ciconia Ciconia]]
-[[White Stork]]
-[[Guerbes-sanhadja]]

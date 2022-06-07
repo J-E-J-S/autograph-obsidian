@@ -1,4 +1,0 @@
-[[HPLC]]
-[[inulin]]
-[[Fructooligosaccharides]]
-[[Inulosucrase]]

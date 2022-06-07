@@ -1,5 +1,0 @@
-[[Formaldehyde]]
-[[Methanol]]
-[[Detoxification]]
-[[Lignin Valorization]]
-[[Synthetic Methylotroph]]

@@ -1,5 +1,0 @@
-[[Stroke]]
-[[Microglia]]
-[[Ataxia]]
-[[Cerebellar Hemorrhage]]
-[[Ccl-2]]

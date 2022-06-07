@@ -1,7 +1,0 @@
-[[Structure-function]]
-[[X-ray crystallography]]
-[[Magnetotactic bacteria]]
-[[Electron Paramagnetic Resonance (Epr)]]
-[[Metalloprotein]]
-[[Cation Diffusion Facilitator]]
-[[Metal Ion-protein Interaction]]

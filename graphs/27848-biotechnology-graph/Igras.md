@@ -1,8 +1,0 @@
-[[Infertility]]
-[[Immuno-PCR]]
-[[Renal failure]]
-[[M. Tuberculosis]]
-[[Cfdna]]
-[[Naats]]
-[[Alisa]]
-[[Male Ugtb]]

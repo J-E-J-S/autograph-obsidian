@@ -1,2 +1,0 @@
-[[Physicochemical properties]]
-[[synergy]]

@@ -1,2 +1,0 @@
-[[Anti-depressant]]
-[[Catecholamine Monoamine]]

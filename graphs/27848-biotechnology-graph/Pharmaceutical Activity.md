@@ -1,4 +1,0 @@
-[[Metabolism]]
-[[Chemical]]
-[[Taxifolin]]
-[[Astilbin]]

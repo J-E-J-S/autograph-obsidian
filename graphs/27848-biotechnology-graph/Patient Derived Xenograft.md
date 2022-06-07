@@ -1,6 +1,0 @@
-[[Zebrafish]]
-[[Drug screening]]
-[[Breast cancer]]
-[[Xenotransplantation]]
-[[Personalized Medicine]]
-[[Pdx]]

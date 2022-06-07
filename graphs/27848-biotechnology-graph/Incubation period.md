@@ -1,5 +1,0 @@
-[[Pandemic]]
-[[Intervention And Control]]
-[[Covid-19]]
-[[Interval-censored]]
-[[Coronavirus Disease 2019]]

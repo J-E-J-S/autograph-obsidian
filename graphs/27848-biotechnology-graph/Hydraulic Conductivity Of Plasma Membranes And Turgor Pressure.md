@@ -1,5 +1,0 @@
-[[Carbohydrates]]
-[[Phenolic compounds]]
-[[Poliamines]]
-[[Arabinogalactan Protein And Pectic Epitopes]]
-[[Elastic Modulus Of Cell Wall]]

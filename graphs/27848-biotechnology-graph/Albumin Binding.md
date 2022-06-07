@@ -1,6 +1,0 @@
-[[Protein A]]
-[[Human serum albumin]]
-[[Fusion Tag]]
-[[Protein G]]
-[[Abdz1]]
-[[Orthogonal Affinity Purification]]

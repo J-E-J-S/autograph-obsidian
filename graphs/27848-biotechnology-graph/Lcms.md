@@ -1,5 +1,0 @@
-[[Traditional medicine]]
-[[UPLC-MS/MS]]
-[[Pyrrolizidine Alkaloids]]
-[[Senecio Coronatus]]
-[[Retrorsine-n-oxide]]

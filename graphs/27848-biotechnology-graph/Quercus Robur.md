@@ -1,6 +1,0 @@
-[[Seasonal dynamics]]
-[[community composition]]
-[[Climate warming]]
-[[Host Genotype]]
-[[Foliar Fungal Community]]
-[[Warming-by-genotype Interaction]]

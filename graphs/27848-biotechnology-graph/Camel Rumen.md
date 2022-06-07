@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Ciliophora]]
-[[Eukaryotic Diversity]]
-[[18S Rrna Gene Sequencing]]
-[[Qiime 2]]

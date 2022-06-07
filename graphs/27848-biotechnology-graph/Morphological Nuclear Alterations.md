@@ -1,5 +1,0 @@
-[[Comet assay]]
-[[FISH]]
-[[Chromosomal aberrations]]
-[[micronuclei]]
-[[biosorption]]

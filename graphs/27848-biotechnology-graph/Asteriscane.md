@@ -1,1 +1,0 @@
-[[Seiridiasteriscane, Semipinacol Rearrangement]]

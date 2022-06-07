@@ -1,5 +1,0 @@
-[[Cholesterol]]
-[[Terpenoids]]
-[[Transcriptome]]
-[[Protein-protein Interactome]]
-[[Isosteroidal Alkaloids]]

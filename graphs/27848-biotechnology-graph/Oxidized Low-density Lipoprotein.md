@@ -1,5 +1,0 @@
-[[Oxidative stress]]
-[[Vascular smooth muscle cells]]
-[[Inflammation]]
-[[Puerarin]]
-[[MAPK signaling pathway]]

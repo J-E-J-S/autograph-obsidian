@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cell cycle arrest]]
-[[binding mode]]
-[[Tyrosine Kinase Inhibitor (Tki)]]
-[[Cucurbitacin Iib (Cuiib)]]

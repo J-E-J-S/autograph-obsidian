@@ -1,3 +1,0 @@
-[[Integrins]]
-[[Boleophthalmus pectinirostris]]
-[[Phagosome]]

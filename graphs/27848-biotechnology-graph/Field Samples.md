@@ -1,8 +1,0 @@
-[[Staphylococcus aureus]]
-[[Sensitivity]]
-[[Specificity]]
-[[minimum inhibitory concentration (MIC)]]
-[[Immunoglobulin Y (Igy)]]
-[[Biofilm Inhibition]]
-[[Artificial Spiking]]
-[[Immunocapture Pcr]]

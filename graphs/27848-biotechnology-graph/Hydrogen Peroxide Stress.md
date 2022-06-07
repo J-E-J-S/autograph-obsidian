@@ -1,5 +1,0 @@
-[[Superoxide dismutase]]
-[[Salt stress]]
-[[SOD activity]]
-[[Avicennia marina]]
-[[heterologous expression]]

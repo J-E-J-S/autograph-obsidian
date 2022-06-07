@@ -1,3 +1,0 @@
-[[Halophilic bacteria]]
-[[Marinobacter]]
-[[Proteobacteira]]

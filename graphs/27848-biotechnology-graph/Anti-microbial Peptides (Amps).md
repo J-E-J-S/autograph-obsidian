@@ -1,5 +1,0 @@
-[[Chronic]]
-[[Bacterial biofilm]]
-[[Delayed Wound Healing]]
-[[Combinatorial Therapy]]
-[[Antibiofilm Agent]]

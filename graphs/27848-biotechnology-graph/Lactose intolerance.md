@@ -1,8 +1,0 @@
-[[Bacillus licheniformis]]
-[[Enzyme immobilization]]
-[[Duolite A568]]
-[[Lactic acid bacteria]]
-[[Organic acids]]
-[[Probiotics]]
-[[Multi-drug resistance]]
-[[antagonism]]

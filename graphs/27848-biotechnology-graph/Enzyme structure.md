@@ -1,6 +1,0 @@
-[[Phospholipids]]
-[[Phospholipase D]]
-[[Molecular engineering]]
-[[heterologous expression]]
-[[Biomanufacturing]]
-[[Genome And Metagenome Mining]]

@@ -1,3 +1,0 @@
-[[Biocontrol]]
-[[Bioformulation]]
-[[Talaromyces Pinophilus]]

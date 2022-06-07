@@ -1,5 +1,0 @@
-[[Fatty acids]]
-[[Thermostability]]
-[[Biofuels]]
-[[Ancestral Sequence Reconstruction]]
-[[Photo-biocatalysis]]

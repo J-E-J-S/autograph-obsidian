@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Molecular dynamics]]
-[[Anti-ageing]]
-[[Rejuvenation Biotechnology]]
-[[Plant Peptides]]

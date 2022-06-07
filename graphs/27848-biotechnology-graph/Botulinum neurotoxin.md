@@ -1,8 +1,0 @@
-[[Vaccine]]
-[[Neutralizing antibody]]
-[[Immunoprotective Efficacy]]
-[[Recombinant L-hn Fusion Antigen]]
-[[Monoclonal antibody]]
-[[Mld(50)]]
-[[Mouse Neutralization Assay]]
-[[Prophylaxis Assays]]

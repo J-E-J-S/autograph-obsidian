@@ -1,5 +1,0 @@
-[[Polysaccharide]]
-[[structural characteristic]]
-[[Tube formation]]
-[[Cells Migration]]
-[[Intracellular Signal Pathway]]

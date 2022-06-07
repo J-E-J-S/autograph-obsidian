@@ -1,6 +1,0 @@
-[[Salivary glands]]
-[[Microbiota]]
-[[Polypropylene]]
-[[Galleria mellonella]]
-[[Polyethylene]]
-[[Polystyrene]]

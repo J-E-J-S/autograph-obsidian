@@ -1,5 +1,0 @@
-[[In situ extraction]]
-[[Naphthoquinones]]
-[[Polyurethane Foam (Puf)]]
-[[Hairy (Transgenic) Roots]]
-[[Plant Biomass Immobilization]]

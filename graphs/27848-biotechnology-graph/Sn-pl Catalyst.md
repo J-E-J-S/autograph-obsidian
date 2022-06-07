@@ -1,2 +1,0 @@
-[[Lignocellulosic Biomass]]
-[[Furfurylamine]]

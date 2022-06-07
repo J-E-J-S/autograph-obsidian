@@ -1,5 +1,0 @@
-[[Glutaric Aciduria Type I]]
-[[Hyperammonemia]]
-[[Astrogliosis]]
-[[Lysine Degradation]]
-[[Cerebral Organic Aciduria]]

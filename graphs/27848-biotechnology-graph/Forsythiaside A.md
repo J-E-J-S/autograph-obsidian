@@ -1,2 +1,0 @@
-[[Mastitis]]
-[[herbal medicine]]

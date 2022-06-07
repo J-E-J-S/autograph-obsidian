@@ -1,5 +1,0 @@
-[[Principal component analysis]]
-[[Ethanol Production]]
-[[Design Of Experiments]]
-[[Genome-scale Metabolic Model]]
-[[Regulatory-defined Medium]]

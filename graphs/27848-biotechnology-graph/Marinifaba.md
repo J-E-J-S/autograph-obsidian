@@ -1,5 +1,0 @@
-[[Genomic analysis]]
-[[polyphasic taxonomy]]
-[[Chitin Degradation]]
-[[Novel Genus]]
-[[The Mariana Trench]]

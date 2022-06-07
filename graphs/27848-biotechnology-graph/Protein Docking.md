@@ -1,5 +1,0 @@
-[[Domestic animal]]
-[[SARS]]
-[[Pandemic]]
-[[Ace-2]]
-[[: Covid-19]]

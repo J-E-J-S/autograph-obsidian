@@ -1,5 +1,0 @@
-[[Artificial evolution]]
-[[Nlr]]
-[[Tomato Spotted Wilt Virus]]
-[[Immune Receptor]]
-[[Sw-5b]]

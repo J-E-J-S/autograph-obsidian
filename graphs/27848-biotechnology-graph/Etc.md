@@ -1,6 +1,0 @@
-[[Chromium]]
-[[Bacteria]]
-[[Reduction]]
-[[Bioremediation]]
-[[Mechanisms]]
-[[Efflux]]

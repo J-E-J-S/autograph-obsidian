@@ -1,7 +1,0 @@
-[[Molecular Dynamics Simulations]]
-[[Strychnos Nux-vomica]]
-[[Main Protease]]
-[[Cadd]]
-[[Mm-pbsa]]
-[[Covid-19]]
-[[Sars-cov-2]]

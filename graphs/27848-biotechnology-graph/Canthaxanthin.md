@@ -1,5 +1,0 @@
-[[Characterization]]
-[[Nanoparticles]]
-[[Green Synthesis]]
-[[Human Keratinocyte Cell Line]]
-[[Dietzia Maris]]

@@ -1,6 +1,0 @@
-[[Comparative genomics]]
-[[Complete genome]]
-[[Biomarkers]]
-[[Vaccine Candidates]]
-[[Edwardsiella Ictaluri]]
-[[Host-specific Genotypes]]

@@ -1,5 +1,0 @@
-[[Lignin]]
-[[Phylogeny]]
-[[Catabolism]]
-[[flavoprotein]]
-[[Oxygenation]]

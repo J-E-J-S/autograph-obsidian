@@ -1,8 +1,0 @@
-[[Clinical Trials]]
-[[Cancer Therapeutics]]
-[[Medicinal Mushrooms]]
-[[Ethnomedicinal Uses]]
-[[Mushroom Extracts]]
-[[Acetylcholinesterase]]
-[[Butyrylcholinesterase]]
-[[Sulfamethazine]]

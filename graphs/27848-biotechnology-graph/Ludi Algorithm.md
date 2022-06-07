@@ -1,5 +1,0 @@
-[[Molecular dynamics]]
-[[Caffeic acid]]
-[[Rock Inhibitor]]
-[[De Novo Drug Design]]
-[[Mcss Docking]]

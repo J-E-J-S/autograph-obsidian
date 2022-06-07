@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Anticancer]]
-[[Mitochondrial Dysfunction]]
-[[Antiproliferative Effect]]
-[[Cationic Antimicrobial Peptide]]

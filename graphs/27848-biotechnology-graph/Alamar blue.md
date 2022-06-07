@@ -1,5 +1,0 @@
-[[Viability]]
-[[Vitality]]
-[[Resazurin Assay]]
-[[Heterotrophic Organisms]]
-[[Phototrophic Organisms]]

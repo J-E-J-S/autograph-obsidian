@@ -1,5 +1,0 @@
-[[Mobilization]]
-[[Phytoextraction]]
-[[Mine Tailing]]
-[[V. Unguiculata]]
-[[B. Cereus Ndrmn001]]

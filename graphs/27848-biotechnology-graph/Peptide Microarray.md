@@ -1,6 +1,0 @@
-[[Protein kinase activity]]
-[[Preclinical Model]]
-[[Genetic Fingerprint]]
-[[Kinome]]
-[[Non–small Cell Lung Cancer]]
-[[Patient-derived Tumour Xenograft]]

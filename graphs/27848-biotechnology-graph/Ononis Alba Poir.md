@@ -1,5 +1,0 @@
-[[Essential oil]]
-[[Antimicrobial activity]]
-[[Antioxidant activity]]
-[[Extracts]]
-[[Enzyme Inhibitory Effect]]

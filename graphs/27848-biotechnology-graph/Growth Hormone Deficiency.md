@@ -1,6 +1,0 @@
-[[Growth]]
-[[IGF-I]]
-[[Growth hormone]]
-[[Growth hormone receptor]]
-[[Pharmacogenomics]]
-[[Igf-i Receptor]]

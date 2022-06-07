@@ -1,8 +1,0 @@
-[[Insulin resistance]]
-[[Ampk]]
-[[Ksr2]]
-[[Mir-3138]]
-[[PKB]]
-[[Metformin]]
-[[Ampk]]
-[[Potentilla Fulgens]]

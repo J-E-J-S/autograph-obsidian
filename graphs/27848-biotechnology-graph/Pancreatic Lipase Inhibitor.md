@@ -1,5 +1,0 @@
-[[Orlistat]]
-[[Withania Somnifera]]
-[[Plasma Triglyceride]]
-[[Pentacyclic Triterpenoids]]
-[[Colletotrichum Gigasporum]]

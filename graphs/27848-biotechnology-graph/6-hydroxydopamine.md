@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cytochrome c]]
-[[reactive oxygen species (ROS)]]
-[[Autophagy]]
-[[Bax Oligomerization]]

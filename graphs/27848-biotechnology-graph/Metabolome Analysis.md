@@ -1,7 +1,0 @@
-[[Crispr-cas9]]
-[[O-succinyl-l-homoserine]]
-[[Escherichia Coli W3110]]
-[[Proteolytic Activity]]
-[[Carica Papaya L]]
-[[Benzyl Glucosinolate]]
-[[Dehydrocarpaine]]

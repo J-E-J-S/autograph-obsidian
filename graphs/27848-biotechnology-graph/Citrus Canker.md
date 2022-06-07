@@ -1,8 +1,0 @@
-[[Broad-spectrum disease resistance]]
-[[Pattern Recognition Receptor]]
-[[Pathogen-associated Molecular Pattern (Pamp)]]
-[[Citrus Variegated Chlorosis (Cvc)]]
-[[Outer Membrane Vesicle (Omv)]]
-[[Citrus]]
-[[Persistence]]
-[[Phytopathogen]]

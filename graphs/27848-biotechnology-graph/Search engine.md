@@ -1,7 +1,0 @@
-[[PPI]]
-[[Bioinformatics]]
-[[Tandem mass spectrometry]]
-[[Protein-protein-interaction]]
-[[cross-linking]]
-[[Ms/ms]]
-[[Xl-ms]]

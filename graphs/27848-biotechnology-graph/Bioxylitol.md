@@ -1,5 +1,0 @@
-[[Xylose]]
-[[Optimization]]
-[[Xylose reductase]]
-[[Bioconversion]]
-[[Hemicellulosic hydrolysate]]

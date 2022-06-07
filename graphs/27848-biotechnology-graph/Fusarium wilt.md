@@ -1,5 +1,0 @@
-[[Fusarium oxysporum]]
-[[Nanoparticles]]
-[[plant defense]]
-[[Solanum Lycopersicum]]
-[[Myc2]]

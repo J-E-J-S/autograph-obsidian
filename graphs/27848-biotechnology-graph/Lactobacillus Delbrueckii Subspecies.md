@@ -1,5 +1,0 @@
-[[Genetic marker]]
-[[Identification]]
-[[Real-Time PCR]]
-[[Pangenome]]
-[[Probiotic Product]]

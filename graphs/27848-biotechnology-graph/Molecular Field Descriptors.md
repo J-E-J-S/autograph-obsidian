@@ -1,5 +1,0 @@
-[[Electronegativity]]
-[[QSAR]]
-[[Partial least squares]]
-[[drug discovery]]
-[[Electron Affinity]]

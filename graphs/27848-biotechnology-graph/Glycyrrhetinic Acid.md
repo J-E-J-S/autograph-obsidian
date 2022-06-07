@@ -1,5 +1,0 @@
-[[Inhibitors]]
-[[Synthesis]]
-[[Triterpenoids]]
-[[Derivatives]]
-[[Zika Virus]]

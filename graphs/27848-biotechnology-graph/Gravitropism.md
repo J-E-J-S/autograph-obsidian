@@ -1,5 +1,0 @@
-[[Cell wall]]
-[[Cellulose]]
-[[Arabidopsis thaliana]]
-[[Mannan]]
-[[brassinosteroids]]

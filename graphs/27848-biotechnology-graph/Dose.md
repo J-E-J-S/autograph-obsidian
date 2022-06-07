@@ -1,3 +1,0 @@
-[[Lactulose]]
-[[Fecal Microbiota]]
-[[Blautia]]

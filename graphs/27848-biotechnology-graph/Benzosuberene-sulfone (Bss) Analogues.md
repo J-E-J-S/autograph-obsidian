@@ -1,6 +1,0 @@
-[[Rosiglitazone]]
-[[Type-2 Diabetes]]
-[[Semi-synthesis]]
-[[In-silico]]
-[[Cedrus Deodara Oil]]
-[[Declofenace]]

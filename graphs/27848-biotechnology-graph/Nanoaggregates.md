@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[Paclitaxel]]
-[[Drug release]]
-[[FeruLic acid]]
-[[Polyamidoamine Dendrimer]]

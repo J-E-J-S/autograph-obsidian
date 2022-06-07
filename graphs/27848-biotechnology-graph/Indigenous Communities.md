@@ -1,5 +1,0 @@
-[[Knowledge]]
-[[Health education]]
-[[Beliefs]]
-[[Sickle Cell Disease]]
-[[Tribal]]

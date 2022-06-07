@@ -1,5 +1,0 @@
-[[Dextran]]
-[[Exopolysaccharides]]
-[[inulin]]
-[[Levan]]
-[[Leuconostoc Spp.]]

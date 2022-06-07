@@ -1,6 +1,0 @@
-[[Copper]]
-[[Pollutant]]
-[[urban ecosystem]]
-[[Agrostis stolonifera]]
-[[lawn grass]]
-[[Cell Selection]]

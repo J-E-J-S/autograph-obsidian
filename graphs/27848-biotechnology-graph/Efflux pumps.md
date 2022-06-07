@@ -1,6 +1,0 @@
-[[Multidrug resistance]]
-[[Molecular docking]]
-[[Potentiation]]
-[[Antibacterial Resistance]]
-[[Embelin]]
-[[Nano-composites]]

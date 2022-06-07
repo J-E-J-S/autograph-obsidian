@@ -1,5 +1,0 @@
-[[Structure]]
-[[Cytotoxicity]]
-[[Antioxidant activity]]
-[[exopolysaccharide]]
-[[Nmr Studies]]

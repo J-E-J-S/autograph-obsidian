@@ -1,6 +1,0 @@
-[[Chromium]]
-[[Bacteria]]
-[[Wastewater]]
-[[Biodegradation]]
-[[Bioremediation]]
-[[biosorption]]

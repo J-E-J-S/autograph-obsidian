@@ -1,3 +1,0 @@
-[[Shrimp]]
-[[innate immunity]]
-[[Fred]]

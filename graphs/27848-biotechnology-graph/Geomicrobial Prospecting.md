@@ -1,5 +1,0 @@
-[[Degradation]]
-[[Hydrocarbon]]
-[[Bacterial diversity]]
-[[Petroleum]]
-[[Oil Reservoirs]]

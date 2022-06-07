@@ -1,3 +1,0 @@
-[[Prevention]]
-[[Treatment]]
-[[Forsythoside A]]

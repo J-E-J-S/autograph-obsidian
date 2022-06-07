@@ -1,3 +1,0 @@
-[[Polymer]]
-[[Supermacroporous]]
-[[Biomedicine Application]]

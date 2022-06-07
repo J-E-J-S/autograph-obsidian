@@ -1,5 +1,0 @@
-[[Simulation]]
-[[Molecular dynamics]]
-[[Nicotinic acetylcholine receptor]]
-[[Antidote]]
-[[Nerve Agent]]

@@ -1,6 +1,0 @@
-[[Glycoconjugate]]
-[[Anticancer drugs]]
-[[Targeted Delivery]]
-[[Chitosan]]
-[[Ustilago maydis]]
-[[Antifungal Mechanism]]

@@ -1,5 +1,0 @@
-[[Ace Operon]]
-[[Acetate-diauxic Switch]]
-[[Flux Signals]]
-[[Gluconeogenic Metabolism]]
-[[Succinyl Coa Synthetase]]

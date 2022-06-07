@@ -1,5 +1,0 @@
-[[Electrophoresis]]
-[[Chromatography]]
-[[Surface plasmon resonance]]
-[[Mass spectrometry]]
-[[Biosimilars]]

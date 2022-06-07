@@ -1,5 +1,0 @@
-[[Antimicrobial activity]]
-[[Antioxidant activity]]
-[[Differential pulse voltammetry]]
-[[Lc-ms/ms Analysis]]
-[[G. Latifolia]]

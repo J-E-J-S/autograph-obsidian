@@ -1,8 +1,0 @@
-[[Quality control]]
-[[Synthetic Biology]]
-[[Dna Assembly]]
-[[Nanopore Sequencing]]
-[[Goldenbraid Assembly]]
-[[Versatile Shuffling]]
-[[Combinatorial Dna Library]]
-[[Constructs Validation]]

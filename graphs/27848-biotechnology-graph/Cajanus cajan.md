@@ -1,8 +1,0 @@
-[[Bacillus megaterium]]
-[[Pseudomonas fluorescens]]
-[[N Cycle]]
-[[Azotobacter Chroococcum]]
-[[Vitexin]]
-[[Fermentation optimization]]
-[[Fusarium Solani G6]]
-[[Osteoblastic Proliferation Activity]]

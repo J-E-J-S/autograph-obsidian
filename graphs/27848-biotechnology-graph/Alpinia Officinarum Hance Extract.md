@@ -1,5 +1,0 @@
-[[Quercetin]]
-[[Curcumin]]
-[[Galangin]]
-[[Kaempferol]]
-[[Anti-inflammatory effects]]

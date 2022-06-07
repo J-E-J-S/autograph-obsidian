@@ -1,2 +1,0 @@
-[[Tetraene]]
-[[Ishigamide]]

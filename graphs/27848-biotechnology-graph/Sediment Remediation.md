@@ -1,5 +1,0 @@
-[[Hydrocarbons]]
-[[Heavy metals]]
-[[Marine pollution]]
-[[Microbial Fuel Cells]]
-[[Renewable Energy Systems]]

@@ -1,5 +1,0 @@
-[[transcriptional repression]]
-[[Medicago Truncatula]]
-[[Inflorescence Development]]
-[[Mtfulc]]
-[[Secondary Inflorescence Meristem]]

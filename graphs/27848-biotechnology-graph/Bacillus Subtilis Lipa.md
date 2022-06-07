@@ -1,2 +1,0 @@
-[[Computational Protein Design]]
-[[Thermostabilization]]

@@ -1,7 +1,0 @@
-[[Collagen]]
-[[Wound healing]]
-[[Mir-21]]
-[[microRNAs]]
-[[Adipose-derived Stem Cells]]
-[[Mir-29b]]
-[[Activated Fibroblasts]]

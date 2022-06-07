@@ -1,6 +1,0 @@
-[[Rhodococcus]]
-[[Promoters]]
-[[Shuttle Vectors]]
-[[Genome Editing]]
-[[Crispr/cas9]]
-[[Genetic Toolkits]]

@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Edible insects]]
-[[Mealworms]]
-[[Styrofoam Utilization]]
-[[Superworms]]

@@ -1,3 +1,0 @@
-[[Lignin]]
-[[PHB]]
-[[Particle-reinforcement]]

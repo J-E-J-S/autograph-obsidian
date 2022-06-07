@@ -1,2 +1,0 @@
-[[Biotechnological Applications]]
-[[Structural Orientation]]

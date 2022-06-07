@@ -1,5 +1,0 @@
-[[DNA repair]]
-[[Angiogenesis]]
-[[Combination therapy]]
-[[Mdr Modulators]]
-[[5-Fu Resistance]]

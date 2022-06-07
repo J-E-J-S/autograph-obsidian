@@ -1,8 +1,0 @@
-[[Escherichia Coli]]
-[[metabolic engineering]]
-[[Efflux]]
-[[L-homoserine]]
-[[Corynebacterium glutamicum]]
-[[5-aminolevulinic acid]]
-[[two-component system]]
-[[Auto-inducible Metabolic Engineering]]

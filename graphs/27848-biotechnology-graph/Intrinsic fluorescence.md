@@ -1,7 +1,0 @@
-[[Short Hydrogen Bond]]
-[[Ultraviolet Fluorescence]]
-[[Electrospinning]]
-[[Protein Fibers]]
-[[Direct Writing]]
-[[Functional Amyloid Materials]]
-[[Guided Protein Self-assembly]]

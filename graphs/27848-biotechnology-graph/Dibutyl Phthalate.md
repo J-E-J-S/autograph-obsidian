@@ -1,3 +1,0 @@
-[[Biodegradation]]
-[[Genomics]]
-[[Transcriptomics]]

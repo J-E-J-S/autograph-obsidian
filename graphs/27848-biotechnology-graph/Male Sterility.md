@@ -1,8 +1,0 @@
-[[sterile insect technique]]
-[[sperm transfer]]
-[[Gene evolution]]
-[[Gene Expression]]
-[[Transgenic Sexing Strains]]
-[[Cotton]]
-[[micro RNA]]
-[[Long Non-coding Rnas]]

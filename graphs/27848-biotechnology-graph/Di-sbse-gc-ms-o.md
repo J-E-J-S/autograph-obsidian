@@ -1,5 +1,0 @@
-[[Validation]]
-[[Quantification]]
-[[Consumer Preference]]
-[[Key Odorants]]
-[[Soy Drink]]

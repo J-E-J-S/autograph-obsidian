@@ -1,5 +1,0 @@
-[[GC-MS analysis]]
-[[Endophytic fungi]]
-[[Extracellular enzymes]]
-[[Bioactive compounds]]
-[[Phytochemicals]]

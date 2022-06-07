@@ -1,4 +1,0 @@
-[[Malaria]]
-[[India]]
-[[Rural]]
-[[Tribal]]

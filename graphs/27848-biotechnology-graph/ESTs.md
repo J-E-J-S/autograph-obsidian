@@ -1,5 +1,0 @@
-[[Lignin]]
-[[MicroRNA]]
-[[Jute]]
-[[Corchorus Capsularis]]
-[[Natural Fibre]]

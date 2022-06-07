@@ -1,5 +1,0 @@
-[[PCR]]
-[[Cervical cancer]]
-[[Early diagnosis]]
-[[Human Papillomavirus Infection]]
-[[Anuppur District]]

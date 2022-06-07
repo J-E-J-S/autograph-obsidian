@@ -1,5 +1,0 @@
-[[Endophytic fungi]]
-[[Hyperaccumulators]]
-[[Irt1]]
-[[Serpentine Soils]]
-[[Irt2]]

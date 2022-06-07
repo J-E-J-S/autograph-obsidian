@@ -1,5 +1,0 @@
-[[Photothermal Therapy]]
-[[Hyperpyrexia]]
-[[Thiazole Orange]]
-[[Mitochondria-targeted]]
-[[Organic Small Molecules]]

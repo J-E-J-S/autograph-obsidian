@@ -1,5 +1,0 @@
-[[Phylogenetic analysis]]
-[[Homology modeling]]
-[[ABC transporter]]
-[[Docking]]
-[[Genome-scale Analysis]]

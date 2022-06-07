@@ -1,6 +1,0 @@
-[[Brain]]
-[[Aging]]
-[[Antioxidant enzymes]]
-[[Glucose-6-phosphate dehydrogenase]]
-[[phosphofructokinase]]
-[[glycolysis]]

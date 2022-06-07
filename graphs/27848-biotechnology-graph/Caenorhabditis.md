@@ -1,7 +1,0 @@
-[[speciation]]
-[[Gene Drive]]
-[[Toxin-antitoxin]]
-[[Genetic Incompatibility]]
-[[Selfish Gene]]
-[[Natural Genetic Variation]]
-[[Toxin-antidote]]

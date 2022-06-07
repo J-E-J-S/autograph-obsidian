@@ -1,6 +1,0 @@
-[[Lignocellulose degradation]]
-[[Transcriptome Analysis]]
-[[Cazymes]]
-[[Effluent Treatment]]
-[[Laccase Isoforms]]
-[[Dye Detoxification]]

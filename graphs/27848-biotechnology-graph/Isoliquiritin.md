@@ -1,3 +1,0 @@
-[[Zebrafish]]
-[[Telencephalon]]
-[[Ischemic stroke]]

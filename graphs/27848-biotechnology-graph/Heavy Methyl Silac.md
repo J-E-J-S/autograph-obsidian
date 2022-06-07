@@ -1,5 +1,0 @@
-[[Phosphorylation]]
-[[Intrinsic Disorder]]
-[[Arginine Methylation]]
-[[Co-modification]]
-[[Biomolecular Condensate]]

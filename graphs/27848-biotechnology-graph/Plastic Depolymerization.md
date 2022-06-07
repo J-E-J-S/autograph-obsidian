@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Biocatalysis]]
-[[Omics-based Techniques]]
-[[Plastic-degrading Enzymes]]
-[[Sustainable Plastic Recycling]]

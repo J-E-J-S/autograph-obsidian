@@ -1,5 +1,0 @@
-[[Rhizobia]]
-[[Housekeeping Genes]]
-[[E. Meliloti]]
-[[Site-specific Inocula]]
-[[Intraspecies Polymorphism]]

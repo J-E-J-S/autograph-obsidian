@@ -1,2 +1,0 @@
-[[Homeopathy]]
-[[Functional Gastrointestinal Disorders]]

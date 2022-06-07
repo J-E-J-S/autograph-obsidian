@@ -1,5 +1,0 @@
-[[PCA]]
-[[Habitat structure]]
-[[Algeria]]
-[[White Stork]]
-[[Guerbes-sanhadja]]

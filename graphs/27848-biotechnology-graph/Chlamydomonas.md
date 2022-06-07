@@ -1,5 +1,0 @@
-[[Signal peptide]]
-[[Environmental stress]]
-[[Salinity stress]]
-[[Secretome]]
-[[Unconventional Protein Secretion]]

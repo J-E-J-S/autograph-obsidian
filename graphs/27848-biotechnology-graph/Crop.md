@@ -1,7 +1,0 @@
-[[Agriculture]]
-[[Regulation]]
-[[Policy]]
-[[Crispr]]
-[[Cas9]]
-[[Genome Editing]]
-[[Cas12a]]

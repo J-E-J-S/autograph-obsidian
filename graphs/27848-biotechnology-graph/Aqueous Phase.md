@@ -1,5 +1,0 @@
-[[Orthogonal test]]
-[[Chitosan]]
-[[Attapulgite]]
-[[Cadmium Ions]]
-[[Efficient Adsorption]]

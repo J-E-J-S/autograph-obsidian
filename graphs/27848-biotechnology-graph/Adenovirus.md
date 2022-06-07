@@ -1,5 +1,0 @@
-[[Vaccine]]
-[[Human papillomavirus]]
-[[Cervical cancer]]
-[[Hpv Infection]]
-[[Hpv Oncoproteins]]

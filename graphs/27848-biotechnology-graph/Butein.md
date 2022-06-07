@@ -1,5 +1,0 @@
-[[Bakuchiol]]
-[[Mimosine]]
-[[Pla(2)]]
-[[Big Four]]
-[[Daboxin P]]

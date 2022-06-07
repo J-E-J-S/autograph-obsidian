@@ -1,5 +1,0 @@
-[[Ustilago maydis]]
-[[Transcriptome]]
-[[phytochrome]]
-[[Rna-seq]]
-[[White Collar 1]]

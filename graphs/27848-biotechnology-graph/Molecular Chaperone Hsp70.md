@@ -1,5 +1,0 @@
-[[Lysosome]]
-[[Toxoplasma gondii]]
-[[Autophagy]]
-[[Co-chaperone]]
-[[Pifithrin]]

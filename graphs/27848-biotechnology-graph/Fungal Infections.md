@@ -1,6 +1,0 @@
-[[Biotechnology]]
-[[Plant pathogens]]
-[[Nanomedicine]]
-[[Nanotoxicity]]
-[[nanomaterials]]
-[[Biomolecule Corona]]

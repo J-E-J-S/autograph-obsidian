@@ -1,5 +1,0 @@
-[[Endometrium]]
-[[Implantation]]
-[[Invasion]]
-[[Choriocarcinoma]]
-[[Spheroid]]

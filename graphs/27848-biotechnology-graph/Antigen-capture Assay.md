@@ -1,5 +1,0 @@
-[[Chemotaxis]]
-[[Monoclonal antibody]]
-[[Chicken]]
-[[Ccl5]]
-[[Intracellular Staining]]

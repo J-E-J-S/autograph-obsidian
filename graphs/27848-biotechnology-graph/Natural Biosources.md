@@ -1,5 +1,0 @@
-[[Carotenoids]]
-[[Isoprenoid]]
-[[Haloarchaea]]
-[[Bacterioruberin]]
-[[Microbial Blooms]]

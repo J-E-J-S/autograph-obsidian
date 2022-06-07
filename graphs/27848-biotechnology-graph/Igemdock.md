@@ -1,5 +1,0 @@
-[[Dengue virus]]
-[[Docking]]
-[[Antiviral Activity]]
-[[Schrödinger]]
-[[Astragaloside Ii]]

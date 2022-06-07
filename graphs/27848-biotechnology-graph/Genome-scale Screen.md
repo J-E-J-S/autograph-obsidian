@@ -1,5 +1,0 @@
-[[Tolerance]]
-[[Candida glycerinogenes]]
-[[2-Phenylethanol]]
-[[Glutathione Synthetase Gsh2]]
-[[Transcription Factor Hap5]]

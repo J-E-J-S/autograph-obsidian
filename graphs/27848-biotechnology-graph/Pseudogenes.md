@@ -1,6 +1,0 @@
-[[Nonsynonymous Substitutions]]
-[[Synonymous Substitutions]]
-[[Noncoding Genome]]
-[[Pseudogene Characterization]]
-[[Pseudogene Databases]]
-[[Pseudogene Pipelines]]

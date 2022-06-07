@@ -1,6 +1,0 @@
-[[Flagella]]
-[[SPR]]
-[[Urinary tract infections]]
-[[bacteremia]]
-[[motility]]
-[[The Complement System]]

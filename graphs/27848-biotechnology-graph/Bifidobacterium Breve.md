@@ -1,2 +1,0 @@
-[[Probiotics]]
-[[Safety evaluation]]

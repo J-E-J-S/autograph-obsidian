@@ -1,5 +1,0 @@
-[[Pichia pastoris]]
-[[Ibuprofen]]
-[[Bidirectional Promoters]]
-[[Whole Cell Biocatalyst]]
-[[Human Cyp2c9]]

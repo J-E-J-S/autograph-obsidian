@@ -1,8 +1,0 @@
-[[Oxidative stress]]
-[[Inflammation]]
-[[Autophagy]]
-[[Graphene Oxide]]
-[[Chitosan]]
-[[Dextran]]
-[[Vascular surgery]]
-[[Tissue Adhesive]]

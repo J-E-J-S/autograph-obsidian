@@ -1,2 +1,0 @@
-[[Metalloproteinase]]
-[[Bacterial Collagenase]]

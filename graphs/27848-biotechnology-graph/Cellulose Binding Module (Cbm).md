@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Oxidative cleavage]]
-[[Cellulose degradation]]
-[[Directed evolution]]
-[[Lytic Polysaccharide Monooxygenase (Lpmo)]]

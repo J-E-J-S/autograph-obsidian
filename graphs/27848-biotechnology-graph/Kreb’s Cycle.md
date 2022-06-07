@@ -1,5 +1,0 @@
-[[Sucrose]]
-[[Overexpressing]]
-[[By-products]]
-[[L-homoserine]]
-[[Platform Compound]]

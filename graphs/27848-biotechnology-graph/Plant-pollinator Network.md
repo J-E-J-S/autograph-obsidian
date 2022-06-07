@@ -1,5 +1,0 @@
-[[Lamiaceae]]
-[[Pollination efficiency]]
-[[Foraging Efficiency]]
-[[Interaction Probability]]
-[[Frequency Of Visit]]

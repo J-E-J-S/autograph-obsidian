@@ -1,5 +1,0 @@
-[[Natural product]]
-[[Adjuvant]]
-[[Anti-tumor immunity]]
-[[Dendritic Cell]]
-[[Chrysanthemum Zawadskii Herbich Var. Latilobum]]

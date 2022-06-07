@@ -1,5 +1,0 @@
-[[Fungus]]
-[[Effector]]
-[[Plant Immunity]]
-[[Rxlr]]
-[[Crinkler]]

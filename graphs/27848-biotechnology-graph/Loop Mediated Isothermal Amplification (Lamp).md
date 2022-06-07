@@ -1,4 +1,0 @@
-[[Lyophilization]]
-[[Diagnosis]]
-[[Dye]]
-[[Dengue]]

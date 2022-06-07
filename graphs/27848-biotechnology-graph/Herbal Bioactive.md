@@ -1,5 +1,0 @@
-[[herbal medicine]]
-[[Coronavirus]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Catechin.]]

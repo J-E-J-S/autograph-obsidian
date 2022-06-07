@@ -1,5 +1,0 @@
-[[Pentose phosphate pathway]]
-[[polar growth]]
-[[Itraq]]
-[[Ntgnl1]]
-[[Endosome Trafficking]]

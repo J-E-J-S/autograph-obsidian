@@ -1,5 +1,0 @@
-[[16S rRNA]]
-[[Pathogen]]
-[[Metagenomics]]
-[[Fish Gill]]
-[[Picrust]]

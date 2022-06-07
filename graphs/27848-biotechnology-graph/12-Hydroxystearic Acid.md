@@ -1,7 +1,0 @@
-[[Glycolipids]]
-[[Gels]]
-[[Nanotubes]]
-[[Supramolecular Assembly]]
-[[Soft Materials]]
-[[Renewable Resource]]
-[[Structuring Agent]]

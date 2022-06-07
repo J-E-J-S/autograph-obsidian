@@ -1,3 +1,0 @@
-[[Biosynthesis]]
-[[Regulatory mechanism]]
-[[Natamycin]]

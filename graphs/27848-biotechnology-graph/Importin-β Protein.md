@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Abscisic acid]]
-[[Drought Stress Response]]
-[[Ring-type E3 Ubiquitin Ligase]]
-[[Atairp1atkpnb1 Double Mutant]]

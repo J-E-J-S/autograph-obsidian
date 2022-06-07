@@ -1,6 +1,0 @@
-[[Vaccination]]
-[[BCG]]
-[[Adaptive]]
-[[Tb]]
-[[Revaccination]]
-[[Trained Immunity]]

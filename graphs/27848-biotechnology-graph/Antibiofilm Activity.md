@@ -1,8 +1,0 @@
-[[MTT assay]]
-[[Anticancer activity]]
-[[Photocatalytic Activity]]
-[[Antibacterial Properties]]
-[[Tio2nps]]
-[[Ludwigia Octovalvis]]
-[[Dental Material]]
-[[Candida Spp]]

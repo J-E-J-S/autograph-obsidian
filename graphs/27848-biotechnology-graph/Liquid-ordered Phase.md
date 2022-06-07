@@ -1,5 +1,0 @@
-[[Sphingolipid]]
-[[lipid raft]]
-[[microdomain]]
-[[Membrane Domain]]
-[[Detergent-resistant Membrane]]

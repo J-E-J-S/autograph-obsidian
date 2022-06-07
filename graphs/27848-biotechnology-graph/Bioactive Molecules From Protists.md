@@ -1,5 +1,0 @@
-[[Secondary metabolites]]
-[[Natural products]]
-[[Climacostol]]
-[[Cold-adapted Enzymes]]
-[[Ice Binding Proteins]]

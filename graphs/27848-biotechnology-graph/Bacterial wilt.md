@@ -1,7 +1,0 @@
-[[Effector]]
-[[Ralstonia solanacearum]]
-[[Plant Immunity]]
-[[Novel E3 Ubiquitin Ligase]]
-[[Chemotaxis]]
-[[malate]]
-[[Ralstonia Pseudosolanacearum]]

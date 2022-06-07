@@ -1,7 +1,0 @@
-[[Botrytis cinerea]]
-[[Antifungal activity]]
-[[Lycorine]]
-[[Antioxidants]]
-[[Nitric oxide]]
-[[Fruit quality]]
-[[Fruit ripening]]

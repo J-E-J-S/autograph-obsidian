@@ -1,4 +1,0 @@
-[[Sheep]]
-[[Klebsiella]]
-[[Goats]]
-[[ESBL]]

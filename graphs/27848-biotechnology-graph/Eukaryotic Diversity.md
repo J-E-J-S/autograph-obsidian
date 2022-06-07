@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Ciliophora]]
-[[18S Rrna Gene Sequencing]]
-[[Camel Rumen]]
-[[Qiime 2]]

@@ -1,6 +1,0 @@
-[[Biotechnology]]
-[[Peel]]
-[[bark]]
-[[Vitis vinifera L.]]
-[[Patents]]
-[[Technological Prospecting]]

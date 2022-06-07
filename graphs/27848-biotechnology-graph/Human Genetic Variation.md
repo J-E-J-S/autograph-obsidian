@@ -1,5 +1,0 @@
-[[Biomarkers]]
-[[Wnt pathway]]
-[[Colorectal Cancer]]
-[[Cancer Research]]
-[[Long Noncoding Rnas]]

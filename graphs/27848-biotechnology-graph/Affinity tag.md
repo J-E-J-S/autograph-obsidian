@@ -1,5 +1,0 @@
-[[Corynebacterium glutamicum]]
-[[Plasmid stability]]
-[[Gene repression]]
-[[Protein Production]]
-[[Iptg-inducible Expression]]

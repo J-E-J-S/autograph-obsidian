@@ -1,3 +1,0 @@
-[[Centipedegrass]]
-[[Anti-cancer]]
-[[Radiosensitizer]]

@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[metabolic engineering]]
-[[Methylotrophy]]
-[[Metabolic Reconstruction]]
-[[Genome-scale Metabolic Model]]

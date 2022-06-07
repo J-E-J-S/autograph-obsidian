@@ -1,4 +1,0 @@
-[[Aerobic]]
-[[Lactose]]
-[[Transcriptomics]]
-[[Microaerobic]]

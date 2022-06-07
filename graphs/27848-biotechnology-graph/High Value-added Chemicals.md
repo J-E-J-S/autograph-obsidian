@@ -1,5 +1,0 @@
-[[Metabolic pathways]]
-[[Bioconversion]]
-[[Methane oxidizing bacteria]]
-[[Methane]]
-[[Wastewater Treatment Plants (Wwtps)]]

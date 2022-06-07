@@ -1,5 +1,0 @@
-[[Purification]]
-[[Recombinant protein]]
-[[PET]]
-[[Ethanol Induction]]
-[[Hematopoietic Factor]]

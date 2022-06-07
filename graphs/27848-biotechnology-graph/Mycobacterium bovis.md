@@ -1,8 +1,0 @@
-[[Vaccine]]
-[[Caf01]]
-[[H65]]
-[[Pdim]]
-[[Phop]]
-[[Acidic Stress]]
-[[Mycobacterium tuberculosis]]
-[[Latency]]

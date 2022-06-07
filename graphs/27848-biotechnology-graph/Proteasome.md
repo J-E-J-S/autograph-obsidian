@@ -1,5 +1,0 @@
-[[Cholesterol]]
-[[Protein degradation]]
-[[Squalene Monooxygenase]]
-[[Ubiquitylation (Ubiquitination)]]
-[[Endoplasmic Reticulum-associated Protein Degradation (Erad)]]

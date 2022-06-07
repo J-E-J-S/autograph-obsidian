@@ -1,5 +1,0 @@
-[[Surfactant]]
-[[Applications]]
-[[Excipient]]
-[[Lyoprotectant]]
-[[Forgotten Sugar]]

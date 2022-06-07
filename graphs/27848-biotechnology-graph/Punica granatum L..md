@@ -1,5 +1,0 @@
-[[Wound healing]]
-[[Antioxidant activity]]
-[[Antibacterial activity]]
-[[Persian Medicine]]
-[[Matricaria Chamomilla L.]]

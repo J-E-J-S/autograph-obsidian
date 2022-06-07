@@ -1,8 +1,0 @@
-[[Breast cancer]]
-[[Bisphenol A]]
-[[human urine]]
-[[Hplc-fld]]
-[[Cell lines]]
-[[Glioblastoma]]
-[[Temozolomide]]
-[[Tak1]]

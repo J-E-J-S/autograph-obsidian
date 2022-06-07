@@ -1,6 +1,0 @@
-[[Multidrug resistance]]
-[[Molecular docking]]
-[[Efflux pumps]]
-[[Potentiation]]
-[[Antibacterial Resistance]]
-[[Embelin]]

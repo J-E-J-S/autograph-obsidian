@@ -1,7 +1,0 @@
-[[Proteomics]]
-[[Transcriptomics]]
-[[Feruloyl Esterase]]
-[[Carbohydrate Esterase]]
-[[Carbohydrate-active Enzymes]]
-[[Carbohydrate-binding Modules]]
-[[Pectin Lyase]]

@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Eukaryotic Diversity]]
-[[18S Rrna Gene Sequencing]]
-[[Camel Rumen]]
-[[Qiime 2]]

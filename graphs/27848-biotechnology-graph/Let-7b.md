@@ -1,2 +1,0 @@
-[[Interferon]]
-[[Hepatitis C virus]]

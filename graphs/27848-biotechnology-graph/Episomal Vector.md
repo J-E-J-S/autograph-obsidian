@@ -1,7 +1,0 @@
-[[Suicide gene]]
-[[Cytosine deaminase]]
-[[Direct Conversion]]
-[[Direct Reprogramming]]
-[[Cell Fate Change]]
-[[Induced Neural Progenitor]]
-[[Induced Neural Stem Cell]]

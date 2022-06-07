@@ -1,2 +1,0 @@
-[[Hippocampus]]
-[[LTP]]

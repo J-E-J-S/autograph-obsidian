@@ -1,6 +1,0 @@
-[[Biotransformation]]
-[[Expression regulation]]
-[[Membrane Modification]]
-[[Equilibrium Shift]]
-[[Combination Of Reactions]]
-[[Environment Of Reaction]]

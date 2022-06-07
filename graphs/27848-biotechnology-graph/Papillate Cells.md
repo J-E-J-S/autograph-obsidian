@@ -1,6 +1,0 @@
-[[Evolution]]
-[[Regulatory network]]
-[[Myb Transcription Factor]]
-[[Cuticle Biosynthesis]]
-[[Mixta]]
-[[Plant Terrestrialisation]]

@@ -1,5 +1,0 @@
-[[Catechins]]
-[[Cytotoxicity assay]]
-[[Brown rice]]
-[[Glycemic Index]]
-[[Human Nutrition]]

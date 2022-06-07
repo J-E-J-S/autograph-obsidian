@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Proliferation]]
-[[Gastric carcinoma]]
-[[Il-17]]
-[[Apatinib]]
-[[Hgc-27 Cells]]
-[[Bax/bcl-2 Signaling Pathway]]

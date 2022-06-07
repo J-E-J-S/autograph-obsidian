@@ -1,5 +1,0 @@
-[[Glycated protein]]
-[[Flow injection analysis]]
-[[Fructosyl Peptide Oxidase]]
-[[2.5Th Generation Principle]]
-[[Quasi-direct Electron Transfer]]

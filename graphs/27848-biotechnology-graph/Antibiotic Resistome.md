@@ -1,3 +1,0 @@
-[[Genome]]
-[[Antimicrobial resistance]]
-[[metagenome]]

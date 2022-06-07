@@ -1,5 +1,0 @@
-[[Polymerase chain reaction]]
-[[Hepatitis C virus]]
-[[Molecular docking]]
-[[Molecular Dynamic (Md) Simulations]]
-[[Hepatocellular Carcinoma Non-structural Protein 3]]

@@ -1,5 +1,0 @@
-[[Promoter analysis]]
-[[Agroinfiltration]]
-[[Transgenics]]
-[[Aphid-responsive Genes]]
-[[Plant Inducible Promoter]]

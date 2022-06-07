@@ -1,5 +1,0 @@
-[[Pulsed Field Ablation]]
-[[Equipment Design In Biotechnology]]
-[[Extraction Of Value Compounds]]
-[[Modeling And Numerical Simulations]]
-[[Product Modification And Properties]]

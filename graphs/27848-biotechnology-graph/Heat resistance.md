@@ -1,5 +1,0 @@
-[[Mannitol]]
-[[Sexual development]]
-[[Aspergillus nidulans]]
-[[Hyphal Branching]]
-[[Mannitol Phosphate Dehydrogenase]]

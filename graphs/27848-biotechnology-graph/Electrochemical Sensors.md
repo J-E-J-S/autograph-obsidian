@@ -1,5 +1,0 @@
-[[Glutathione]]
-[[doxorubicin]]
-[[Molybdenum Disulfide]]
-[[Core-shell Nanoparticle]]
-[[Ultrasonic assisted Synthesis]]

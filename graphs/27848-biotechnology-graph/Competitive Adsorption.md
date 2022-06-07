@@ -1,3 +1,0 @@
-[[Mobility]]
-[[propiconazole]]
-[[Difenoconazole]]

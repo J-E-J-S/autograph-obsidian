@@ -1,6 +1,0 @@
-[[Membrane lipids]]
-[[Sterols]]
-[[Humic Acid]]
-[[Phosphatidic acids]]
-[[Osmolytes]]
-[[Fungal Mycelium]]

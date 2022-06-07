@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[Inactivation]]
-[[Polyphenols]]
-[[Chokeberry]]
-[[Corona Discharge Plasma]]

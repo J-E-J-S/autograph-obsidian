@@ -1,5 +1,0 @@
-[[Bioavailability]]
-[[In vitro release]]
-[[Mixed micelles]]
-[[Aloe Emodin]]
-[[Anti-hyperuricemic]]

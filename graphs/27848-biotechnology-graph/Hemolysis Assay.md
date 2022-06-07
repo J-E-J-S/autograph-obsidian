@@ -1,5 +1,0 @@
-[[Antibacterial]]
-[[silk fibroin]]
-[[Alginate Hydrogel]]
-[[Poly Vinyl Alcohol]]
-[[Magnesium Hydroxide Nanorods]]

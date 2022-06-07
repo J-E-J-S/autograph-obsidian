@@ -1,6 +1,0 @@
-[[Salvia miltiorrhiza]]
-[[Phenolic acids]]
-[[Antioxidant activity]]
-[[Antibacterial activity]]
-[[Potential Healthcare Materials]]
-[[Rosmarinic Acid, Pubchem Cid 5315615]]

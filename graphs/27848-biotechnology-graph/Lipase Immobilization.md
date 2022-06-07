@@ -1,8 +1,0 @@
-[[Specific activity]]
-[[Carbon nanotubes]]
-[[Pseudomonas Cepacia]]
-[[Plackett–burman Design]]
-[[Specific activity]]
-[[Graphene Oxide]]
-[[D-optimal Design]]
-[[Bacillus Atrophaeus]]

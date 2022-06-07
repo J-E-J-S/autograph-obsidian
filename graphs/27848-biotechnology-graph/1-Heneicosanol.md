@@ -1,5 +1,0 @@
-[[Streptomyces]]
-[[Squalene Epoxidase]]
-[[Tinea Infection]]
-[[T. Mentagrophytes]]
-[[Sterol Quantification Assay]]

@@ -1,3 +1,0 @@
-[[Zinc]]
-[[Meta-analysis]]
-[[Africa]]

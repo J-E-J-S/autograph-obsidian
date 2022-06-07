@@ -1,3 +1,0 @@
-[[Genetics]]
-[[Medical]]
-[[Genetic Counseling]]

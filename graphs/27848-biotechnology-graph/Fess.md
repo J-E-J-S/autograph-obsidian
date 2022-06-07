@@ -1,5 +1,0 @@
-[[Flap]]
-[[Rhinology]]
-[[Septal Perforation]]
-[[Endoscopic Endonasal Surgery]]
-[[Septal Surgery]]

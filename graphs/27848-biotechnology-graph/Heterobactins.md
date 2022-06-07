@@ -1,5 +1,0 @@
-[[Rhodococcus]]
-[[CAS assay]]
-[[Siderophores]]
-[[Non-ribosomal Peptide Synthetase]]
-[[Arsenic Tolerance]]

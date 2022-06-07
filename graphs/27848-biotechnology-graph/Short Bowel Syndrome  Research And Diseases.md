@@ -1,7 +1,0 @@
-[[Urinary stones]]
-[[Urolithiasis]]
-[[Hyperoxaluria]]
-[[Kidney stones]]
-[[Nephrolithiasis]]
-[[Home Parenteral Nutrition]]
-[[Short Bowel Syndrome < Research And Diseases]]

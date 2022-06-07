@@ -1,5 +1,0 @@
-[[Plant extracts]]
-[[Natural resistance]]
-[[Beneficial Microbes]]
-[[Bio-control Agents]]
-[[Antifungal Secondary Metabolites]]

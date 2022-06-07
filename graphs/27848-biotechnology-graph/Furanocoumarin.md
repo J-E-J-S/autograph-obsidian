@@ -1,5 +1,0 @@
-[[Coumarin]]
-[[Anticancer activity]]
-[[Pyranocoumarin]]
-[[Coumarin-metal Complexes]]
-[[Coumarin-triazole]]

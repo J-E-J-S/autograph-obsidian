@@ -1,5 +1,0 @@
-[[Immobilization]]
-[[Consortium]]
-[[Genome Characterization]]
-[[Sem Analysis]]
-[[Dapi Staining]]

@@ -1,8 +1,0 @@
-[[Cow]]
-[[Milk Fatty Acid]]
-[[Ensiled Olive Cake]]
-[[Milk]]
-[[Lactation]]
-[[Milk protein]]
-[[Microrna (Mirna)]]
-[[Dairy Sheep]]

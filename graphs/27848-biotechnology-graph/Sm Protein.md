@@ -1,5 +1,0 @@
-[[Transport]]
-[[SNARE]]
-[[Syntaxin-1a]]
-[[Snare Motif]]
-[[Sso1]]

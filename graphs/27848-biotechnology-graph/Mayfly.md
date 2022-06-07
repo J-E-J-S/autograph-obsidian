@@ -1,5 +1,0 @@
-[[Hengduan Mountains]]
-[[Altitude]]
-[[topography]]
-[[Network Analysis]]
-[[Overland Dispersal]]

@@ -1,3 +1,0 @@
-[[Biocatalysis]]
-[[Aldol Condensation]]
-[[Aldolases]]

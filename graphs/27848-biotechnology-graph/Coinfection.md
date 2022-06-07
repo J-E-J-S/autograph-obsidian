@@ -1,7 +1,0 @@
-[[Japanese encephalitis virus]]
-[[Classical swine fever virus]]
-[[Pigs]]
-[[Jev Genotype I]]
-[[Avian Orthoreovirus]]
-[[Synergistic Pathogenicity]]
-[[Fowl Adenovirus Serotype 4]]

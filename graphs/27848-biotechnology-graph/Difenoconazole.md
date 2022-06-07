@@ -1,7 +1,0 @@
-[[Degradation]]
-[[Network]]
-[[Agricultural Soil]]
-[[Core Bacterial Community]]
-[[Mobility]]
-[[propiconazole]]
-[[Competitive Adsorption]]

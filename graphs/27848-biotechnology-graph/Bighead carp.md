@@ -1,5 +1,0 @@
-[[Muscles]]
-[[Transcriptome]]
-[[vertebrae]]
-[[Differentially Expressed Genes (Degs)]]
-[[Body Deformity]]

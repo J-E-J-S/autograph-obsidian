@@ -1,3 +1,0 @@
-[[Acetaldehyde]]
-[[Formaldehyde]]
-[[Food]]

@@ -1,3 +1,0 @@
-[[Biotechnology]]
-[[Nigeria]]
-[[Laboratory Tests]]

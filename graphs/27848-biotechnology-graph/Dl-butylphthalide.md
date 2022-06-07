@@ -1,5 +1,0 @@
-[[Oxidative stress]]
-[[Rotenone]]
-[[Microglia]]
-[[neuroprotection]]
-[[Kelch-like Ech-associated Protein 1/Nuclear Respiratory Factor-2/heme Oxygenase-1 Pathway]]

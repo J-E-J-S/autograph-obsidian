@@ -1,7 +1,0 @@
-[[Selenium]]
-[[Beef cattle]]
-[[Blood serum]]
-[[Intensive Farming]]
-[[Mineral Deficiencies]]
-[[Organic Farming]]
-[[Soil Composition]]

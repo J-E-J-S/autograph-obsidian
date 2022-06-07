@@ -1,2 +1,0 @@
-[[Xanthomonas campestris]]
-[[Glucosylation]]

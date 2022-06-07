@@ -1,5 +1,0 @@
-[[Mycobacterium tuberculosis]]
-[[Antigenicity]]
-[[Bioinformatics]]
-[[Glycoconjugates]]
-[[Hypothetical Protein]]

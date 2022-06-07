@@ -1,4 +1,0 @@
-[[Migration]]
-[[Proliferation]]
-[[glycolysis]]
-[[Crizotinib]]

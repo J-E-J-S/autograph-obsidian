@@ -1,5 +1,0 @@
-[[Genic Microsatellites]]
-[[Microsatellite Inheritance]]
-[[Picea Glauca And Picea Mariana]]
-[[Single-copy Microsatellites]]
-[[Cdna Microsatellite Markers]]

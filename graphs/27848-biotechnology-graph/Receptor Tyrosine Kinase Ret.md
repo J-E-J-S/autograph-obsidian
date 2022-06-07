@@ -1,8 +1,0 @@
-[[Glial cell line-derived neurotrophic factor]]
-[[neuroprotection]]
-[[Parkinson’s Disease]]
-[[Mapk Pathway]]
-[[Rat 6-Hydroxydopamine (6-Ohda) Model]]
-[[Bt44]]
-[[Ret Agonist]]
-[[Akt Pathway]]

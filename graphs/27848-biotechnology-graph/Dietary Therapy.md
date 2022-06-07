@@ -1,7 +1,0 @@
-[[Trace elements]]
-[[Carnitine]]
-[[Tyrosine]]
-[[Obesity]]
-[[Tryptophan]]
-[[Mass spectrometry]]
-[[Resveratrol]]

@@ -1,6 +1,0 @@
-[[Protein kinase activity]]
-[[Preclinical Model]]
-[[Genetic Fingerprint]]
-[[Kinome]]
-[[Peptide Microarray]]
-[[Patient-derived Tumour Xenograft]]

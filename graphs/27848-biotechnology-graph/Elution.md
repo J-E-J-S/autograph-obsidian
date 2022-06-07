@@ -1,6 +1,0 @@
-[[Calcium]]
-[[Ligand]]
-[[Protein A]]
-[[pH]]
-[[Antibody purification]]
-[[Zca]]

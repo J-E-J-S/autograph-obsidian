@@ -1,3 +1,0 @@
-[[Degradation]]
-[[Benzothiazole]]
-[[Uv/chlorine]]

@@ -1,5 +1,0 @@
-[[Immunity]]
-[[MicroRNA]]
-[[defence]]
-[[Magnaporthe Oryzae]]
-[[Blast Disease]]

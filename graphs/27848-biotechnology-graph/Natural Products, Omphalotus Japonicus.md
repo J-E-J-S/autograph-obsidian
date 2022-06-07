@@ -1,3 +1,0 @@
-[[Cytotoxicity]]
-[[Mushroom]]
-[[Polyisoprenepolyol]]

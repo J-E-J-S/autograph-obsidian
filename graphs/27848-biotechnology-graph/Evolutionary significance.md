@@ -1,5 +1,0 @@
-[[Classification]]
-[[Multiple sequence alignment]]
-[[Mutational Analysis]]
-[[Protein Domain Analysis]]
-[[Mammalian Shsps]]

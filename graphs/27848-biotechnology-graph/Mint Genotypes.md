@@ -1,5 +1,0 @@
-[[Menthol]]
-[[Transcription factors]]
-[[Trichome]]
-[[Lamiaceae]]
-[[Transcriptome]]

@@ -1,6 +1,0 @@
-[[Regeneration]]
-[[Differentiation]]
-[[Skeletal muscle]]
-[[hypertrophy]]
-[[LPA]]
-[[Autotaxin]]

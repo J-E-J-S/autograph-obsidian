@@ -1,8 +1,0 @@
-[[Cancer]]
-[[Protein kinase C]]
-[[Tumor promoter]]
-[[Antiproliferative]]
-[[Protein kinase C]]
-[[Tumor promotion]]
-[[Anti-proliferative Activity]]
-[[Aplysiatoxin]]

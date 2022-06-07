@@ -1,6 +1,0 @@
-[[Colonic Microbiota]]
-[[In Vitro Gut Modeling]]
-[[Adaptive Evolutionary Engineering]]
-[[Salt stress]]
-[[Transcriptome]]
-[[Catabolite Control Protein A]]

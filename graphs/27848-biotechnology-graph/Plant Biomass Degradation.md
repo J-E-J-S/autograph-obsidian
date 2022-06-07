@@ -1,6 +1,0 @@
-[[Aspergillus flavus]]
-[[Solid-state fermentation]]
-[[Enzyme Production]]
-[[Carbon utilization]]
-[[Fungal Growth]]
-[[Growth Index (Gi)]]

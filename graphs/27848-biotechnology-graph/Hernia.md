@@ -1,3 +1,0 @@
-[[Regeneration]]
-[[Immunomodulation]]
-[[Peritoneal Adhesion]]

@@ -1,3 +1,0 @@
-[[Depression]]
-[[Perfectionism]]
-[[Self-compassion]]

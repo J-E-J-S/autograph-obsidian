@@ -1,5 +1,0 @@
-[[Leaf]]
-[[Root]]
-[[Morphology]]
-[[Wheat]]
-[[Heavy metals]]

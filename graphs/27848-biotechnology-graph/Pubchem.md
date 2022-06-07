@@ -1,3 +1,0 @@
-[[Inchi]]
-[[Rinchi]]
-[[Inchikey]]

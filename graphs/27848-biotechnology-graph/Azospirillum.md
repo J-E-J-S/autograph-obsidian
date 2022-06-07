@@ -1,4 +1,0 @@
-[[Carotenoids]]
-[[Uplc]]
-[[Hrms]]
-[[Bacterioruberin]]

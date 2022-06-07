@@ -1,5 +1,0 @@
-[[Diagnosis]]
-[[Proteomics]]
-[[Visceral leishmaniasis]]
-[[Immunoreactive Protein]]
-[[Multi-epitope Polypeptide]]

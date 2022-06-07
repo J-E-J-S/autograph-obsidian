@@ -1,5 +1,0 @@
-[[Cellulase]]
-[[Pulp]]
-[[Reducing sugar]]
-[[Cellulose Fiber]]
-[[Hand Sheet]]

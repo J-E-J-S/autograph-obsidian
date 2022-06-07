@@ -1,5 +1,0 @@
-[[Stress tolerance]]
-[[Indole-3-acetic acid]]
-[[Siderophores]]
-[[Plant Growth-promoting Bacteria]]
-[[Pseudomonas Resinovorans]]

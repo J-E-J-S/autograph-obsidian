@@ -1,7 +1,0 @@
-[[PPI]]
-[[Bioinformatics]]
-[[Tandem mass spectrometry]]
-[[Search engine]]
-[[cross-linking]]
-[[Ms/ms]]
-[[Xl-ms]]

@@ -1,8 +1,0 @@
-[[computer-aided design]]
-[[metabolic engineering]]
-[[Phytochemicals]]
-[[Genome Editing]]
-[[Crispr-cas]]
-[[Antimicrobial Resistance (Amr)]]
-[[Phyto-antimicrobials]]
-[[Plant Chassis]]

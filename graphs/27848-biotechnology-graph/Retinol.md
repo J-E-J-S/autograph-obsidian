@@ -1,3 +1,0 @@
-[[Stability]]
-[[Liposome]]
-[[Phytosterol]]

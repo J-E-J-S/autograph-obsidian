@@ -1,7 +1,0 @@
-[[Human]]
-[[Immunocytochemistry]]
-[[Antibody]]
-[[Trophoblast tumor]]
-[[HLA-G]]
-[[Fixative]]
-[[Mem-g/9]]

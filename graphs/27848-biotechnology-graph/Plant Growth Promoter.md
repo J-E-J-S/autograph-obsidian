@@ -1,5 +1,0 @@
-[[Rice]]
-[[Methane]]
-[[Paenibacillus]]
-[[Methylobacterium]]
-[[Methane Utilizing Microorganisms]]

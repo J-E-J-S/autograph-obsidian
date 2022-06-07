@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Nanoparticles]]
-[[adsorption]]
-[[Electroplating Effluent]]
-[[Antimicrobial Toxicity]]

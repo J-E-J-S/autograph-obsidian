@@ -1,5 +1,0 @@
-[[Affinity chromatography]]
-[[Mass spectrometry]]
-[[Fab]]
-[[automation]]
-[[Protein G]]

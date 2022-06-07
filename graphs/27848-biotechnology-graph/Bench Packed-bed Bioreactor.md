@@ -1,5 +1,0 @@
-[[Aspergillus]]
-[[Trichoderma]]
-[[Citric acid]]
-[[Solid-state cultivation]]
-[[Sugarcane Bagasse]]

@@ -1,5 +1,0 @@
-[[Phylogeny]]
-[[Pathogenicity]]
-[[Avian Influenza Virus]]
-[[Reassortant]]
-[[Wild Birds]]

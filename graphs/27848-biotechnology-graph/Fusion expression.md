@@ -1,2 +1,0 @@
-[[Purification]]
-[[Adrenocorticotropic Hormone]]

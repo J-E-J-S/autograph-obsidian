@@ -1,2 +1,0 @@
-[[Prognosis]]
-[[Giant Mediastinal Tumor]]

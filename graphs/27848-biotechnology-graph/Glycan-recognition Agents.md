@@ -1,3 +1,0 @@
-[[Spike protein]]
-[[Coronavirus]]
-[[Glycans]]

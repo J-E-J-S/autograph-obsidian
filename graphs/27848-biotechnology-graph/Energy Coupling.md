@@ -1,7 +1,0 @@
-[[Sucrose]]
-[[ATP]]
-[[Chemostat]]
-[[Directed evolution]]
-[[Membrane Transport]]
-[[substrate uptake]]
-[[Microbial Bioenergetics]]

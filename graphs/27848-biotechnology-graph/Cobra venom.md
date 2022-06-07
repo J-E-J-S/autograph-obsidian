@@ -1,6 +1,0 @@
-[[Naja Kaouthia]]
-[[Naja Naja]]
-[[Antivenom Therapy]]
-[[Clinical Manifestations Of Cobra Bite]]
-[[Lethality Of Indian Cobra Venom]]
-[[Proteomic Analysis Of Indian Cobra Venom]]

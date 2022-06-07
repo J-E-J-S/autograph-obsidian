@@ -1,5 +1,0 @@
-[[Hydrogen peroxide]]
-[[Spontaneous Decomposition]]
-[[Urocanate Hydratase]]
-[[L-histidine Ammonia-lyase]]
-[[L-histidine Oxidase]]

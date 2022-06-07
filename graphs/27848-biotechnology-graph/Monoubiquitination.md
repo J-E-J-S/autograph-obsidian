@@ -1,5 +1,0 @@
-[[Wheat]]
-[[Flowering]]
-[[Rna Polymerase Ii-associated Factor 1]]
-[[Taelf7]]
-[[Tahub2]]

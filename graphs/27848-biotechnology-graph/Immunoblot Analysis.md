@@ -1,6 +1,0 @@
-[[Photosynthesis]]
-[[Fluorescence]]
-[[Chloroplast]]
-[[Drought]]
-[[Quinoa]]
-[[Bioenergetics]]

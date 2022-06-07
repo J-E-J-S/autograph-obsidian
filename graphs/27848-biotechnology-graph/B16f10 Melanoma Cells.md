@@ -1,6 +1,0 @@
-[[Biochemistry]]
-[[Immunohistochemistry]]
-[[Metastasis]]
-[[Histopathology]]
-[[C57BL/6 mice]]
-[[ATRA]]

@@ -1,6 +1,0 @@
-[[Zebrafish]]
-[[Cavefish]]
-[[FISH]]
-[[Swimming Performance]]
-[[Swimming Behavior]]
-[[Ucrit]]

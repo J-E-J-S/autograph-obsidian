@@ -1,5 +1,0 @@
-[[Infertility]]
-[[Estrous cycle]]
-[[Propionic acid]]
-[[Steroidogenesis]]
-[[Ficus Religiosa]]

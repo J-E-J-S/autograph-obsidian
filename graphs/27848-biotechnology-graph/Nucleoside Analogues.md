@@ -1,5 +1,0 @@
-[[Biocatalysis]]
-[[Transglycosylation]]
-[[Cellular morphology]]
-[[Antimetabolites]]
-[[Time-lapse Microscopy]]

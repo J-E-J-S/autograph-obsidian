@@ -1,6 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Phylogenetic analysis]]
-[[First And Second-order Kinetics]]
-[[Langmuir And Freundlich Isotherms Kinetics]]
-[[Transmission-electron-microscope]]
-[[Zn-adsorption]]

@@ -1,3 +1,0 @@
-[[Photoinhibition]]
-[[Phytoplankton]]
-[[Photosystem II]]

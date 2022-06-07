@@ -1,5 +1,0 @@
-[[Cell wall]]
-[[Reactive oxygen species]]
-[[Secondary metabolites]]
-[[Imaging]]
-[[Biogenic Minerals]]

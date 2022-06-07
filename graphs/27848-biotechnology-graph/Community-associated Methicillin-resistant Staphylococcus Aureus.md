@@ -1,3 +1,0 @@
-[[Bacteriophage]]
-[[spike]]
-[[surface structure]]

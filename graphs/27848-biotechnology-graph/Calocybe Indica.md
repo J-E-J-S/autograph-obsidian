@@ -1,6 +1,0 @@
-[[Polymorphism]]
-[[Pleurotus sajor-caju]]
-[[Somatic hybrid]]
-[[ISSR]]
-[[Molecular characterization]]
-[[Nutritional Analysis]]

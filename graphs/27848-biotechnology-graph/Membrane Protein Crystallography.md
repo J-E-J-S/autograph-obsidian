@@ -1,2 +1,0 @@
-[[Sophorolipids]]
-[[Asrij/ociad1]]

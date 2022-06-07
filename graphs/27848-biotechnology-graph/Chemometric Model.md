@@ -1,2 +1,0 @@
-[[remediation]]
-[[Nanobiocomposite]]

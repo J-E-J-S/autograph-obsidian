@@ -1,5 +1,0 @@
-[[Cryptococcus neoformans]]
-[[Capsule]]
-[[virulence factors]]
-[[Titan Cells]]
-[[Pdr802]]

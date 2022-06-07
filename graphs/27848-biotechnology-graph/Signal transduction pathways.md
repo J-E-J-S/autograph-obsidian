@@ -1,5 +1,0 @@
-[[Enzymes]]
-[[Proteomes]]
-[[Interactomics]]
-[[Specialized Metabolites]]
-[[Metabolite–protein Interactions]]

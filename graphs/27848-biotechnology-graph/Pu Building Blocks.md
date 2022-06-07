@@ -1,5 +1,0 @@
-[[MDA]]
-[[Biodegradation]]
-[[Polyurethane]]
-[[Tda]]
-[[Isolation Of Bacteria]]

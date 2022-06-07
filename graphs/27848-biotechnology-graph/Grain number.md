@@ -1,5 +1,0 @@
-[[Zea mays L.]]
-[[Anthesis-silking interval]]
-[[Aerenchyma]]
-[[Mirna Targets]]
-[[Anaerobic Polypeptides]]

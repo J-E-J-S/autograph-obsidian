@@ -1,7 +1,0 @@
-[[Biopolymer]]
-[[Biomaterial]]
-[[metabolic engineering]]
-[[Polyhydroxyalkanoate (Pha)]]
-[[Bioprocess Engineering]]
-[[Healthcare Application]]
-[[Microbial Strain Discovery]]

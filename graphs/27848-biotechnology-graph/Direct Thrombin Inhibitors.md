@@ -1,6 +1,0 @@
-[[Nucleic acids]]
-[[Anticoagulants]]
-[[Aptamers]]
-[[Rna Nanotechnology]]
-[[Reversal Agents]]
-[[Rna Origami]]

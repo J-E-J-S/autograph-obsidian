@@ -1,5 +1,0 @@
-[[Peptide]]
-[[Conductance]]
-[[Substrates]]
-[[Pores]]
-[[Bilayer]]

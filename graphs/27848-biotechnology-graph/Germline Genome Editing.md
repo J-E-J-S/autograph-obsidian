@@ -1,5 +1,0 @@
-[[Reproduction]]
-[[Genetic Selection]]
-[[Parental Responsibility]]
-[[Procreative Autonomy]]
-[[Person-affecting Morality]]

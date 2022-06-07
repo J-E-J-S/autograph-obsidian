@@ -1,8 +1,0 @@
-[[ampicillin]]
-[[Fatty acid biosynthesis]]
-[[Carotenoid Biosynthesis]]
-[[Porphyrin And Chlorophyll Metabolism]]
-[[Flocculation]]
-[[Sedimentation]]
-[[Biomass Harvesting]]
-[[Melaminivora Jejuensis]]

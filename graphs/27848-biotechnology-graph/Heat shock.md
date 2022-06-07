@@ -1,3 +1,0 @@
-[[Arabidopsis]]
-[[Stress response]]
-[[Tocopherol]]

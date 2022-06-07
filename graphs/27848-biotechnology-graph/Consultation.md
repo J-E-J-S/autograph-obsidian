@@ -1,6 +1,0 @@
-[[Examination]]
-[[Endoscopy]]
-[[Otolaryngology]]
-[[Outpatient]]
-[[Covid-19]]
-[[Oropharyngoscopy]]

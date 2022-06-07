@@ -1,5 +1,0 @@
-[[Antioxidants]]
-[[Heavy metals]]
-[[Cytochrome c]]
-[[Protein denaturation]]
-[[protein structure]]

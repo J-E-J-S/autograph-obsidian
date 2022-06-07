@@ -1,8 +1,0 @@
-[[Hypothalamus]]
-[[Obesity]]
-[[Brown adipose tissue]]
-[[Energy balance]]
-[[White Adipose Tissue]]
-[[Proopiomelanocortin]]
-[[Pine Needle Extract]]
-[[Fat Tissue Metabolism]]

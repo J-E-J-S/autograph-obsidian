@@ -1,5 +1,0 @@
-[[Ecological restoration]]
-[[Exotic species]]
-[[forest management]]
-[[ecosystem services]]
-[[Community Functional Structure]]

@@ -1,5 +1,0 @@
-[[Brain]]
-[[Medicinal plants]]
-[[Treatment]]
-[[Ischemic stroke]]
-[[Pathophysiology]]

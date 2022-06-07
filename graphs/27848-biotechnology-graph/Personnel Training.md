@@ -1,3 +1,0 @@
-[[bioengineering]]
-[[Interdisciplinary]]
-[[Fermentation Engineering]]

@@ -1,3 +1,0 @@
-[[Tyrosinase]]
-[[Cholinesterase]]
-[[Chiral Organocatalyst]]

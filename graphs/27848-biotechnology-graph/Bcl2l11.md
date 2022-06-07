@@ -1,7 +1,0 @@
-[[Coronary Heart Disease]]
-[[Myocardial Ischemia/reperfusion Injury]]
-[[Mir-30c-5p]]
-[[Screening/Prognosis]]
-[[Triptolide]]
-[[Coronary Heart Disease]]
-[[Mir-24-3p]]

@@ -1,5 +1,0 @@
-[[Culture medium]]
-[[Tryptone]]
-[[Yeast extract]]
-[[Peptone]]
-[[Cytokinin (Ck)]]

@@ -1,5 +1,0 @@
-[[Complement]]
-[[Vesicular stomatitis virus]]
-[[Virus neutralization]]
-[[Viral Resistance]]
-[[Decay Accelerating Factor (Cd55)]]

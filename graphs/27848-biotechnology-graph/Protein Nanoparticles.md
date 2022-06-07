@@ -1,5 +1,0 @@
-[[Cardiac function]]
-[[Mesenchymal Stem Cells]]
-[[Cardiac Tissue Engineering]]
-[[Injectable Hydrogel]]
-[[Rat Myocardial Infarction]]

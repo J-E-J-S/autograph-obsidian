@@ -1,5 +1,0 @@
-[[Bt corn]]
-[[Cross-pollination]]
-[[Helicoverpa zea]]
-[[Seed Blend]]
-[[Refuge Mandates]]

@@ -1,5 +1,0 @@
-[[Monitoring]]
-[[Visual Short-term Memory]]
-[[Neural Correlates]]
-[[False Recognitions]]
-[[Confidence Judgements]]

@@ -1,8 +1,0 @@
-[[Heart]]
-[[Perfusion]]
-[[Mechanotransduction]]
-[[Heart-on-chip]]
-[[Alignment]]
-[[Primary Myoblasts]]
-[[Topological Constraints]]
-[[Multinucleated Myotubes]]

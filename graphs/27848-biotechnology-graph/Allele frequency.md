@@ -1,5 +1,0 @@
-[[short tandem repeats]]
-[[Vietnamese]]
-[[Autosomal Strs]]
-[[Hmong]]
-[[Mong]]

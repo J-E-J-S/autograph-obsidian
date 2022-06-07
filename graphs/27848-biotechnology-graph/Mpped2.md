@@ -1,3 +1,0 @@
-[[Tumor suppressor]]
-[[Glioblastoma]]
-[[Temozolomide]]

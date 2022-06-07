@@ -1,5 +1,0 @@
-[[MFC]]
-[[Microbial fuel cell]]
-[[Overexpressing]]
-[[Eet]]
-[[Shewanella]]

@@ -1,4 +1,0 @@
-[[Daphnia]]
-[[Microsporidia]]
-[[Cladoceran]]
-[[Agglomeratidae]]

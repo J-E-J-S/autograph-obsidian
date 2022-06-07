@@ -1,2 +1,0 @@
-[[Chromatography]]
-[[Virus Filtration]]

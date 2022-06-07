@@ -1,8 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Staphylococcus aureus]]
-[[QUinolones]]
-[[Quorum sensing]]
-[[Natural Antimicrobial Products]]
-[[Mycobacteroides Abscessus]]
-[[Alkylhydroxyquinoline N-oxides]]
-[[Alkylquinolones]]

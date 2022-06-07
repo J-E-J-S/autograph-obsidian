@@ -1,6 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Antimicrobial activity]]
-[[Galleria mellonella]]
-[[Antimicrobial peptides]]
-[[Proteolytic Activity]]
-[[Host-pathogen Interaction]]

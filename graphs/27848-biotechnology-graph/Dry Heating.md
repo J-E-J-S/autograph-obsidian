@@ -1,2 +1,0 @@
-[[Starch]]
-[[Glucose]]

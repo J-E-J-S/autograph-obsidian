@@ -1,3 +1,0 @@
-[[Antioxidant]]
-[[Anticancer]]
-[[Phytoestrogen]]

@@ -1,8 +1,0 @@
-[[Human]]
-[[Translation]]
-[[Cell biology]]
-[[Mouse]]
-[[Proteomics]]
-[[Ribosome]]
-[[Proteogenomics]]
-[[Lncrna]]

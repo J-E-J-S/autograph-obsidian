@@ -1,5 +1,0 @@
-[[Lactic acid bacteria]]
-[[Shotgun sequencing]]
-[[spontaneous fermentation]]
-[[Bio-heat]]
-[[Substrate Degradation]]

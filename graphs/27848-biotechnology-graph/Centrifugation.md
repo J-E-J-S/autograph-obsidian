@@ -1,5 +1,0 @@
-[[Flocculation]]
-[[Sedimentation]]
-[[Microalgae]]
-[[Harvesting]]
-[[Co-pelletization]]

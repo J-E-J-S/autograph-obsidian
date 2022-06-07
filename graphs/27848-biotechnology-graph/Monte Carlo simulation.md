@@ -1,6 +1,0 @@
-[[Antimicrobial resistance]]
-[[Density Functional Theory (Dft)]]
-[[Antimicrobial Peptides (Amps)]]
-[[Homo And Lumo]]
-[[Alpha Helical Peptide]]
-[[Ocellatin]]

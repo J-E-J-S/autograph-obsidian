@@ -1,5 +1,0 @@
-[[gold nanoparticles]]
-[[Microwave-assisted Synthesis]]
-[[Dye Discoloration]]
-[[Dynamic Column Process]]
-[[Batch Process]]

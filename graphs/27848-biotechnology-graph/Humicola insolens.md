@@ -1,5 +1,0 @@
-[[Terephthalic acid]]
-[[Cutinase]]
-[[Poly(ethylene Terephthalate)]]
-[[Enzymatic Depolymerization]]
-[[Pet Recycling]]

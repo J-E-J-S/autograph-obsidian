@@ -1,5 +1,0 @@
-[[Infrared spectroscopy]]
-[[Carbon source]]
-[[Humic substances]]
-[[Organic Compound]]
-[[Thermophilic Phase]]

@@ -1,5 +1,0 @@
-[[Microorganisms]]
-[[Biofilm]]
-[[Self-assembly]]
-[[Curli]]
-[[Phenol-soluble Modulin]]

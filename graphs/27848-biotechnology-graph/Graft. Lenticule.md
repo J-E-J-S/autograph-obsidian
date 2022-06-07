@@ -1,3 +1,0 @@
-[[Cornea]]
-[[Stem cell]]
-[[Decellularized]]

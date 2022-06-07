@@ -1,5 +1,0 @@
-[[Candida albicans]]
-[[Plasminogen]]
-[[Enolase]]
-[[Kininogen]]
-[[Agglutinin-like Sequence Protein Als3]]

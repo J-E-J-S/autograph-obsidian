@@ -1,2 +1,0 @@
-[[Gene therapy]]
-[[Specialty Pharmacy]]

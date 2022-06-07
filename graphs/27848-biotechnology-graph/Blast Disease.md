@@ -1,5 +1,0 @@
-[[Immunity]]
-[[Rice (oryza sativa)]]
-[[MicroRNA]]
-[[defence]]
-[[Magnaporthe Oryzae]]

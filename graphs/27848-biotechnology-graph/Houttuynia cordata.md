@@ -1,5 +1,0 @@
-[[Cervical cancer]]
-[[Anticancer drug]]
-[[Green Synthesis]]
-[[Nanodrug]]
-[[Cuo Nanoparticle]]

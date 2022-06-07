@@ -1,5 +1,0 @@
-[[Exopolysaccharides]]
-[[Bioemulsifier]]
-[[genetic algorithm]]
-[[Ccd-rsm]]
-[[Nondominated Sorting Genetic Algorithm]]

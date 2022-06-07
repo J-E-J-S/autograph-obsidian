@@ -1,5 +1,0 @@
-[[Broiler]]
-[[Plasmid]]
-[[Escherichia Coli]]
-[[Inci1]]
-[[Blactx–m–1]]

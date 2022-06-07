@@ -1,5 +1,0 @@
-[[Density functional theory]]
-[[Hybrid Qm/mm Calculations]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[2,3-Dihydroamentoflavone]]

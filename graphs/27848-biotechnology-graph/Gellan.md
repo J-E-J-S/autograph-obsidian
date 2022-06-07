@@ -1,2 +1,0 @@
-[[Polylysine]]
-[[Antimicrobial Suture Line]]

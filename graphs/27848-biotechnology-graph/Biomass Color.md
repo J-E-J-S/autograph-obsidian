@@ -1,3 +1,0 @@
-[[Carotenoids]]
-[[yeasts]]
-[[Torularhodin]]

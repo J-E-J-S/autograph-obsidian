@@ -1,5 +1,0 @@
-[[Streptavidin]]
-[[biotin]]
-[[Competition Assay]]
-[[Magnetic Bead]]
-[[Protein-binding Analyte Detection]]

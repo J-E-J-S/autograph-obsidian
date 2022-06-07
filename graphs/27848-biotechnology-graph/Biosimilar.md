@@ -1,8 +1,0 @@
-[[Monoclonal antibody]]
-[[Glycosylation]]
-[[ADCC]]
-[[Mammalian cell culture]]
-[[Mean Shift]]
-[[Analytical Similarity]]
-[[Quality Range Method]]
-[[Relative Variability]]

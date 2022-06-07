@@ -1,8 +1,0 @@
-[[Citrinin]]
-[[A. Oryzae]]
-[[M. Anka]]
-[[P. Citrinum]]
-[[A. flavus]]
-[[Bacterial Agglutination]]
-[[Agglutination Activity]]
-[[H. Pugilinus, Lectin]]

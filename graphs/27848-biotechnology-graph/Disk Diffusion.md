@@ -1,5 +1,0 @@
-[[SCCmec]]
-[[Multilocus Sequence Typing]]
-[[Staphylococcus Lugdunensis]]
-[[Agar Dilution]]
-[[Oxacillin Resistance]]

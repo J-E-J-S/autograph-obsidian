@@ -1,4 +1,0 @@
-[[CD]]
-[[Inflammation]]
-[[Ibd]]
-[[Uc]]

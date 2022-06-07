@@ -1,5 +1,0 @@
-[[Docosahexaenoic Acid (Dha)]]
-[[Aurantiochytrium Sp. (Schizochytrium Sp.);]]
-[[Cost;]]
-[[Renewable Resource;]]
-[[Stimulator;]]

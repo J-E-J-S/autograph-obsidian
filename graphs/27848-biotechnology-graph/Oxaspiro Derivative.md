@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Antifungal activity]]
-[[Endophytic fungus]]
-[[Roussoella Sp]]
-[[Pyrenocine Derivative]]

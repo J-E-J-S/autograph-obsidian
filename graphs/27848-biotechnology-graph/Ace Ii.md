@@ -1,4 +1,0 @@
-[[Angiotensin]]
-[[Inflammation]]
-[[Diarrhea]]
-[[Cholera]]

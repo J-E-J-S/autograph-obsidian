@@ -1,5 +1,0 @@
-[[Bovine serum albumin]]
-[[Lipase]]
-[[Aspergillus oryzae]]
-[[biodiesel]]
-[[Nanofiber]]

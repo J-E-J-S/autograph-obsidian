@@ -1,7 +1,0 @@
-[[Biosynthesis]]
-[[Fermentation]]
-[[Antioxidant]]
-[[Mushroom]]
-[[metabolic engineering]]
-[[Oxidation]]
-[[Hercynine]]

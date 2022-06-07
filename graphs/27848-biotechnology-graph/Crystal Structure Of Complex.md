@@ -1,5 +1,0 @@
-[[Tubulin]]
-[[Microtubule]]
-[[Antitumor]]
-[[Virtual Screening]]
-[[Colchicine Site Inhibitors]]

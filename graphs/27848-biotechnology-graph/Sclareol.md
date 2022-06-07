@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[DNA damage]]
-[[Cell cycle]]
-[[xenograft]]
-[[Small Cell Lung Carcinoma]]

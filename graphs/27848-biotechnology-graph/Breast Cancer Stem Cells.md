@@ -1,2 +1,0 @@
-[[Glutamine]]
-[[Epithelial Mesenchymal Transition]]

@@ -1,5 +1,0 @@
-[[Embryo]]
-[[Bovine]]
-[[innate immunity]]
-[[Pmns]]
-[[Isgs]]

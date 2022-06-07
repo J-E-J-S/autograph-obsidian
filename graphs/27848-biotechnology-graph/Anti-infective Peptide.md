@@ -1,5 +1,0 @@
-[[Encrypted Peptide]]
-[[Crotalicidin-derived Peptide]]
-[[Dye-conjugated Peptide]]
-[[Vipericidin]]
-[[Crotalicidin]]

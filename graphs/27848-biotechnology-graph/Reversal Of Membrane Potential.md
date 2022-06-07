@@ -1,5 +1,0 @@
-[[Proton efflux]]
-[[Biofilms Formation]]
-[[Intracellular Buffering]]
-[[Bioleaching Microorganisms]]
-[[Acid-resistant Components]]

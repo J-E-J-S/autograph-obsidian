@@ -1,3 +1,0 @@
-[[Biological activity]]
-[[Polysaccharides]]
-[[Characterization]]

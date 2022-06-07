@@ -1,6 +1,0 @@
-[[Chlorpromazine]]
-[[PI3K]]
-[[Oral Cancer]]
-[[Autophagy]]
-[[Mtor]]
-[[AKT]]

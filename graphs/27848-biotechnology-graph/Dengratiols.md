@@ -1,3 +1,0 @@
-[[Tropolone]]
-[[Bibenzyls]]
-[[Dendrobium Gratiossimum]]

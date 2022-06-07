@@ -1,5 +1,0 @@
-[[Chitosan]]
-[[Antimicrobial]]
-[[Encapsulation]]
-[[Industrial Wastewater]]
-[[Soil Remediation]]

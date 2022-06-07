@@ -1,5 +1,0 @@
-[[Next Generation Sequencing]]
-[[Whole-genome Sequencing]]
-[[Pectobacterium Spp.]]
-[[Soft Rot Bacteria]]
-[[Dickeya Spp.]]

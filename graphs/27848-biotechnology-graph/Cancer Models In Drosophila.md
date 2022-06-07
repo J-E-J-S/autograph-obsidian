@@ -1,5 +1,0 @@
-[[Drosophila]]
-[[Transcription factors]]
-[[Neural stem cells]]
-[[HES]]
-[[Notch Signalling]]

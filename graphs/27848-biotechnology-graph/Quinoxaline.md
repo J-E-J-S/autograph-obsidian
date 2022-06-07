@@ -1,6 +1,0 @@
-[[Benzimidazole]]
-[[Breast cancer cell line]]
-[[Heterocycles]]
-[[Anticancer Agents]]
-[[Nci-60]]
-[[Mda-mb-468]]

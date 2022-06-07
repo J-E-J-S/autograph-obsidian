@@ -1,5 +1,0 @@
-[[Chiral stationary phase]]
-[[Methylone]]
-[[Synthetic Cathinone]]
-[[Chiral Analysis]]
-[[Ethylone]]

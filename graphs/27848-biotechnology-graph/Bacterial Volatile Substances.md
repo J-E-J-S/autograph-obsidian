@@ -1,5 +1,0 @@
-[[Bacteria]]
-[[Pseudomonas]]
-[[Arabidopsis thaliana]]
-[[Serratia]]
-[[volatile organic compounds]]

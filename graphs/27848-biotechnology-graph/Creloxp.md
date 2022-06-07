@@ -1,6 +1,0 @@
-[[Nicotiana tabacum]]
-[[DNA methylation]]
-[[Gene deletion]]
-[[Gene silence]]
-[[Cre/loxp]]
-[[Site-specific Recombinase]]

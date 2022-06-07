@@ -1,4 +1,0 @@
-[[Biodegradation]]
-[[Bioremediation]]
-[[LDPE]]
-[[Stenotrophomonas]]

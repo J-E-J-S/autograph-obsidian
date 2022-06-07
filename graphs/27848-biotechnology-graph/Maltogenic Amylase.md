@@ -1,6 +1,0 @@
-[[Bacillus licheniformis]]
-[[Bread wheat]]
-[[Genome walking]]
-[[Sensory]]
-[[Starch Retrogradation]]
-[[Bread Baking]]

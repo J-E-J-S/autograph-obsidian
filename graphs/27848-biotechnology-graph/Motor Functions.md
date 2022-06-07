@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Antioxidant]]
-[[Rotenone]]
-[[Parkinson’s Disease]]
-[[Isolongifolene]]

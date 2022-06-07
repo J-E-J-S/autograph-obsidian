@@ -1,3 +1,0 @@
-[[DNA]]
-[[Electrochemistry]]
-[[Diphtheria Diagnostics]]

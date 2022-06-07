@@ -1,8 +1,0 @@
-[[Promoter]]
-[[MyoD]]
-[[intramuscular fat]]
-[[Atp5b Gene]]
-[[Hypoxia]]
-[[Zebrafish]]
-[[Erythropoiesis]]
-[[Hif3a]]

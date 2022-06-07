@@ -1,5 +1,0 @@
-[[TCA cycle]]
-[[Escherichia Coli]]
-[[Glyoxylate Shunt]]
-[[Propionyl-coa]]
-[[Sleeping Beauty Mutase]]

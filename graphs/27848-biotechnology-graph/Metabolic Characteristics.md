@@ -1,5 +1,0 @@
-[[Photosynthesis]]
-[[Rhodobacter sphaeroides]]
-[[Two-dimensional gel electrophoresis]]
-[[comparative proteomics]]
-[[Proteomic Responses]]

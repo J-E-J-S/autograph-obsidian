@@ -1,5 +1,0 @@
-[[Bacillus]]
-[[Protein interaction]]
-[[Haddock]]
-[[Iturin A]]
-[[Modeller V9.17]]

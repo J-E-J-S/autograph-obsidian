@@ -1,2 +1,0 @@
-[[Reptilia Squamata]]
-[[Scincella Reevesii]]

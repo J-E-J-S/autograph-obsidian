@@ -1,8 +1,0 @@
-[[Aldehyde dehydrogenase]]
-[[Alcohol dehydrogenase]]
-[[Hangover-relieving Drink]]
-[[Water Soluble Propolis]]
-[[Cyp2e1]]
-[[Ogg1]]
-[[Ku70/ku80]]
-[[4-Abp]]

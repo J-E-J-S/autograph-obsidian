@@ -1,5 +1,0 @@
-[[Polysaccharides]]
-[[Saponins]]
-[[TCM]]
-[[Therapeutic.]]
-[[Phytomedicines]]

@@ -1,4 +1,0 @@
-[[PCA]]
-[[PLS]]
-[[Libs]]
-[[Adulteration]]

@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Transcriptomics]]
-[[Hxt1]]
-[[Ctt1]]
-[[Ribonucleic Acid Content]]

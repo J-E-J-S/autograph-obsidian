@@ -1,5 +1,0 @@
-[[Biosynthesis]]
-[[Polyunsaturated fatty acids]]
-[[Microalgae]]
-[[Synechocystis Sp. Pcc6803]]
-[[Serine/Threonine Kinase System]]

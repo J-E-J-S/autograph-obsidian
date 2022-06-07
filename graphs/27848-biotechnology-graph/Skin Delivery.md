@@ -1,5 +1,0 @@
-[[Cosmetics]]
-[[nanomaterials]]
-[[Lipid Nanoparticles]]
-[[Anti-aging Products]]
-[[Skincare]]

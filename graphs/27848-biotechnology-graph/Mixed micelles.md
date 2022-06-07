@@ -1,5 +1,0 @@
-[[Bioavailability]]
-[[In vitro release]]
-[[Gouty arthritis]]
-[[Aloe Emodin]]
-[[Anti-hyperuricemic]]

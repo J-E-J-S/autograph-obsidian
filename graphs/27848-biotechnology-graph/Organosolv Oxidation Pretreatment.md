@@ -1,3 +1,0 @@
-[[Enzymatic hydrolysis]]
-[[Delignification]]
-[[Biorefinery]]

@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Directed evolution]]
-[[metabolic engineering]]
-[[Cell Factory]]
-[[Droplet Microfluidic Screening]]

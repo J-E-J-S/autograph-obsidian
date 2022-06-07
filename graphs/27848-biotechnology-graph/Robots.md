@@ -1,4 +1,0 @@
-[[Milk]]
-[[Heritability]]
-[[Parameters]]
-[[Correlations]]

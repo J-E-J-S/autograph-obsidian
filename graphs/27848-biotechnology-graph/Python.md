@@ -1,5 +1,0 @@
-[[Neural networks]]
-[[hot spots]]
-[[Machine Learning]]
-[[Protein–protein Interactions]]
-[[Tensorflow]]

@@ -1,5 +1,0 @@
-[[Allergic asthma]]
-[[Airway inflammation]]
-[[Th2]]
-[[Irf4]]
-[[Tilianin]]

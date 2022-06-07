@@ -1,6 +1,0 @@
-[[Sperm motility]]
-[[Semen]]
-[[Expression]]
-[[Sperm-egg interaction]]
-[[Turkey]]
-[[Cysteine-rich Secretory Protein]]

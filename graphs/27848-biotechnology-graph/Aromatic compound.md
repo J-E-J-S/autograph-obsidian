@@ -1,5 +1,0 @@
-[[FeruLic acid]]
-[[Plant Cell Wall]]
-[[Hydroxycinnamic Acid]]
-[[Crea]]
-[[Luciferase Reporter]]

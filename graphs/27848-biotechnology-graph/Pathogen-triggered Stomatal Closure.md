@@ -1,5 +1,0 @@
-[[Stomata]]
-[[Thermal Imaging]]
-[[Aba Response]]
-[[Stomatal Immunity]]
-[[Aba-induced Stomatal Closure]]

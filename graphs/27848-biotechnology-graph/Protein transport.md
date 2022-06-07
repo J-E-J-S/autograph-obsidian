@@ -1,5 +1,0 @@
-[[Cell division]]
-[[Metabolism]]
-[[Signaling]]
-[[Oligomerization]]
-[[Fgfr]]

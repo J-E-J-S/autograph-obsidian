@@ -1,2 +1,0 @@
-[[Sargassum Wightii]]
-[[Polygalacto-fucopyranose]]

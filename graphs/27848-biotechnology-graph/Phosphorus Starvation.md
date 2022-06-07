@@ -1,5 +1,0 @@
-[[Phylogeny]]
-[[Acid Phosphatases]]
-[[Phosphorus Acquisition]]
-[[Tree Nutrition]]
-[[Root Secretome]]

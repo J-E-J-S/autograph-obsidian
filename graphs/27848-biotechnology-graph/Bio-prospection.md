@@ -1,6 +1,0 @@
-[[Natural products]]
-[[bioactive]]
-[[Endophytes]]
-[[drug discovery]]
-[[Anti-infective]]
-[[Pharmaceutical Design]]

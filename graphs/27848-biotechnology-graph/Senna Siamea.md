@@ -1,5 +1,0 @@
-[[Zebrafish]]
-[[Enzyme]]
-[[Molecular docking]]
-[[Insulin resistance]]
-[[Phytochemical]]

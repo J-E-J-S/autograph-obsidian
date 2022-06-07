@@ -1,6 +1,0 @@
-[[ATP synthase]]
-[[Metabolic pathways]]
-[[Electron Transport Chain]]
-[[Atp Supply]]
-[[Light-driven Proton Pumps]]
-[[Adp Supply]]

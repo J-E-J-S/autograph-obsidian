@@ -1,6 +1,0 @@
-[[Molecular dynamics simulation]]
-[[Molecular docking]]
-[[Minimum inhibitory concentration]]
-[[Antimicrobial resistance]]
-[[Isothermal Titration Calorimetry]]
-[[Biolayer Interferometry]]

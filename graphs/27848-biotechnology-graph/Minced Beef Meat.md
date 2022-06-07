@@ -1,5 +1,0 @@
-[[Bioactivities]]
-[[multivariate analysis]]
-[[Phenolic Contents]]
-[[Shelf-life Extension]]
-[[Ephedra Alata Extract]]

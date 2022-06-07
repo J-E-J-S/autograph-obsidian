@@ -1,3 +1,0 @@
-[[Esterase]]
-[[metagenome]]
-[[Family Viii]]

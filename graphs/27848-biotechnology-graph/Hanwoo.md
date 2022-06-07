@@ -1,6 +1,0 @@
-[[Best linear unbiased prediction]]
-[[Accuracy]]
-[[haplotype]]
-[[linkage disequilibrium]]
-[[hierarchical clustering]]
-[[Genomic Prediction]]

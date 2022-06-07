@@ -1,5 +1,0 @@
-[[Mitochondrial DNA]]
-[[Nd2]]
-[[Indian River Lagoon]]
-[[Rhinoptera Bonasus]]
-[[American Cownose Ray]]

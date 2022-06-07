@@ -1,5 +1,0 @@
-[[nifH]]
-[[Arctic]]
-[[N2 Fixation]]
-[[Diazotrophs]]
-[[Delta-proteobacteria]]

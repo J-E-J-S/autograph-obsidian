@@ -1,2 +1,0 @@
-[[Chitosan]]
-[[Anti-infective Catheters]]

@@ -1,5 +1,0 @@
-[[Tau]]
-[[Autophagy]]
-[[Senile plaque]]
-[[signaling pathways]]
-[[Alzheimer's Diesase]]

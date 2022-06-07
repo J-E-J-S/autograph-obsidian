@@ -1,6 +1,0 @@
-[[Vibrio parahaemolyticus]]
-[[WSSV]]
-[[Chitin-binding protein]]
-[[White Shrimp]]
-[[Ahpnd]]
-[[Dd9a/b]]

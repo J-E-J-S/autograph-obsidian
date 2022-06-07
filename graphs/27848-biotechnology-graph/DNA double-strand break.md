@@ -1,7 +1,0 @@
-[[Gene amplification]]
-[[Saccharomyces cerevisiae]]
-[[gene targeting]]
-[[metabolic engineering]]
-[[Homology-directed Recombination]]
-[[Cen.pk]]
-[[I-scei Nuclease]]

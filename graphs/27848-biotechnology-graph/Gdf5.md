@@ -1,3 +1,0 @@
-[[Pakistan]]
-[[Brachydactyly]]
-[[Grebe Chondrodysplasia]]

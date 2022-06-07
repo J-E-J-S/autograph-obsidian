@@ -1,7 +1,0 @@
-[[Cytotoxicity]]
-[[Protein expression]]
-[[Molecular docking]]
-[[Gene Expression]]
-[[Thiosemicarbazone]]
-[[Mcf-7 Breast Cancer Cell Line]]
-[[4-Hydroxybenzaldehyde]]

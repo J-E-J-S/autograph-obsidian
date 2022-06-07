@@ -1,5 +1,0 @@
-[[Pichia pastoris]]
-[[Vhh]]
-[[Komagataella Phaffii]]
-[[Integrated Purification]]
-[[Straight-through Chromatography]]

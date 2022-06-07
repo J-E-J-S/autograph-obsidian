@@ -1,4 +1,0 @@
-[[Inflammation]]
-[[Ras]]
-[[Mtpa]]
-[[Cysmethynil]]

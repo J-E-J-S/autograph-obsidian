@@ -1,6 +1,0 @@
-[[Toxicity]]
-[[Candida albicans]]
-[[Essential oil]]
-[[Molecular docking]]
-[[Synergistic]]
-[[D-limonene]]

@@ -1,6 +1,0 @@
-[[Bifidobacterium]]
-[[Scfa]]
-[[Fecal Microbiome]]
-[[Gidff]]
-[[Coprococcus]]
-[[Personal Microbiota]]

@@ -1,5 +1,0 @@
-[[Heme]]
-[[Pain]]
-[[Sensory Neurons]]
-[[Flvcr1]]
-[[Flvcr1a]]

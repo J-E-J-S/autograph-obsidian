@@ -1,4 +1,0 @@
-[[Kidney]]
-[[Immunohistochemistry]]
-[[Pharmacokinetics]]
-[[Teicoplanin]]

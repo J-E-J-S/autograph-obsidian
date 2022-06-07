@@ -1,5 +1,0 @@
-[[Antibacterial property]]
-[[Radical Scavenging Activity]]
-[[Lipase-catalyzed Esterification]]
-[[Erythorbyl Myristate]]
-[[Multi-functional Emulsifier]]

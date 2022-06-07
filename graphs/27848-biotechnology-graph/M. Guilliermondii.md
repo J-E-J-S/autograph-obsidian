@@ -1,3 +1,0 @@
-[[Physiology]]
-[[Substrates]]
-[[Valuable Chemicals]]

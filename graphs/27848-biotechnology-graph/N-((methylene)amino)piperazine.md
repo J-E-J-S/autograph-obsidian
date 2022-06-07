@@ -1,3 +1,0 @@
-[[Synthesis]]
-[[Antimycobacterial Activity]]
-[[Benzothiazinones]]

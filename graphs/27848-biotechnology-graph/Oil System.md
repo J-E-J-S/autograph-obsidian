@@ -1,5 +1,0 @@
-[[Antioxidant activity]]
-[[DPPH]]
-[[Lipophilic Antioxidant]]
-[[Hydrophilic Antioxidant]]
-[[Solvent Type]]

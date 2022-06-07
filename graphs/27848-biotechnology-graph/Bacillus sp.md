@@ -1,7 +1,0 @@
-[[Cellulase]]
-[[Halotolerant]]
-[[Concomitant Production]]
-[[16S Rrna Analysis]]
-[[Bacterial community]]
-[[Food Waste]]
-[[Bio-degradation]]

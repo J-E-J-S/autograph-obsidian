@@ -1,6 +1,0 @@
-[[Bacillus subtilis]]
-[[Surfactant]]
-[[Biopolymer]]
-[[Surfactin]]
-[[Functional Peptides]]
-[[Bioorganic Acids]]

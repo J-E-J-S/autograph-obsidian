@@ -1,3 +1,0 @@
-[[LIF]]
-[[Mescs]]
-[[Pluripotency Markers]]

@@ -1,7 +1,0 @@
-[[Lipids]]
-[[Sex]]
-[[Reproductive strategy]]
-[[Muscle]]
-[[Resource allocation]]
-[[Atlantic Salmon]]
-[[Adipose]]

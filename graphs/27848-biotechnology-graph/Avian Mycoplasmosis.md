@@ -1,5 +1,0 @@
-[[Poultry]]
-[[Mycoplasma gallisepticum]]
-[[epidemiology]]
-[[Mycoplasma Synoviae]]
-[[Economic Significance]]

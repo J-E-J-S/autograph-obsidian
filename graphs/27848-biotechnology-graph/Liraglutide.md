@@ -1,5 +1,0 @@
-[[Insulin resistance]]
-[[Adipose tissue]]
-[[Glyoxalase]]
-[[Glp-1]]
-[[Capillarization]]

@@ -1,5 +1,0 @@
-[[Motor control]]
-[[functional morphology]]
-[[Dexterity]]
-[[Object Manipulation]]
-[[Robot Manipulation]]

@@ -1,2 +1,0 @@
-[[Ibadan]]
-[[Hbeag/hbeab]]

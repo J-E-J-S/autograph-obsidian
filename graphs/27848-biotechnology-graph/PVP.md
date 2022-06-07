@@ -1,6 +1,0 @@
-[[PVA]]
-[[In vivo]]
-[[Cardiomyocytes]]
-[[Mechanical properties]]
-[[Plasticizer]]
-[[Cardiac Tissue Engineering]]

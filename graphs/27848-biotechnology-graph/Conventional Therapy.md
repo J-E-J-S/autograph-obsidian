@@ -1,5 +1,0 @@
-[[Treatment]]
-[[Toxoplasma gondii]]
-[[Nanomedicine]]
-[[Acute Toxoplasmosis]]
-[[Chronic Toxoplasmosis]]

@@ -1,5 +1,0 @@
-[[RNA editing]]
-[[Epigenetics]]
-[[Next-generation Sequencing]]
-[[Rna-seq]]
-[[Transcriptomics]]

@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Apigenin]]
-[[Gamma radiation]]

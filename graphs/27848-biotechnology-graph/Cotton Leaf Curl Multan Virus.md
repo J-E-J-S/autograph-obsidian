@@ -1,7 +1,0 @@
-[[Recombination]]
-[[Geminivirus]]
-[[phylogenetic relatedness]]
-[[Betasatellite]]
-[[Host-range Expansion]]
-[[Leaf Curl Disease]]
-[[Chilli (Bhut-jolokia)]]

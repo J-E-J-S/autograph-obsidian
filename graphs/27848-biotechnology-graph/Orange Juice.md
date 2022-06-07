@@ -1,5 +1,0 @@
-[[3-hydroxybenzoic acid]]
-[[Alicyclobacillus Acidoterrestris]]
-[[Reduced Graphene Oxide]]
-[[Genosensor]]
-[[Hoechst 33258]]

@@ -1,3 +1,0 @@
-[[Cyanobacteria]]
-[[Solenoid]]
-[[Microalgae Biomass]]

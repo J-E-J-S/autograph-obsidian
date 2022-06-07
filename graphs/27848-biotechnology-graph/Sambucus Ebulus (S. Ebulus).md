@@ -1,5 +1,0 @@
-[[Cell proliferation]]
-[[Bax]]
-[[Mouse Model]]
-[[Triple-negative Breast Cancer]]
-[[Cell Toxicity]]

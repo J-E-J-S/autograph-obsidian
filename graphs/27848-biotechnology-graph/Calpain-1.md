@@ -1,2 +1,0 @@
-[[Apoptosis]]
-[[Calpain-2]]

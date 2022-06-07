@@ -1,5 +1,0 @@
-[[Heme]]
-[[Pain]]
-[[Nociception]]
-[[Flvcr1]]
-[[Flvcr1a]]

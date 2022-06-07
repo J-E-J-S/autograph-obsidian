@@ -1,7 +1,0 @@
-[[Lactoferrin]]
-[[Antibacterial]]
-[[Anti-inflammatory]]
-[[Antiviral]]
-[[Inflammatory Bowel Disease]]
-[[Immunomodulatory]]
-[[Ibd]]

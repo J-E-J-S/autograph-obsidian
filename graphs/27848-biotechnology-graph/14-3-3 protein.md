@@ -1,5 +1,0 @@
-[[Oryza sativa]]
-[[NaCl Stress]]
-[[Ca2+ Protection]]
-[[Oscipk]]
-[[Pm H+atpase]]

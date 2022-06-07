@@ -1,4 +1,0 @@
-[[Purification]]
-[[Ubiquitination]]
-[[ATP]]
-[[Adk]]

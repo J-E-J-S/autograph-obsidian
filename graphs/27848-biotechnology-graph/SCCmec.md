@@ -1,5 +1,0 @@
-[[Multilocus Sequence Typing]]
-[[Disk Diffusion]]
-[[Staphylococcus Lugdunensis]]
-[[Agar Dilution]]
-[[Oxacillin Resistance]]

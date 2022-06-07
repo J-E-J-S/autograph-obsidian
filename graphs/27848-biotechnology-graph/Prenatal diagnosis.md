@@ -1,6 +1,0 @@
-[[Maturity Onset Diabetes Of The Young (Mody)]]
-[[Neonatal Hnf1b Dysglycemia]]
-[[Intrauterine growth restriction]]
-[[Amniocentesis]]
-[[Mosaicism]]
-[[Trisomy 16]]

@@ -1,5 +1,0 @@
-[[Polyphenols]]
-[[microwave-assisted extraction]]
-[[Response Surface Methodology (Rsm)]]
-[[Orac]]
-[[Simmondsins]]

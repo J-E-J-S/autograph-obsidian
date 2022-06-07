@@ -1,6 +1,0 @@
-[[Dogs]]
-[[GnRH]]
-[[Immunocontraception]]
-[[GnRHR]]
-[[contraceptive vaccine]]
-[[Zp3]]

@@ -1,6 +1,0 @@
-[[Radiosensitivity]]
-[[Crc]]
-[[Xenopus tropicalis]]
-[[Interferon regulatory factor]]
-[[amphibian]]
-[[Interferon-stimulated Response Element]]

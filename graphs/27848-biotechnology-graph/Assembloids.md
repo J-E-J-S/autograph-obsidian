@@ -1,5 +1,0 @@
-[[Patch-clamp]]
-[[Neuroscience]]
-[[Organoids]]
-[[Crispr]]
-[[Ipscs]]

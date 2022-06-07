@@ -1,5 +1,0 @@
-[[Biological control]]
-[[Bdellovibrio]]
-[[phytopathogens]]
-[[Lytic Activity]]
-[[Exo-biopolymer]]

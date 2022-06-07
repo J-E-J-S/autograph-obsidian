@@ -1,5 +1,0 @@
-[[SELEX]]
-[[Aptamer]]
-[[Colorimetric Detection]]
-[[Abts]]
-[[Rolling Circle Amplification Reaction]]

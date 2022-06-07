@@ -1,5 +1,0 @@
-[[Neuron]]
-[[Zebrafish]]
-[[Gnih]]
-[[Npffr]]
-[[Lpxrfa]]

@@ -1,5 +1,0 @@
-[[Inflammation]]
-[[Rosmarinic acid]]
-[[STAT1]]
-[[Keratinocytes]]
-[[Psoriasis]]

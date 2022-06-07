@@ -1,5 +1,0 @@
-[[Homology]]
-[[Synteny]]
-[[Last Universal Common Ancestor]]
-[[Type 3 Secretion Systems]]
-[[Atp Synthetase]]

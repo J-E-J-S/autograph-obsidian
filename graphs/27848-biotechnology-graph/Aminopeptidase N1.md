@@ -1,2 +1,0 @@
-[[Mosquito]]
-[[Anopheles Culicifacies]]

@@ -1,7 +1,0 @@
-[[Creatine kinase]]
-[[creatininase]]
-[[Enzymatic Cycling]]
-[[Estimating Equation]]
-[[Semi-supervised Learning]]
-[[Chronic Kidney Disease (Ckd)]]
-[[Glomerular Filtration Rate (Gfr)]]

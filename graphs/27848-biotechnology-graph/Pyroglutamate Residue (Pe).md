@@ -1,6 +1,0 @@
-[[Cancer]]
-[[Inflammation]]
-[[Small Molecule Inhibitors]]
-[[Alzheimer’s Disease (Ad)]]
-[[Glutaminyl Cyclase (Qc)]]
-[[Glutaminyl Cyclase Isoform (Isoqc)]]

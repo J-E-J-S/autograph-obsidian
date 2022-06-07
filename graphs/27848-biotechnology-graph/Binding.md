@@ -1,8 +1,0 @@
-[[Structure]]
-[[Liposomes]]
-[[Ligand]]
-[[Protein]]
-[[Lipocalin]]
-[[Fragrance]]
-[[Odorant-binding Protein (Obp)]]
-[[Odorant Molecules]]

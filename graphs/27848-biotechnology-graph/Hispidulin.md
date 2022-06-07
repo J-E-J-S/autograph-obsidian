@@ -1,2 +1,0 @@
-[[Autophagy]]
-[[prostate cancer]]

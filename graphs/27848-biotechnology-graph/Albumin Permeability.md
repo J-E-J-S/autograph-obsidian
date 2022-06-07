@@ -1,5 +1,0 @@
-[[Insulin resistance]]
-[[Autophagy]]
-[[Podocyte]]
-[[Glucose uptake]]
-[[Ampk]]

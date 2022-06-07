@@ -1,5 +1,0 @@
-[[JA]]
-[[ROS]]
-[[Rice blast]]
-[[Sheath blight]]
-[[Xoo]]

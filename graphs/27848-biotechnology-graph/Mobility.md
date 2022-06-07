@@ -1,3 +1,0 @@
-[[propiconazole]]
-[[Competitive Adsorption]]
-[[Difenoconazole]]

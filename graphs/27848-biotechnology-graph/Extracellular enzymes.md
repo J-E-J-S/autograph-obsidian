@@ -1,5 +1,0 @@
-[[GC-MS analysis]]
-[[Endophytic fungi]]
-[[Bioactive compounds]]
-[[Phytochemicals]]
-[[Baliospermum Montanum]]

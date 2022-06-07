@@ -1,6 +1,0 @@
-[[Immunotoxin]]
-[[Ribosome-inactivating proteins]]
-[[Diphtheria toxin]]
-[[Single-domain antibody]]
-[[Nanobody]]
-[[Variable Fragment Of Heavy-chain Only Antibody]]

@@ -1,2 +1,0 @@
-[[Structural protein]]
-[[Encephalomyocarditis virus]]

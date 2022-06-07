@@ -1,7 +1,0 @@
-[[Pullulan]]
-[[Regulation]]
-[[Biosynthetic pathway]]
-[[Amags2]]
-[[malate]]
-[[Pma Synthetase, Regulation]]
-[[Polymalate Biosynthesis]]

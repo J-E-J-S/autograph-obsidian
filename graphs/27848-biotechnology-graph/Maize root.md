@@ -1,5 +1,0 @@
-[[Transcription factor]]
-[[Root development]]
-[[root growth]]
-[[plant hormone]]
-[[Rna Sequencing]]

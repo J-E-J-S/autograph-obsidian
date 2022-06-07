@@ -1,7 +1,0 @@
-[[Transcription factor]]
-[[Artemisia annua]]
-[[Glandular trichome]]
-[[Regulatory network]]
-[[Aahd1]]
-[[Aahd8]]
-[[Aagsw2]]

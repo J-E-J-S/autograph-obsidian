@@ -1,7 +1,0 @@
-[[Cultivation]]
-[[Growth kinetics]]
-[[Chemostat]]
-[[Continuous culture]]
-[[Growth conditions]]
-[[growth medium]]
-[[Process Analytical Technology]]

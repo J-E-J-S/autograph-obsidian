@@ -1,5 +1,0 @@
-[[Biosynthetic pathway]]
-[[Bidens pilosa]]
-[[Desaturase]]
-[[Omics]]
-[[Acetylenase]]

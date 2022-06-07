@@ -1,8 +1,0 @@
-[[Cat-Gt-031specialty Care]]
-[[Cat-Gt-018data Analytics]]
-[[Cat-Bt-005health Technology]]
-[[Cat-Gt-008pharma]]
-[[Cat-Gt-031specialty Care]]
-[[Cat-Gt-018data Analytics]]
-[[Cat-Bt-005health Technology]]
-[[Cat-Gt-008pharma]]

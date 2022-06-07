@@ -1,3 +1,0 @@
-[[Insecticide]]
-[[Locusta migratoria]]
-[[carboxylesterase]]

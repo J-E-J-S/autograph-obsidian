@@ -1,5 +1,0 @@
-[[Bioactivity]]
-[[Glucagon-like peptide-1]]
-[[GA3]]
-[[Abd035]]
-[[Abdcon]]

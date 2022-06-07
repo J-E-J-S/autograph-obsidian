@@ -1,8 +1,0 @@
-[[Cellulose]]
-[[Hemicellulose]]
-[[Cell wall composition]]
-[[mesophyll conductance]]
-[[leaf anatomy]]
-[[pectin]]
-[[Land Plants]]
-[[Co2 Diffusion]]

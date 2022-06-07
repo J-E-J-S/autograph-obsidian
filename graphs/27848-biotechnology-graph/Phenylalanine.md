@@ -1,5 +1,0 @@
-[[Vitis vinifera]]
-[[Resveratrol]]
-[[Stilbenes]]
-[[Viniferin]]
-[[Grape Cell Culture]]

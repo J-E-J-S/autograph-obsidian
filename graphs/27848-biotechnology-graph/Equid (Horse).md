@@ -1,3 +1,0 @@
-[[GnRH]]
-[[anterior pituitary]]
-[[Kisspeptin]]

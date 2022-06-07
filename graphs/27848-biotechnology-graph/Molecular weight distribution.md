@@ -1,5 +1,0 @@
-[[Starch hydrolysate]]
-[[Amylose content]]
-[[Colorimetric assay]]
-[[gold nanoparticles]]
-[[Steric Stabilization]]

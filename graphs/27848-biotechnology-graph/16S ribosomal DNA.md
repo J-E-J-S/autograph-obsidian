@@ -1,2 +1,0 @@
-[[Microbiome]]
-[[Easymap]]

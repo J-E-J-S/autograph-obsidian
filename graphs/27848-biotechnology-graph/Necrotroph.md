@@ -1,4 +1,0 @@
-[[Alternaria]]
-[[Botrytis]]
-[[Sclerotinia]]
-[[Hemibiotroph]]

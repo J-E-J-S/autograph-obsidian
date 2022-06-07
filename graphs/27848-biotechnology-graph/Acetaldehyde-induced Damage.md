@@ -1,5 +1,0 @@
-[[Indoleamine 2,3-Dioxygenase 1]]
-[[Phenalenone Derivative]]
-[[Benzoquinone-chromanone]]
-[[Penicillium Herquei Ft729]]
-[[Soil-associated Fungus]]

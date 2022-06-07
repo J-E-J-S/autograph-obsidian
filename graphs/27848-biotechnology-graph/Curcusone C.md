@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Bax]]
-[[Survivin]]
-[[Endometrial Cancer]]
-[[Bim]]

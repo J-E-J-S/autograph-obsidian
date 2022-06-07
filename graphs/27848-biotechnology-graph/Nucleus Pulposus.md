@@ -1,2 +1,0 @@
-[[Graphene Oxide]]
-[[Peptide Hydrogel]]

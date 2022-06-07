@@ -1,6 +1,0 @@
-[[Transcriptome]]
-[[Fimbriae]]
-[[Polyhydroxyalkanoate]]
-[[Poly-3-hydroxybutyrate]]
-[[Escherichia Coli]]
-[[L-threonine]]

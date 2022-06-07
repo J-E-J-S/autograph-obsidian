@@ -1,5 +1,0 @@
-[[neuroprotection]]
-[[Acute Ischemic Stroke]]
-[[cerebral ischemia-reperfusion injury]]
-[[Guanxinning Injection]]
-[[Oxygen-glucose Deprivation/reoxygenation]]

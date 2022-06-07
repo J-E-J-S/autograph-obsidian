@@ -1,5 +1,0 @@
-[[E. coli]]
-[[Fab]]
-[[Downstream Processing]]
-[[Upstream Processing]]
-[[Integrated Process Development]]

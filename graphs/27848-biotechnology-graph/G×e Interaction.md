@@ -1,5 +1,0 @@
-[[Machine Learning]]
-[[Genomic Selection]]
-[[Multiple Traits]]
-[[Genomic Prediction]]
-[[Multi-omics]]

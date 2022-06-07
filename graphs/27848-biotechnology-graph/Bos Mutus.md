@@ -1,8 +1,0 @@
-[[Genetic diversity]]
-[[mtDNA]]
-[[Y Chromosome Marker]]
-[[Lineage Composition]]
-[[Genetic diversity]]
-[[mtDNA]]
-[[Y Chromosome Marker]]
-[[Lineage Composition]]

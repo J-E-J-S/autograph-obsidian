@@ -1,3 +1,0 @@
-[[Antiglycation]]
-[[Hybrid Molecules]]
-[[Olivetol]]

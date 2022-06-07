@@ -1,7 +1,0 @@
-[[Cellulose]]
-[[n-butanol]]
-[[metabolic engineering]]
-[[Consolidated Bioprocess]]
-[[Chitin]]
-[[Cellulosome]]
-[[Fungi Degradation]]

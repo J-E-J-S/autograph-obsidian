@@ -1,3 +1,0 @@
-[[Proteins]]
-[[Silk]]
-[[Interfaces]]

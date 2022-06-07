@@ -1,3 +1,0 @@
-[[Interferons]]
-[[GTPase]]
-[[Bacterial Defence]]

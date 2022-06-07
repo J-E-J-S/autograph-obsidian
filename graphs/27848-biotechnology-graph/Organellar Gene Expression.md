@@ -1,5 +1,0 @@
-[[Arabidopsis thaliana]]
-[[Abiotic stress]]
-[[Chlamydomonas reinhardtii]]
-[[Mterf]]
-[[Retrograde Signaling]]

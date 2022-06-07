@@ -1,8 +1,0 @@
-[[Genome]]
-[[Barnacle]]
-[[Balanus Improvisus]]
-[[Octopamine Receptor]]
-[[Admixture]]
-[[Selection Signature]]
-[[Differentiation Index]]
-[[Iranian Indigenous Buffalo]]

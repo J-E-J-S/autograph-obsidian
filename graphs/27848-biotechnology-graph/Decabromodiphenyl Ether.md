@@ -1,3 +1,0 @@
-[[Physiological]]
-[[Phytotoxicity]]
-[[Lythrum Salicaria]]

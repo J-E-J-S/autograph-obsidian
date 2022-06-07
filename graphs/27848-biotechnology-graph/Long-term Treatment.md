@@ -1,5 +1,0 @@
-[[hyperglycemia]]
-[[Antidiabetic Effects]]
-[[Oral Insulin Delivery]]
-[[Hydrogel Microparticles]]
-[[Type 2 Diabetes Mice]]

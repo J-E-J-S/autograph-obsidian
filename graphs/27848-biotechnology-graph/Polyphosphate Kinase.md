@@ -1,2 +1,0 @@
-[[L-theanine]]
-[[Atp Regeneration]]

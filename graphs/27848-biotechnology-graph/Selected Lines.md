@@ -1,7 +1,0 @@
-[[Teleost]]
-[[Aquaculture]]
-[[Transcriptome]]
-[[marker-assisted selection]]
-[[Genome-wide Association Study]]
-[[Marine Predator]]
-[[Genome Sequencing And Assembly]]

@@ -1,8 +1,0 @@
-[[Ribosome]]
-[[Peptidyl-trna Hydrolase]]
-[[Translation Fidelity]]
-[[Ribosomal Subunit]]
-[[Bacillus subtilis]]
-[[Ribosome]]
-[[Mg2+]]
-[[Zn2+]]

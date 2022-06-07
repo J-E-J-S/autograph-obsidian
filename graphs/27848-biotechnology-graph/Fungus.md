@@ -1,5 +1,0 @@
-[[Effector]]
-[[Molecular Pathogenesis]]
-[[Plant Immunity]]
-[[Rxlr]]
-[[Crinkler]]

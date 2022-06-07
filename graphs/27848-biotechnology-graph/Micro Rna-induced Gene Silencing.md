@@ -1,5 +1,0 @@
-[[Parasitism]]
-[[Meloidogyne incognita]]
-[[Transgenics]]
-[[Fmrfamide-like Peptides]]
-[[Host-induced Gene Silencing]]

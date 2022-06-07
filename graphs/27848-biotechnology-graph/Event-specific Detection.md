@@ -1,8 +1,0 @@
-[[Capillary electrophoresis]]
-[[Monitoring]]
-[[Multiplex Polymerase Chain Reaction]]
-[[Genetically Modified Canola]]
-[[Flanking sequence]]
-[[Whole-genome Sequencing]]
-[[Insertion Site]]
-[[Virus-resistant Transgenic Soybean]]

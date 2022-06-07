@@ -1,5 +1,0 @@
-[[Aminoacyl-tRNA synthetase]]
-[[Isoleucine]]
-[[Amino Acid]]
-[[Whole-cell Biosensor]]
-[[Growth-coupled Selection]]

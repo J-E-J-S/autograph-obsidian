@@ -1,3 +1,0 @@
-[[Cyclophosphamide]]
-[[Male infertility]]
-[[Myomi]]

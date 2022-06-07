@@ -1,2 +1,0 @@
-[[Electrochemistry]]
-[[Enzyme–electrode Junction]]

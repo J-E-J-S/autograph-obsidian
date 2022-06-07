@@ -1,5 +1,0 @@
-[[Opuntia ficus-indica]]
-[[Metabarcoding]]
-[[Aridity Gradient]]
-[[Root-endosphere]]
-[[Soil-rhizosphere]]

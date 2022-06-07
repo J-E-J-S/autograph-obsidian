@@ -1,5 +1,0 @@
-[[Malaria]]
-[[Phylogenetic analysis]]
-[[Cameroon]]
-[[Rapid Diagnostic Test]]
-[[Diagnostic Performances]]

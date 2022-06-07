@@ -1,5 +1,0 @@
-[[Missense Mutations]]
-[[Transmembrane Proteins]]
-[[Single Amino Acid Variants]]
-[[Direct Coupling Analysis]]
-[[Predicting Variant Effects]]

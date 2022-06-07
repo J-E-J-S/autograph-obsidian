@@ -1,5 +1,0 @@
-[[Vibrio anguillarum]]
-[[Pseudomonas fluorescens]]
-[[Oreochromis niloticus]]
-[[Streptococcus Iniae]]
-[[Tilapia Piscidin 4]]

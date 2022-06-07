@@ -1,5 +1,0 @@
-[[alpha-amylase]]
-[[Diabetes]]
-[[Hypoglycemia]]
-[[Syringaldehyde]]
-[[Garcinia Linii]]

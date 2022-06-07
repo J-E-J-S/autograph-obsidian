@@ -1,3 +1,0 @@
-[[AMl]]
-[[ATRA]]
-[[Autophagy]]

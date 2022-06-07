@@ -1,7 +1,0 @@
-[[Lung cancer]]
-[[volatile organic compounds]]
-[[Kernel Principal Component Analysis]]
-[[Extreme Gradient Boosting]]
-[[Lung cancer]]
-[[Ensemble Learning]]
-[[Smart Diagnostics]]

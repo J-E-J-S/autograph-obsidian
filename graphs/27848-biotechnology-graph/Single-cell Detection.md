@@ -1,5 +1,0 @@
-[[Immunofluorescence]]
-[[ncRNA]]
-[[in situ Hybridization]]
-[[Lncrna]]
-[[Rna-fish]]

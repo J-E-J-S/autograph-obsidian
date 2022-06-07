@@ -1,5 +1,0 @@
-[[Bacillus amyloliquefaciens]]
-[[Microbial transglutaminase]]
-[[Fed-batch Bioreactor]]
-[[Food Enzymes]]
-[[Do-stat]]

@@ -1,5 +1,0 @@
-[[Banana]]
-[[Aux/iaa]]
-[[Nac Transcription Factor]]
-[[Arrs]]
-[[Snac1]]

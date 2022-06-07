@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Ethics]]
-[[Justice]]
-[[Bioethics]]
-[[Covid-19]]

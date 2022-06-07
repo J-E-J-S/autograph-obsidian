@@ -1,6 +1,0 @@
-[[Microcarriers]]
-[[Bioreactor]]
-[[Adipose tissue]]
-[[Mesenchymal Stem/stromal Cells]]
-[[Ab Serum]]
-[[Xenogeneic(xeno)-free Culture]]

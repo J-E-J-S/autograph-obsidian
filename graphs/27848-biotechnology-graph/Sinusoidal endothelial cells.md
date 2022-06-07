@@ -1,3 +1,0 @@
-[[Iron]]
-[[Liver fibrosis]]
-[[Lsec]]

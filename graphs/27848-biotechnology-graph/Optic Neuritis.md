@@ -1,7 +1,0 @@
-[[Immunization]]
-[[Allergy]]
-[[Vaccine]]
-[[Allergic reaction]]
-[[Ocular Complications]]
-[[Ocular Side Effects]]
-[[Uveitis Vaccination]]

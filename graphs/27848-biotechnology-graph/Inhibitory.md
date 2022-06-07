@@ -1,3 +1,0 @@
-[[Psoralea corylifolia]]
-[[Meroterpenes]]
-[[Dgat]]

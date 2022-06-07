@@ -1,5 +1,0 @@
-[[Myxomycetes]]
-[[Interspecific interaction]]
-[[physarum polycephalum]]
-[[Storage Mite]]
-[[Fuligo Septica]]

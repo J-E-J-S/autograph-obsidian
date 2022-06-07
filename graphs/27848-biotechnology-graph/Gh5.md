@@ -1,8 +1,0 @@
-[[Crystal structure]]
-[[Transglycosylation]]
-[[Moose Rumen Bacterium]]
-[[Hydrolysis]]
-[[Gentiobiose]]
-[[Penicillium Verruculosum]]
-[[Pustulan]]
-[[Pustulanase]]

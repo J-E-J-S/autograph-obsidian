@@ -1,4 +1,0 @@
-[[Fermentation]]
-[[Biosensor]]
-[[Bioprocessing]]
-[[Biocatalyst]]

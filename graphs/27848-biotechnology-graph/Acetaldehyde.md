@@ -1,3 +1,0 @@
-[[Formaldehyde]]
-[[Food]]
-[[Cooking Method]]

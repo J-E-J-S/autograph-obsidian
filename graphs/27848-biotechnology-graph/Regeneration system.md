@@ -1,4 +1,0 @@
-[[Oxidoreductases]]
-[[Biocatalysis]]
-[[Biomimic]]
-[[Cnadp]]

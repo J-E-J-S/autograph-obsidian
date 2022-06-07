@@ -1,5 +1,0 @@
-[[Disease resistance]]
-[[Aeromonas hydrophila]]
-[[Immune modulation]]
-[[Lymphoid Organs]]
-[[Aeromonas Veronii]]

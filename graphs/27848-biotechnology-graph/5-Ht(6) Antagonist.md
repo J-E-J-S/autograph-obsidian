@@ -1,5 +1,0 @@
-[[serotonin receptors]]
-[[Halogen Bonds]]
-[[1,3,5-Triazine]]
-[[Docking Qpld]]
-[[Procognitive]]

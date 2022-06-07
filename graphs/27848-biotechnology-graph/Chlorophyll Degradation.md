@@ -1,6 +1,0 @@
-[[water deficit]]
-[[Gene Expression]]
-[[Controlled Temperature]]
-[[Curcumin Productivity]]
-[[Turmeric Plants]]
-[[Water Withholding]]

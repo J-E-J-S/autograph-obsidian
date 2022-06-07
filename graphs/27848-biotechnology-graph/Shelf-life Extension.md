@@ -1,5 +1,0 @@
-[[Bioactivities]]
-[[multivariate analysis]]
-[[Phenolic Contents]]
-[[Minced Beef Meat]]
-[[Ephedra Alata Extract]]

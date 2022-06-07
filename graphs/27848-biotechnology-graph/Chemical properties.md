@@ -1,7 +1,0 @@
-[[Ultrastructure]]
-[[Drugs]]
-[[Atomic force microscopy]]
-[[Growth dynamics]]
-[[Adhesins]]
-[[Binding Force]]
-[[Mycobacterial Envelope]]

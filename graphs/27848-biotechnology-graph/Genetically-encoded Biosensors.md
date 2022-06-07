@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Molecular identification]]
-[[Machine Learning]]
-[[Biosensor Array]]
-[[High-throughput Screening System]]

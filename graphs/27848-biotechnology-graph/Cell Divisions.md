@@ -1,5 +1,0 @@
-[[Plants]]
-[[Heavy metals]]
-[[Microfilament]]
-[[Confocal laser scanning microscopy]]
-[[toxins]]

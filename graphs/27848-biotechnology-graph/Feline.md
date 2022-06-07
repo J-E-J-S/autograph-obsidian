@@ -1,4 +1,0 @@
-[[Epididymis]]
-[[Spermatozoa]]
-[[Vitrification]]
-[[Casa]]

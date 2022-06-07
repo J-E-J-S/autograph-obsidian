@@ -1,4 +1,0 @@
-[[Genome]]
-[[Resistance]]
-[[Ppe]]
-[[Pza]]

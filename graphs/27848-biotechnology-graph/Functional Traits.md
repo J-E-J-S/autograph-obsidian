@@ -1,7 +1,0 @@
-[[Ecological function]]
-[[community dynamics]]
-[[Functional Diversity]]
-[[Annual Plants]]
-[[Environmental Filtering]]
-[[Population Dynamics Modeling]]
-[[Arable Weeds]]

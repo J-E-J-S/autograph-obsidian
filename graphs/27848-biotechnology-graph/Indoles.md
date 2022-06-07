@@ -1,3 +1,0 @@
-[[Palladium]]
-[[Regioselectivity]]
-[[Phosphonylation]]

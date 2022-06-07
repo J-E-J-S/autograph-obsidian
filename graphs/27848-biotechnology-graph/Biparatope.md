@@ -1,5 +1,0 @@
-[[EGFR]]
-[[Targeted Therapy]]
-[[Humanized]]
-[[Nanobody]]
-[[Hu7cg2]]

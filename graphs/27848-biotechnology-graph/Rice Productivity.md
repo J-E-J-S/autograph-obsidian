@@ -1,5 +1,0 @@
-[[Metabolomics]]
-[[Plant Growth Promotion (Pgp)]]
-[[Bacterial Endophytes]]
-[[Intra- And Inter-cultivar]]
-[[Seed-transmitted Endophytes]]

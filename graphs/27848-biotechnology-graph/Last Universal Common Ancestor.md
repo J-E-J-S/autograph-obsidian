@@ -1,5 +1,0 @@
-[[Homology]]
-[[Synteny]]
-[[Bacterial Flagellum]]
-[[Type 3 Secretion Systems]]
-[[Atp Synthetase]]

@@ -1,5 +1,0 @@
-[[3-hydroxybenzoic acid]]
-[[Orange Juice]]
-[[Alicyclobacillus Acidoterrestris]]
-[[Reduced Graphene Oxide]]
-[[Genosensor]]

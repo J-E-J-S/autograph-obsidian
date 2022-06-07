@@ -1,2 +1,0 @@
-[[Decellularization]]
-[[Liver Bioengineering]]

@@ -1,6 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[K562]]
-[[Chronic myeloid leukemia]]
-[[Docking]]
-[[Bcr-abl]]
-[[Drug Repositioning]]

@@ -1,6 +1,0 @@
-[[Transcription factor]]
-[[Neuronal Development]]
-[[Therapeutic Applications]]
-[[Gene Editing]]
-[[Crispr/cas9]]
-[[Epigenetic Regulations]]

@@ -1,5 +1,0 @@
-[[Enzyme]]
-[[glycerol]]
-[[Pyrroloquinoline Quinone]]
-[[Dihydroxyacetone]]
-[[Gluconobacter Thailandicus]]

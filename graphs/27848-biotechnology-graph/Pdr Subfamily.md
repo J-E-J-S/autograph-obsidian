@@ -1,5 +1,0 @@
-[[ABC transporter]]
-[[Transmembrane Domains]]
-[[Nucleotide-binding Domains]]
-[[Non-catalytic Nbs]]
-[[Abcg Family]]

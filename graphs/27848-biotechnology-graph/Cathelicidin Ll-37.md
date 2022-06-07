@@ -1,5 +1,0 @@
-[[Molecular dynamics simulation]]
-[[Antimicrobial peptides]]
-[[Potential Of Mean Force]]
-[[Lipid Bilayer]]
-[[Gf-17]]

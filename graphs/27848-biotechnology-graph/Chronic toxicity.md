@@ -1,4 +1,0 @@
-[[Susceptibility]]
-[[SVCV]]
-[[Autophagy]]
-[[Trifloxystrobin]]

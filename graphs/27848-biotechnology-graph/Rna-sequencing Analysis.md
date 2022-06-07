@@ -1,5 +1,0 @@
-[[Transcription factor]]
-[[Conidia]]
-[[Aspergillus nidulans]]
-[[Sterigmatocystin]]
-[[Homeobox Domain]]

@@ -1,3 +1,0 @@
-[[Protease]]
-[[Characterization]]
-[[Thermostable]]

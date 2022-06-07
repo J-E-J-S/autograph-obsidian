@@ -1,7 +1,0 @@
-[[riboflavin]]
-[[Flad1]]
-[[Madd]]
-[[Rtd]]
-[[Lsmflad]]
-[[Rrei]]
-[[Slc52as]]

@@ -1,4 +1,0 @@
-[[Coagulation]]
-[[Transfusion]]
-[[Phosphatidylserine]]
-[[Microvesicles]]

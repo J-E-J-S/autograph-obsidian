@@ -1,3 +1,0 @@
-[[Chitosan]]
-[[Kartogenin]]
-[[Multilayer Hydrogel]]

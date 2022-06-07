@@ -1,6 +1,0 @@
-[[Microbial respiration]]
-[[Soil Organic Matter Decomposition]]
-[[Carbon Quality-temperature Hypothesis]]
-[[Carbon Degradation Genes]]
-[[Carbon Quality And Bioavailability]]
-[[Microbial R-k Selection Theory]]

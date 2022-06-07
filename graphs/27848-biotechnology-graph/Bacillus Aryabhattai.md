@@ -1,4 +1,0 @@
-[[Application]]
-[[Characterization]]
-[[Decolorization]]
-[[Tyrosinase]]

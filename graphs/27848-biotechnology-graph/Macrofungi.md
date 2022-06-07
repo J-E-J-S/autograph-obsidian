@@ -1,3 +1,0 @@
-[[Lectin]]
-[[Mushroom]]
-[[Antivirals]]

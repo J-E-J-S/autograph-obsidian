@@ -1,8 +1,0 @@
-[[Genetic engineering]]
-[[Artificial intelligence]]
-[[Food processing]]
-[[Nanotechnology]]
-[[Robotics]]
-[[Gene Editing]]
-[[Environmental Impacts]]
-[[Future Foods]]

@@ -1,5 +1,0 @@
-[[Development]]
-[[Sporophyte]]
-[[Gametophyte]]
-[[Starch accumulation]]
-[[RNA helicase]]

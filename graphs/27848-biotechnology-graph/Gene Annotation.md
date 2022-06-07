@@ -1,7 +1,0 @@
-[[Genetic improvement]]
-[[Nutrition]]
-[[Amaranthus Cruentus]]
-[[Genome Assembly]]
-[[Biosynthetic Gene Clusters]]
-[[Traditional Crop]]
-[[Underutilised Crop]]

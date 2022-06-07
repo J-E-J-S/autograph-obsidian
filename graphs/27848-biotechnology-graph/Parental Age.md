@@ -1,5 +1,0 @@
-[[Senescence]]
-[[Transgenerational Effect]]
-[[Trivers-willard Hypothesis]]
-[[Male Attractiveness]]
-[[Good Genes Hypothesis]]

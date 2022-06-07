@@ -1,8 +1,0 @@
-[[Pulmonary surfactant]]
-[[Aestivation]]
-[[Water-to-land Transition]]
-[[Ancestral Karyotype]]
-[[Anxiolytic Ability]]
-[[Lungfishes]]
-[[Pentadactyl Limbs]]
-[[Pharyngeal Remodeling]]

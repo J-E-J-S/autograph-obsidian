@@ -1,5 +1,0 @@
-[[Obesity]]
-[[Pro-inflammatory Cytokine]]
-[[Comorbidities]]
-[[Covid-19]]
-[[Sars-cov-2]]

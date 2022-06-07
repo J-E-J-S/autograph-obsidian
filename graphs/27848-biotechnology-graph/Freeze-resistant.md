@@ -1,5 +1,0 @@
-[[Aromaticity Index]]
-[[Cold-adaptation Score]]
-[[Freeze-thaw Resistant]]
-[[Molecular Cold-adaptation]]
-[[Uv-c Resistant]]

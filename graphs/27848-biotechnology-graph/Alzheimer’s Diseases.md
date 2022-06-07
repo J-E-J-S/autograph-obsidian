@@ -1,5 +1,0 @@
-[[Acetylcholinesterase]]
-[[Lipid Peroxidation]]
-[[Butyrylcholinesterase]]
-[[Docking Studies]]
-[[Carlinoside]]

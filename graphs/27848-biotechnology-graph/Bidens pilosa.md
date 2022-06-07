@@ -1,5 +1,0 @@
-[[Biosynthetic pathway]]
-[[Polyacetylenes]]
-[[Desaturase]]
-[[Omics]]
-[[Acetylenase]]

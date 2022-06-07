@@ -1,5 +1,0 @@
-[[Papain-like Protease]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Grl0617]]
-[[Nsp-1]]

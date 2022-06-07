@@ -1,2 +1,0 @@
-[[Cytomegalovirus (Cmv)]]
-[[Dnaemia]]

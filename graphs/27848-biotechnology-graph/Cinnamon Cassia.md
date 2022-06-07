@@ -1,5 +1,0 @@
-[[Acute toxicity]]
-[[Streptozotocin]]
-[[Mitochondrial Enzymes]]
-[[Renal Markers]]
-[[Hepatic Markers]]

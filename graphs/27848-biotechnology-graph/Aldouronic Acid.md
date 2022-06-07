@@ -1,5 +1,0 @@
-[[Glycoside Hydrolase Family 39]]
-[[Glycoside Hydrolase Family 8]]
-[[Arabinoxylooligosaccharide]]
-[[Glycoside Hydrolase Family 52]]
-[[Glucronoxylooligosaccharide]]

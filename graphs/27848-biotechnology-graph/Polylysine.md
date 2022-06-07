@@ -1,2 +1,0 @@
-[[Gellan]]
-[[Antimicrobial Suture Line]]

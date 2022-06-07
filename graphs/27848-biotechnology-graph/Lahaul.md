@@ -1,6 +1,0 @@
-[[Comparative genomics]]
-[[Siderophore]]
-[[Western Himalaya]]
-[[Phylo-taxono-genomics]]
-[[Indole-3- Acetic Acid]]
-[[Non-ribosomal Peptide-synthetase (Nrps)]]

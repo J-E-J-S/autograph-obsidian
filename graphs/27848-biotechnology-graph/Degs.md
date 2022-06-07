@@ -1,5 +1,0 @@
-[[Alzheimer's disease]]
-[[Nafld]]
-[[Gene Interaction Networks]]
-[[Tubb5]]
-[[Liver-brain Axis]]

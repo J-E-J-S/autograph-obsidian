@@ -1,5 +1,0 @@
-[[Medicinal plants]]
-[[Endophytic bacteria]]
-[[Phytophthora parasitica]]
-[[Biocontrol agents]]
-[[Microbial Bioactive Compounds]]

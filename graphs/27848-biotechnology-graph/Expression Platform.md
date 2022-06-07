@@ -1,5 +1,0 @@
-[[Enzymes]]
-[[Bacillus licheniformis]]
-[[Probiotics]]
-[[Bioremediation]]
-[[Industry]]

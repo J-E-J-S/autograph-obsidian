@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Blue light]]
-[[Phototropism]]
-[[sumoylation]]
-[[Phototropin]]

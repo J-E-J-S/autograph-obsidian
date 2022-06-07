@@ -1,8 +1,0 @@
-[[Recombinant protein]]
-[[GST fusion protein]]
-[[EMSA]]
-[[Interferon Regulatory Factors]]
-[[Androgen receptor]]
-[[prostate cancer]]
-[[Androgen Receptor Mutation]]
-[[Sbf-1]]

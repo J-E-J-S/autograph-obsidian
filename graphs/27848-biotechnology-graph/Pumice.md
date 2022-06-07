@@ -1,5 +1,0 @@
-[[Water retention]]
-[[Phalaris Arundinacea]]
-[[Pesticide Retention]]
-[[Retention Soil Filter]]
-[[Superabsorbent Polymer (Sap)]]

@@ -1,7 +1,0 @@
-[[Thermostable]]
-[[Endo-xylanase]]
-[[Psychrotolerant Bacterium]]
-[[Thermo-alkali-stable]]
-[[Chemical Deinking]]
-[[Chemi-enzymatic Deinking Strategy]]
-[[Mixed Office Waste Paper]]

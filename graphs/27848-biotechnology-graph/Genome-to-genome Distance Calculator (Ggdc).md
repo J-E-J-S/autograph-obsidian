@@ -1,5 +1,0 @@
-[[Marine sponge]]
-[[Average Nucleotide Identity (Ani)]]
-[[Dna–dna Hybridization]]
-[[Bacillus Rugosus]]
-[[Whole-genome Phylogenetic Identification]]

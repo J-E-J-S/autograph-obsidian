@@ -1,6 +1,0 @@
-[[Leaf area index]]
-[[Drone]]
-[[Multispectral Images]]
-[[Unmanned Aerial System]]
-[[Leaf Angle Distribution]]
-[[Canopy Coverage]]

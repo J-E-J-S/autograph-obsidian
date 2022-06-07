@@ -1,2 +1,0 @@
-[[Stability]]
-[[Pickering Emulsion]]

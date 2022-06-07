@@ -1,8 +1,0 @@
-[[pH]]
-[[Drought tolerance]]
-[[Copper uptake]]
-[[Phosphate Solubilization]]
-[[Iaa Production]]
-[[Agriculture]]
-[[Biotechnology]]
-[[Biologicals]]

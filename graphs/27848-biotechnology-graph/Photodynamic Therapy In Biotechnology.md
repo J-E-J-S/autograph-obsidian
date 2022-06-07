@@ -1,5 +1,0 @@
-[[Photosensitizers]]
-[[Agricultural biotechnology]]
-[[Bioprospecting]]
-[[Health Biotechnology]]
-[[Veterinary Biotechnology]]

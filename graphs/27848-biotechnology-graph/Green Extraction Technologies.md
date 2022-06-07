@@ -1,5 +1,0 @@
-[[Bioactivity]]
-[[Encapsulation]]
-[[Valorization]]
-[[Natural Pigments]]
-[[Vegetal Waste]]

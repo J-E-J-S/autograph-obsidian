@@ -1,5 +1,0 @@
-[[Diabetes]]
-[[Stem Cells]]
-[[microRNAs]]
-[[Insulin-producing cells]]
-[[Pancreatic Differentiation]]

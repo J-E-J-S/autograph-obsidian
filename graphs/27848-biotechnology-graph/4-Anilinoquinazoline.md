@@ -1,4 +1,0 @@
-[[EGFR]]
-[[VEGFR]]
-[[kinase]]
-[[Raf]]

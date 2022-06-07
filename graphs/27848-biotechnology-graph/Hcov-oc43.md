@@ -1,5 +1,0 @@
-[[Coronavirus]]
-[[Hcov-229e]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Carrimycin]]

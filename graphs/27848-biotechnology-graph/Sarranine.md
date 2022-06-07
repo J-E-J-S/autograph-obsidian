@@ -1,5 +1,0 @@
-[[Congo red]]
-[[Bromocresol Purple]]
-[[Dye-decolorization]]
-[[Bacillus Amyloliquefaciens W36]]
-[[Commassie Brilliant Blue]]

@@ -1,5 +1,0 @@
-[[Salicylic acid]]
-[[Chitosan]]
-[[Pea]]
-[[Sugar Signaling]]
-[[Pr-genes]]

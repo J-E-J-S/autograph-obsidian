@@ -1,5 +1,0 @@
-[[haplotype]]
-[[Mosaicism]]
-[[Genome Assembly]]
-[[Stickleback]]
-[[Gasterosteus]]

@@ -1,5 +1,0 @@
-[[Lactobacillus acidophilus]]
-[[Exopolysaccharides]]
-[[Anticancer]]
-[[Antioxidative enzymes]]
-[[Colon cancer]]

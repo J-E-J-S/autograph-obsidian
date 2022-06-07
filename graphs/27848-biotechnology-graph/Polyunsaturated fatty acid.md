@@ -1,8 +1,0 @@
-[[Microalgae]]
-[[Prostaglandin]]
-[[Cyclooxygenase]]
-[[Fistulifera Solaris]]
-[[Linoleic acid]]
-[[Fatty acid desaturase]]
-[[Oleaginous Yeast]]
-[[Rhodotorula Toruloides]]

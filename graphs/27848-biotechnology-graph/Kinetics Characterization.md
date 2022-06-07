@@ -1,3 +1,0 @@
-[[Fructooligosaccharides]]
-[[Aspergillus Tritici]]
-[[Endoinulinase]]

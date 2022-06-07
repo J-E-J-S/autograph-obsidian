@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Mitochondrial DNA]]
-[[Genomic DNA]]
-[[Parkinson’s Disease]]
-[[Oxphos]]

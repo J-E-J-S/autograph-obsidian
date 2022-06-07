@@ -1,5 +1,0 @@
-[[Hydrogen peroxide]]
-[[Catalyst]]
-[[Reduction reaction]]
-[[Sulfamethoxazole]]
-[[Candle Soot]]

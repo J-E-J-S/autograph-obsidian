@@ -1,5 +1,0 @@
-[[Plant tissues]]
-[[Cell size]]
-[[Thickness]]
-[[Depositions]]
-[[Oil Contaminations]]

@@ -1,5 +1,0 @@
-[[Crystal structure]]
-[[Ig-like Domain]]
-[[Lamin A/c]]
-[[Lamin B1]]
-[[Dimeric Assembly]]

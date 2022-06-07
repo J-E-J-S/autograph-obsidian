@@ -1,3 +1,0 @@
-[[Diversity]]
-[[Donkey]]
-[[Microsatellites]]

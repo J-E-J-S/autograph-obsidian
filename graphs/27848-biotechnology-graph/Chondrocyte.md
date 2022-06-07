@@ -1,5 +1,0 @@
-[[Cartilage]]
-[[Coculture]]
-[[Explant]]
-[[Msc]]
-[[Injectable]]

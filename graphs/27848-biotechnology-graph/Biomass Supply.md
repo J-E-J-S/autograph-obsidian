@@ -1,4 +1,0 @@
-[[Biotechnology]]
-[[Bioenergy]]
-[[Bioeconomy]]
-[[Biochemicals]]

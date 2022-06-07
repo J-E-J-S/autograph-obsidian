@@ -1,2 +1,0 @@
-[[Bacillus thuringiensis]]
-[[Antiviral Activity]]

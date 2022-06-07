@@ -1,6 +1,0 @@
-[[Intracellular calcium]]
-[[Oxidative stress]]
-[[Sepsis]]
-[[Mitophagy]]
-[[Ali]]
-[[Pulmonary Sepsis]]

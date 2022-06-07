@@ -1,2 +1,0 @@
-[[Flavonoids]]
-[[Retaining Glycosidase]]

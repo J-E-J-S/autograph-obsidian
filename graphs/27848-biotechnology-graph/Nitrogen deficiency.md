@@ -1,5 +1,0 @@
-[[Photosynthesis]]
-[[Lipids]]
-[[Chlorella vulgaris]]
-[[Phosphorus deficiency]]
-[[biodiesel]]

@@ -1,6 +1,0 @@
-[[Morphology]]
-[[Cell division]]
-[[Histochemistry]]
-[[pericarp]]
-[[Primary And Secondary Metabolites]]
-[[Tenera Hybrid]]

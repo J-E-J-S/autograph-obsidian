@@ -1,3 +1,0 @@
-[[Pubchem]]
-[[Rinchi]]
-[[Inchikey]]

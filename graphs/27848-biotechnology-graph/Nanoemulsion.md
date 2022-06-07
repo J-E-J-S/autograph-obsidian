@@ -1,8 +1,0 @@
-[[Physicochemical characterization]]
-[[Anti-e. Coli Activity]]
-[[Essential Oil Mixture]]
-[[Alzheimer disease]]
-[[Intranasal]]
-[[biodistribution]]
-[[Gamma Scintigraphy]]
-[[Donepezil]]

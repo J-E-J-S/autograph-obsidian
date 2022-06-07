@@ -1,5 +1,0 @@
-[[DNA damage]]
-[[Chromosomal aberrations]]
-[[Molecular docking]]
-[[Atacamite]]
-[[Paratacamite]]

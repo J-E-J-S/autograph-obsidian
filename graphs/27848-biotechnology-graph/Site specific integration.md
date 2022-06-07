@@ -1,5 +1,0 @@
-[[Glutamine synthetase]]
-[[CHO cells]]
-[[industrial biotechnology]]
-[[Bioprocess Development]]
-[[Gene Expression Systems]]

@@ -1,6 +1,0 @@
-[[Gene therapy]]
-[[Regulation]]
-[[biosafety]]
-[[Crispr]]
-[[Gene Editing]]
-[[Biosecurity]]

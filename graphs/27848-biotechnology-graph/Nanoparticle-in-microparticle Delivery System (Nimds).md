@@ -1,5 +1,0 @@
-[[Combination therapy]]
-[[Antiretrovirals]]
-[[Cryo-tem]]
-[[Colloidal Dispersion]]
-[[Darunavir, Efavirenz And Ritonavir]]

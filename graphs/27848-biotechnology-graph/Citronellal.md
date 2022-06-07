@@ -1,5 +1,0 @@
-[[MDA-MB-231]]
-[[Molecular targets]]
-[[Phytochemicals]]
-[[Ehrlich Ascites Carcinoma]]
-[[Tnbc]]

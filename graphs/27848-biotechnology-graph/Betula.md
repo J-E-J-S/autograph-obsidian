@@ -1,5 +1,0 @@
-[[Taxonomy]]
-[[Phylogeny]]
-[[Secondary Structure]]
-[[ITS]]
-[[phylogenetics]]

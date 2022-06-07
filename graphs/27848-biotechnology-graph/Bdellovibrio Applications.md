@@ -1,3 +1,0 @@
-[[Predation]]
-[[Bdellovibrio bacteriovorus]]
-[[Biocontrol]]

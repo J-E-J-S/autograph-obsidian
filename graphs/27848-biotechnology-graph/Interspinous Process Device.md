@@ -1,5 +1,0 @@
-[[Finite element]]
-[[Lumbar Spine]]
-[[Whole Body Vibration]]
-[[Adjacent Segment Degeneration]]
-[[Intradiscal Pressure]]

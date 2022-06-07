@@ -1,5 +1,0 @@
-[[Molecular phylogeny]]
-[[Gallbladder]]
-[[Myxosporeans]]
-[[Ceratomyxa Xanthopteri N. Sp.]]
-[[Marine Ornamentals]]

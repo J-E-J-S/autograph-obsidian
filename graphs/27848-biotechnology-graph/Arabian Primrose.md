@@ -1,5 +1,0 @@
-[[Biosensors]]
-[[Anti-cancer]]
-[[Dye degradation]]
-[[anti-microbial]]
-[[Silver Nanoparticles]]

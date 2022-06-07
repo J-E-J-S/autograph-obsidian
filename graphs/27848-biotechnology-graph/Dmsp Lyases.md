@@ -1,5 +1,0 @@
-[[polyphasic taxonomy]]
-[[Genomic Sequencing And Analysis]]
-[[The Roseobacter Group]]
-[[Tritonibacter Aquimaris Sp. Nov.]]
-[[Tritonibacter Litoralis Sp. Nov.]]

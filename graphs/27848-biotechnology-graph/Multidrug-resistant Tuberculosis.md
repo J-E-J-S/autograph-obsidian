@@ -1,5 +1,0 @@
-[[Lantana camara]]
-[[Cryptolepis Sanguinolenta]]
-[[Antimycobacterial Activity]]
-[[Metabolic Fingerprinting]]
-[[Zanthoxylum Leprieurii]]

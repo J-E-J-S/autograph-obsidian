@@ -1,2 +1,0 @@
-[[Motif]]
-[[coding region]]

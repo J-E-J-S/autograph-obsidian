@@ -1,2 +1,0 @@
-[[Cheese Ripening]]
-[[Cheese Quality]]

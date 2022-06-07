@@ -1,5 +1,0 @@
-[[Astrocytes]]
-[[Microglia]]
-[[Oligodendrocytes]]
-[[Rna-seq]]
-[[Circular Rnas]]

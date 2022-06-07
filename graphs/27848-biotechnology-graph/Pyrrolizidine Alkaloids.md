@@ -1,5 +1,0 @@
-[[Traditional medicine]]
-[[UPLC-MS/MS]]
-[[Lcms]]
-[[Senecio Coronatus]]
-[[Retrorsine-n-oxide]]

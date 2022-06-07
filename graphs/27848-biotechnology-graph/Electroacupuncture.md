@@ -1,5 +1,0 @@
-[[Insulin]]
-[[Dexamethasone]]
-[[plasma glucose]]
-[[Antrodia Cinnamomea]]
-[[Signal Transduction Proteins]]

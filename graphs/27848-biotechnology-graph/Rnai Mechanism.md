@@ -1,6 +1,0 @@
-[[Lepidoptera]]
-[[Mythimna separata]]
-[[Phenotypic Effects]]
-[[Polycistronic-trna-amir]]
-[[Sirna Features]]
-[[Host-induced Gene Silencing]]

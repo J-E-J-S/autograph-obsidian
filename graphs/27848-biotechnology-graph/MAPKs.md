@@ -1,6 +1,0 @@
-[[Cycloheximide]]
-[[ERK1/2]]
-[[cyclinB1]]
-[[Anisomycin]]
-[[Cdk1]]
-[[Oocytes Activation]]

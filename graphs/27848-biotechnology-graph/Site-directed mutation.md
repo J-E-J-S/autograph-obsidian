@@ -1,7 +1,0 @@
-[[Esterase]]
-[[random mutation]]
-[[Klebsiella Aerogenes]]
-[[Hydrolysis]]
-[[Cyclodextrin Glucosyltransferase]]
-[[Disproportionation]]
-[[The +2 Subsite]]

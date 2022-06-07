@@ -1,6 +1,0 @@
-[[Technology]]
-[[Biopharmaceutical]]
-[[Innovation]]
-[[Manufacturing]]
-[[Process Intensification]]
-[[Factory Of The Future]]

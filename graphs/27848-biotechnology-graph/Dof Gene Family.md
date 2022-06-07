@@ -1,5 +1,0 @@
-[[Oryza sativa]]
-[[Phylogeny]]
-[[Transcription factors]]
-[[Expression profile]]
-[[Functional Characterization]]

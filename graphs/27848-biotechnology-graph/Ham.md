@@ -1,5 +1,0 @@
-[[Season]]
-[[Triacylglycerol]]
-[[Compositional Data Analysis]]
-[[Montanera]]
-[[Rump]]

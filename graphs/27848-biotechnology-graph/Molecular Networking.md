@@ -1,5 +1,0 @@
-[[Enniatin]]
-[[LC-MS/MS]]
-[[Beauvericin]]
-[[Depsipeptides]]
-[[Untargeted Mass Spectrometric Approach]]

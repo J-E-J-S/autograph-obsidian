@@ -1,5 +1,0 @@
-[[Vascular malformation]]
-[[Embolization]]
-[[Ionizing Radiation]]
-[[Arteriovenous Malformation]]
-[[Embolo-sclerotherapy]]

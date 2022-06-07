@@ -1,2 +1,0 @@
-[[Mouse Models]]
-[[Nafld]]

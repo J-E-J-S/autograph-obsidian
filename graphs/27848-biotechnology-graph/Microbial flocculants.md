@@ -1,5 +1,0 @@
-[[Polysaccharides]]
-[[Biosynthetic pathway]]
-[[Transcriptome]]
-[[Exo Genes]]
-[[Agrobacterium Tumefaciens F2]]

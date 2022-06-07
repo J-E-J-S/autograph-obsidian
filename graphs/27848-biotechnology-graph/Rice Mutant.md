@@ -1,5 +1,0 @@
-[[Secondary metabolites]]
-[[Nematode resistance]]
-[[Transcriptome]]
-[[Phytoalexins]]
-[[Meloidogyne Graminicola]]

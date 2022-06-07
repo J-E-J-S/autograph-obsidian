@@ -1,3 +1,0 @@
-[[Invasion]]
-[[adhesion]]
-[[Etcab]]

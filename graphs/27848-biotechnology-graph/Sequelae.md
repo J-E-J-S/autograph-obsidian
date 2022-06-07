@@ -1,5 +1,0 @@
-[[Breast]]
-[[Surgery]]
-[[gynecomastia]]
-[[Fat Grafting]]
-[[Tuberous Breast]]

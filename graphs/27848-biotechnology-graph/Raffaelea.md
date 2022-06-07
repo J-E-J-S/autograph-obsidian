@@ -1,4 +1,0 @@
-[[Bostrichidae]]
-[[Ophiostomatales]]
-[[Xyleborini]]
-[[Ceratocystiopsis]]

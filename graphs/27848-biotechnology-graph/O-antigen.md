@@ -1,7 +1,0 @@
-[[LPS]]
-[[Fish Pathogen]]
-[[O-specific Polysaccharide]]
-[[Aeromonas Veronii]]
-[[D-fucp]]
-[[Galpnac]]
-[[D-fucopyranose]]

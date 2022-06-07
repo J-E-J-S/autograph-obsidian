@@ -1,3 +1,0 @@
-[[Urine]]
-[[Proteome]]
-[[Differential diagnosis]]

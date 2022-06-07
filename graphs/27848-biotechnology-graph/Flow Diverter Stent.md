@@ -1,5 +1,0 @@
-[[Skull Base Surgery]]
-[[Endoscopic Endonasal]]
-[[Cavernous Carotid Artery]]
-[[Hadad Flap]]
-[[Acute Vascular Injury]]

@@ -1,3 +1,0 @@
-[[Epigenetics]]
-[[Rectal]]
-[[Biological Marker]]

@@ -1,5 +1,0 @@
-[[Hepatitis C virus]]
-[[Core protein]]
-[[Amino acid substitution]]
-[[phylogenetics]]
-[[Protein Modelling]]

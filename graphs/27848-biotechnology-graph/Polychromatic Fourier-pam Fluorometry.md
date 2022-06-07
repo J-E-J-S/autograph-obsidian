@@ -1,5 +1,0 @@
-[[Quantum yield]]
-[[Photosystem II]]
-[[Chlorella vulgaris]]
-[[Oxygen evolution]]
-[[Anoxygenic Photosynthesis]]

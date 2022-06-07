@@ -1,5 +1,0 @@
-[[LPS]]
-[[Antimicrobial peptide]]
-[[endotoxemia]]
-[[Gram-negative Infection]]
-[[Std-nmr]]

@@ -1,3 +1,0 @@
-[[Paraquat]]
-[[Bioremediation]]
-[[Cunninghamella Sp.]]

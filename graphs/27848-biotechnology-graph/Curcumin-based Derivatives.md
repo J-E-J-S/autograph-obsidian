@@ -1,2 +1,0 @@
-[[Antioxidant]]
-[[Anti-diabetic]]

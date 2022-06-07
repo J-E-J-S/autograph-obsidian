@@ -1,5 +1,0 @@
-[[Hormones]]
-[[Transcription factors]]
-[[Peanut (Arachis hypogaea L.)]]
-[[Rna-seq]]
-[[Cell Wall Related Genes]]

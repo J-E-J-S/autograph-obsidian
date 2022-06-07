@@ -1,2 +1,0 @@
-[[nonradioactive]]
-[[Biotin-labeled Primers]]

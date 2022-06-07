@@ -1,5 +1,0 @@
-[[Reactive oxygen species]]
-[[Molecular docking]]
-[[Cell death]]
-[[Caspase-3 Enzyme]]
-[[Moringa Oleifera Fruits]]

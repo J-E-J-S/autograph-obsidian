@@ -1,7 +1,0 @@
-[[Obesity]]
-[[Cardiovascular disease]]
-[[Type 2 diabetes]]
-[[Epigenetics]]
-[[Neurological Disease]]
-[[Rna Therapeutics]]
-[[Human Metabolism.]]

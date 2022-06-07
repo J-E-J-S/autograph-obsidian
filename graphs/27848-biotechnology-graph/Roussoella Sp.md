@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Antifungal activity]]
-[[Endophytic fungus]]
-[[Oxaspiro Derivative]]
-[[Pyrenocine Derivative]]

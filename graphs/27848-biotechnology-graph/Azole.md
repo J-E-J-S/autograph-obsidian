@@ -1,4 +1,0 @@
-[[Apoptosis]]
-[[Tubulin]]
-[[Mitosis]]
-[[Cytotoxic]]

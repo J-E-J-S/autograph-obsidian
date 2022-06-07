@@ -1,5 +1,0 @@
-[[Glycoprotein]]
-[[ELISA]]
-[[Sialic acid]]
-[[Ella]]
-[[Lectin-based Assay]]

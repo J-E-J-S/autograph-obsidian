@@ -1,5 +1,0 @@
-[[Antagonist]]
-[[Estrogen receptor]]
-[[Electrostatic interaction]]
-[[Agonist]]
-[[Bisphenol]]

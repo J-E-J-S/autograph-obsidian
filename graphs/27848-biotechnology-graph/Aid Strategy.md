@@ -1,5 +1,0 @@
-[[Protoplast fusion]]
-[[High-throughput screening]]
-[[Strain improvement]]
-[[Genome shuffling]]
-[[Strain Tolerance]]

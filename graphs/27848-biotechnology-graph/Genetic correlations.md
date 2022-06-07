@@ -1,5 +1,0 @@
-[[Liver]]
-[[Heritability]]
-[[Vibrio anguillarum]]
-[[Turbot]]
-[[Immunological factors]]

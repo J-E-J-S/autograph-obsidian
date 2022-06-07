@@ -1,5 +1,0 @@
-[[Dog]]
-[[Surgery]]
-[[Oral Malignant Melanoma]]
-[[Adjuvant Immunotherapy]]
-[[Dna Electrovaccination]]

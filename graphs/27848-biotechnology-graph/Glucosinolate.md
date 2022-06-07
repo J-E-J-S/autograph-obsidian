@@ -1,7 +1,0 @@
-[[Kinetic study]]
-[[Substrate Inhibition]]
-[[Myrosinase]]
-[[Spectrophotometric Assay]]
-[[Brassica Oleracea L. Var. Botrytis]]
-[[Brassica Oleracea L. Var. Italic]]
-[[Hplc-based Assay]]

@@ -1,8 +1,0 @@
-[[Transcriptional regulation]]
-[[Ptxs]]
-[[2-Ketogluconic Acid (2Kga)]]
-[[Laci-family Transcriptional Regulator]]
-[[Catabolism]]
-[[2-Keto-d-gluconic Acid (2Kga)]]
-[[2-Ketogluconate Kinase (Kguk)]]
-[[2Kga Re-utilization]]

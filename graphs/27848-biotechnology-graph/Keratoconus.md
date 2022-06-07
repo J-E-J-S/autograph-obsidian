@@ -1,5 +1,0 @@
-[[AAS]]
-[[Biomarker]]
-[[Tear Fluid]]
-[[Copper Determination]]
-[[Schirmer Test Stripe]]

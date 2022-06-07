@@ -1,5 +1,0 @@
-[[Genomic analysis]]
-[[Association analysis]]
-[[Cpq]]
-[[Kcnh1]]
-[[Rib Number]]

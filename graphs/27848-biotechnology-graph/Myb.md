@@ -1,5 +1,0 @@
-[[Salicylic acid]]
-[[Arabidopsis]]
-[[PEG]]
-[[Drought]]
-[[Rna-seq.]]

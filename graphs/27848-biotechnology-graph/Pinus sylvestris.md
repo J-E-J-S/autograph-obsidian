@@ -1,5 +1,0 @@
-[[Selection]]
-[[Candidate Genes]]
-[[Neutrality]]
-[[Outliers]]
-[[Periphery]]

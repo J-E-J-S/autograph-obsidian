@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Microtubule]]
-[[Mitosis]]
-[[Cervical cancer]]
-[[Autophagy]]

@@ -1,5 +1,0 @@
-[[Taxonomy]]
-[[Genome analysis]]
-[[Clinical significance]]
-[[“Propionibacterium Humerusii”]]
-[[Cutibacterium Modestum]]

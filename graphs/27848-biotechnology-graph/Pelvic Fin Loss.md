@@ -1,5 +1,0 @@
-[[Development]]
-[[Protein expression]]
-[[Pampus argenteus]]
-[[Hoxc6]]
-[[Mrna Localisation]]

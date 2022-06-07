@@ -1,5 +1,0 @@
-[[Sepsis]]
-[[Diagnosis]]
-[[Prognosis]]
-[[Peripheral blood]]
-[[Markers]]

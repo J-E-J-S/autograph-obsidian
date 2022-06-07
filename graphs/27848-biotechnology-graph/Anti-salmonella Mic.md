@@ -1,6 +1,0 @@
-[[Triterpenoid]]
-[[Molecular docking]]
-[[Molecular Dynamic Simulations]]
-[[Swietenia Mahagoni]]
-[[Formate Ion Channel]]
-[[Melianone]]

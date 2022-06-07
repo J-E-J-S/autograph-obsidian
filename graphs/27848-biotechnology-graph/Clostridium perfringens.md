@@ -1,7 +1,0 @@
-[[Bacteriophage]]
-[[Rapid detection]]
-[[Endolysin]]
-[[Cell Wall–binding Domain]]
-[[Mlst]]
-[[Antimicrobial Susceptibility Test]]
-[[Chicken Production Chain]]

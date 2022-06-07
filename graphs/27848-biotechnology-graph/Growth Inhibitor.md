@@ -1,3 +1,0 @@
-[[Verbascoside]]
-[[Biopesticide]]
-[[Verbena Incompta]]

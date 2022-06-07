@@ -1,5 +1,0 @@
-[[Breast cancer]]
-[[Mitoxantrone]]
-[[Glucosamine]]
-[[Breast Cancer Resistance Protein (Bcrp)]]
-[[Mesenchymal Transition (Emt)]]

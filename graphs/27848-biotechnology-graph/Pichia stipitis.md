@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Bioethanol]]
-[[Kluyveromyces Marxianus]]
-[[Candida Lusitaniae]]
-[[Azolla Filiculoides]]

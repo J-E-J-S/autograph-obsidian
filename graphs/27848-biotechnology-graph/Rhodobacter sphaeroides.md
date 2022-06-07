@@ -1,5 +1,0 @@
-[[Photosynthesis]]
-[[Two-dimensional gel electrophoresis]]
-[[comparative proteomics]]
-[[Metabolic Characteristics]]
-[[Proteomic Responses]]

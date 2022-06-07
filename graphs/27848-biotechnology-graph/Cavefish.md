@@ -1,6 +1,0 @@
-[[Zebrafish]]
-[[FISH]]
-[[Medaka]]
-[[Swimming Performance]]
-[[Swimming Behavior]]
-[[Ucrit]]

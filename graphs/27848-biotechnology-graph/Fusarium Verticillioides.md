@@ -1,5 +1,0 @@
-[[Sesquiterpenes]]
-[[Fumonisins]]
-[[Carbon sources]]
-[[Monoterpenes]]
-[[Naphthoquinone Pigments]]

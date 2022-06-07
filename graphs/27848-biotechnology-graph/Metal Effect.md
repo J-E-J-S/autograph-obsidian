@@ -1,2 +1,0 @@
-[[Splicing Regulation]]
-[[Inteins]]

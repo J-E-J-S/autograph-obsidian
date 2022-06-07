@@ -1,5 +1,0 @@
-[[Drug]]
-[[computational biology]]
-[[praziquantel]]
-[[schistosomiasis]]
-[[Anti-schistosomal]]

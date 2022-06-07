@@ -1,7 +1,0 @@
-[[Rhizopus oryzae]]
-[[Antioxidant effect]]
-[[Anti-inflammatory effect]]
-[[Food additive]]
-[[Platycodi Radix]]
-[[Crude Enzyme]]
-[[Deapiosylated Platycoside]]

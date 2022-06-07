@@ -1,5 +1,0 @@
-[[Biodiversity]]
-[[Yeast]]
-[[Synthetic Biology]]
-[[Cell Factory]]
-[[Biological Manufacturing]]

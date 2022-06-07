@@ -1,5 +1,0 @@
-[[metabolic engineering]]
-[[Synthetic Biology]]
-[[Genome Editing]]
-[[Fermentation Optimization And Scale-up]]
-[[High-throughput Culture System]]

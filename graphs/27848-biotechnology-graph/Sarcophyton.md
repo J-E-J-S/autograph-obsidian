@@ -1,8 +1,0 @@
-[[Diterpene]]
-[[Sinularia]]
-[[Anti-inflammatory]]
-[[Anti-cancer]]
-[[Lobophytum]]
-[[Anti-bacterial]]
-[[Cembranoids]]
-[[Soft Corals]]

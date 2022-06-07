@@ -1,5 +1,0 @@
-[[Aging]]
-[[Immune system]]
-[[Senescence]]
-[[Immunosenescence]]
-[[Inflammaging]]

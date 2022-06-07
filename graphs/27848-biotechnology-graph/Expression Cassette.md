@@ -1,5 +1,0 @@
-[[Promoter]]
-[[Transglutaminase]]
-[[Artp]]
-[[Gene Copy]]
-[[Streptomyces Mobaraensis]]

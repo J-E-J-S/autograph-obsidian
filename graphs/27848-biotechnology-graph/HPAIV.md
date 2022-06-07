@@ -1,7 +1,0 @@
-[[Vaccine]]
-[[Immunity]]
-[[Pathogenesis]]
-[[Hemagglutinin]]
-[[Clinical features]]
-[[epidemiology]]
-[[H7n9]]

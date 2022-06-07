@@ -1,2 +1,0 @@
-[[DNA sequencing]]
-[[DNA Barcoding]]

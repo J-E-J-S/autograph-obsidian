@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Sustainability]]
-[[Two-stage Fermentation]]
-[[Microbial Biocatalysis]]
-[[Bulk-chemicals]]

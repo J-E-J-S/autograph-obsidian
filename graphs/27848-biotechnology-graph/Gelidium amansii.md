@@ -1,8 +1,0 @@
-[[Anti-inflammation]]
-[[Red algae]]
-[[Cellulose microfibril]]
-[[Cosmetic Ingredients]]
-[[2,3-butanediol]]
-[[Engineered Saccharomyces Cerevisiae]]
-[[Enzymatic Saccharification]]
-[[Hyper-thermal Acid Hydrolysis]]

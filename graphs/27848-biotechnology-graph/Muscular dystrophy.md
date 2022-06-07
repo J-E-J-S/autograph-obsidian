@@ -1,5 +1,0 @@
-[[Duchenne muscular dystrophy]]
-[[Whole-exome Sequencing]]
-[[Sanger Sequencing]]
-[[Lama2]]
-[[Dmc1a]]

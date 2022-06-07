@@ -1,5 +1,0 @@
-[[Phytopathogenic fungi]]
-[[MIC]]
-[[Mbc/mfc]]
-[[Bacterial Superbugs]]
-[[Endophytic Fungal Isolates]]

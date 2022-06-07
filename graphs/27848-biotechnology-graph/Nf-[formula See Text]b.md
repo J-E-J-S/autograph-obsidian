@@ -1,5 +1,0 @@
-[[AP-1]]
-[[Olea europaea]]
-[[Anti-inflammatory effect]]
-[[Antiphotoaging Effect]]
-[[Nf-[formula: See Text]b]]

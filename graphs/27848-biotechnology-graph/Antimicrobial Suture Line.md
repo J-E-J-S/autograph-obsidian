@@ -1,2 +1,0 @@
-[[Polylysine]]
-[[Gellan]]

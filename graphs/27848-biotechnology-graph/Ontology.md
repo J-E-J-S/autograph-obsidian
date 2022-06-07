@@ -1,3 +1,0 @@
-[[Microbiome]]
-[[Metadata]]
-[[Data Standards]]

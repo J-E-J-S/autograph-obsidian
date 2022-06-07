@@ -1,5 +1,0 @@
-[[Variant]]
-[[De Novo Assembly]]
-[[Short-read]]
-[[Covid-19]]
-[[Ars-cov-2]]

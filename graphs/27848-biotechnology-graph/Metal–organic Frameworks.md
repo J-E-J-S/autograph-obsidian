@@ -1,5 +1,0 @@
-[[Immobilization]]
-[[Biomineralization]]
-[[Encapsulation]]
-[[Inorganic nanoparticles]]
-[[Polymer Nanoparticles]]

@@ -1,5 +1,0 @@
-[[Salt tolerance]]
-[[Mannitol]]
-[[Polyunsaturated fatty acids]]
-[[Marine Yeast]]
-[[Rhodosporidiobolus Fluvialis]]

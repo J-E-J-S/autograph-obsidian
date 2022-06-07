@@ -1,4 +1,0 @@
-[[Yield]]
-[[Silicon]]
-[[Maize]]
-[[Chitosan]]

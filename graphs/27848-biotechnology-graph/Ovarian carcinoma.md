@@ -1,5 +1,0 @@
-[[Sensitivity]]
-[[Specificity]]
-[[Biomarker]]
-[[Early diagnosis]]
-[[Ca-125]]

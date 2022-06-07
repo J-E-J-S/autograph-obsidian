@@ -1,5 +1,0 @@
-[[Promoter]]
-[[Transcription regulation]]
-[[Mandarin fish]]
-[[IFN]]
-[[Ifp35]]

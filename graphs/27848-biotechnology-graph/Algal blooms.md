@@ -1,5 +1,0 @@
-[[Purification]]
-[[Coagulation]]
-[[Surface water]]
-[[Egypt]]
-[[Assiut]]

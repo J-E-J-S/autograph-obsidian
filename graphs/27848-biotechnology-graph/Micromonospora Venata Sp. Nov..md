@@ -1,2 +1,0 @@
-[[Genome Mining]]
-[[Endophytic Actinobacterium]]

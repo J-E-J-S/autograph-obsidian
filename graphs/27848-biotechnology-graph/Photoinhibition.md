@@ -1,6 +1,0 @@
-[[Phytoplankton]]
-[[Photosystem II]]
-[[Chl Fluorescence]]
-[[Photosynthesis]]
-[[Climate change]]
-[[Crop yield]]

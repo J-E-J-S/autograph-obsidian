@@ -1,6 +1,0 @@
-[[Pseudogenes]]
-[[Nonsynonymous Substitutions]]
-[[Synonymous Substitutions]]
-[[Pseudogene Characterization]]
-[[Pseudogene Databases]]
-[[Pseudogene Pipelines]]

@@ -1,8 +1,0 @@
-[[Pseudomonas]]
-[[Biocatalysis]]
-[[Renewable resources]]
-[[metabolic engineering]]
-[[Resorcinol]]
-[[High efficiency]]
-[[Bioelectrochemical Systems]]
-[[Syntrophic Interaction]]

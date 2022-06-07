@@ -1,6 +1,0 @@
-[[Prunus persica]]
-[[Oxidative stress]]
-[[Antioxidant activity]]
-[[Acute oral toxicity]]
-[[CCl4]]
-[[Hepatoprotective Activity]]

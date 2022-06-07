@@ -1,5 +1,0 @@
-[[Trace elements]]
-[[Heavy metals]]
-[[Health Risk Assessment]]
-[[Antidiabetic Polyherbal Formulation]]
-[[Marco Elements]]

@@ -1,5 +1,0 @@
-[[Carotenoid]]
-[[Gene repression]]
-[[sRNA]]
-[[Hfq]]
-[[Crti]]

@@ -1,6 +1,0 @@
-[[Aging]]
-[[Affinity purification]]
-[[Streptavidin]]
-[[colocalization]]
-[[biotinylation]]
-[[Aged Cells]]

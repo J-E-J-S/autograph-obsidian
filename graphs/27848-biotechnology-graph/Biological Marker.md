@@ -1,3 +1,0 @@
-[[Colon adenocarcinoma]]
-[[Epigenetics]]
-[[Rectal]]

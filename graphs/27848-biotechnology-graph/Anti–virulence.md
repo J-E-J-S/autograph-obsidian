@@ -1,5 +1,0 @@
-[[Bioavailability]]
-[[Antibiotic Resistance]]
-[[Plant secondary metabolites]]
-[[Combinatorial Therapy]]
-[[Potentiating Activity]]

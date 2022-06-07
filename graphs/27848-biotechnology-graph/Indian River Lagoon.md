@@ -1,5 +1,0 @@
-[[Mitochondrial DNA]]
-[[Nd2]]
-[[Elasmobranch]]
-[[Rhinoptera Bonasus]]
-[[American Cownose Ray]]

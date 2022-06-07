@@ -1,2 +1,0 @@
-[[Smokers]]
-[[Tobacco Chewers]]

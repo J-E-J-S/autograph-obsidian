@@ -1,5 +1,0 @@
-[[Vitamin B12]]
-[[Antisense oligonucleotides]]
-[[Antibacterial Drug]]
-[[Lna]]
-[[Nucleic Acid Mimics]]

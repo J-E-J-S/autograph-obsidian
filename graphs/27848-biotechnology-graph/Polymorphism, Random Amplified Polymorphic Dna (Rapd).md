@@ -1,6 +1,0 @@
-[[Genetic diversity]]
-[[Endangered]]
-[[PCA]]
-[[Gloriosa Superba]]
-[[Inter Simple Sequence Repeats (Issr) Polymorphism]]
-[[Polymorphic Information Content (Pic); Upgma]]

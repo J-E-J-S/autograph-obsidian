@@ -1,5 +1,0 @@
-[[Crystal structure]]
-[[Ebola Virus]]
-[[Vp35]]
-[[Lc8]]
-[[Ebov]]

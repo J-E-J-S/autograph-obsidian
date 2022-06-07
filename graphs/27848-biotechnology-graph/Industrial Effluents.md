@@ -1,7 +1,0 @@
-[[Bacillus sp.]]
-[[Azo dyes]]
-[[Nanotechnology]]
-[[Silver Nanoparticles]]
-[[Algae]]
-[[Cr(VI)]]
-[[Phycoremediation]]

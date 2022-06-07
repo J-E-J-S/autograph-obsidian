@@ -1,5 +1,0 @@
-[[Hydrolase]]
-[[metagenome]]
-[[High-throughput Assay]]
-[[Petase]]
-[[Pet Esterase]]

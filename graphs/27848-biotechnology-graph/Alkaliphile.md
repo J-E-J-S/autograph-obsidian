@@ -1,5 +1,0 @@
-[[Ethanol Fermentation]]
-[[Clostridia]]
-[[Firmicutes]]
-[[Anaerobe]]
-[[Mud Volcano]]

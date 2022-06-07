@@ -1,5 +1,0 @@
-[[Acid Phosphatases]]
-[[Alkaline Phosphatases]]
-[[Cell Lysate]]
-[[Magnesium Ascorbyl Phosphate]]
-[[Microbial Phosphatases]]

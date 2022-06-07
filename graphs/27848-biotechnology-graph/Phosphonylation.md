@@ -1,3 +1,0 @@
-[[Indoles]]
-[[Palladium]]
-[[Regioselectivity]]

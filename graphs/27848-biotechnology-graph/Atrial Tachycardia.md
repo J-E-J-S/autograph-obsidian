@@ -1,5 +1,0 @@
-[[ECG]]
-[[heart rate variability]]
-[[Normal Sinus Rhythm]]
-[[Premature Activation]]
-[[Pta Interval]]

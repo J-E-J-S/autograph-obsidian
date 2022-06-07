@@ -1,5 +1,0 @@
-[[Rice]]
-[[Methane]]
-[[Methylobacterium]]
-[[Plant Growth Promoter]]
-[[Methane Utilizing Microorganisms]]

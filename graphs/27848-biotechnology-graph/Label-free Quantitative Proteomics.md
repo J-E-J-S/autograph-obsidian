@@ -1,3 +1,0 @@
-[[Salmonella]]
-[[Antibiotic Resistance]]
-[[Yggt]]

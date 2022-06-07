@@ -1,4 +1,0 @@
-[[Disruption]]
-[[Deletion]]
-[[Para]]
-[[Roda]]

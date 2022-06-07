@@ -1,6 +1,0 @@
-[[Breast cancer cell line]]
-[[Heterocycles]]
-[[Quinoxaline]]
-[[Anticancer Agents]]
-[[Nci-60]]
-[[Mda-mb-468]]

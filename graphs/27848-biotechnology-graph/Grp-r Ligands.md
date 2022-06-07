@@ -1,7 +1,0 @@
-[[Circular dichroism]]
-[[Gastrin Releasing Peptide (Grp)]]
-[[Bombesin (Bn)]]
-[[Grp Receptors (Grp-r)]]
-[[Grp-r Antagonists]]
-[[Mm And Md Conformational Studies]]
-[[Nmr-based Structural And Conformational Analysis]]

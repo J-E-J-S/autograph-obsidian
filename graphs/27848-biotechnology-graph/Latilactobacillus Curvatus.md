@@ -1,6 +1,0 @@
-[[PCR-DGGE]]
-[[quantitative PCR]]
-[[Back-slopping]]
-[[Fructilactobacillus Sanfranciscensis]]
-[[Korean Sourdough]]
-[[Levilactobacillus Brevis]]

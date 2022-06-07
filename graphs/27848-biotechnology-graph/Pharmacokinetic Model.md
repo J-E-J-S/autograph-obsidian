@@ -1,5 +1,0 @@
-[[mean residence time]]
-[[Japanese Medaka]]
-[[Bioconcentration Factor]]
-[[Microplastic]]
-[[Tissue Transparency]]

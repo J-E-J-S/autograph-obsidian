@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Oxidative cleavage]]
-[[Directed evolution]]
-[[Lytic Polysaccharide Monooxygenase (Lpmo)]]
-[[Cellulose Binding Module (Cbm)]]

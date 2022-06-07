@@ -1,7 +1,0 @@
-[[PHA]]
-[[Rapeseed oil]]
-[[Ralstonia eutropha]]
-[[Cupriavidus Necator]]
-[[High-cell-density Cultivation]]
-[[Two-stage Fed-batch]]
-[[Substrate-Flexible]]

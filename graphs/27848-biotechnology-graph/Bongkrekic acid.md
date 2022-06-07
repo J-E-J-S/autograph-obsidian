@@ -1,5 +1,0 @@
-[[Mitochondrial permeability transition pore]]
-[[Oligomycin]]
-[[HepG2]]
-[[Bz-423]]
-[[Proton Uncoupling]]

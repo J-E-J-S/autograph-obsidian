@@ -1,3 +1,0 @@
-[[Diarrhea]]
-[[Cryptosporidiosis]]
-[[Intestinal Microsporidiosis]]

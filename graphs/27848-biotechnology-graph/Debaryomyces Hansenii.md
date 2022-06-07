@@ -1,5 +1,0 @@
-[[Bioreactors]]
-[[Osmotic stress]]
-[[Batch fermentation]]
-[[Salt tolerance]]
-[[Non-conventional Yeast]]

@@ -1,6 +1,0 @@
-[[Surfactin]]
-[[Acetoin]]
-[[Stimulus Responsive]]
-[[Wettability Alteration]]
-[[Emulsification Stability]]
-[[Oil Washing]]

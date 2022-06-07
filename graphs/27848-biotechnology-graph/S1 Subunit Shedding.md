@@ -1,5 +1,0 @@
-[[Spike protein]]
-[[renin-angiotensin system]]
-[[Sars-cov-2]]
-[[Covid-19 Pathogenesis]]
-[[D614g Mutation]]

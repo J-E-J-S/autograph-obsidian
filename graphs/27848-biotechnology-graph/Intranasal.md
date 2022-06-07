@@ -1,5 +1,0 @@
-[[Alzheimer disease]]
-[[biodistribution]]
-[[Gamma Scintigraphy]]
-[[Nanoemulsion]]
-[[Donepezil]]

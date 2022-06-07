@@ -1,6 +1,0 @@
-[[Host]]
-[[Expression vector]]
-[[Recombinant expression]]
-[[Fermentation optimization]]
-[[Fusion Partner]]
-[[Foldase]]

@@ -1,5 +1,0 @@
-[[Antioxidant]]
-[[Molecular docking]]
-[[Ginsenosides]]
-[[Insulin resistance]]
-[[Antihypertension]]

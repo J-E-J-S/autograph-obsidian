@@ -1,8 +1,0 @@
-[[Campylobacter]]
-[[Antimicrobial Susceptibility]]
-[[Multidrug Resistant]]
-[[Meats]]
-[[Variance analysis]]
-[[Body measurement]]
-[[Correlation coefficients]]
-[[Climatic Parameters]]

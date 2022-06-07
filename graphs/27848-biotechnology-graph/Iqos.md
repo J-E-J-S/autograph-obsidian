@@ -1,6 +1,0 @@
-[[Antioxidants]]
-[[DNA damage]]
-[[Oxidative stress]]
-[[MAPK]]
-[[Lung damage]]
-[[Heated Tobacco Products]]

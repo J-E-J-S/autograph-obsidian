@@ -1,5 +1,0 @@
-[[Ethics]]
-[[Human Enhancement]]
-[[Genome Editing]]
-[[Transhumanism]]
-[[Modernism]]

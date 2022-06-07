@@ -1,5 +1,0 @@
-[[pH]]
-[[Continuous culture]]
-[[Growth Rate]]
-[[Apple Pectin]]
-[[Changestat]]

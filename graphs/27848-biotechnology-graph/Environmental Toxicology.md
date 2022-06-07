@@ -1,2 +1,0 @@
-[[Wastewater Effluent]]
-[[Pharmaceutical Pollution]]

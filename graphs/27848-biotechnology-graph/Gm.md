@@ -1,5 +1,0 @@
-[[Transgenic rice]]
-[[Sustainable agriculture]]
-[[Subcellular location]]
-[[Rice pest]]
-[[Cotesia Chilonis Parasitic Wasp]]

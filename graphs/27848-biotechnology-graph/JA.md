@@ -1,5 +1,0 @@
-[[ROS]]
-[[Rice blast]]
-[[Sheath blight]]
-[[Xoo]]
-[[Ostrxm]]

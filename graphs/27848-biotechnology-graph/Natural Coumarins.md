@@ -1,5 +1,0 @@
-[[SAR]]
-[[H. pylori]]
-[[drug discovery]]
-[[Jack Bean Urease]]
-[[Synthetic Coumarins]]

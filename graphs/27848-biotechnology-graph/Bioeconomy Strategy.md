@@ -1,2 +1,0 @@
-[[Circular Bioeconomy]]
-[[Italian Bioeconomy]]

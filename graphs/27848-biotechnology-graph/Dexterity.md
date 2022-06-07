@@ -1,5 +1,0 @@
-[[Motor control]]
-[[functional morphology]]
-[[Sensory Ecology]]
-[[Object Manipulation]]
-[[Robot Manipulation]]

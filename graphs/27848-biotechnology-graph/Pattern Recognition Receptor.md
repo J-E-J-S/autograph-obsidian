@@ -1,5 +1,0 @@
-[[Broad-spectrum disease resistance]]
-[[Citrus Canker]]
-[[Pathogen-associated Molecular Pattern (Pamp)]]
-[[Citrus Variegated Chlorosis (Cvc)]]
-[[Outer Membrane Vesicle (Omv)]]

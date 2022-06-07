@@ -1,8 +1,0 @@
-[[Allele]]
-[[Congenital heart disease]]
-[[haplotype]]
-[[Single Nucleotide Polymorphisms]]
-[[Acyanotic]]
-[[Cyanotic]]
-[[Severe Pulmonary Hypertension]]
-[[Upstream Regulatory Element]]

@@ -1,5 +1,0 @@
-[[metabolic engineering]]
-[[Gene Expression]]
-[[Synthetic Biology]]
-[[Microbial Cell Factory]]
-[[Tuning Gene Expression And Regulation]]

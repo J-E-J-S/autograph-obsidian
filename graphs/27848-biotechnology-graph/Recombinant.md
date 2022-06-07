@@ -1,5 +1,0 @@
-[[Affinity purification]]
-[[Biotechnology]]
-[[Genetic engineering]]
-[[Cloning]]
-[[Biosurfactant]]

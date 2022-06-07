@@ -1,3 +1,0 @@
-[[Biodegradation]]
-[[erythromycin]]
-[[Erythromycin Esterase]]

@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Chitosan]]
-[[Agarose]]
-[[Biodegradation]]
-[[Chronic Wounds]]

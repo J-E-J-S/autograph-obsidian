@@ -1,7 +1,0 @@
-[[Fatty acids]]
-[[Caprylic acid]]
-[[Photostability]]
-[[Photochemical Inactivation]]
-[[flavoprotein]]
-[[Decarboxylation]]
-[[Photoinactivation]]

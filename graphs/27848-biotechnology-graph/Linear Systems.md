@@ -1,3 +1,0 @@
-[[Pharmacokinetics]]
-[[Signal processing]]
-[[Bootstrap]]

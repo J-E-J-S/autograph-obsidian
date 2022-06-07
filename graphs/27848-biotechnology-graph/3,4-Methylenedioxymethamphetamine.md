@@ -1,7 +1,0 @@
-[[Blood pressure]]
-[[Heart rate]]
-[[Mechanisms]]
-[[Cardiac Effects]]
-[[Vascular Effects]]
-[[1615)]]
-[[Mdma (Pubchem Cid]]

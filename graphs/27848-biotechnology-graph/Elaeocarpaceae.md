@@ -1,2 +1,0 @@
-[[Chloroplast genome]]
-[[Sloanea Sinensis]]

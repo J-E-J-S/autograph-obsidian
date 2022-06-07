@@ -1,5 +1,0 @@
-[[Gene Expression]]
-[[Promoter Polymorphism]]
-[[Milk Somatic Cells]]
-[[Alpha-lactalbumin (Lalba)]]
-[[Milk Traits Association]]

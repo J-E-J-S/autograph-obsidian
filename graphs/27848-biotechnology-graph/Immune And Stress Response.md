@@ -1,3 +1,0 @@
-[[Domestication]]
-[[Larvae]]
-[[Eurasian Perch]]

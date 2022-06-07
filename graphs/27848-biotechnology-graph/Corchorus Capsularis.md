@@ -1,5 +1,0 @@
-[[Lignin]]
-[[ESTs]]
-[[MicroRNA]]
-[[Jute]]
-[[Natural Fibre]]

@@ -1,3 +1,0 @@
-[[Phosphoproteomics]]
-[[Faims]]
-[[Compensation Voltages]]

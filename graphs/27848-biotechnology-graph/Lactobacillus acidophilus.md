@@ -1,5 +1,0 @@
-[[Exopolysaccharides]]
-[[Anticancer]]
-[[Antioxidative enzymes]]
-[[Colon cancer]]
-[[1,2–Dimethyl Hydrazine]]

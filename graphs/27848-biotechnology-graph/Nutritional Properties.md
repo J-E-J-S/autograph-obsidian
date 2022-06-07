@@ -1,5 +1,0 @@
-[[Biotransformation]]
-[[Phenolic compounds]]
-[[metabolic engineering]]
-[[Microorganism Metabolism]]
-[[Bioactive compounds]]

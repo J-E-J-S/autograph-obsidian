@@ -1,5 +1,0 @@
-[[Endophytic fungi]]
-[[Ni]]
-[[Irt1]]
-[[Serpentine Soils]]
-[[Irt2]]

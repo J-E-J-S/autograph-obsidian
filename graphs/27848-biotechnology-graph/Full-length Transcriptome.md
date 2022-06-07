@@ -1,5 +1,0 @@
-[[Peanut]]
-[[Stresses]]
-[[Rna-seq]]
-[[Pacbio]]
-[[Arachis Glabrata]]

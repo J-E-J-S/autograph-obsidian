@@ -1,5 +1,0 @@
-[[Sorghum]]
-[[Parasitic Plants]]
-[[Striga Hermonthica]]
-[[Low Germination Stimulant 1]]
-[[Lgs1]]

@@ -1,3 +1,0 @@
-[[Integrase]]
-[[Viral vector]]
-[[Intasome]]

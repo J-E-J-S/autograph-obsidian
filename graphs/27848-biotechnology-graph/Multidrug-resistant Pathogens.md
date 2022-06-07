@@ -1,5 +1,0 @@
-[[Penicillin-binding Protein]]
-[[Macrocyclic Polyketides]]
-[[Type-i Polyketide Synthase]]
-[[Intertidal Red Algae Hypnea Valentiae]]
-[[Heterotrophic Shewanella Algae]]

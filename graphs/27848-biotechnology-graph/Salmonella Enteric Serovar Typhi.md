@@ -1,5 +1,0 @@
-[[Molecular dynamic simulation]]
-[[Dihydrofolate reductase]]
-[[Drug Repurposing]]
-[[Deep Learning]]
-[[Fda Approved Drug]]

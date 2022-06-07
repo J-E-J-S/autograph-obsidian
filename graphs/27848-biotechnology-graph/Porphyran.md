@@ -1,5 +1,0 @@
-[[Carrageenan]]
-[[Laminarin]]
-[[Cazymes]]
-[[Ulvan]]
-[[Marine Polysaccharides]]

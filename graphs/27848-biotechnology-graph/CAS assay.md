@@ -1,5 +1,0 @@
-[[Rhodococcus]]
-[[Siderophores]]
-[[Non-ribosomal Peptide Synthetase]]
-[[Arsenic Tolerance]]
-[[Heterobactins]]

@@ -1,5 +1,0 @@
-[[Tolerance]]
-[[Short-term Adaptation]]
-[[Adaptive Laboratory Evolution]]
-[[Growth Rate Optimization]]
-[[Adaptive Modification]]

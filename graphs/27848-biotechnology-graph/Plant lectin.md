@@ -1,5 +1,0 @@
-[[Cell cycle]]
-[[Aggregation]]
-[[Insect cell]]
-[[Phosphatase]]
-[[Orysata]]

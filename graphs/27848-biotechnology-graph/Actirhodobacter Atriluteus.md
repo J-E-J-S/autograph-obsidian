@@ -1,2 +1,0 @@
-[[Yellow Sea]]
-[[Erythrobacteraceae]]

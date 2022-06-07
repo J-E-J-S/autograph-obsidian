@@ -1,5 +1,0 @@
-[[Unfolded protein response (UPR)]]
-[[Er-stress]]
-[[X-box Protein 1 (Xbp1)]]
-[[Inositol-requiring Enzyme 1(Ire1)]]
-[[Regulated Ire1 Dependent Decay (Ridd)]]

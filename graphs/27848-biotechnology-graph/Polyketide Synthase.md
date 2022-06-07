@@ -1,8 +1,0 @@
-[[Phylogeny]]
-[[Genomics]]
-[[Escherichia Coli]]
-[[Pathogenicity Islands]]
-[[Genotoxins]]
-[[Colibactin]]
-[[Pks Island]]
-[[Escherichia Toxins]]

@@ -1,5 +1,0 @@
-[[biosafety]]
-[[Synthetic Biology]]
-[[Microbial Cell Factories]]
-[[Chassis Cells]]
-[[Industrial Microorganism]]

@@ -1,5 +1,0 @@
-[[Sphingolipid]]
-[[lipid raft]]
-[[microdomain]]
-[[Liquid-ordered Phase]]
-[[Detergent-resistant Membrane]]

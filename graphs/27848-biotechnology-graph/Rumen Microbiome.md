@@ -1,5 +1,0 @@
-[[Microbial diversity]]
-[[Methane]]
-[[Rumen]]
-[[Metaproteomics]]
-[[Metagenome-assembled Genomes]]

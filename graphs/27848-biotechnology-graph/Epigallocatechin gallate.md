@@ -1,8 +1,0 @@
-[[Biopolymer]]
-[[Nanoparticle]]
-[[In vitro release]]
-[[Antioxidative activity]]
-[[Daidzein]]
-[[Quercetin]]
-[[Molecular docking]]
-[[Anticancer]]

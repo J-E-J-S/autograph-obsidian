@@ -1,5 +1,0 @@
-[[Biotransformation]]
-[[Nitrilase]]
-[[Biotechnological Applications]]
-[[Biocatalyst]]
-[[Structure–activity Relationship]]

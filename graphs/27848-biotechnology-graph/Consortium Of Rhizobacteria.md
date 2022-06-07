@@ -1,5 +1,0 @@
-[[Resistance]]
-[[Trifolium repens]]
-[[sunflower]]
-[[plant growth promotion]]
-[[Metal Tolerance]]

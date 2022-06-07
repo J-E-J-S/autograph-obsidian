@@ -1,5 +1,0 @@
-[[Gluconobacter oxydans]]
-[[Central Carbon Metabolism]]
-[[Crispri]]
-[[Endogenous Crispr/cas System]]
-[[Gene Regulation Tools]]

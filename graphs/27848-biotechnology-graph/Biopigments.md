@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Pigments]]
-[[Solid state fermentation]]
-[[Submerged fermentation]]
-[[Color]]

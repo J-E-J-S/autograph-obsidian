@@ -1,8 +1,0 @@
-[[Resistance]]
-[[Staphylococcus]]
-[[Quorum sensing]]
-[[Drug Repositioning]]
-[[Pseudomonas aeruginosa]]
-[[Quorum sensing]]
-[[Isoeugenol]]
-[[Biofilm Inhibitors]]

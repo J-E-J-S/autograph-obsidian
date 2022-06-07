@@ -1,7 +1,0 @@
-[[Evolution]]
-[[Feminization]]
-[[Wolbachia]]
-[[Cytoplasmic incompatibility]]
-[[Vector Control]]
-[[Male Killing]]
-[[Phage Wo]]

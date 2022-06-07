@@ -1,5 +1,0 @@
-[[Structure]]
-[[Exopolysaccharides]]
-[[Foaming Properties]]
-[[Papiliotrema]]
-[[Alcoholic Bev]]

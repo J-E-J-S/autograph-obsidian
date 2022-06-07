@@ -1,4 +1,0 @@
-[[Migration]]
-[[Proliferation]]
-[[VSMCs]]
-[[Hgf]]

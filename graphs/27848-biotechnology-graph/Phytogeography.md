@@ -1,5 +1,0 @@
-[[Biological activities]]
-[[Antiviral]]
-[[Pneumonia]]
-[[Clinical Studies]]
-[[Terminalia Sp.]]

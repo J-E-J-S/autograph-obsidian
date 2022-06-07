@@ -1,7 +1,0 @@
-[[Transcription]]
-[[Mandarin fish]]
-[[Siniperca chuatsi]]
-[[IFN]]
-[[Isre]]
-[[Type I Ifn]]
-[[Irf11]]

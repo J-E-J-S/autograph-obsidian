@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[piperine]]
-[[Thioflavin T (Tht)]]
-[[Phytocompounds]]
-[[Anti-amyloidogenic]]

@@ -1,3 +1,0 @@
-[[Edwardsiella tarda]]
-[[Integrins]]
-[[Phagosome]]

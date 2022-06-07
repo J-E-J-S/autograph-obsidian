@@ -1,6 +1,0 @@
-[[Catalytic mechanism]]
-[[Crystal structure]]
-[[Biodegradation]]
-[[Monooxygenase]]
-[[Hexachlorobenzene]]
-[[Dechlorinase]]

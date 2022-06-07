@@ -1,5 +1,0 @@
-[[Guar Gum]]
-[[Starch Retrogradation]]
-[[Grapefruit Seed Extract]]
-[[Staling]]
-[[Edible Emulsion Coating]]

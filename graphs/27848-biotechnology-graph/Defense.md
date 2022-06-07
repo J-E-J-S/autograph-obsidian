@@ -1,6 +1,0 @@
-[[Growth]]
-[[Development]]
-[[Arabidopsis]]
-[[COI1]]
-[[Jasmonate]]
-[[Jazs]]

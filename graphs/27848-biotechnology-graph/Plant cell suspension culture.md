@@ -1,5 +1,0 @@
-[[metabolic engineering]]
-[[Computational Modeling]]
-[[Artificial Gene Cluster]]
-[[Plant Specialized Metabolites]]
-[[Plant Gene Clusters]]

@@ -1,5 +1,0 @@
-[[Catabolite Repression]]
-[[Draft Genome Sequencing]]
-[[Sporolactobacillus Terrae]]
-[[Homofermentation]]
-[[Sugar Tolerance]]

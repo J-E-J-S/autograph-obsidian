@@ -1,5 +1,0 @@
-[[Cancer]]
-[[Biomarkers]]
-[[Circulating Tumor Cells]]
-[[Liquid Biopsy]]
-[[Medical Biotechnology.]]

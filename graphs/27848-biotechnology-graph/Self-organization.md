@@ -1,5 +1,0 @@
-[[Embryoid body]]
-[[Patterning]]
-[[Wnt3a]]
-[[Symmetry Breaking]]
-[[Synthetic Biology]]

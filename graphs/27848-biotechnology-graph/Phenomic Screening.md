@@ -1,7 +1,0 @@
-[[colocalization]]
-[[Protein Aggregates]]
-[[High-content Imaging]]
-[[Genome-wide Analysis]]
-[[Synthetic Genetic Array]]
-[[Gfp-tagged Protein]]
-[[Large-scale Liquid Handling]]

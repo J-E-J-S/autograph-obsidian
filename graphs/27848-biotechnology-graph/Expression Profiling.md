@@ -1,6 +1,0 @@
-[[Phylogeny]]
-[[Chloroplast genome]]
-[[MADS-box genes]]
-[[Rattan]]
-[[Divergence time]]
-[[Draft Genome]]

@@ -1,3 +1,0 @@
-[[Mitogenome]]
-[[Bioresource]]
-[[Fighting Fish]]

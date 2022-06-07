@@ -1,5 +1,0 @@
-[[Antibacterial property]]
-[[Lipase-catalyzed Esterification]]
-[[Erythorbyl Myristate]]
-[[Micellar Thermodynamics]]
-[[Multi-functional Emulsifier]]

@@ -1,5 +1,0 @@
-[[Antibiotic]]
-[[Acinetobacter baumannii]]
-[[Colistin]]
-[[synergistic effect]]
-[[Ampicillin/sulbactam]]

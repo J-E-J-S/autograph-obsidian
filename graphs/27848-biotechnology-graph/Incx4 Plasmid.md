@@ -1,5 +1,0 @@
-[[Prevalence]]
-[[Retail Meats]]
-[[Colistin Resistance]]
-[[Mcr-1]]
-[[Inci2 Plasmid]]

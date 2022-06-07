@@ -1,5 +1,0 @@
-[[dsRNA]]
-[[RNAi]]
-[[Penaeus Monodon Shrimp]]
-[[Yellow Head Virus (Yhv)]]
-[[Lhrna]]

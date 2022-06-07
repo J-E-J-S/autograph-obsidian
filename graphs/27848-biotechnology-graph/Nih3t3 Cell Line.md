@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[exopolysaccharide]]
-[[Levan]]
-[[Chemical Characterization]]
-[[Nih/3t3 Cell Line]]

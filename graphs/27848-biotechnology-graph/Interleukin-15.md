@@ -1,6 +1,0 @@
-[[Biological activity]]
-[[Stability]]
-[[Peptide]]
-[[Dimer]]
-[[CTLL-2 cells]]
-[[D-amino acid]]

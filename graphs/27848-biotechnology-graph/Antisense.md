@@ -1,5 +1,0 @@
-[[Peptide nucleic acid]]
-[[Single nucleotide polymorphism]]
-[[polyethylene glycol]]
-[[Gene Expression]]
-[[Nucleic Acid Medicine]]

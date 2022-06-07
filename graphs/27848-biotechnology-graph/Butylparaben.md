@@ -1,4 +1,0 @@
-[[Embryotoxicity]]
-[[Methylparaben]]
-[[Thigmotaxis]]
-[[Ethylparaben]]

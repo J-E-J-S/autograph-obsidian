@@ -1,6 +1,0 @@
-[[Mutation]]
-[[Haemoglobinopathies]]
-[[Beta Thalassaemia]]
-[[Single Nucleotide Polymorphism (Snps)]]
-[[Snp Informatics]]
-[[Haemoglobin Subunit Beta (Hbb)]]

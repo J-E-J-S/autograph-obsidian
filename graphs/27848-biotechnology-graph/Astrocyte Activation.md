@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Hypothermia]]
-[[Spinal cord injury]]
-[[Inflammatory Response]]
-[[Neuronal Loss]]
-[[Cisd2]]
-[[Cryogen Spray Cooling]]

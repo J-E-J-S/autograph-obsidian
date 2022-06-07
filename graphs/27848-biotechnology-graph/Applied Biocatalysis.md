@@ -1,6 +1,0 @@
-[[Poly(cis-1,4-isoprene)]]
-[[Rubber Degradation]]
-[[Multi-step Biodegradation]]
-[[Polymer Biotrasformation]]
-[[Rubber Degrading Bacteria]]
-[[Rubber Oxygenases]]

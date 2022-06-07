@@ -1,5 +1,0 @@
-[[Anthracene]]
-[[Japanese Medaka]]
-[[Microplastics]]
-[[Fish Behavior]]
-[[Vector Effects]]

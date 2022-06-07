@@ -1,5 +1,0 @@
-[[Cytoskeleton]]
-[[Cell cycle]]
-[[Autophagy]]
-[[AKT2]]
-[[Nanobody]]

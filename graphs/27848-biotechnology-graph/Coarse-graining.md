@@ -1,2 +1,0 @@
-[[Molecular dynamics]]
-[[Martini]]

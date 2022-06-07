@@ -1,6 +1,0 @@
-[[Metabolism]]
-[[Oxidative stress]]
-[[GST]]
-[[Ulva lactuca]]
-[[Benzopyrene]]
-[[Cyp450 Oxidase]]

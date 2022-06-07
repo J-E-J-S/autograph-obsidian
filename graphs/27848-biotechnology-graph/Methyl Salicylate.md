@@ -1,6 +1,0 @@
-[[Vitis vinifera]]
-[[Grapevine]]
-[[Arbuscular mycorrhizal fungi]]
-[[Volatile Organic Compound]]
-[[Funneliformis Mosseae]]
-[[(E)–2–hexenal]]

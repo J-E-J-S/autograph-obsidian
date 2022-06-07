@@ -1,5 +1,0 @@
-[[Gene flow]]
-[[Barrier]]
-[[Time scale]]
-[[haplotype]]
-[[Western Ghats]]

@@ -1,3 +1,0 @@
-[[Diabetes]]
-[[Ipsc]]
-[[Jazf1]]

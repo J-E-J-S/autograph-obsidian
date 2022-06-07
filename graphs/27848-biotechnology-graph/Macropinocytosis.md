@@ -1,8 +1,0 @@
-[[Time-varying magnetic field]]
-[[Bleomycin]]
-[[Clathrin-mediated Endocytosis]]
-[[Caveolae-mediated Endocytosis]]
-[[Endocytosis Inhibitors]]
-[[Endocytosis]]
-[[Signalosome]]
-[[Multivesicular Endosomes]]

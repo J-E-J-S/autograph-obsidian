@@ -1,4 +1,0 @@
-[[PVA]]
-[[Ginger]]
-[[Gelatin]]
-[[hydrogels]]

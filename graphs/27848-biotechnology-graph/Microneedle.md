@@ -1,7 +1,0 @@
-[[Antigen-presenting Cell]]
-[[Transcutaneous immunization]]
-[[Immune Induction Mechanism]]
-[[Minimally invasive]]
-[[Wearable Device]]
-[[Painless]]
-[[Real-time Detection]]

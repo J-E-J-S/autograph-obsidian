@@ -1,7 +1,0 @@
-[[Agriculture]]
-[[Regulation]]
-[[Legislation]]
-[[Plant Biotechnology]]
-[[Policies]]
-[[Genome Editing]]
-[[Modified Crops]]

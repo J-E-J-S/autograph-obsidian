@@ -1,5 +1,0 @@
-[[Self-organization]]
-[[Patterning]]
-[[Wnt3a]]
-[[Symmetry Breaking]]
-[[Synthetic Biology]]

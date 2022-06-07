@@ -1,7 +1,0 @@
-[[Chinese population]]
-[[Epitopes]]
-[[MHC-II]]
-[[Mhc-i]]
-[[Covid-19]]
-[[Sars-cov-2]]
-[[Human Leukocyte Antigen Hla]]

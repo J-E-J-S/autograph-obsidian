@@ -1,5 +1,0 @@
-[[Obesity]]
-[[Metabolomics]]
-[[Eating rate]]
-[[Eating Behaviour]]
-[[Glycaemic Responses]]

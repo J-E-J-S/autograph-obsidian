@@ -1,3 +1,0 @@
-[[Estrogen receptor]]
-[[Agonist]]
-[[Adipogenesis]]

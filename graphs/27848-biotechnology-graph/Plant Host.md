@@ -1,5 +1,0 @@
-[[Season]]
-[[semi-arid ecosystems]]
-[[phyllosphere]]
-[[Fungal Communities]]
-[[Archaeal Communities]]

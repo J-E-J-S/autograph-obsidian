@@ -1,6 +1,0 @@
-[[FMDV]]
-[[Immunoreactivity]]
-[[Insolubility]]
-[[Recombinant 3Ab]]
-[[3C Removal]]
-[[Non-structural 3Abc]]

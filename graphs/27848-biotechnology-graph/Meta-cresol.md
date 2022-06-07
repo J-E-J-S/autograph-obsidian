@@ -1,5 +1,0 @@
-[[Degradation mechanism]]
-[[Degradation kinetics]]
-[[Persulfate]]
-[[Intermediate Products]]
-[[Uv/ozone Activation]]

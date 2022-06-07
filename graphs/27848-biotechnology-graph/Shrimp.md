@@ -1,7 +1,0 @@
-[[innate immunity]]
-[[Fred]]
-[[Fibrinogen-related Domain]]
-[[Microsporidian]]
-[[Ehp]]
-[[Enterocytozoon Hepatopenaei]]
-[[Hepatopancreatic Microsporidiosis]]

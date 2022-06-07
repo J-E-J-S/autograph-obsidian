@@ -1,4 +1,0 @@
-[[Bacillus]]
-[[mangiferin]]
-[[Deglycosylation]]
-[[Norathyriol]]

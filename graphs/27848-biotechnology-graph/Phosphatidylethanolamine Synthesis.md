@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Phospholipids]]
-[[Cancer]]
-[[Smac/DIABLO]]
-[[PSD]]

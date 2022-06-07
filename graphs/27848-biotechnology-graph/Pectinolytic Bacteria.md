@@ -1,5 +1,0 @@
-[[Monitoring]]
-[[Soft rot]]
-[[Blackleg]]
-[[Pectobacteriaceae]]
-[[Natural Waterways]]

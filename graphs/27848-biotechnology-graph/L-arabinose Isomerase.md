@@ -1,6 +1,0 @@
-[[Site-directed mutagenesis]]
-[[Molecular docking]]
-[[D-tagatose]]
-[[Mesophilic]]
-[[Shewanella Sp.]]
-[[D-galactose Isomerase]]

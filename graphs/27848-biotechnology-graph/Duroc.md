@@ -1,5 +1,0 @@
-[[Ovary]]
-[[Landrace]]
-[[Porcine]]
-[[Breed Differences]]
-[[In Vitro Oocyte Maturation]]

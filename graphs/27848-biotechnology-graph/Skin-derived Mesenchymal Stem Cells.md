@@ -1,5 +1,0 @@
-[[Hair cells]]
-[[Cisplatin]]
-[[Cell therapy]]
-[[Ototoxicity]]
-[[inner ear]]

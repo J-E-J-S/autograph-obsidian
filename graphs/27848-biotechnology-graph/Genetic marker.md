@@ -1,5 +1,0 @@
-[[Identification]]
-[[Real-Time PCR]]
-[[Pangenome]]
-[[Probiotic Product]]
-[[Lactobacillus Delbrueckii Subspecies]]

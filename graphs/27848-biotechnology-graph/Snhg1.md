@@ -1,8 +1,0 @@
-[[Apoptosis]]
-[[Proliferation]]
-[[Ischemic stroke]]
-[[Sik1]]
-[[Mir-298]]
-[[Glioma]]
-[[PI3K/Akt pathway]]
-[[Mir-140-5p]]

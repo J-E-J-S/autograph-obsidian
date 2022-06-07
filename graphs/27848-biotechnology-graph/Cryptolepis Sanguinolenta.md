@@ -1,5 +1,0 @@
-[[Lantana camara]]
-[[Multidrug-resistant Tuberculosis]]
-[[Antimycobacterial Activity]]
-[[Metabolic Fingerprinting]]
-[[Zanthoxylum Leprieurii]]

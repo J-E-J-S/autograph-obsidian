@@ -1,5 +1,0 @@
-[[Molecular dynamics simulation]]
-[[Gene Editing]]
-[[Crispr/cas9]]
-[[Thermostabilization]]
-[[Bacillus Subtilis Lipa]]

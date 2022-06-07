@@ -1,6 +1,0 @@
-[[Enzymes]]
-[[Biosensors]]
-[[Biocontrol]]
-[[Microbes]]
-[[biopolymers]]
-[[Patulin]]

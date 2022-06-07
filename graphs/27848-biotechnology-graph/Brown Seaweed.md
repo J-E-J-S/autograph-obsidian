@@ -1,5 +1,0 @@
-[[Antibacterial activity]]
-[[Marine microorganism]]
-[[Rhodotorula Mucilaginosa]]
-[[Sophorolipid]]
-[[Macrocystis Pyrifera]]

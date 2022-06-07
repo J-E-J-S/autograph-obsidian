@@ -1,5 +1,0 @@
-[[Peptide]]
-[[Transpeptidation]]
-[[Enzyme]]
-[[cyclotide]]
-[[Asparaginyl Endopeptidase]]

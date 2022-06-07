@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Antibacterial]]
-[[actinomycetes]]
-[[Microbispora]]
-[[Abyssomicin]]

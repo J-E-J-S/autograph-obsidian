@@ -1,6 +1,0 @@
-[[Fungi]]
-[[DNA sequence]]
-[[Molecular diagnosis]]
-[[Parvalbumin]]
-[[In silico]]
-[[Trichophyton Violaceum]]

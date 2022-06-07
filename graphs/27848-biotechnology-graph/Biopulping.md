@@ -1,5 +1,0 @@
-[[Wheat straw]]
-[[Bleaching]]
-[[Xylano-pectinolytic Enzymes]]
-[[Soda-anthraquinone Pulping]]
-[[Alkali Dose]]

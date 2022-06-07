@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[MOLT-4 cells]]
-[[cyclin D1]]
-[[Phyllanthin]]
-[[Akt/jnk Signaling Pathway]]

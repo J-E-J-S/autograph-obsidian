@@ -1,4 +1,0 @@
-[[Macrophages]]
-[[Immunomodulation]]
-[[Inflammation]]
-[[Pdt]]

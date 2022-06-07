@@ -1,5 +1,0 @@
-[[Fluorescence polarization]]
-[[Surface plasmon resonance]]
-[[Mixed Lineage Leukemia]]
-[[Biolaye Interferometry]]
-[[Set1/mll Proteins]]

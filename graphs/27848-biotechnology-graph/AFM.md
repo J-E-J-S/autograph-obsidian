@@ -1,5 +1,0 @@
-[[FTIR]]
-[[Polymer]]
-[[coating]]
-[[MRSA]]
-[[Antibiofilm]]

@@ -1,3 +1,0 @@
-[[Cytotoxicity]]
-[[Molecular modeling]]
-[[Indole]]

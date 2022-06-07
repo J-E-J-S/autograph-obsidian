@@ -1,3 +1,0 @@
-[[VEGF]]
-[[Leydig cells]]
-[[Steroidogenesis]]

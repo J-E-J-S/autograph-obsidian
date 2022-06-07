@@ -1,6 +1,0 @@
-[[Encapsulation]]
-[[Self-assembly]]
-[[Nanostructures]]
-[[Nanocapsules]]
-[[nanomaterials]]
-[[Artificial Viral Capsid]]

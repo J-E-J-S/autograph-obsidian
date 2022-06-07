@@ -1,7 +1,0 @@
-[[Immunotoxin]]
-[[Diphtheria toxin]]
-[[Targeted Cancer Therapy]]
-[[Vhh]]
-[[Angiogenesis]]
-[[VEGF]]
-[[Nanobody]]

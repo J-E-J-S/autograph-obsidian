@@ -1,3 +1,0 @@
-[[bioengineering]]
-[[Interdisciplinary]]
-[[Personnel Training]]

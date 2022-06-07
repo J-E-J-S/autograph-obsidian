@@ -1,5 +1,0 @@
-[[Iron]]
-[[HPLC-MS]]
-[[Horizontal gene transfer]]
-[[Siderophore]]
-[[Nrps Cluster]]

@@ -1,3 +1,0 @@
-[[Antioxidation]]
-[[cardioprotection]]
-[[Inflammation Response]]

@@ -1,6 +1,0 @@
-[[Acetylcholinesterase]]
-[[Excitotoxicity]]
-[[Butyrylcholinesterase]]
-[[neuroprotection]]
-[[Zinc Database]]
-[[High-throughput Virtual Screening]]

@@ -1,5 +1,0 @@
-[[Diabetes mellitus]]
-[[Hypertension]]
-[[Cardiovascular disease]]
-[[Hypercortisolism]]
-[[Mild Autonomous Cortisol Secretion]]

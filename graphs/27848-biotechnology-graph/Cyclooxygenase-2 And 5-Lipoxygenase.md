@@ -1,5 +1,0 @@
-[[Anti-inflammatory activity]]
-[[Microcionidae]]
-[[Clathria (Thalysias) Vulpina]]
-[[Pregnane-type Steroid Derivatives]]
-[[Clathroids A-b]]

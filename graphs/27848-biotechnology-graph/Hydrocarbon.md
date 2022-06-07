@@ -1,5 +1,0 @@
-[[Degradation]]
-[[Bacterial diversity]]
-[[Petroleum]]
-[[Oil Reservoirs]]
-[[Geomicrobial Prospecting]]

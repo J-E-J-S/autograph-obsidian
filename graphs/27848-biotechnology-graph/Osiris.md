@@ -1,5 +1,0 @@
-[[Quality control]]
-[[DNA analysis]]
-[[Artifact Removal]]
-[[Artifact Identification]]
-[[Str Analysis Software]]

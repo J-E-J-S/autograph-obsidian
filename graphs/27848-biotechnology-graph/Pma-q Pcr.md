@@ -1,5 +1,0 @@
-[[Helicobacter Pylori]]
-[[Viability]]
-[[Disinfection Treatment]]
-[[Morphological States]]
-[[Pemax™-qpcr]]

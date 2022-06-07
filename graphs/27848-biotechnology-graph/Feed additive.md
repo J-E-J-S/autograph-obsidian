@@ -1,7 +1,0 @@
-[[calf]]
-[[Protein Source]]
-[[Starter Mixture]]
-[[Small intestine]]
-[[Butyrate]]
-[[Rumen]]
-[[Protein Source]]

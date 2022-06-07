@@ -1,6 +1,0 @@
-[[Genome comparison]]
-[[Listeria]]
-[[Food safety]]
-[[Gene Expression]]
-[[Foodborne Pathogen]]
-[[Stress Recovery]]

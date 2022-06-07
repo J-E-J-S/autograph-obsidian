@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Chl1]]
-[[Nitrate Availability]]
-[[Myb-like Gene]]
-[[Nitrogen Response Deficiency 1]]

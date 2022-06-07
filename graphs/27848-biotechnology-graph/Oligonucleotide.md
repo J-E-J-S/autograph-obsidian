@@ -1,6 +1,0 @@
-[[Antisense DNA]]
-[[Ribonuclease H]]
-[[Toxicogenetics]]
-[[Cytogenetics]]
-[[Genome research]]
-[[FISH]]

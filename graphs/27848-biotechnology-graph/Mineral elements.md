@@ -1,7 +1,0 @@
-[[Oxidative stress]]
-[[Pregnant women]]
-[[nutritional status]]
-[[Mice]]
-[[Organs]]
-[[Inbred C57BL]]
-[[High Static Magnetic Fields]]

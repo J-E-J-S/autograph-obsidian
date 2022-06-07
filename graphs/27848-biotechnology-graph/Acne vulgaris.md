@@ -1,4 +1,0 @@
-[[Inflammation]]
-[[Interleukin]]
-[[Orobol]]
-[[Hyperkeratinization]]

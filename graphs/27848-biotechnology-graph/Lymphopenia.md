@@ -1,6 +1,0 @@
-[[Immune response]]
-[[Cytokine Storm Syndrome]]
-[[Covid-19]]
-[[Pneumonia]]
-[[Macaques]]
-[[Sars-cov-2]]

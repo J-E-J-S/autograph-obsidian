@@ -1,7 +1,0 @@
-[[Bioremediation]]
-[[Sustainable agriculture]]
-[[Circular economy]]
-[[Metabolomics]]
-[[Biorefinery]]
-[[Consortia]]
-[[Microalgae Biotechnology]]

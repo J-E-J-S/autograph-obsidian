@@ -1,7 +1,0 @@
-[[Amylose]]
-[[Gluten-free Bread]]
-[[Disproportionating Enzyme]]
-[[Ramie Leaf]]
-[[Arabidopsis thaliana]]
-[[Branching enzyme]]
-[[Cesium Tolerant]]

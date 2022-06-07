@@ -1,4 +1,0 @@
-[[Infection]]
-[[amputation]]
-[[Prosthesis]]
-[[Osseointegration]]

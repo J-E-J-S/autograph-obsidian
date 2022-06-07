@@ -1,2 +1,0 @@
-[[Phylogenetic analysis]]
-[[Nocardioidaceae]]

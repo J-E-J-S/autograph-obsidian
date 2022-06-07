@@ -1,5 +1,0 @@
-[[Surface plasmon resonance]]
-[[Biosensor]]
-[[Influenza]]
-[[Reusable]]
-[[Magnetic Trapping-releasing]]

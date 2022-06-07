@@ -1,4 +1,0 @@
-[[Chlorophyllase]]
-[[Predator]]
-[[Microalgae]]
-[[Chlorophyllide]]

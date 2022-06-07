@@ -1,7 +1,0 @@
-[[Arsenic]]
-[[Superoxide dismutase]]
-[[Catalase]]
-[[Proline]]
-[[Castor]]
-[[Phytoremediation]]
-[[Metalloid Tolerance]]

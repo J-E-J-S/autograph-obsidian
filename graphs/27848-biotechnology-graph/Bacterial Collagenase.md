@@ -1,2 +1,0 @@
-[[Metalloproteinase]]
-[[Lysinibacilus Sphaericus]]

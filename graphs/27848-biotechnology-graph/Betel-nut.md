@@ -1,5 +1,0 @@
-[[carcinogenesis]]
-[[Vildagliptin]]
-[[Ampk Signaling]]
-[[Drug Repurposing]]
-[[Akt-mtor]]

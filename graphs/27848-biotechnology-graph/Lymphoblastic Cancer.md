@@ -1,2 +1,0 @@
-[[Colorectal Cancer]]
-[[Nutraceuticals]]

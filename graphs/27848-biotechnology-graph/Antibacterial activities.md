@@ -1,6 +1,0 @@
-[[Chitosan]]
-[[Kinetic study]]
-[[Drug release]]
-[[alginate]]
-[[Rifaximin]]
-[[Core-shell Nanoparticles]]

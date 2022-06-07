@@ -1,2 +1,0 @@
-[[Rheological Property]]
-[[Exopolysaccharides]]

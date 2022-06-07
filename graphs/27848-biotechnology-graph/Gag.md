@@ -1,5 +1,0 @@
-[[HIV-1]]
-[[Zn(2+)]]
-[[Ncp7]]
-[[Psi-selectivity]]
-[[Sl3-affinity]]

@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Parameters]]
-[[Pancreatic]]
-[[Streptozotocin]]
-[[Gene Expression]]
-[[Sterculia Tragacantha]]

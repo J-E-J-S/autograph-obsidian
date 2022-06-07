@@ -1,5 +1,0 @@
-[[Energy metabolism]]
-[[Oxidative stress]]
-[[Cadmium toxicity]]
-[[bioaccumulation]]
-[[Palaemon Macrodactylus]]

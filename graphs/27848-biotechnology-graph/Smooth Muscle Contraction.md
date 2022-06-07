@@ -1,5 +1,0 @@
-[[Inhibitor]]
-[[nimodipine]]
-[[Tmem16a]]
-[[Short-circuit Current]]
-[[Caccs]]

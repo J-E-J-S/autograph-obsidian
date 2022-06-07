@@ -1,3 +1,0 @@
-[[Pregnancy]]
-[[Corpus luteum]]
-[[Transcriptome]]

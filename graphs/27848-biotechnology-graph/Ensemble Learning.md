@@ -1,6 +1,0 @@
-[[Lung cancer]]
-[[Electronic nose]]
-[[Smart Diagnostics]]
-[[Machine Learning]]
-[[Drug-target Interaction]]
-[[Cascade Deep Forest]]

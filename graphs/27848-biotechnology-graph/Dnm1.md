@@ -1,5 +1,0 @@
-[[Oxidative stress]]
-[[ALS]]
-[[Tdp-43]]
-[[Cyclin C]]
-[[Ybh3]]

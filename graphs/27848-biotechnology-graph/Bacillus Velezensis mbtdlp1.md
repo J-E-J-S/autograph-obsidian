@@ -1,5 +1,0 @@
-[[Anticancer]]
-[[Antibacterial]]
-[[Anti-inflammatory]]
-[[Laurencia Papillosa]]
-[[Macroalga-associated Heterotrophic Bacteria]]

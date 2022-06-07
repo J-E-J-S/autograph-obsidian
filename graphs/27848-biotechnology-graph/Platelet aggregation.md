@@ -1,7 +1,0 @@
-[[Pharmacology]]
-[[Hypertension]]
-[[Cardiovascular diseases]]
-[[Hyperlipidemia]]
-[[Biological activities]]
-[[Ginger]]
-[[Health benefits]]

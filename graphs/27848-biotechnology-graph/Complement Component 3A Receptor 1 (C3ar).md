@@ -1,5 +1,0 @@
-[[Homology modeling]]
-[[Molecular Docking Simulation]]
-[[Ligand Docking]]
-[[Molecular Dynamics (Md) Simulation]]
-[[Molecular Mechanics/generalized Born Surface Area (Mm-gbsa)]]

@@ -1,5 +1,0 @@
-[[Immobilization]]
-[[heterologous expression]]
-[[Dye decolorization]]
-[[Acid Blue 129]]
-[[Horseradish Peroxidase C1a]]

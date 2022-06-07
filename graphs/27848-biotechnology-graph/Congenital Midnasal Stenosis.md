@@ -1,5 +1,0 @@
-[[Choanal Atresia]]
-[[Congenital Nasal Pyriform Aperture Stenosis]]
-[[Arhinia]]
-[[Congenital Nasal Stenosis]]
-[[Newborn Nasal Obstruction]]

@@ -1,2 +1,0 @@
-[[Ultrafiltration]]
-[[Connected Purification Process]]

@@ -1,3 +1,0 @@
-[[Europe]]
-[[Seafood]]
-[[Dietary Recommendations]]

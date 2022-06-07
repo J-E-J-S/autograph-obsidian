@@ -1,3 +1,0 @@
-[[Antlers]]
-[[Rna-seq]]
-[[Lncrnas]]

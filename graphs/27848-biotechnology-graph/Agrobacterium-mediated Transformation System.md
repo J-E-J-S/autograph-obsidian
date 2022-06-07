@@ -1,5 +1,0 @@
-[[Genetic engineering]]
-[[Aspergillus oryzae]]
-[[Dual Auxotrophic Mutant]]
-[[Hisb Selectable Marker]]
-[[Pyrg Selectable Marker]]

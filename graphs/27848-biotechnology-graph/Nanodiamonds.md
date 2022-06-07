@@ -1,5 +1,0 @@
-[[Cell adhesion]]
-[[cell migration]]
-[[Live-cell Imaging]]
-[[Lung Epithelial Cells]]
-[[Time-lapse Videography]]

@@ -1,5 +1,0 @@
-[[Lead]]
-[[Mercury]]
-[[Hplscr1]]
-[[Metal-binding Motifs]]
-[[Heavy Metal Binding]]

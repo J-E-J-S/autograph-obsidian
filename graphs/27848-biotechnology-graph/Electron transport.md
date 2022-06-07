@@ -1,7 +1,0 @@
-[[Arabidopsis]]
-[[Photosynthesis]]
-[[Cadmium]]
-[[Heavy metals]]
-[[Chlorophyll fluorescence]]
-[[Photosystem II]]
-[[Hyperaccumulation]]

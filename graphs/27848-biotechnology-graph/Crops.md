@@ -1,5 +1,0 @@
-[[Genes]]
-[[Proteins]]
-[[Stress]]
-[[Silicon]]
-[[Cross talk]]

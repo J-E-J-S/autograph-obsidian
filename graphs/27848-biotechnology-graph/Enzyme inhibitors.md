@@ -1,7 +1,0 @@
-[[Antitumor]]
-[[Antimicrobial]]
-[[SAR]]
-[[Derivatives]]
-[[Anti-inflammatory]]
-[[Succinimide]]
-[[5-Ht Receptor Ligands]]

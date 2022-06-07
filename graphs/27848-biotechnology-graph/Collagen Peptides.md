@@ -1,6 +1,0 @@
-[[Collagen]]
-[[Inflammation]]
-[[Wound healing]]
-[[Sipunculus nudus]]
-[[Transforming Growth Factor]]
-[[Scar Inhibition]]

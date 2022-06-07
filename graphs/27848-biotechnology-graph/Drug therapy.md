@@ -1,5 +1,0 @@
-[[Immune system]]
-[[Cytokines]]
-[[Inflammation]]
-[[Bipolar disorder]]
-[[Therapeutic Targets]]

@@ -1,8 +1,0 @@
-[[vanillic acid]]
-[[Pseudomonas putida]]
-[[Acinetobacter Sp]]
-[[Vanillate-o-demethylase]]
-[[Stroke]]
-[[Cell Survival Proteins]]
-[[Proapoptotic Protiens]]
-[[Mcao, Ischemic Reperfusion Injury]]

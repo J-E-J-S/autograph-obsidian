@@ -1,2 +1,0 @@
-[[Myo-inositol]]
-[[Industrial Biomanufacturing]]

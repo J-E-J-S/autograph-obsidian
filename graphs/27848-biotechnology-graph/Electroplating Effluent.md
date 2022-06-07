@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Nanoparticles]]
-[[adsorption]]
-[[Nickel Ions]]
-[[Antimicrobial Toxicity]]

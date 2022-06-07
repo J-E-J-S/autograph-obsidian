@@ -1,6 +1,0 @@
-[[Glycosylation]]
-[[Human leukocyte antigen]]
-[[demyelination]]
-[[Docking]]
-[[Amber]]
-[[Myelin Oligodendrocyte Glycoprotein]]

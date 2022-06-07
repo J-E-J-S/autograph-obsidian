@@ -1,5 +1,0 @@
-[[Cardiac function]]
-[[Mesenchymal Stem Cells]]
-[[Cardiac Tissue Engineering]]
-[[Protein Nanoparticles]]
-[[Rat Myocardial Infarction]]

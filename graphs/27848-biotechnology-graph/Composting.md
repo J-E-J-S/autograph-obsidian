@@ -1,8 +1,0 @@
-[[Metabolic activity]]
-[[Bacterial community]]
-[[Acetobacter Orientalis]]
-[[Banana Residues]]
-[[Biochar]]
-[[Co(2) Fixation]]
-[[Carbon Emission]]
-[[Cbbl-containing Autotrophic Microbes (Ccam)]]

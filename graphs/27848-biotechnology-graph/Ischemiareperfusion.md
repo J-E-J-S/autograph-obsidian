@@ -1,5 +1,0 @@
-[[Brain]]
-[[Oxidative stress]]
-[[Ischemia/reperfusion]]
-[[Grape seed extract]]
-[[Orlistat]]

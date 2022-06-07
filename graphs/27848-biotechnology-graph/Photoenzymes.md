@@ -1,7 +1,0 @@
-[[Photoreceptors]]
-[[Time-resolved]]
-[[protein dynamics]]
-[[Saxs]]
-[[Waxs]]
-[[Light-activated Proteins]]
-[[Tr-sfx]]

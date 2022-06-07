@@ -1,5 +1,0 @@
-[[Ligand]]
-[[Transcription factor]]
-[[Gene regulation]]
-[[Carbohydrate metabolism]]
-[[D-gluconate]]

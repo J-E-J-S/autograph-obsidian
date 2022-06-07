@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Cornea]]
-[[Diagnosis]]
-[[Treatment]]
-[[Dematiaceous Hyphomycetes]]

@@ -1,5 +1,0 @@
-[[Traditional medicine]]
-[[UPLC-MS/MS]]
-[[Pyrrolizidine Alkaloids]]
-[[Lcms]]
-[[Retrorsine-n-oxide]]

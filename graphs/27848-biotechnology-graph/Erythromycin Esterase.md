@@ -1,3 +1,0 @@
-[[Biodegradation]]
-[[erythromycin]]
-[[Delftia Lacustris]]

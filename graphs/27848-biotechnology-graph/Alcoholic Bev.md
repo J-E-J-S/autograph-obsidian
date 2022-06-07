@@ -1,5 +1,0 @@
-[[Structure]]
-[[Grape]]
-[[Exopolysaccharides]]
-[[Foaming Properties]]
-[[Papiliotrema]]

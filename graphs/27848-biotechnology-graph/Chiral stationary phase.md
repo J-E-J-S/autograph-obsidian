@@ -1,5 +1,0 @@
-[[Enantiomeric ratio]]
-[[Methylone]]
-[[Synthetic Cathinone]]
-[[Chiral Analysis]]
-[[Ethylone]]

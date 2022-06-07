@@ -1,4 +1,0 @@
-[[Sensitivity]]
-[[Specificity]]
-[[Leptospirosis]]
-[[Bayes]]

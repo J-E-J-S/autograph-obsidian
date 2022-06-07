@@ -1,4 +1,0 @@
-[[Cancer]]
-[[Diagnosis]]
-[[Aptamer]]
-[[Nanoparticles]]

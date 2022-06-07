@@ -1,5 +1,0 @@
-[[Enterobacteriaceae]]
-[[Iran]]
-[[Antibiotic Resistance]]
-[[Escherichia Coli]]
-[[Tehran]]

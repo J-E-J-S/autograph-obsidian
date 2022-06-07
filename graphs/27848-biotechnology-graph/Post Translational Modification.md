@@ -1,3 +1,0 @@
-[[Collagen]]
-[[Glycosyltransferases]]
-[[Hydroxylysine Glycosylation]]

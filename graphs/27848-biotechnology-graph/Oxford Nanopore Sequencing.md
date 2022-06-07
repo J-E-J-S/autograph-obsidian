@@ -1,3 +1,0 @@
-[[Cyprinidae]]
-[[Labeo Catla]]
-[[Mitgenome]]

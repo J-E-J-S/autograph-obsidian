@@ -1,5 +1,0 @@
-[[Thermal stability]]
-[[Degradation]]
-[[Molecular weight]]
-[[Polystyrene]]
-[[Biodegradable]]

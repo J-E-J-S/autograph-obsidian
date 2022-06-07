@@ -1,5 +1,0 @@
-[[Gelatin]]
-[[Fluconazole]]
-[[Amorphous Solid Dispersion]]
-[[Skin Penetration]]
-[[Snail Mucus Extract]]

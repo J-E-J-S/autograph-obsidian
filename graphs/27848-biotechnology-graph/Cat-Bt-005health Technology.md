@@ -1,8 +1,0 @@
-[[Cat-Gt-031specialty Care]]
-[[Cat-Gt-018data Analytics]]
-[[Cat-Gt-037disruption And Innovation]]
-[[Cat-Gt-008pharma]]
-[[Cat-Gt-031specialty Care]]
-[[Cat-Gt-018data Analytics]]
-[[Cat-Gt-037disruption And Innovation]]
-[[Cat-Gt-008pharma]]

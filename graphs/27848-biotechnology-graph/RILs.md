@@ -1,4 +1,0 @@
-[[Rice]]
-[[Modeling]]
-[[Epistasis]]
-[[Gwas]]

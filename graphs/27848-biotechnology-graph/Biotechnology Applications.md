@@ -1,8 +1,0 @@
-[[Immobilization]]
-[[Laccase]]
-[[Anabolism]]
-[[Green Chemistry]]
-[[Chemical synthesis]]
-[[Enzymatic synthesis]]
-[[Glycans]]
-[[Sugar Nucleotides]]

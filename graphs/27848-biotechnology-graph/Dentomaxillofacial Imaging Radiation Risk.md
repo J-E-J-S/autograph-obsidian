@@ -1,2 +1,0 @@
-[[Cytotoxicity]]
-[[Genotoxicity]]

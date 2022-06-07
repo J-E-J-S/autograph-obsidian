@@ -1,5 +1,0 @@
-[[HPLC]]
-[[Polyphenols]]
-[[Antioxidant activity]]
-[[stems]]
-[[Excision Wound Healing]]

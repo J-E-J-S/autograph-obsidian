@@ -1,8 +1,0 @@
-[[Ecology]]
-[[Plankton]]
-[[Water quality]]
-[[Trichoptera]]
-[[detrended correspondence analysis]]
-[[Permanova]]
-[[Extrinsic Factors]]
-[[Intrinsic Variables]]

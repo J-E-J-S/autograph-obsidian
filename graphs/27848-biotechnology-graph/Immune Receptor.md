@@ -1,8 +1,0 @@
-[[Sialic acid]]
-[[innate immunity]]
-[[Siglec]]
-[[Artificial evolution]]
-[[Nlr]]
-[[Tomato Spotted Wilt Virus]]
-[[Resistance Breaking]]
-[[Sw-5b]]

@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Proliferation]]
-[[sodium arsenite]]
-[[Skin fibroblast]]
-[[Liaoning cashmere goat]]

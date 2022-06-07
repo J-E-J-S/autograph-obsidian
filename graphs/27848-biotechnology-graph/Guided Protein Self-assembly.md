@@ -1,5 +1,0 @@
-[[Intrinsic fluorescence]]
-[[Electrospinning]]
-[[Protein Fibers]]
-[[Direct Writing]]
-[[Functional Amyloid Materials]]

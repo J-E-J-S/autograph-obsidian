@@ -1,5 +1,0 @@
-[[Flavopiridol]]
-[[Mm-pbsa]]
-[[Cvt-313]]
-[[Pbs Compounds]]
-[[Su9516]]

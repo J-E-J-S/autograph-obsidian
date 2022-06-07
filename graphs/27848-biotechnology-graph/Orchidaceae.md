@@ -1,6 +1,0 @@
-[[Phylogenomics]]
-[[Plastome]]
-[[Phaius Hainanensis]]
-[[Chloroplast genome]]
-[[Phylogenetic analysis]]
-[[Bulleyia Yunnanensis]]

@@ -1,8 +1,0 @@
-[[Biosensor]]
-[[Aptamer]]
-[[Bisphenol A]]
-[[Dnazyme]]
-[[DNA chip]]
-[[DNA computing]]
-[[Gene Circuit]]
-[[Dna Strand Replacement Technology]]

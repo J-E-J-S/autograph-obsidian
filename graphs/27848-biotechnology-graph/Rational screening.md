@@ -1,7 +1,0 @@
-[[Fermentation]]
-[[Mutagenesis]]
-[[Bioassay]]
-[[Streptomyces roseosporus]]
-[[Daptomycin]]
-[[Lipopeptide Antibiotic]]
-[[Streptomyces Filamentosus]]

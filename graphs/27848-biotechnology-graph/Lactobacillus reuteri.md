@@ -1,4 +1,0 @@
-[[Glucose]]
-[[Ciprofloxacin]]
-[[Biodegradation]]
-[[Metabolite]]

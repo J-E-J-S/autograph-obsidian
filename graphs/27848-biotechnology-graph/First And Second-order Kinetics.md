@@ -1,6 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Phylogenetic analysis]]
-[[Langmuir And Freundlich Isotherms Kinetics]]
-[[Plant Growth-promoting Attributes]]
-[[Transmission-electron-microscope]]
-[[Zn-adsorption]]

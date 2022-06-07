@@ -1,5 +1,0 @@
-[[Marine invertebrates]]
-[[Yellow Sea]]
-[[Marine ecosystems]]
-[[Food Web Dynamics]]
-[[Intertidal Flats]]

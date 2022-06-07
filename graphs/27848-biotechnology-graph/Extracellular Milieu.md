@@ -1,5 +1,0 @@
-[[Migration]]
-[[Proliferation]]
-[[Pancreatic cancer]]
-[[Sparc]]
-[[Pan-cancer]]

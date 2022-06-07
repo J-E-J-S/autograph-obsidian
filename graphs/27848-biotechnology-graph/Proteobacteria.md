@@ -1,8 +1,0 @@
-[[Sustainable agriculture]]
-[[Illumina]]
-[[Lateritic Soil]]
-[[Metagenomic Profile]]
-[[New taxa]]
-[[Cellvibrionaceae]]
-[[Cellvibrionales]]
-[[Cellvibrio Polysaccharolyticus]]

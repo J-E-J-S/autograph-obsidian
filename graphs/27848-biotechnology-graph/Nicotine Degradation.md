@@ -1,6 +1,0 @@
-[[Pseudomonas]]
-[[Endogenous Promoter]]
-[[Transcriptional Repressors]]
-[[Comparative Characterization]]
-[[Pseudomonas Sp. Jy-q]]
-[[Homologous Dehydrogenase]]

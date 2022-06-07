@@ -1,5 +1,0 @@
-[[Sugar Profile]]
-[[Green Macroalgae]]
-[[Characterization Techniques]]
-[[Thermal-acid Hydrolysis]]
-[[Structural Carbohydrates]]

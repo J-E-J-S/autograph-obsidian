@@ -1,6 +1,0 @@
-[[Hsf1]]
-[[Irf4]]
-[[Mx Protein]]
-[[Nnv]]
-[[nervous necrosis virus]]
-[[Type I Interferon Receptor]]

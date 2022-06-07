@@ -1,5 +1,0 @@
-[[functional morphology]]
-[[Dexterity]]
-[[Sensory Ecology]]
-[[Object Manipulation]]
-[[Robot Manipulation]]

@@ -1,6 +1,0 @@
-[[Teratozoospermia]]
-[[Quassia Amara]]
-[[Cytoplasmic Droplet]]
-[[Dag-like Defect]]
-[[Hermes Body]]
-[[Lasso Spermatozoon]]

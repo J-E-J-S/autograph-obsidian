@@ -1,5 +1,0 @@
-[[Deletion]]
-[[Macrocephaly]]
-[[Robinow Syndrome]]
-[[Blended Phenotype]]
-[[Subtelomeric]]

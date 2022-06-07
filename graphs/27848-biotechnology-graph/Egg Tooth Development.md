@@ -1,3 +1,0 @@
-[[Hatching]]
-[[Histology]]
-[[Snake Embryos]]

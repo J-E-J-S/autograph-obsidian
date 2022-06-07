@@ -1,6 +1,0 @@
-[[Multidrug resistance]]
-[[Hyaluronic Acid (Ha)]]
-[[Co-delivery System]]
-[[Doxorubicin Base (Dox)]]
-[[Mixed Dendrimer Micelles (Mdms)]]
-[[Simdr-1]]

@@ -1,3 +1,0 @@
-[[Mitochondria]]
-[[Mtd]]
-[[Mtd Homologs]]

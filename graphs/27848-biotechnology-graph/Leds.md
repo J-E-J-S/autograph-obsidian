@@ -1,5 +1,0 @@
-[[Algae]]
-[[Photosynthetic efficiency]]
-[[Cyanobacteria]]
-[[biofilms]]
-[[Photonic Assimilation Performance]]

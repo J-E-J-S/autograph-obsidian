@@ -1,3 +1,0 @@
-[[Hyaluronan]]
-[[Keratinocyte]]
-[[SKin]]

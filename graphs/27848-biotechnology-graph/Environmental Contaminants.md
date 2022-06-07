@@ -1,5 +1,0 @@
-[[Bacteria]]
-[[Heavy metals]]
-[[Synthetic Biology]]
-[[Genetically Engineered]]
-[[Modified Plasmids]]

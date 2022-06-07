@@ -1,3 +1,0 @@
-[[Macrophages]]
-[[Antimicrobial activity]]
-[[Biochar]]

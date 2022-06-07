@@ -1,3 +1,0 @@
-[[Ontology]]
-[[Microbiome]]
-[[Data Standards]]

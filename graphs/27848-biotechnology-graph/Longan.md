@@ -1,8 +1,0 @@
-[[Quantitative analysis]]
-[[Somatic embryogenesis]]
-[[Abiotic stress]]
-[[Adp-ribosylation Factors]]
-[[Somatic embryogenesis]]
-[[Seed development]]
-[[DEAD-box]]
-[[Genome-wide Identification]]

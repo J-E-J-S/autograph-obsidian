@@ -1,6 +1,0 @@
-[[Fungi]]
-[[Resistance]]
-[[Diversity]]
-[[Virulence]]
-[[Rice blast]]
-[[SCAR markers]]

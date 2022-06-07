@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Edible insects]]
-[[Polystyrene Utilization]]
-[[Styrofoam Utilization]]
-[[Superworms]]

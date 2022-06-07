@@ -1,7 +1,0 @@
-[[Synergism]]
-[[Amphotericin B]]
-[[Leishmania Donovani]]
-[[Eugenol Oleate]]
-[[Rat]]
-[[Experimental colitis]]
-[[Gabapentin]]

@@ -1,8 +1,0 @@
-[[Acetylcholinesterase]]
-[[Fluorescence Sensor]]
-[[Test Paper]]
-[[Simulation]]
-[[Molecular dynamics]]
-[[Nicotinic acetylcholine receptor]]
-[[Antidote]]
-[[Allosteric]]

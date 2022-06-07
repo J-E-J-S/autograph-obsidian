@@ -1,6 +1,0 @@
-[[Homology modeling]]
-[[Molecular Docking Simulation]]
-[[Ligand Docking]]
-[[Molecular Dynamics (Md) Simulation]]
-[[Molecular Mechanics/generalized Born Surface Area (Mm-gbsa)]]
-[[Complement Component 3A Receptor 1 (C3ar)]]

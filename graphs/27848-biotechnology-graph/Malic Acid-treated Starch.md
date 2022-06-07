@@ -1,2 +1,0 @@
-[[resistant starch]]
-[[Modified Starch]]

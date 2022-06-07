@@ -1,6 +1,0 @@
-[[Apoptosis]]
-[[bcl-2]]
-[[prostate cancer]]
-[[Nanocarrier]]
-[[Niosome]]
-[[Mir-16–1]]

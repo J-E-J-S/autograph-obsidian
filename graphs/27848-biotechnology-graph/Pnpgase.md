@@ -1,5 +1,0 @@
-[[Glucose]]
-[[Enzyme Production]]
-[[extracellular polysaccharides]]
-[[Carbon Limitation]]
-[[Continuous Fermentation Process]]

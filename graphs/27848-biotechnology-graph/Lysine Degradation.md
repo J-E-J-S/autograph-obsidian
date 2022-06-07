@@ -1,5 +1,0 @@
-[[Glutaric Aciduria Type I]]
-[[Microglial Activation]]
-[[Hyperammonemia]]
-[[Astrogliosis]]
-[[Cerebral Organic Aciduria]]

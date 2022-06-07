@@ -1,7 +1,0 @@
-[[Gene amplification]]
-[[Saccharomyces cerevisiae]]
-[[DNA double-strand break]]
-[[gene targeting]]
-[[metabolic engineering]]
-[[Cen.pk]]
-[[I-scei Nuclease]]

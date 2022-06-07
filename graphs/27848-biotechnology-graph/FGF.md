@@ -1,6 +1,0 @@
-[[Remodeling]]
-[[EGF]]
-[[E-Cadherin]]
-[[Anti-tnf]]
-[[Adherens Junction]]
-[[Pfgf]]

@@ -1,5 +1,0 @@
-[[Colitis]]
-[[Colorectal Cancer]]
-[[MicroRNA]]
-[[Nutraceutical]]
-[[Cardamonin]]

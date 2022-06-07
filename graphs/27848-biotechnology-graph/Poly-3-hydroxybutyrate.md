@@ -1,6 +1,0 @@
-[[Transcriptome]]
-[[Fimbriae]]
-[[Polyhydroxyalkanoate]]
-[[Escherichia Coli]]
-[[L-threonine]]
-[[Chaperone-usher Operon]]

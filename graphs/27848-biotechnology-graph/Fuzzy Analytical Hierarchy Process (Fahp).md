@@ -1,7 +1,0 @@
-[[Correlation]]
-[[Pandemic]]
-[[Supply Chain]]
-[[Pairwise Comparison]]
-[[Academicians-Industry Professionals Gap]]
-[[Manufacturing Sector]]
-[[‘Make In India’]]

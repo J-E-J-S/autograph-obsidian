@@ -1,3 +1,0 @@
-[[Cellulose]]
-[[Biodegradation]]
-[[Polymer blend]]

@@ -1,7 +1,0 @@
-[[Cytotoxicity]]
-[[Protein expression]]
-[[Molecular docking]]
-[[Gene Expression]]
-[[Thiosemicarbazone]]
-[[4-Hydroxybenzaldehyde]]
-[[2-Hydroxybenzaldehyde]]

@@ -1,6 +1,0 @@
-[[Breast cancer]]
-[[Polymorphisms]]
-[[Nqo1]]
-[[Gst-p1]]
-[[Gst-m1]]
-[[Gst-t1]]

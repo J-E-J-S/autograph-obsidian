@@ -1,5 +1,0 @@
-[[Biological nitrogen fixation]]
-[[Biological treatment]]
-[[Biofertilizer]]
-[[Nitrogen-fixing bacteria]]
-[[High C:n Wastewater Treatment]]

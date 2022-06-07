@@ -1,3 +1,0 @@
-[[Arthritis]]
-[[Rheumatoid]]
-[[Biological Therapy]]

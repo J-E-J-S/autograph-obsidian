@@ -1,3 +1,0 @@
-[[Cadmium]]
-[[Blue algae]]
-[[Biochar]]

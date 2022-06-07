@@ -1,2 +1,0 @@
-[[Antibiotic Resistance]]
-[[Nosocomial Infections]]

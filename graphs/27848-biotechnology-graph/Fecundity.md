@@ -1,5 +1,0 @@
-[[Transcription]]
-[[Green peach aphid]]
-[[Nuclear receptor]]
-[[glycolysis]]
-[[Estrogen-related Receptor]]

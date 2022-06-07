@@ -1,5 +1,0 @@
-[[Salmonella Enterica]]
-[[negative regulation]]
-[[S. Paratyphi A]]
-[[Isrm]]
-[[Sopa Inactivation]]

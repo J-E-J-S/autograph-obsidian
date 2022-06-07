@@ -1,5 +1,0 @@
-[[PCR]]
-[[Goats]]
-[[Gene Expression]]
-[[Transcriptional Profiles]]
-[[Tertiary Follicles]]

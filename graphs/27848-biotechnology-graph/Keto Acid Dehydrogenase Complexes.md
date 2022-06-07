@@ -1,7 +1,0 @@
-[[Image processing]]
-[[Cryo-em]]
-[[Integrative Structural Biology]]
-[[Negative Staining]]
-[[Cellular Homogenates]]
-[[Native Cell Extracts]]
-[[Pyruvate Dehydrogenase Factory Model]]

@@ -1,3 +1,0 @@
-[[Pyrolysis]]
-[[adsorption]]
-[[Al Sludge]]

@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Corynebacterium glutamicum]]
-[[L-leucine]]
-[[Response surface methodology]]
-[[ultrasound]]

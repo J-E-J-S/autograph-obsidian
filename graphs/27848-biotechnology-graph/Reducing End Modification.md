@@ -1,2 +1,0 @@
-[[Cytotoxicity]]
-[[Cellulose Nanocrystals]]

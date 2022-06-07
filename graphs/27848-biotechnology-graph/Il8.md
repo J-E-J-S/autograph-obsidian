@@ -1,5 +1,0 @@
-[[MDR1]]
-[[Osteosarcoma]]
-[[pioglitazone]]
-[[Doxorubicin Resistance]]
-[[Pioglitazone Metabolites]]

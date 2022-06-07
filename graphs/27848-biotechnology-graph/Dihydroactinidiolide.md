@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Caspase-3]]
-[[Alzheimer’s disease]]
-[[SH-SY5Y]]
-[[HO-1]]
-[[NRF2]]

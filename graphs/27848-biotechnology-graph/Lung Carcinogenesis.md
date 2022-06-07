@@ -1,5 +1,0 @@
-[[Oxidative damage]]
-[[Inflammation]]
-[[Bromelain]]
-[[Olea europaea]]
-[[Oleuropein]]

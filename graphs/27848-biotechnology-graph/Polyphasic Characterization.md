@@ -1,2 +1,0 @@
-[[Seawater]]
-[[Novosphingobium Aquimarinum]]

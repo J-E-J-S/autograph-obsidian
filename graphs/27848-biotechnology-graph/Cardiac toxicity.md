@@ -1,5 +1,0 @@
-[[arecoline]]
-[[Betel Nut]]
-[[Areca Nut]]
-[[Heart Damage]]
-[[Fas/fas Ligand]]

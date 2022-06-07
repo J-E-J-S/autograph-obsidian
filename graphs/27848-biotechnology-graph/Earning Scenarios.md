@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Microbiome]]
-[[Bioeconomy]]
-[[Open Innovation]]
-[[Research And Innovation]]

@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Proliferation]]
-[[sodium arsenite]]
-[[Skin fibroblast]]
-[[Dimethyl Arsenic Acid]]

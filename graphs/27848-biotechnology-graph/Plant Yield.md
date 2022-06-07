@@ -1,6 +1,0 @@
-[[Cytokinin]]
-[[Abiotic stress]]
-[[Phytohormone]]
-[[IPT]]
-[[biotic stress]]
-[[Stress response]]

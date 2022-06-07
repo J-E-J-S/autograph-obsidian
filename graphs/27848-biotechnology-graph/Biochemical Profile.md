@@ -1,5 +1,0 @@
-[[Antioxidant]]
-[[Antimicrobial]]
-[[Anti-cancer]]
-[[Silybum Marianum]]
-[[Zno-nps]]

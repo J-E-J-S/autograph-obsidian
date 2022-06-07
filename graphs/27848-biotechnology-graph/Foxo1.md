@@ -1,7 +1,0 @@
-[[CD36]]
-[[Diabetic cardiomyopathy]]
-[[Fatty acid metabolism]]
-[[Ep4]]
-[[gluconeogenesis]]
-[[Protein Stability]]
-[[Camp Signaling]]

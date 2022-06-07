@@ -1,5 +1,0 @@
-[[Staphylococcus aureus]]
-[[Decay-accelerating factor]]
-[[Tight junction]]
-[[internalization]]
-[[Ul16 Binding Protein 1]]

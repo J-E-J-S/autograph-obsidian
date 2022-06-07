@@ -1,8 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Fatty acid]]
-[[Acetyl-coa]]
-[[(2S)-naringenin]]
-[[Saccharomyces cerevisiae]]
-[[metabolic engineering]]
-[[Synthetic Biology]]
-[[Malonyl-coa Derivatives]]

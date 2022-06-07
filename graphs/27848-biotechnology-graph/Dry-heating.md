@@ -1,4 +1,0 @@
-[[Starch]]
-[[Phosphorylation]]
-[[pH]]
-[[Phytate]]

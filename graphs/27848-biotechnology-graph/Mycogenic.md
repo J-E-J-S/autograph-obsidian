@@ -1,5 +1,0 @@
-[[Resistance]]
-[[Nanoparticles]]
-[[defense response]]
-[[Biostimulants]]
-[[Tomato Late Blight]]

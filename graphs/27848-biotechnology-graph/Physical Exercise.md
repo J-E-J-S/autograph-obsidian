@@ -1,6 +1,0 @@
-[[Aging]]
-[[Hippocampus]]
-[[Neurogenesis]]
-[[Cognitive impairment]]
-[[Cognitive Decline]]
-[[Neurotrophic Factors.]]

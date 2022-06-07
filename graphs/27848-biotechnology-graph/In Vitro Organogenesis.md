@@ -1,4 +1,0 @@
-[[Cytokinin]]
-[[Papaya]]
-[[Transcriptome]]
-[[auxin]]

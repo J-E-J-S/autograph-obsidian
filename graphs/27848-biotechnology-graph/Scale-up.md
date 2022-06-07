@@ -1,7 +1,0 @@
-[[Fermentation]]
-[[Food processing]]
-[[Environmental biotechnology]]
-[[Azospirillum brasilense]]
-[[Biofertilizer]]
-[[Solid-state Culture]]
-[[Bioreactor With Rotating Helical Ribbons]]

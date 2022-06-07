@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Momordica charantia]]
-[[Lactic acid bacteria]]
-[[Andropause]]
-[[Testosterone Deficiency]]

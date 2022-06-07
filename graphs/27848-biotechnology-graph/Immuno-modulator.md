@@ -1,5 +1,0 @@
-[[Heat shock proteins]]
-[[Expression]]
-[[Brucella Abortus]]
-[[Dnak]]
-[[Omp22]]

@@ -1,5 +1,0 @@
-[[Glycosyltransferase]]
-[[Bacterial Effectors]]
-[[Monoglycosyltransferase]]
-[[Nleb Effectors]]
-[[Sseks Effectors]]

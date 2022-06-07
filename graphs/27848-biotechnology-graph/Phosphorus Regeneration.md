@@ -1,3 +1,0 @@
-[[Algae]]
-[[Macrophyte]]
-[[Regime Shift]]

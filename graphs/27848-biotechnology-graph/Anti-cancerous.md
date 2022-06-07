@@ -1,5 +1,0 @@
-[[Aspergillus niger]]
-[[Characterization]]
-[[Enzyme inhibition]]
-[[Copper Nanoparticles]]
-[[Anti-bacterial]]

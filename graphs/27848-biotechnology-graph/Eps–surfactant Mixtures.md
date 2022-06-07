@@ -1,5 +1,0 @@
-[[surfactants]]
-[[Maxwell Model]]
-[[Burgers Model]]
-[[Mechanical Rheological Models]]
-[[Sphingans]]

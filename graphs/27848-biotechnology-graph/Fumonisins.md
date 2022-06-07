@@ -1,5 +1,0 @@
-[[Sesquiterpenes]]
-[[Carbon sources]]
-[[Monoterpenes]]
-[[Fusarium Verticillioides]]
-[[Naphthoquinone Pigments]]

@@ -1,5 +1,0 @@
-[[Selection]]
-[[Pinus sylvestris]]
-[[Candidate Genes]]
-[[Neutrality]]
-[[Outliers]]

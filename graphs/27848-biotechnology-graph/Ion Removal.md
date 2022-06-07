@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Wastewater]]
-[[Microalgae]]
-[[alginate beads]]
-[[Medium Cost]]

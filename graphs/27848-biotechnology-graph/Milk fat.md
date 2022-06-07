@@ -1,3 +1,0 @@
-[[Triglycerides]]
-[[Acetate]]
-[[lipid droplets]]

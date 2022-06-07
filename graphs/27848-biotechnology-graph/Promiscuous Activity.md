@@ -1,5 +1,0 @@
-[[Cellulase]]
-[[Composite]]
-[[Biodegradation]]
-[[Jute]]
-[[Polylactic Acid (Pla)]]

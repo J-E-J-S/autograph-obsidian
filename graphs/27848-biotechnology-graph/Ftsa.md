@@ -1,5 +1,0 @@
-[[Vibrio cholerae]]
-[[ATPase activity]]
-[[Morin]]
-[[dissociation constant]]
-[[Polymerization Inhibition]]

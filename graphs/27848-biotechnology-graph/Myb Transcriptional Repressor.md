@@ -1,5 +1,0 @@
-[[Secondary metabolite]]
-[[26S proteasome]]
-[[Btb]]
-[[Jasmonate Signalling]]
-[[Poz And Math Domain Proteins]]

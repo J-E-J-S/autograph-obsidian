@@ -1,5 +1,0 @@
-[[Population structure]]
-[[Vibrio cholerae]]
-[[Phylogenetic analysis]]
-[[Multidrug resistance]]
-[[Non-o1/non-o139]]

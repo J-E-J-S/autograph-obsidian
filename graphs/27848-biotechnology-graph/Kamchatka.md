@@ -1,5 +1,0 @@
-[[Hot spring]]
-[[Planctomycetes]]
-[[Thermophilic]]
-[[Hydrolytic]]
-[[Thermogemmata]]

@@ -1,3 +1,0 @@
-[[Camphor]]
-[[Racemate]]
-[[Borneol Dehydrogenase]]

@@ -1,5 +1,0 @@
-[[Biodegradation]]
-[[Biofilm]]
-[[Crude oil]]
-[[Purple Phototrophic Bacteria]]
-[[Rhodopseudomonas Sp]]

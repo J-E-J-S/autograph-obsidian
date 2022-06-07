@@ -1,5 +1,0 @@
-[[Virus-induced gene silencing]]
-[[Coccinia grandis]]
-[[Agroinfiltration]]
-[[Apple Latent Spherical Virus]]
-[[Mechanical Inoculation]]

@@ -1,5 +1,0 @@
-[[Lates calcarifer]]
-[[Antibody response]]
-[[Inactivated vaccines]]
-[[Streptococcus Agalactiae]]
-[[Streptococcus Iniae]]

@@ -1,5 +1,0 @@
-[[HIV-1]]
-[[Gag]]
-[[Zn(2+)]]
-[[Ncp7]]
-[[Psi-selectivity]]

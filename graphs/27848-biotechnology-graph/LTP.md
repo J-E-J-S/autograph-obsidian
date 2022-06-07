@@ -1,6 +1,0 @@
-[[AMPA receptors]]
-[[Glua1]]
-[[Amino-terminal Domain]]
-[[Neuroplastin]]
-[[Hippocampus]]
-[[Pea3]]

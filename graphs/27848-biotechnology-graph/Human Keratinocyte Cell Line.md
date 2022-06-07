@@ -1,5 +1,0 @@
-[[Characterization]]
-[[Nanoparticles]]
-[[Canthaxanthin]]
-[[Green Synthesis]]
-[[Dietzia Maris]]

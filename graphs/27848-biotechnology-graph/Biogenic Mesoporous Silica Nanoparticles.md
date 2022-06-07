@@ -1,2 +1,0 @@
-[[Xylanase]]
-[[immobilized enzyme]]

@@ -1,5 +1,0 @@
-[[DNA repair]]
-[[Staphylococcus aureus]]
-[[Crystal structure]]
-[[DNA double strand breakage]]
-[[Sbcd]]

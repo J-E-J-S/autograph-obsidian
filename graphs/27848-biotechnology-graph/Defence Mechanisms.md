@@ -1,7 +1,0 @@
-[[Rice]]
-[[Maize]]
-[[Sorghum]]
-[[Fertilizer]]
-[[Witchweed]]
-[[Striga Asiatica]]
-[[S. Hermonthica]]

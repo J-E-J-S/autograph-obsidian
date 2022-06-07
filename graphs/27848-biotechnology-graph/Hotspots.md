@@ -1,8 +1,0 @@
-[[Plastics]]
-[[Characterization]]
-[[Fate]]
-[[Degradation Mechanisms]]
-[[Classification]]
-[[Lung carcinoma]]
-[[Deep Learning]]
-[[Cancer Census Genes]]

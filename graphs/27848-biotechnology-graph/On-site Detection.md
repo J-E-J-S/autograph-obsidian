@@ -1,7 +1,0 @@
-[[Bifidobacterium Longum Subspecies Infantis]]
-[[Bifidobacterium Longum Subspecies Longum]]
-[[Bifidobacterium Longum Subspecies Suis]]
-[[Direct Loop-mediated Isothermal Amplification (Lamp)]]
-[[Chlamydia trachomatis]]
-[[Nucleic Acid Detection]]
-[[Crispr-cas13a]]

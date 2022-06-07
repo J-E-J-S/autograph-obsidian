@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cytochrome c]]
-[[6-hydroxydopamine]]
-[[reactive oxygen species (ROS)]]
-[[Autophagy]]

@@ -1,5 +1,0 @@
-[[Hot spring]]
-[[Thermophilic]]
-[[Full Factorial Design]]
-[[Parageobacillus Thermoglucosidasius]]
-[[Thermostable Amylase]]

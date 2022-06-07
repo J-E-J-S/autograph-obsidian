@@ -1,3 +1,0 @@
-[[Peptide]]
-[[nectar]]
-[[Leptospermum Scoparium]]

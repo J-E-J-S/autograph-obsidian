@@ -1,5 +1,0 @@
-[[Acanthamoeba]]
-[[Nanomedicine]]
-[[Nanotherapeutics]]
-[[Granulomatous Amoebic Encephalitis]]
-[[Anti-acanthamoebic Drugs]]

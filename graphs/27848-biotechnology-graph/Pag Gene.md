@@ -1,2 +1,0 @@
-[[Bacillus anthracis]]
-[[LAMP]]

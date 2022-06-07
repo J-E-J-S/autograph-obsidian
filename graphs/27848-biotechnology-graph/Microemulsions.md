@@ -1,5 +1,0 @@
-[[Anthocyanins]]
-[[Polyphenols]]
-[[Nanoemulsions]]
-[[Anti-quorum Sensing Activity]]
-[[Carissa Spinarum]]

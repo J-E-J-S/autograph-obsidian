@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[biosorption]]
-[[Fungal Melanin]]
-[[Amorphotheca Resinae]]
-[[Microbial Biosorbent]]

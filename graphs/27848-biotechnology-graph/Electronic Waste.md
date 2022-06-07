@@ -1,5 +1,0 @@
-[[Metals]]
-[[Bioleaching]]
-[[PCB]]
-[[Iron-oxidizers]]
-[[Cell Phone E-waste]]

@@ -1,5 +1,0 @@
-[[Genetic differentiation]]
-[[Gene flow]]
-[[Time scale]]
-[[haplotype]]
-[[Western Ghats]]

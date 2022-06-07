@@ -1,6 +1,0 @@
-[[Ovulation]]
-[[Nilaparvata lugens]]
-[[Female reproductive system]]
-[[Egg Transportation]]
-[[Nlodsp]]
-[[Oviduct Secretion]]

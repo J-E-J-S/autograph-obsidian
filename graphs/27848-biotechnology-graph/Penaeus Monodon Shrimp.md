@@ -1,5 +1,0 @@
-[[dsRNA]]
-[[RNAi]]
-[[Yellow Head Virus (Yhv)]]
-[[Lhrna]]
-[[Primary Hemocyte Culture]]

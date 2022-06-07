@@ -1,5 +1,0 @@
-[[Artemisinin]]
-[[Artemisia annua]]
-[[Light Signaling]]
-[[Glandular Trichomes]]
-[[Aawrky9]]

@@ -1,6 +1,0 @@
-[[Secondary metabolites]]
-[[Empetrum nigrum]]
-[[flavanone]]
-[[Bibenzyl]]
-[[Dihydrochalcone]]
-[[Dihydrophenanthrene]]

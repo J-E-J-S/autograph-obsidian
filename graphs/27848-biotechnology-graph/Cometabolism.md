@@ -1,8 +1,0 @@
-[[Biodegradation]]
-[[PAHs]]
-[[Transcriptome]]
-[[Microbial consortium]]
-[[1-Naphthol]]
-[[Synergistic Regulation]]
-[[Ndca1a2]]
-[[Coinducible Catabolism]]

@@ -1,5 +1,0 @@
-[[Genome annotation]]
-[[genomic variation]]
-[[Synteny]]
-[[Genome Assembly]]
-[[Leaf Beet]]

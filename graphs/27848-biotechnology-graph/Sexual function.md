@@ -1,3 +1,0 @@
-[[Mice]]
-[[Hormones]]
-[[adiponectin]]

@@ -1,3 +1,0 @@
-[[Fungi]]
-[[Heavy metals]]
-[[Consortia]]

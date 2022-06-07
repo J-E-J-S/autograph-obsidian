@@ -1,5 +1,0 @@
-[[Zebrafish]]
-[[Reverse transcriptase polymerase chain reaction]]
-[[Ellagic acid]]
-[[Simvastatin]]
-[[Steatosis]]

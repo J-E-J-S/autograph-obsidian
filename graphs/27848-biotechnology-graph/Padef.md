@@ -1,5 +1,0 @@
-[[GUS]]
-[[GFP]]
-[[Synthetic Promoter]]
-[[Brrv]]
-[[Pararetroviruses]]

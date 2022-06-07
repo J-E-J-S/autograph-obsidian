@@ -1,7 +1,0 @@
-[[Medicinal plants]]
-[[Flavonoids]]
-[[Polyphenols]]
-[[Type 2 diabetes]]
-[[T2DM]]
-[[Bioactive compounds]]
-[[Phytochemicals]]

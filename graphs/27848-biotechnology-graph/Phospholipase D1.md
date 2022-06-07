@@ -1,5 +1,0 @@
-[[Osteogenesis]]
-[[Bone mass]]
-[[Fat Mass]]
-[[Adipogenesis]]
-[[Osteoclastogenesis]]

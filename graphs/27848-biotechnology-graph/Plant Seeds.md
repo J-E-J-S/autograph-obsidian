@@ -1,7 +1,0 @@
-[[Mitochondria]]
-[[Selectivity]]
-[[Phaseolus]]
-[[stigmasterol]]
-[[Plant Biochemistry]]
-[[Protein-lipid Interaction]]
-[[Vdac]]

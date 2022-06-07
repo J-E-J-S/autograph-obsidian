@@ -1,5 +1,0 @@
-[[Renewable energy]]
-[[labor]]
-[[Economic Growth]]
-[[Sdgs]]
-[[Non-renewable Energy]]

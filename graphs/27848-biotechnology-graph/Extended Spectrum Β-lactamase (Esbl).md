@@ -1,7 +1,0 @@
-[[Real-Time PCR]]
-[[Blatem]]
-[[Uropathogenic Escherichia Coli]]
-[[Blactx-m]]
-[[University Teaching Hospital]]
-[[Antibiotic Resistance Signatures]]
-[[Blashv.]]

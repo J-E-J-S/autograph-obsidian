@@ -1,3 +1,0 @@
-[[Immobilization]]
-[[Lipases]]
-[[adsorption]]

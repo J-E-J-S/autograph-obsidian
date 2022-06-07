@@ -1,5 +1,0 @@
-[[Receptivity]]
-[[Helicoverpa]]
-[[Male Accessory Glands]]
-[[Pheromonostasis]]
-[[Seminal Fluid Protein]]

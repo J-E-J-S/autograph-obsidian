@@ -1,8 +1,0 @@
-[[Recombinant protein]]
-[[Protection]]
-[[White Tail Disease]]
-[[Chicken]]
-[[Lactobacillus Salivarius]]
-[[Lactation]]
-[[Genotoxicity]]
-[[Hepatotoxicity]]

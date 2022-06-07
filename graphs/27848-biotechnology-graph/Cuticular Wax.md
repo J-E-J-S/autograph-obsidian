@@ -1,8 +1,0 @@
-[[Sorghum bicolor]]
-[[Drought]]
-[[Transcriptome Sequencing]]
-[[Cutin]]
-[[Kentucky Bluegrass]]
-[[water deficit]]
-[[Very Long Chain Fatty Acids]]
-[[Cuticle Permeability]]

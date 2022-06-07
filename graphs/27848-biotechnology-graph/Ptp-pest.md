@@ -1,4 +1,0 @@
-[[Hypoxia]]
-[[Angiogenesis]]
-[[Autophagy]]
-[[Ampk]]

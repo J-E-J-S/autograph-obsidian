@@ -1,5 +1,0 @@
-[[Oxygen uptake]]
-[[Terpenoid]]
-[[NADPH]]
-[[Mep Pathway]]
-[[Fba]]

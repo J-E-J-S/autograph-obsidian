@@ -1,5 +1,0 @@
-[[Bioadsorption]]
-[[Microbial community]]
-[[Extracellular Proteins And Amino Acids]]
-[[Intracellular Proteins And Amino Acids]]
-[[Sludge Increment]]

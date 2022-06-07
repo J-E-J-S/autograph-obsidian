@@ -1,5 +1,0 @@
-[[Microsatellites]]
-[[Wing Geometric Morphometrics]]
-[[Apis Koschevnikovi]]
-[[Apis Mellifera Unicolor]]
-[[Coi-coii]]

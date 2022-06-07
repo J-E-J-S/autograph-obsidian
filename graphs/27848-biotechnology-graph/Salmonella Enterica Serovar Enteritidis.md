@@ -1,7 +1,0 @@
-[[Virulence]]
-[[Inflammation]]
-[[Antimicrobial peptides]]
-[[C57bl/6]]
-[[Glucose Starvation]]
-[[Mg2+ Starvation]]
-[[Ydei]]

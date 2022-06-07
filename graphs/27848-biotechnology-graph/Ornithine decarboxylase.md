@@ -1,5 +1,0 @@
-[[Polyamines]]
-[[antizyme]]
-[[Peptidylarginine Deiminase]]
-[[Protein Citrullination]]
-[[Anti-citrullinated Az Antibody]]

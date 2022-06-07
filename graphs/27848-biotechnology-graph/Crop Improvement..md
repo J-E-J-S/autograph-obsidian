@@ -1,6 +1,0 @@
-[[Proteomics]]
-[[Genomics]]
-[[Metabolomics]]
-[[Transcriptomics]]
-[[Interactomics]]
-[[Phenomics]]

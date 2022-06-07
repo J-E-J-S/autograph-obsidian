@@ -1,8 +1,0 @@
-[[Agriculture]]
-[[Dispersal]]
-[[motility]]
-[[Hitchhiking]]
-[[Microbial Function]]
-[[Citrus]]
-[[Phytopathogen]]
-[[Citrus Canker]]

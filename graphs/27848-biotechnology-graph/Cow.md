@@ -1,7 +1,0 @@
-[[Milk Yield]]
-[[Milk Fatty Acid]]
-[[Ensiled Olive Cake]]
-[[Embryo transfer]]
-[[Pregnancy rate]]
-[[NSAID]]
-[[Recipient]]

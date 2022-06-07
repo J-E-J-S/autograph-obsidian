@@ -1,3 +1,0 @@
-[[Malignancy]]
-[[Diarrhea]]
-[[Cryptosporidiosis]]

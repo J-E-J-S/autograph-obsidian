@@ -1,8 +1,0 @@
-[[Hct-116]]
-[[Hplc-pda-esi-msn]]
-[[Scutellaria Orientalis Subsp. Bornmuelleri]]
-[[Tenaxin Ii]]
-[[Streptococcus mutans]]
-[[Virulence]]
-[[Biofilm]]
-[[dental caries]]

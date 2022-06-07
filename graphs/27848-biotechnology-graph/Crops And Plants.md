@@ -1,5 +1,0 @@
-[[Agricultural biotechnology]]
-[[International Trade]]
-[[Genome Editing]]
-[[Regulatory Approach]]
-[[Safety Regulation]]

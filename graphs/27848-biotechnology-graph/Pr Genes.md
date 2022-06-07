@@ -1,5 +1,0 @@
-[[Calmodulin]]
-[[Ca2+]]
-[[biotic stress]]
-[[Durum Wheat]]
-[[Scp-like Domain]]

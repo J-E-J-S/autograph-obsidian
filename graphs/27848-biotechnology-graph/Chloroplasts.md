@@ -1,7 +1,0 @@
-[[Mitochondria]]
-[[Photosynthesis]]
-[[Metabolism]]
-[[Photorespiration]]
-[[Peroxisomes]]
-[[reactive oxygen species (ROS)]]
-[[Retrograde Signaling]]

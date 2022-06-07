@@ -1,4 +1,0 @@
-[[Grass]]
-[[Hydrogen]]
-[[Leaves]]
-[[Methane]]

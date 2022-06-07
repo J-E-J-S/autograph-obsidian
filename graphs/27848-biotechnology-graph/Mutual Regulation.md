@@ -1,3 +1,0 @@
-[[Pseudoalteromonas]]
-[[Qs]]
-[[Sspa]]

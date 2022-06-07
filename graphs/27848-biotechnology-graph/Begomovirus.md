@@ -1,3 +1,0 @@
-[[Cotton]]
-[[PCNA]]
-[[REP]]

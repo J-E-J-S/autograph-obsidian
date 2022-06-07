@@ -1,6 +1,0 @@
-[[Astrocytes]]
-[[Human Pluripotent Stem Cells]]
-[[Neural Precursor Cells]]
-[[Astrogliogenesis]]
-[[Developmental Mechanisms]]
-[[Functional Maturation]]

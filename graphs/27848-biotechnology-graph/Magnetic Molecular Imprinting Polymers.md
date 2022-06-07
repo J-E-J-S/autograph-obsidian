@@ -1,3 +1,0 @@
-[[Milk]]
-[[Extraction]]
-[[norfloxacin]]

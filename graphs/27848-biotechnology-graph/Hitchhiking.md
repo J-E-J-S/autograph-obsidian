@@ -1,5 +1,0 @@
-[[Agriculture]]
-[[Dispersal]]
-[[Persistence]]
-[[motility]]
-[[Microbial Function]]

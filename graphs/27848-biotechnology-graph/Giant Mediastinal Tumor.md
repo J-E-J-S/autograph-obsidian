@@ -1,2 +1,0 @@
-[[Prognosis]]
-[[Radical Surgery]]

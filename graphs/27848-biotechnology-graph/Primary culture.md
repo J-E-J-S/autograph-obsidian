@@ -1,3 +1,0 @@
-[[Breast cancer]]
-[[CNB]]
-[[Fnac]]

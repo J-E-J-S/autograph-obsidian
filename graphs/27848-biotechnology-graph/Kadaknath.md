@@ -1,5 +1,0 @@
-[[Population structure]]
-[[Genetic diversity]]
-[[Aflp Markers]]
-[[Black Meat Chicken]]
-[[Indigenous Poultry Breed]]

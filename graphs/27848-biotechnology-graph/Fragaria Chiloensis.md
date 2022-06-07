@@ -1,6 +1,0 @@
-[[Lignin]]
-[[Ethylene]]
-[[Strawberry]]
-[[Fruit ripening]]
-[[Ethephon]]
-[[Anthocyanin Biosynthesis]]

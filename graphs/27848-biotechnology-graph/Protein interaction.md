@@ -1,8 +1,0 @@
-[[Bacillus]]
-[[Phytophthora infestans]]
-[[Haddock]]
-[[Iturin A]]
-[[Modeller V9.17]]
-[[FRET]]
-[[Swi3b]]
-[[Ada2b]]

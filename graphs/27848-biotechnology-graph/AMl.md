@@ -1,3 +1,0 @@
-[[ATRA]]
-[[Autophagy]]
-[[Ato]]

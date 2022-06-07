@@ -1,4 +1,0 @@
-[[Testis]]
-[[Testosterone]]
-[[Cholesterol]]
-[[Estradiol]]

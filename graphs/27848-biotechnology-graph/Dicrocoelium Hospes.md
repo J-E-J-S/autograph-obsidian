@@ -1,4 +1,0 @@
-[[Cattle]]
-[[Ghana]]
-[[Wa]]
-[[Dicrocoeliosis]]

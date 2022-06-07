@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Lignocellulose]]
-[[Fungal]]
-[[enzymatic reactions]]
-[[Biomass Pretreatment]]

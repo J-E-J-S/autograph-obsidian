@@ -1,5 +1,0 @@
-[[Embryo]]
-[[Blastocyst]]
-[[Artificial intelligence]]
-[[Cytoplasm]]
-[[Artificial neural Network]]

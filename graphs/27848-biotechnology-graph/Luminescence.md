@@ -1,8 +1,0 @@
-[[Drug metabolism]]
-[[Fission yeast]]
-[[Cytochrome p450]]
-[[Proluciferin Ester]]
-[[Phage]]
-[[Correlation coefficient]]
-[[Real-time monitoring]]
-[[Vibiro Cholerae]]

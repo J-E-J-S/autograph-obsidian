@@ -1,5 +1,0 @@
-[[Growth]]
-[[Macroalgae]]
-[[Saccharina Japonica]]
-[[Aureochrome]]
-[[Mir8181]]

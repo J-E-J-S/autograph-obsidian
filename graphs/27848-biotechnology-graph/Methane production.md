@@ -1,5 +1,0 @@
-[[Anaerobic fermentation]]
-[[Methanogens]]
-[[Quorum Quenching]]
-[[Anmbr]]
-[[Membrane Biofouling]]

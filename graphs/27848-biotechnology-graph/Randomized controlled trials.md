@@ -1,4 +1,0 @@
-[[TNF]]
-[[Inflammation]]
-[[Curcumin]]
-[[Interleukin]]

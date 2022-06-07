@@ -1,5 +1,0 @@
-[[Crystal structure]]
-[[Epoxide hydrolase]]
-[[Aspergillus usamii]]
-[[Kinetic Resolution]]
-[[Molecular Docking Simulation]]

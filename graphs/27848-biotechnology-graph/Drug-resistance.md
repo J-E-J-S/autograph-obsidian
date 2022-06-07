@@ -1,6 +1,0 @@
-[[Molecular docking]]
-[[Admet]]
-[[Drug-designing]]
-[[Clinical Characteristics]]
-[[Capsular Serotype]]
-[[Hypervirulent Klebsiella Pneumoniae]]

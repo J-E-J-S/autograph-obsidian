@@ -1,5 +1,0 @@
-[[Culture medium]]
-[[Bioprocessing]]
-[[Plant Cell Culture Extracts]]
-[[Clean Meat]]
-[[Animal Cell–based Fish]]

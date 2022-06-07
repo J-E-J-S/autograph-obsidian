@@ -1,5 +1,0 @@
-[[Embryo]]
-[[Pig]]
-[[Cattle]]
-[[Scnt]]
-[[Genome Editing]]

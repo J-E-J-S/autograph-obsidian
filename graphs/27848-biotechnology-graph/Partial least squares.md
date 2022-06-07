@@ -1,5 +1,0 @@
-[[Electronegativity]]
-[[QSAR]]
-[[drug discovery]]
-[[Electron Affinity]]
-[[Molecular Field Descriptors]]

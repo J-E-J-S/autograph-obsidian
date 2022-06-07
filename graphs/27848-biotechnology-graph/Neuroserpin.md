@@ -1,5 +1,0 @@
-[[Brain]]
-[[Liver]]
-[[Alternative splicing]]
-[[Reactive Center Loop]]
-[[Truncated Transcripts]]

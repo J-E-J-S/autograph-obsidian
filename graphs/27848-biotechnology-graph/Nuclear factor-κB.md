@@ -1,7 +1,0 @@
-[[Migration]]
-[[Invasion]]
-[[Matrix Metalloproteinase-9]]
-[[Tamarixetin]]
-[[Yersinia Yopt]]
-[[Ifn Regulatory Factor-3]]
-[[Rat Liver Homogenate]]

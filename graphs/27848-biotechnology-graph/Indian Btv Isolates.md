@@ -1,3 +1,0 @@
-[[Phylogenetic analysis]]
-[[Bluetongue]]
-[[Topotypes]]

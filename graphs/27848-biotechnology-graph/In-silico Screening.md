@@ -1,7 +1,0 @@
-[[Bifunctional]]
-[[Lignocellulosic Biomass]]
-[[Metagenomics Big Data]]
-[[Cellulase/xylanase]]
-[[Enzymatic hydrolysis]]
-[[Rice straw]]
-[[metagenome]]

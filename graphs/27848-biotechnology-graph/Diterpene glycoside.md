@@ -1,3 +1,0 @@
-[[Stevia]]
-[[Biotechnology]]
-[[secondary metabolism]]

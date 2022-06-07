@@ -1,5 +1,0 @@
-[[Cartilage]]
-[[Chondrocyte]]
-[[Coculture]]
-[[Msc]]
-[[Injectable]]

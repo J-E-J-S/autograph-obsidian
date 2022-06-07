@@ -1,8 +1,0 @@
-[[Transcription factor]]
-[[Yeast]]
-[[Pichia pastoris]]
-[[Carbon source]]
-[[Cat8]]
-[[Komagataella Phaffii]]
-[[Csre]]
-[[Sip4]]

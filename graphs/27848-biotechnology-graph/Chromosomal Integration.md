@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Phenolic glycoside]]
-[[metabolic engineering]]
-[[gastrodin]]
-[[Asugt]]

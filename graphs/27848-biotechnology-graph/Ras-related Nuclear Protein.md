@@ -1,5 +1,0 @@
-[[Small Gtpases]]
-[[Sdp]]
-[[Zmran]]
-[[Moisture Deficit]]
-[[Sbran]]

@@ -1,8 +1,0 @@
-[[Apoptosis]]
-[[Cadmium]]
-[[Calcium ion]]
-[[Autophagy]]
-[[JNK]]
-[[Congenital Hypothyroidism]]
-[[Microrna-489-3p]]
-[[Translationally Controlled Tumor Protein 1]]

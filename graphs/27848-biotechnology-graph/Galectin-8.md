@@ -1,5 +1,0 @@
-[[Expression]]
-[[Mandarin fish]]
-[[Siniperca chuatsi]]
-[[Antibacterial activity]]
-[[Galectin-9]]

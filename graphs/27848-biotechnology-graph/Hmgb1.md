@@ -1,6 +1,0 @@
-[[Gastric cancer]]
-[[Mir-144]]
-[[Circ_0081146]]
-[[Transplantation]]
-[[fibrosis]]
-[[Cardiac Allograft Vasculopathy]]

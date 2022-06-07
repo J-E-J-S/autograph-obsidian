@@ -1,5 +1,0 @@
-[[Growth]]
-[[Temperature]]
-[[Photosynthesis]]
-[[C/N ratio]]
-[[Co(2)]]

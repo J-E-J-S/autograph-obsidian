@@ -1,5 +1,0 @@
-[[Thidiazuron]]
-[[Hypocotyl]]
-[[Chickpea]]
-[[Axillary Meristem]]
-[[Plumular Apex]]

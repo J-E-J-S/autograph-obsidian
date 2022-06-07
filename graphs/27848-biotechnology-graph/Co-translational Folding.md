@@ -1,5 +1,0 @@
-[[Virus]]
-[[Protein folding]]
-[[Codon usage]]
-[[Translation Selection]]
-[[Translation Kinetics Selection]]

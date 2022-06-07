@@ -1,7 +1,0 @@
-[[Immunization]]
-[[Allergy]]
-[[Vaccine]]
-[[Allergic reaction]]
-[[Optic Neuritis]]
-[[Ocular Complications]]
-[[Uveitis Vaccination]]

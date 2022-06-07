@@ -1,8 +1,0 @@
-[[bioaccumulation]]
-[[Areca Nut]]
-[[Heavy Elements]]
-[[Pollution Index]]
-[[Radionuclides]]
-[[Health Risk Assessment]]
-[[Metal(loid)s]]
-[[Human Exposure Risks]]

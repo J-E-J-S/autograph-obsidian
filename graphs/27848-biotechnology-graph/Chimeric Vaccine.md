@@ -1,8 +1,0 @@
-[[Alzheimer's disease]]
-[[Calpain]]
-[[Immunotherapy]]
-[[Synaptic Protein]]
-[[Chicken]]
-[[Necrotic Enteritis]]
-[[Parenteral Administration]]
-[[Plant-based Vaccine]]

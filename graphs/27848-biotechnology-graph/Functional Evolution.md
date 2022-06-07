@@ -1,7 +1,0 @@
-[[Liverworts]]
-[[Marchantia polymorpha]]
-[[Carotenoid Biosynthesis]]
-[[Early-land Plants]]
-[[Origin]]
-[[Polygalacturonase]]
-[[Land Plants]]

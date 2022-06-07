@@ -1,5 +1,0 @@
-[[Biosensors]]
-[[Peptide nucleic acid (PNA)]]
-[[Cell Penetrating Peptides]]
-[[Bio-medical Applications]]
-[[Xeno Nucleic Acid (Xna)]]

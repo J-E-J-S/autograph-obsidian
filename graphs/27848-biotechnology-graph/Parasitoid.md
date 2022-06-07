@@ -1,2 +1,0 @@
-[[Mitochondrial genome]]
-[[Leptopilina Syphax]]

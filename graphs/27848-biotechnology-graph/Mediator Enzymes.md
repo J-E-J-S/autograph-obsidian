@@ -1,5 +1,0 @@
-[[Bombyx mori]]
-[[Microsporidian]]
-[[Differential expression]]
-[[Endoparasitoid]]
-[[Degranulation By Exocytosis]]

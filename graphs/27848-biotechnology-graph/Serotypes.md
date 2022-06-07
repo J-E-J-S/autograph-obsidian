@@ -1,6 +1,0 @@
-[[Shigella flexneri]]
-[[Virulence genes]]
-[[Pakistan]]
-[[FMDV]]
-[[Ivermectin]]
-[[Antiviral]]

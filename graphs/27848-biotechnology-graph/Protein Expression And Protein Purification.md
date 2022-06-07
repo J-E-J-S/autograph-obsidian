@@ -1,5 +1,0 @@
-[[Stem cell]]
-[[Recombinant protein]]
-[[E. coli]]
-[[Secondary Structure]]
-[[Sox2]]

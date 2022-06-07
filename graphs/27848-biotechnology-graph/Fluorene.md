@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[Crystal structure]]
-[[Hydantoin]]
-[[P-glycoprotein (Abcb1)]]
-[[T-lymphoma]]

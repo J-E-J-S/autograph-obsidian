@@ -1,5 +1,0 @@
-[[Brassica napus]]
-[[Guard cell]]
-[[Lipid transfer protein]]
-[[Stomatal Immunity]]
-[[Thiol Redox Proteomics]]

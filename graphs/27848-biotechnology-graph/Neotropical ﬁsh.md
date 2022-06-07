@@ -1,4 +1,0 @@
-[[Embryogenesis]]
-[[Morphology]]
-[[Temperature]]
-[[Incubation]]

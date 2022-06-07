@@ -1,5 +1,0 @@
-[[MTT assay]]
-[[LC-MS/MS]]
-[[Phytoconstituents]]
-[[Gentiana Kurroo]]
-[[Cytotypes]]

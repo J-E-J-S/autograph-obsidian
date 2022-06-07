@@ -1,5 +1,0 @@
-[[Cyanobacteria]]
-[[metabolic engineering]]
-[[Steviol]]
-[[Co2 Conversion]]
-[[Ent-kaurene]]

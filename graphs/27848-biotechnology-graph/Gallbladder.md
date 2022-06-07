@@ -1,5 +1,0 @@
-[[Molecular phylogeny]]
-[[Myxospores]]
-[[Myxosporeans]]
-[[Ceratomyxa Xanthopteri N. Sp.]]
-[[Marine Ornamentals]]

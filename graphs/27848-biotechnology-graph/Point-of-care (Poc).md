@@ -1,5 +1,0 @@
-[[Leptospira]]
-[[Brucella]]
-[[LAMP]]
-[[Bohv-1]]
-[[Microcapillary]]

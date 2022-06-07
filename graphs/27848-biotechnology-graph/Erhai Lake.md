@@ -1,4 +1,0 @@
-[[Microcystin]]
-[[Microcystis]]
-[[Pseudanabaena]]
-[[Dolichospermum]]

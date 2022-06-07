@@ -1,5 +1,0 @@
-[[Water quality]]
-[[Sustainability]]
-[[Lca]]
-[[Pet Bottle]]
-[[Pla Bottle]]

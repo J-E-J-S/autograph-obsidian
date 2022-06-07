@@ -1,5 +1,0 @@
-[[Optimization]]
-[[Schizophyllum commune]]
-[[Schizophyllan]]
-[[Talc]]
-[[Microparticles]]

@@ -1,5 +1,0 @@
-[[pH]]
-[[Drought tolerance]]
-[[Copper uptake]]
-[[Plant Growth Promoting Bacteria]]
-[[Iaa Production]]

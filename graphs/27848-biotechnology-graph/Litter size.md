@@ -1,7 +1,0 @@
-[[Genetic variation]]
-[[Candidate gene]]
-[[Goat (capra hircus)]]
-[[Whole-genome Sequencing]]
-[[Polymorphism]]
-[[Sheep]]
-[[Ahr Gene]]

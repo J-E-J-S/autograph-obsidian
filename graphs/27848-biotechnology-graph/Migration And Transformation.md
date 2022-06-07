@@ -1,5 +1,0 @@
-[[Bacterial community]]
-[[Nitrogen and phosphorus]]
-[[Sediment-water Interface]]
-[[Decomposition Process]]
-[[Cladophora Oligoclora]]

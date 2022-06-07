@@ -1,5 +1,0 @@
-[[Biodiversity]]
-[[Stochastic Processes]]
-[[Phylogenetic Clustering]]
-[[Deterministic Processes]]
-[[Species-interactions]]

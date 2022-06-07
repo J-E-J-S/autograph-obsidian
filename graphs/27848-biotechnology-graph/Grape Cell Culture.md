@@ -1,5 +1,0 @@
-[[Vitis vinifera]]
-[[Phenylalanine]]
-[[Resveratrol]]
-[[Stilbenes]]
-[[Viniferin]]

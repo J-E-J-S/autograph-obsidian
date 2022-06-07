@@ -1,5 +1,0 @@
-[[Therapy]]
-[[DNA methyltransferases]]
-[[Epigenetics]]
-[[Gastrointestinal cancers]]
-[[Histone Deacetylases]]

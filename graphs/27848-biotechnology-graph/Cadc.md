@@ -1,5 +1,0 @@
-[[Bacillus megaterium]]
-[[Molecular dynamics simulation]]
-[[Cada]]
-[[Metal Binding Motifs]]
-[[Bioremediation Potential]]

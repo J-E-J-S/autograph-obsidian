@@ -1,5 +1,0 @@
-[[Milk]]
-[[Lactation]]
-[[Milk protein]]
-[[Milk Yield]]
-[[Microrna (Mirna)]]

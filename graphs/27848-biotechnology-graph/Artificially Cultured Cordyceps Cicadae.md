@@ -1,3 +1,0 @@
-[[Polysaccharides]]
-[[Apoptosis]]
-[[Cell cycle]]

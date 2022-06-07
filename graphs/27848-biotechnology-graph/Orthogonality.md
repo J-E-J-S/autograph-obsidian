@@ -1,5 +1,0 @@
-[[Promoter]]
-[[Corynebacterium glutamicum]]
-[[Rbs]]
-[[Combination Effects]]
-[[Arginine Synthesis Pathway]]

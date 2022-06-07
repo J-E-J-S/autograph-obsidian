@@ -1,8 +1,0 @@
-[[Cell Integrity]]
-[[Fungal Morphology]]
-[[Microparticle-enhanced Cultivation]]
-[[Natural Yellow Pigments]]
-[[Structural characterization]]
-[[immunomodulatory activity]]
-[[liquid fermentation]]
-[[Mycelium Polysaccharide]]

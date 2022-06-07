@@ -1,5 +1,0 @@
-[[Jatropha curcas]]
-[[Double Bond Reductase]]
-[[Casbene]]
-[[Lathyranes]]
-[[Jolkinol]]

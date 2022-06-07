@@ -1,3 +1,0 @@
-[[Esterase]]
-[[metagenome]]
-[[Lipolytic Enzyme]]

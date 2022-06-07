@@ -1,5 +1,0 @@
-[[Artificial intelligence]]
-[[Pancreatic adenocarcinoma]]
-[[hepatic disease]]
-[[Machine Learning]]
-[[Deep Learning]]

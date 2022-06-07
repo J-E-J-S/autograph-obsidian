@@ -1,7 +1,0 @@
-[[Legislation]]
-[[biosafety]]
-[[Harmonization]]
-[[New Breeding Techniques]]
-[[Cultivating Gmo Crops]]
-[[Gene Edited Crops]]
-[[Regulations (Laws)]]

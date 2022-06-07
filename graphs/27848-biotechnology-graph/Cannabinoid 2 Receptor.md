@@ -1,6 +1,0 @@
-[[Diabetic nephropathy]]
-[[type 1 diabetes]]
-[[Cannabinoids]]
-[[Cannabidiol]]
-[[Cannabinoid 1 Receptor]]
-[[(+)-Enantiomers]]

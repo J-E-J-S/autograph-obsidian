@@ -1,8 +1,0 @@
-[[D-allose]]
-[[Acyl Migration]]
-[[Anomeric Configuration]]
-[[D-allosamine]]
-[[Taxol]]
-[[acetonitrile]]
-[[Hco(3)(–)]]
-[[7-Epitaxol]]

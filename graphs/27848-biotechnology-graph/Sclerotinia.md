@@ -1,4 +1,0 @@
-[[Alternaria]]
-[[Botrytis]]
-[[Necrotroph]]
-[[Hemibiotroph]]

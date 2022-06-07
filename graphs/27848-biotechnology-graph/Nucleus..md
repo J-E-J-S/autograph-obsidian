@@ -1,5 +1,0 @@
-[[Functional genomics]]
-[[Rna-seq]]
-[[Mrna Processing]]
-[[Proplastids]]
-[[Plastid Transcriptome]]

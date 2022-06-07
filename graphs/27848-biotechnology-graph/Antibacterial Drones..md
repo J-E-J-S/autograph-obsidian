@@ -1,6 +1,0 @@
-[[Antibiotics]]
-[[Staphylococcus aureus]]
-[[combination drug therapy]]
-[[Lysostaphin]]
-[[Monotherapy]]
-[[Phage Endolysin Therapy]]

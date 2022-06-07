@@ -1,5 +1,0 @@
-[[Transgenic tobacco]]
-[[Hcho Metabolic Mechanism]]
-[[Arabidopsis Fdh]]
-[[Hcho Resistance]]
-[[Sugar Synthesis]]

@@ -1,5 +1,0 @@
-[[tRNA]]
-[[CO-IP]]
-[[Interactome]]
-[[Pstk]]
-[[Bioid]]

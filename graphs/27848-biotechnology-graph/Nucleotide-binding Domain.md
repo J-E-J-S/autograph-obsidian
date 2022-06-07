@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Alzheimer's disease]]
-[[Pyroptosis]]
-[[Nuclear Factor Erythroid 2-Related Factor 2]]
-[[Parkinson Disease Protein 7]]
-[[Leucine-rich Repeat Pyrin Domain Containing 3]]

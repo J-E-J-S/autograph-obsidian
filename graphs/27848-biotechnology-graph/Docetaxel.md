@@ -1,5 +1,0 @@
-[[Liposomes]]
-[[Cancer]]
-[[Taxanes]]
-[[Drug Delivery]]
-[[Alkylphenol]]

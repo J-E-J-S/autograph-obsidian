@@ -1,5 +1,0 @@
-[[Molecular targets]]
-[[Phytochemicals]]
-[[Ehrlich Ascites Carcinoma]]
-[[Tnbc]]
-[[Citronellal]]

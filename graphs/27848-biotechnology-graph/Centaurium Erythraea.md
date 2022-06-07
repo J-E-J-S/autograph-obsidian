@@ -1,5 +1,0 @@
-[[Flavonoids]]
-[[Pharmacological action]]
-[[Phenolic acids]]
-[[Terpenoids]]
-[[Antidiabetic Effects]]

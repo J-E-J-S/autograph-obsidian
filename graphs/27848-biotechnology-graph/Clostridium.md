@@ -1,8 +1,0 @@
-[[Flow cytometry]]
-[[Ethidium bromide]]
-[[Efflux pump]]
-[[Abe Fermentation]]
-[[Tolerance]]
-[[Lactic acid bacteria]]
-[[Butanol]]
-[[Lactobacillus Brevis]]

@@ -1,6 +1,0 @@
-[[Mitochondrial DNA]]
-[[Conservation]]
-[[Synchronous]]
-[[Mitogenome]]
-[[fireflies]]
-[[Flashing]]

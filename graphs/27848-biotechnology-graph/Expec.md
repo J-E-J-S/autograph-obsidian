@@ -1,5 +1,0 @@
-[[O-polysaccharide]]
-[[Glycoconjugate Vaccine]]
-[[Glycosylation Efficiency]]
-[[Glyco-optimized Chassis Strain]]
-[[Sugar To Protein Ratio]]

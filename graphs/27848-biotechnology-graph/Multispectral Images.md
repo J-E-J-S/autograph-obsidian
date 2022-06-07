@@ -1,6 +1,0 @@
-[[Leaf area index]]
-[[Drone]]
-[[Unmanned Aerial System]]
-[[Prosail-gp Model]]
-[[Leaf Angle Distribution]]
-[[Canopy Coverage]]

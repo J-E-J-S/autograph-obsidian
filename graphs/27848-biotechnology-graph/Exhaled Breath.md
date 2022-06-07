@@ -1,3 +1,0 @@
-[[Biomarker]]
-[[Metabolomics]]
-[[Personalized Medicine]]

@@ -1,5 +1,0 @@
-[[Zebrafish]]
-[[Ellagic acid]]
-[[Simvastatin]]
-[[Iodoacetamide]]
-[[Steatosis]]

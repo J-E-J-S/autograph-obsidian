@@ -1,5 +1,0 @@
-[[Preservation]]
-[[Diversity]]
-[[Utilization]]
-[[Nutritional]]
-[[African Nightshade]]

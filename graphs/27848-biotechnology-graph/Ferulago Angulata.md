@@ -1,5 +1,0 @@
-[[Lead]]
-[[Antioxidant]]
-[[Cryopreservation]]
-[[Diazinon]]
-[[Buck Spermatozoa]]

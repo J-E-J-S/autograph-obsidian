@@ -1,5 +1,0 @@
-[[Monoclonal antibodies]]
-[[Flow cytometry]]
-[[Immunocytochemistry]]
-[[Neutralization]]
-[[CCl4]]

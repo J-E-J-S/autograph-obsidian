@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Antiproliferative Activity]]
-[[Molecular Dynamics (Md) Simulation]]
-[[Structure-based Virtual Screening]]
-[[In Silico Mutagenesis]]

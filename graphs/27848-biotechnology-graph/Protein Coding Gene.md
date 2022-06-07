@@ -1,5 +1,0 @@
-[[Evolution]]
-[[Phylogeny]]
-[[Mitochondrial genome]]
-[[Repeat sequence]]
-[[gene rearrangement]]

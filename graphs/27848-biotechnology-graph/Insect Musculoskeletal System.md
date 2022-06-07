@@ -1,5 +1,0 @@
-[[Flexibility]]
-[[Robustness]]
-[[Biomimetics]]
-[[Flapping Robot]]
-[[Mav (Micro Air Vehicle)]]

@@ -1,5 +1,0 @@
-[[Vaccine]]
-[[Virulence]]
-[[Biofilm]]
-[[adhesion]]
-[[Ata]]

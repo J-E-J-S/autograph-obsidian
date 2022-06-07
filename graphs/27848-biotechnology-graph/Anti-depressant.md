@@ -1,2 +1,0 @@
-[[Marasmius Androsaceus]]
-[[Catecholamine Monoamine]]

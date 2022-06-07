@@ -1,6 +1,0 @@
-[[Thermoplasmatales]]
-[[Sediment Microbiome]]
-[[Mine-impacted Environments]]
-[[Acidophilic Archaea And Bacteria]]
-[[“Candidatus Micrarchaeota”]]
-[[Unclassified Euryarchaeota/Terrestrial Miscellaneous Euryarchaeotal Group]]

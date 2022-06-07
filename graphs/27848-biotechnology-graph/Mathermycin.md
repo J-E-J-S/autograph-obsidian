@@ -1,2 +1,0 @@
-[[Phosphatidylethanolamine]]
-[[Anti-cancer]]

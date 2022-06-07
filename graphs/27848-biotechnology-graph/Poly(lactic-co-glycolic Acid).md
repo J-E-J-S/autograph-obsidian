@@ -1,5 +1,0 @@
-[[Anti-inflammation]]
-[[Biodegradable Polymers]]
-[[Magnesium Hydroxide]]
-[[Polymeric Microspheres]]
-[[Acid Neutralization]]

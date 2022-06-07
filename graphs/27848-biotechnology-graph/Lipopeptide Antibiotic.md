@@ -1,7 +1,0 @@
-[[Fermentation]]
-[[Mutagenesis]]
-[[Bioassay]]
-[[Rational screening]]
-[[Streptomyces roseosporus]]
-[[Daptomycin]]
-[[Streptomyces Filamentosus]]

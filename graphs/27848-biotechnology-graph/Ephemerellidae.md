@@ -1,3 +1,0 @@
-[[Ephemeroptera]]
-[[gene rearrangement]]
-[[Mitogenome]]

@@ -1,6 +1,0 @@
-[[Microinjection]]
-[[Housefly]]
-[[Fertilized egg]]
-[[Genetically modified]]
-[[Bacterial Community Dynamic Shift]]
-[[Crude Oil Bioaugmentation]]

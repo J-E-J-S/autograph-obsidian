@@ -1,5 +1,0 @@
-[[Cytokinin]]
-[[Phloem unloading]]
-[[ABC transporter]]
-[[Apoplastic Pathway]]
-[[Shoot Distribution]]

@@ -1,3 +1,0 @@
-[[Amylin]]
-[[Iapp]]
-[[Inhibitory Peptide]]

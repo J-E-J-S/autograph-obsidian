@@ -1,6 +1,0 @@
-[[Admixture]]
-[[Latin Americans]]
-[[Eye-colour]]
-[[Hair-colour]]
-[[Pigmentation Prediction]]
-[[Skin-colour]]

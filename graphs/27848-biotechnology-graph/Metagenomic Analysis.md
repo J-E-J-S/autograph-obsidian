@@ -1,7 +1,0 @@
-[[Functional analysis]]
-[[community composition]]
-[[Gut Microbiome]]
-[[Tetraodon Cutcutia]]
-[[Microbial community]]
-[[Functional Potential]]
-[[Chilika Lagoon]]

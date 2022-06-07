@@ -1,5 +1,0 @@
-[[Ovary]]
-[[Porcine]]
-[[Duroc]]
-[[Breed Differences]]
-[[In Vitro Oocyte Maturation]]

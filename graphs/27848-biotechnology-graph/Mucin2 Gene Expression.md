@@ -1,4 +1,0 @@
-[[Antioxidant]]
-[[Garlic]]
-[[Antibacterial]]
-[[Nanoencapsulation]]

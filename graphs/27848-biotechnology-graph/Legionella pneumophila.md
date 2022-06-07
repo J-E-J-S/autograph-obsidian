@@ -1,8 +1,0 @@
-[[Sepsis]]
-[[Anti-inflammatory]]
-[[Pulmonary infection]]
-[[Bactericidal]]
-[[Protein kinase]]
-[[Mob1]]
-[[Structural Rearrangement]]
-[[Legk7]]

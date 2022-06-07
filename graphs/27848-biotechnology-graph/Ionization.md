@@ -1,5 +1,0 @@
-[[drug discovery]]
-[[Zwitterion]]
-[[Lipophilicity]]
-[[Nonpolar Environments]]
-[[Bro5]]

@@ -1,5 +1,0 @@
-[[FISH]]
-[[pectin]]
-[[Ccd]]
-[[Icp/oes]]
-[[Dµspe]]

@@ -1,5 +1,0 @@
-[[Infectious disease]]
-[[Effector]]
-[[Vibrio vulnificus]]
-[[Virulence factor]]
-[[Cysteine Protease Domain]]

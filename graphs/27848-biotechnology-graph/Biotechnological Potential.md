@@ -1,5 +1,0 @@
-[[Polysaccharide]]
-[[Rhodococcus]]
-[[Cutinase]]
-[[Cazyme]]
-[[Phytopathogenic Property]]

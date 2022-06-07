@@ -1,5 +1,0 @@
-[[Leather]]
-[[Foam]]
-[[Manufacturing]]
-[[Chitin Nanopaper]]
-[[Fungal Mycelium]]

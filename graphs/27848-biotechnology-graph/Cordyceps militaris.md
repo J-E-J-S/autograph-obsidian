@@ -1,8 +1,0 @@
-[[PKC]]
-[[allergic rhinitis]]
-[[Syk]]
-[[Cm-ee]]
-[[Ca(2+) Ion Mobilization]]
-[[Silkworm larvae]]
-[[Entomopathogenic fungi]]
-[[cordycepin]]

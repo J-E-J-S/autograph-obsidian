@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Spectroscopy]]
-[[Antibacterial]]
-[[Anticonvulsant]]
-[[Molecular Dockin]]

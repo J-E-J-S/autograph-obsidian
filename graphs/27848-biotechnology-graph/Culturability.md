@@ -1,3 +1,0 @@
-[[habs]]
-[[VBNC]]
-[[Akashiwo Sanguinea]]

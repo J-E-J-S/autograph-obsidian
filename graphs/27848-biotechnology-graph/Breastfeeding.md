@@ -1,4 +1,0 @@
-[[Diet]]
-[[Infant]]
-[[Microbiota]]
-[[Xenobiotic]]

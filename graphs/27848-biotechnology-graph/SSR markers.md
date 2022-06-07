@@ -1,8 +1,0 @@
-[[Cluster analysis]]
-[[Genetic diversity]]
-[[Spinach]]
-[[Morphological traits]]
-[[Salinity stress]]
-[[Yield]]
-[[Common bean]]
-[[Association Mapping]]

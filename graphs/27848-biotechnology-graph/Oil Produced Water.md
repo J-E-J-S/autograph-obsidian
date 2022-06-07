@@ -1,6 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Hydrophobicity]]
-[[Biofilm]]
-[[Contact angle]]
-[[Di-rhamnolipid]]
-[[Mono-rhamnolipid]]

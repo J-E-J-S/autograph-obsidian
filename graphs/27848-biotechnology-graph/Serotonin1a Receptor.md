@@ -1,5 +1,0 @@
-[[Fumonisin B1]]
-[[Trafficking]]
-[[sphingomyelin]]
-[[Gpcr]]
-[[Sphingolipids]]

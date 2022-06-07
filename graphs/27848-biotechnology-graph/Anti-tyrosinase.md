@@ -1,2 +1,0 @@
-[[Antioxidant]]
-[[Structure-activity relationships]]

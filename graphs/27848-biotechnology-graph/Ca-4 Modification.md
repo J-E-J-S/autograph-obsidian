@@ -1,5 +1,0 @@
-[[Linker]]
-[[Anti-tumor]]
-[[Mitotic Catastrophe]]
-[[Tubulin Polymerization Inhibitor]]
-[[Benzothiazepine]]

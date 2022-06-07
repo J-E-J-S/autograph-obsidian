@@ -1,5 +1,0 @@
-[[Alzheimer's disease]]
-[[Beta amyloid]]
-[[Cognitive function]]
-[[Dementia]]
-[[Neprilysin]]

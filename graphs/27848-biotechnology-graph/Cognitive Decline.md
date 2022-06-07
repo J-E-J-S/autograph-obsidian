@@ -1,6 +1,0 @@
-[[Aging]]
-[[Hippocampus]]
-[[Neurogenesis]]
-[[Cognitive impairment]]
-[[Physical Exercise]]
-[[Neurotrophic Factors.]]

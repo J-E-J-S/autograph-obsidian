@@ -1,2 +1,0 @@
-[[Transglycosylation]]
-[[Triazinyl Glycoside]]

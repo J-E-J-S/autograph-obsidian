@@ -1,8 +1,0 @@
-[[Ethanol Fermentation]]
-[[Zymomonas mobilis]]
-[[Phenolic Aldehyde Inhibitors]]
-[[Zmo1721]]
-[[Crystal structure]]
-[[Auxin Homeostasis]]
-[[Atdao1]]
-[[Iaa Catabolism]]

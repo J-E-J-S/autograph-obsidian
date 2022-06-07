@@ -1,6 +1,0 @@
-[[Genetics]]
-[[Retinoic acid]]
-[[Fetal development]]
-[[Aldh1a2]]
-[[Diaphragmatic Defects]]
-[[Respiratory Defects]]

@@ -1,5 +1,0 @@
-[[Gene pool]]
-[[Brassica]]
-[[Genomic Changes]]
-[[Exotic Introgressions]]
-[[Polyploid Crop]]

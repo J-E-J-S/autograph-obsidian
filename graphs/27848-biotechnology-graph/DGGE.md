@@ -1,5 +1,0 @@
-[[Organic matter]]
-[[Altitude]]
-[[Phosphate]]
-[[Bacterial diversity]]
-[[Microbial Hotspot]]

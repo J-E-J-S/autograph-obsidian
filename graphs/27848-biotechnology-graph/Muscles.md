@@ -1,5 +1,0 @@
-[[Bighead carp]]
-[[Transcriptome]]
-[[vertebrae]]
-[[Differentially Expressed Genes (Degs)]]
-[[Body Deformity]]

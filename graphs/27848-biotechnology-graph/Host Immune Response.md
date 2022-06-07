@@ -1,6 +1,0 @@
-[[Humoral immunity]]
-[[Microsporidia]]
-[[Cell-mediated immunity]]
-[[Encephalitozoonosis]]
-[[Toll-like receptors]]
-[[innate immunity]]

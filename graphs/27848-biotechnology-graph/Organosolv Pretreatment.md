@@ -1,5 +1,0 @@
-[[Lignocellulose]]
-[[Alkaline Glycerol]]
-[[Glycerol Pretreatment]]
-[[Sorghum Biomass]]
-[[Acidic Glycerol]]

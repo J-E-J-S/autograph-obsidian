@@ -1,6 +1,0 @@
-[[Klebsiella pneumoniae]]
-[[Biodegradation]]
-[[Pharmaceuticals]]
-[[Free radical]]
-[[Fenton-like]]
-[[Nano-calcium Peroxide]]

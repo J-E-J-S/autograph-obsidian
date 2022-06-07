@@ -1,7 +1,0 @@
-[[Physicochemical property]]
-[[Simulated Intestinal Fluid]]
-[[Turanose]]
-[[Functional Sweetener]]
-[[Mass spectrometry]]
-[[allergen]]
-[[Plant Biotechnology]]

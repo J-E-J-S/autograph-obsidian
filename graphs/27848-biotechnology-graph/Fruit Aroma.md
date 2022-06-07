@@ -1,3 +1,0 @@
-[[Transcription factor]]
-[[Linalool]]
-[[Epigenetics]]

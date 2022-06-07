@@ -1,5 +1,0 @@
-[[Phylogenetic analysis]]
-[[Newcastle disease]]
-[[Complete genome]]
-[[Pakistan]]
-[[Vii.2]]

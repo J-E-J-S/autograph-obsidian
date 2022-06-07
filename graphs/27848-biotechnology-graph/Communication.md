@@ -1,3 +1,0 @@
-[[Hospice]]
-[[Consolation]]
-[[Comfort Care]]

@@ -1,5 +1,0 @@
-[[Degradation]]
-[[Rhodamine B]]
-[[photocatalysis]]
-[[Visible Light]]
-[[Agvo(3)/bioi]]

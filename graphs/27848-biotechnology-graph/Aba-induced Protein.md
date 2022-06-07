@@ -1,7 +1,0 @@
-[[Abscisic acid]]
-[[Wheat]]
-[[Drought]]
-[[stomatal closure]]
-[[Stress-responsive Genes]]
-[[Ripening-induced Protein]]
-[[Stress-induced Protein]]

@@ -1,5 +1,0 @@
-[[Microbial degradation]]
-[[Resource Recovery]]
-[[Industrial Process]]
-[[Waste Generation]]
-[[Dye Industry Wastewater]]

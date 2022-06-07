@@ -1,5 +1,0 @@
-[[Soil]]
-[[Cell viability]]
-[[Sunflower seeds]]
-[[Xanthan Pruni Production]]
-[[Xanthan Pruni Quality]]

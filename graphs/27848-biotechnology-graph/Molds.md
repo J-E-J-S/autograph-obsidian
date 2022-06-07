@@ -1,5 +1,0 @@
-[[Bacteria]]
-[[Energy value]]
-[[Proximate Composition]]
-[[Comparison Analysis]]
-[[Extruded Food]]

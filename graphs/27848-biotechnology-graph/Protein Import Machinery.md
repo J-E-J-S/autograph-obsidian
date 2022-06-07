@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Neurodegeneration]]
-[[Alzheimer’s disease]]
-[[Parkinson’s Disease]]
-[[Mitochondrial Biogenesis]]

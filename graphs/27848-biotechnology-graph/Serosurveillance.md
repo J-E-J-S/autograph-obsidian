@@ -1,5 +1,0 @@
-[[Rabies]]
-[[ELISA]]
-[[Dogs]]
-[[Antibody titre]]
-[[Anti-rabies Vaccine]]

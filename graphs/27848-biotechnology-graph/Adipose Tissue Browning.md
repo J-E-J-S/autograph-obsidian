@@ -1,5 +1,0 @@
-[[Mitogen-activated protein kinase]]
-[[AMP-activated protein kinase]]
-[[Energy Expenditure]]
-[[Mitochondrial Activity]]
-[[Withaferin A]]

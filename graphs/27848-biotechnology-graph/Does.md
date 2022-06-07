@@ -1,3 +1,0 @@
-[[FMD]]
-[[Folliculogenesis]]
-[[Ovarian Activity]]

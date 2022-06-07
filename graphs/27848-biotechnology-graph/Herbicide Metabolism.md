@@ -1,5 +1,0 @@
-[[Echinochloa crusgalli]]
-[[Antioxidant enzyme]]
-[[GST activity]]
-[[Fenclorim]]
-[[Pretilachlor]]

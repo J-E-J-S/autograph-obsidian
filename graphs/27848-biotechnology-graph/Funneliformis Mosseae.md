@@ -1,6 +1,0 @@
-[[Vitis vinifera]]
-[[Grapevine]]
-[[Arbuscular mycorrhizal fungi]]
-[[Methyl Salicylate]]
-[[Volatile Organic Compound]]
-[[(E)–2–hexenal]]

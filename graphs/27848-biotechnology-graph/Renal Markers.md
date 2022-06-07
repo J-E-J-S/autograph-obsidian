@@ -1,5 +1,0 @@
-[[Acute toxicity]]
-[[Streptozotocin]]
-[[Mitochondrial Enzymes]]
-[[Hepatic Markers]]
-[[Cinnamon Cassia]]

@@ -1,6 +1,0 @@
-[[Melanin]]
-[[Pigmentation]]
-[[albinism]]
-[[Rare Diseases]]
-[[Oculocutaneous Albinism]]
-[[Hermansky-pudlak Syndrome]]

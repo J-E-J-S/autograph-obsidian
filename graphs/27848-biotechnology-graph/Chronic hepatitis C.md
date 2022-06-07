@@ -1,5 +1,0 @@
-[[Diabetes mellitus]]
-[[Cirrhosis]]
-[[Blood Glucose]]
-[[fibrosis]]
-[[Progression]]

@@ -1,7 +1,0 @@
-[[Oct4]]
-[[Igfbp2]]
-[[Trim33]]
-[[Prognosis]]
-[[Prognostic factor]]
-[[alk]]
-[[Overall Survival]]

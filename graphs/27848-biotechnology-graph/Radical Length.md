@@ -1,5 +1,0 @@
-[[Epidermis]]
-[[Chloroplast]]
-[[Germination rate]]
-[[Iron oxide]]
-[[Transmission Microscope]]

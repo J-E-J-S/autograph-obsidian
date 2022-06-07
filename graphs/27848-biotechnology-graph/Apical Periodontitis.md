@@ -1,5 +1,0 @@
-[[Candida albicans]]
-[[Probiotics]]
-[[Root canal treatment]]
-[[Enterococcus faecalis]]
-[[pathogens]]

@@ -1,5 +1,0 @@
-[[Receptivity]]
-[[Calling]]
-[[Male Accessory Glands]]
-[[Pheromonostasis]]
-[[Seminal Fluid Protein]]

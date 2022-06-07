@@ -1,3 +1,0 @@
-[[Does]]
-[[FMD]]
-[[Folliculogenesis]]

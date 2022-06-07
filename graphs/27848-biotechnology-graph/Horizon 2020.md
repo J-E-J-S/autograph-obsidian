@@ -1,7 +1,0 @@
-[[Drugs]]
-[[Food]]
-[[marine biotechnology]]
-[[Trl]]
-[[Pharmaceutical Applications]]
-[[Blue Growth]]
-[[Market Trend]]

@@ -1,4 +1,0 @@
-[[Polysaccharide]]
-[[Biocompatibility]]
-[[Carrageenan]]
-[[hydrogel]]

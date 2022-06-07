@@ -1,2 +1,0 @@
-[[Rhizosphere]]
-[[Apium graveolens]]

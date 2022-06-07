@@ -1,5 +1,0 @@
-[[Sustainable agriculture]]
-[[Gene Clustering]]
-[[Plant–microbe Interactions]]
-[[Endophyte Colonization]]
-[[Bio-protective Alkaloids]]

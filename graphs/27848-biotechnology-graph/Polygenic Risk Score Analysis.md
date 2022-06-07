@@ -1,5 +1,0 @@
-[[Pharmacogenomics]]
-[[Cytochrome p450]]
-[[Major Depressive Disorder]]
-[[Gwas]]
-[[Therapy Efficacy And Safety]]

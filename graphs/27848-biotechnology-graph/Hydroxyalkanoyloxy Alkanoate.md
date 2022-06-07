@@ -1,7 +1,0 @@
-[[Terephthalic acid]]
-[[Ethylene glycol]]
-[[metabolic engineering]]
-[[Polyethylene Terephthalate]]
-[[Adaptive Laboratory Evolution]]
-[[Plastics Bio-upcycling]]
-[[Pseudomonas Umsongensis Go16]]

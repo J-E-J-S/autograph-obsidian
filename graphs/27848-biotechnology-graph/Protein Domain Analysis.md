@@ -1,5 +1,0 @@
-[[Classification]]
-[[Evolutionary significance]]
-[[Multiple sequence alignment]]
-[[Mutational Analysis]]
-[[Mammalian Shsps]]

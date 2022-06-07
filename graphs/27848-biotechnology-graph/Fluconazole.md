@@ -1,5 +1,0 @@
-[[Gelatin]]
-[[Amorphous Solid Dispersion]]
-[[Skin Penetration]]
-[[Bioadhesive Films]]
-[[Snail Mucus Extract]]

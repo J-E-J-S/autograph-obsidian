@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Cell cycle]]
-[[Male reproduction]]
-[[Upr]]
-[[Luman/creb3]]

@@ -1,3 +1,0 @@
-[[Aging]]
-[[Insulin]]
-[[Growth hormone]]

@@ -1,5 +1,0 @@
-[[Seed development]]
-[[Organ growth]]
-[[Agronomic trait]]
-[[leaf development]]
-[[Crop Engineering]]

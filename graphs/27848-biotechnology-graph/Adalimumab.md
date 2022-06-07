@@ -1,8 +1,0 @@
-[[Pharmacokinetics]]
-[[Fab fragment]]
-[[Half-life]]
-[[Albumin Binding Domain]]
-[[Monoclonal antibody]]
-[[In silico]]
-[[MAb]]
-[[Affinity Engineering]]

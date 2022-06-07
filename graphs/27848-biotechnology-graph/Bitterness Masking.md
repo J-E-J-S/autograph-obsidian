@@ -1,2 +1,0 @@
-[[Dipeptide]]
-[[Bitter Taste Receptor]]

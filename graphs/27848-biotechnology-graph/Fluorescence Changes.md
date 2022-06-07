@@ -1,3 +1,0 @@
-[[Synthesis]]
-[[Degradation]]
-[[Hplc Separation]]

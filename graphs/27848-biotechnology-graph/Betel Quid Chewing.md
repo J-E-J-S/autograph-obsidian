@@ -1,6 +1,0 @@
-[[Polymorphism]]
-[[Genotype]]
-[[Taiwan]]
-[[Smoking]]
-[[Oral Cancer]]
-[[Xpc]]

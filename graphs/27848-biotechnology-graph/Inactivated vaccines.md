@@ -1,5 +1,0 @@
-[[Lates calcarifer]]
-[[Antibody response]]
-[[Streptococcus Agalactiae]]
-[[Streptococcus Iniae]]
-[[Asian Seabass]]

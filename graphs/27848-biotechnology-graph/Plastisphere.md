@@ -1,5 +1,0 @@
-[[Biofilm]]
-[[Plastic]]
-[[marine bacteria]]
-[[Microbiome]]
-[[Microbial Colonization]]

@@ -1,5 +1,0 @@
-[[One-pot]]
-[[Deracemization]]
-[[Amino Acid Dehydrogenase]]
-[[Enzyme Cascade]]
-[[L-phosphinothricin]]

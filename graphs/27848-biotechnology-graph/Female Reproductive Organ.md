@@ -1,6 +1,0 @@
-[[Pollination]]
-[[Fertilization]]
-[[Pistil]]
-[[Heat stress]]
-[[Ovule development]]
-[[Embryo Formation]]

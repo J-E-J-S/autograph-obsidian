@@ -1,6 +1,0 @@
-[[Convolvulaceae]]
-[[Cuscuta]]
-[[Genome size]]
-[[Repetitive DNA]]
-[[Holocentric Chromosomes]]
-[[Monocentric Chromosomes]]

@@ -1,3 +1,0 @@
-[[Ethics]]
-[[Emergency Department]]
-[[Principlism]]

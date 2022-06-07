@@ -1,5 +1,0 @@
-[[Streptavidin]]
-[[biotin]]
-[[Competition Assay]]
-[[Magnetic Bead]]
-[[Recombinant Endospores]]

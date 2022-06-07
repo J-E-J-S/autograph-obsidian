@@ -1,4 +1,0 @@
-[[Chitosan]]
-[[PVA]]
-[[adsorption]]
-[[hydrogel]]

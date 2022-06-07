@@ -1,6 +1,0 @@
-[[Protein engineering]]
-[[Site-directed mutagenesis]]
-[[Kinetic analysis]]
-[[Tyrosinase]]
-[[X-ray Structure]]
-[[Thermothelomyces Thermophila]]

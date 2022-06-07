@@ -1,5 +1,0 @@
-[[Soybean]]
-[[Sustainable agriculture]]
-[[Macrophomina phaseolina]]
-[[Bca]]
-[[Bioformulations]]

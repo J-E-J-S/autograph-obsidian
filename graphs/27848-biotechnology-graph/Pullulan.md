@@ -1,6 +1,0 @@
-[[Pharmaceutical Industry]]
-[[Biomedical Industry]]
-[[Regulation]]
-[[Biosynthetic pathway]]
-[[Aureobasidium Spp.]]
-[[Amags2]]

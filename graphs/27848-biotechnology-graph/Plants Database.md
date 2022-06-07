@@ -1,5 +1,0 @@
-[[Lipase]]
-[[Homology modeling]]
-[[Docking]]
-[[Molecular Dynamic Simulations]]
-[[Binding Efficiency]]

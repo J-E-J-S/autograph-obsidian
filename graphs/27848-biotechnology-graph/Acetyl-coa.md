@@ -1,7 +1,0 @@
-[[Bacteria]]
-[[Glucose]]
-[[metabolic engineering]]
-[[Saccharomyces cerevisiae]]
-[[Fatty acid]]
-[[Malonyl-coa]]
-[[(2S)-naringenin]]

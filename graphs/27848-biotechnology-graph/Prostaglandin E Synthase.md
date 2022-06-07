@@ -1,2 +1,0 @@
-[[Lepidoptera]]
-[[Prostaglandin]]

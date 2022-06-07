@@ -1,5 +1,0 @@
-[[Artemisinin]]
-[[Artemisia annua]]
-[[Light Signaling]]
-[[Jasmonate (Ja)]]
-[[Aawrky9]]

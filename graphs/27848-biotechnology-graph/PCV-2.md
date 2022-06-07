@@ -1,5 +1,0 @@
-[[Infection]]
-[[ELISA]]
-[[CSFV]]
-[[PPV]]
-[[Reproductive Failure]]

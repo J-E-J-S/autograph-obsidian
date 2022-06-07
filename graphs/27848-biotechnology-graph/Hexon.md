@@ -1,5 +1,0 @@
-[[Vaccine]]
-[[Epitope]]
-[[virus-like particle]]
-[[Hydropericardium Syndrome]]
-[[Adenoviridae Family]]

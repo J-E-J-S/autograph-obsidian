@@ -1,4 +1,0 @@
-[[Carotenoids]]
-[[Azospirillum]]
-[[Uplc]]
-[[Bacterioruberin]]

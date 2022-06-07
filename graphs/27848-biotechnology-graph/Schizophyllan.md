@@ -1,8 +1,0 @@
-[[Paclitaxel]]
-[[Polymeric micelle]]
-[[Stearic Acid Modified Schizophyllan]]
-[[Optimization]]
-[[Schizophyllum commune]]
-[[Talc]]
-[[Microparticles]]
-[[Aluminium Oxide]]

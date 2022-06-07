@@ -1,5 +1,0 @@
-[[Metabolomics]]
-[[Plant Growth Promotion (Pgp)]]
-[[Bacterial Endophytes]]
-[[Rice Productivity]]
-[[Intra- And Inter-cultivar]]

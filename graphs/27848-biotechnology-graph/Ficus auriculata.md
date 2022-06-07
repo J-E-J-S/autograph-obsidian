@@ -1,2 +1,0 @@
-[[Isoflavones]]
-[[Antibacterial activity]]

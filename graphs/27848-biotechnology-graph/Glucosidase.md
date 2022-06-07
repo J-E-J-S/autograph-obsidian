@@ -1,6 +1,0 @@
-[[Amylase]]
-[[PHB]]
-[[Hydrolytic enzyme]]
-[[protein secretion]]
-[[Halomonas]]
-[[Next Generation Industrial Biotechnology]]

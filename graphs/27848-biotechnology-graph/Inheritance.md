@@ -1,5 +1,0 @@
-[[Resistance]]
-[[Bacillus thuringiensis]]
-[[Genetic]]
-[[Helicoverpa zea]]
-[[Vip3aa]]

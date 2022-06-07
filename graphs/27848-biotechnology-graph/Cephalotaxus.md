@@ -1,5 +1,0 @@
-[[Pharmacology]]
-[[Bioactivity]]
-[[alkaloids]]
-[[Ethnomedicine]]
-[[Chemodiversity]]

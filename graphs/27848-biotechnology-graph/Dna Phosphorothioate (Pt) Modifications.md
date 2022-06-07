@@ -1,5 +1,0 @@
-[[Antibiotic resistance genes]]
-[[drinking water]]
-[[Chloramine Disinfection]]
-[[Mobilized Colistin Resistance (Mcr) Genes]]
-[[New Delhi Metallo-beta-lactamase (Ndm) Genes]]

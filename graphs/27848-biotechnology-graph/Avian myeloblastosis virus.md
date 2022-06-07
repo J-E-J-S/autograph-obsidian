@@ -1,2 +1,0 @@
-[[Reverse transcriptase]]
-[[Trc Reaction]]

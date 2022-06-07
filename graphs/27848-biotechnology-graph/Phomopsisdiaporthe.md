@@ -1,5 +1,0 @@
-[[Endophytes]]
-[[Chickpea]]
-[[Ascochyta Rabiei]]
-[[Peperomia Obtusifolia]]
-[[Phomopsis/diaporthe]]

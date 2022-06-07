@@ -1,6 +1,0 @@
-[[Copper]]
-[[Regeneration]]
-[[Cartilage]]
-[[hypoxia-inducible factor]]
-[[Lysyl Oxidase]]
-[[Transcription Activity]]

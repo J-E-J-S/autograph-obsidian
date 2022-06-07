@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Allergy]]
-[[Phagocytosis]]
-[[Anticancer]]
-[[Silver Nanoparticles]]

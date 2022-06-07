@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[HSP70]]
-[[Chaperone]]
-[[HSP]]
-[[Stress Granules]]

@@ -1,5 +1,0 @@
-[[ELISA]]
-[[Toxoplasma gondii]]
-[[LAMP]]
-[[Gra5]]
-[[Igg And Igm]]

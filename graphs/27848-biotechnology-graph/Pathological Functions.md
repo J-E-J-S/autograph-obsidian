@@ -1,5 +1,0 @@
-[[Alzheimer's disease]]
-[[Neurofibrillary tangles]]
-[[tau Protein]]
-[[Neurodegeneration]]
-[[hyperphosphorylation]]

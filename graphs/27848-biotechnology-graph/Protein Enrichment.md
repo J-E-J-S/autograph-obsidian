@@ -1,5 +1,0 @@
-[[Mass spectrometry]]
-[[Sample preparation]]
-[[groEL]]
-[[Biothreat Agent]]
-[[Groeprotein Enrichment.]]

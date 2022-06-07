@@ -1,6 +1,0 @@
-[[Mitochondria]]
-[[Antioxidant]]
-[[Watermelon]]
-[[Starch granule]]
-[[Symplastic]]
-[[Apoplastic]]

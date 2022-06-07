@@ -1,5 +1,0 @@
-[[Carotenoids]]
-[[Isoprenoid]]
-[[Haloarchaea]]
-[[Bacterioruberin]]
-[[Natural Biosources]]

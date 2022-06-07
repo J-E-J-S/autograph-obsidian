@@ -1,5 +1,0 @@
-[[Antibacterial property]]
-[[Radical Scavenging Activity]]
-[[Lipase-catalyzed Esterification]]
-[[Micellar Thermodynamics]]
-[[Multi-functional Emulsifier]]

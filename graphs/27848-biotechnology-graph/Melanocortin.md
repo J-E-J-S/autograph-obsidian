@@ -1,5 +1,0 @@
-[[Growth]]
-[[Stress]]
-[[Obesity]]
-[[Zebrafish]]
-[[Transgenic]]

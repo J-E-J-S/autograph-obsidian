@@ -1,6 +1,0 @@
-[[Biotechnology]]
-[[Microfluidics]]
-[[Single-cell Analysis]]
-[[Droplet Microfluidics]]
-[[Organ-on-a-chip]]
-[[Single-cell Cultivation]]

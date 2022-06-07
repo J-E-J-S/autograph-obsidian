@@ -1,5 +1,0 @@
-[[Nitric oxide]]
-[[Inflammation]]
-[[Asthma]]
-[[Rat Paw-edema]]
-[[Vernonia Zeylanica]]

@@ -1,5 +1,0 @@
-[[Cell cycle]]
-[[Retinoblastoma]]
-[[Anaphase Promoting Complex/cyclosome]]
-[[Fzr1]]
-[[Lxcxe Motif]]

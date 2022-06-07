@@ -1,5 +1,0 @@
-[[Soybean]]
-[[Salt tolerance]]
-[[Gene Expression]]
-[[Na+ Transport]]
-[[Na+/h+ Antiporter (Nhx)]]

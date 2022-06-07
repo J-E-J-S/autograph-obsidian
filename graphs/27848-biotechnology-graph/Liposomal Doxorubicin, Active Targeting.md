@@ -1,2 +1,0 @@
-[[Epcam]]
-[[Rna Aptamer]]

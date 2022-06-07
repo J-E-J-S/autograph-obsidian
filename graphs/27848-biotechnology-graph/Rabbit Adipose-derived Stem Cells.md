@@ -1,3 +1,0 @@
-[[Acetate]]
-[[Lipometabolism]]
-[[signaling pathways]]

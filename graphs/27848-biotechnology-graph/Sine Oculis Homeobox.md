@@ -1,6 +1,0 @@
-[[Development]]
-[[Hybridization]]
-[[In situ]]
-[[Sensory organs]]
-[[Atlantic Salmon]]
-[[Six6]]

@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[mass spectrometry (MS)]]
-[[Degradation Product(s)]]
-[[Drug-excipient Interaction(s)]]
-[[Peptide(s)]]

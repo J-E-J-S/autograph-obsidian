@@ -1,5 +1,0 @@
-[[Biosurfactant]]
-[[Emulsification]]
-[[Laccase activity]]
-[[Biofilm Production]]
-[[Drop Collapse]]

@@ -1,6 +1,0 @@
-[[Monte Carlo simulation]]
-[[Antimicrobial resistance]]
-[[Density Functional Theory (Dft)]]
-[[Antimicrobial Peptides (Amps)]]
-[[Homo And Lumo]]
-[[Ocellatin]]

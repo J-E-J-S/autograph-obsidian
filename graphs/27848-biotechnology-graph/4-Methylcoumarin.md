@@ -1,5 +1,0 @@
-[[Amyloidosis]]
-[[Amyloid Fibril]]
-[[Hewl]]
-[[Anti-amyloidogenic Activity]]
-[[4-Methylthiocoumarin]]

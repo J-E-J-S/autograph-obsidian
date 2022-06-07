@@ -1,8 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Staphylococcus aureus]]
-[[QUinolones]]
-[[Quorum sensing]]
-[[Flavin Monooxygenases]]
-[[Mycobacteroides Abscessus]]
-[[Alkylhydroxyquinoline N-oxides]]
-[[Alkylquinolones]]

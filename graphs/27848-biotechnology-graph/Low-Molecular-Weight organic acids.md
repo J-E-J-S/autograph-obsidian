@@ -1,4 +1,0 @@
-[[Phenanthrene]]
-[[Mechanism]]
-[[Proteomics]]
-[[Metabolomics]]

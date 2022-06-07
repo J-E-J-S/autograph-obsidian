@@ -1,5 +1,0 @@
-[[Hepatocellular carcinoma]]
-[[Cyclooxygenase-2]]
-[[CD133]]
-[[ABCG2]]
-[[Cancer Stem Cells]]

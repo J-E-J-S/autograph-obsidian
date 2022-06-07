@@ -1,7 +1,0 @@
-[[Plant tissue culture]]
-[[Sterilization]]
-[[Plant biodiversity]]
-[[Indigenous]]
-[[Insect]]
-[[Plant Transcriptomes]]
-[[Pou Domain Protein]]

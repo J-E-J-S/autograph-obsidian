@@ -1,8 +1,0 @@
-[[Homeobox gene]]
-[[water deficit]]
-[[Aba-dependent Pathway]]
-[[Plant defence]]
-[[Volatile Organic Compounds (VOCs)]]
-[[Anthonomus Grandis]]
-[[Herbivore Resistance]]
-[[Terpenoid Aldehydes]]

@@ -1,5 +1,0 @@
-[[Orlistat]]
-[[Withania Somnifera]]
-[[Pancreatic Lipase Inhibitor]]
-[[Plasma Triglyceride]]
-[[Pentacyclic Triterpenoids]]

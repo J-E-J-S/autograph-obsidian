@@ -1,3 +1,0 @@
-[[UV irradiation]]
-[[Prodigiosin]]
-[[Kratinocyte]]

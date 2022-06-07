@@ -1,8 +1,0 @@
-[[Vegetable oil]]
-[[Retrogradation]]
-[[Wheat Starch]]
-[[Starch-lipid Complex]]
-[[Corncob]]
-[[Lignin Nanoparticles]]
-[[Enzymatic Hydrolysis Residues]]
-[[Lignin-containing Cellulose Nanofibrils]]

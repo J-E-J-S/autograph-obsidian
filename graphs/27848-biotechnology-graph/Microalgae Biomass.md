@@ -1,3 +1,0 @@
-[[Cyanobacteria]]
-[[Solenoid]]
-[[Ferrite Magnets]]

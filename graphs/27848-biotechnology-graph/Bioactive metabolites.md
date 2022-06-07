@@ -1,5 +1,0 @@
-[[Antioxidant activity]]
-[[Antibacterial activity]]
-[[MIC]]
-[[Silver Nanoparticles]]
-[[T. Harzianum Filtrate]]

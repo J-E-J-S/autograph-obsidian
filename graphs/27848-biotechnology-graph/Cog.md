@@ -1,6 +1,0 @@
-[[Transcription factors]]
-[[gene ontology]]
-[[G-quadruplex]]
-[[Ppi Network]]
-[[Orthologous Genes]]
-[[Regulatory Region]]

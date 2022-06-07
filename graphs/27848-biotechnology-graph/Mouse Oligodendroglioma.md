@@ -1,6 +1,0 @@
-[[Transcription factors]]
-[[Tumorigenesis]]
-[[Human glioblastoma]]
-[[Cancer Stem Cells]]
-[[Gene Regulatory Networks]]
-[[Sox2]]

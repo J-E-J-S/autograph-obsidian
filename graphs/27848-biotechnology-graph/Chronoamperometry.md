@@ -1,5 +1,0 @@
-[[Glucose oxidase]]
-[[Inhibition]]
-[[Hexavalent chromium]]
-[[Screen-printed Carbon Electrode]]
-[[Paper Biosensor]]

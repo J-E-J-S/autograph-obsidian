@@ -1,5 +1,0 @@
-[[Molecular phylogeny]]
-[[Gallbladder]]
-[[Myxospores]]
-[[Myxosporeans]]
-[[Marine Ornamentals]]

@@ -1,2 +1,0 @@
-[[Apoptosis inducing factor]]
-[[Nafld]]

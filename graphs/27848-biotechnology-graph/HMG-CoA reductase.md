@@ -1,8 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Squalene]]
-[[metabolic engineering]]
-[[Farnesene Synthase]]
-[[Yarrowia lipolytica]]
-[[Squalene]]
-[[Bioprocess Engineering]]
-[[Diacylglycerol Acyltranferase]]

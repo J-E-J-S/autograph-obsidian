@@ -1,6 +1,0 @@
-[[MTT assay]]
-[[Anticancer activity]]
-[[Antibacterial Properties]]
-[[Antibiofilm Activity]]
-[[Tio2nps]]
-[[Ludwigia Octovalvis]]

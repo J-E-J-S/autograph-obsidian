@@ -1,5 +1,0 @@
-[[Broad-spectrum disease resistance]]
-[[Pattern Recognition Receptor]]
-[[Citrus Canker]]
-[[Citrus Variegated Chlorosis (Cvc)]]
-[[Outer Membrane Vesicle (Omv)]]

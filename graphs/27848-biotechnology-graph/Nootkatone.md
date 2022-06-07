@@ -1,2 +1,0 @@
-[[Artemisia annua]]
-[[Synthetic Biology]]

@@ -1,5 +1,0 @@
-[[Species richness]]
-[[Landscape connectivity]]
-[[Aquatic insects]]
-[[Biotic Filtering]]
-[[Joint Species-distribution Modeling]]

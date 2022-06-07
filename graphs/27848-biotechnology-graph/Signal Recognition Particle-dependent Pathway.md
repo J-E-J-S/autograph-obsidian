@@ -1,2 +1,0 @@
-[[Extracellular Secretion]]
-[[Cela]]

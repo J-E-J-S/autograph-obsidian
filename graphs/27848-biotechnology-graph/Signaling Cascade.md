@@ -1,5 +1,0 @@
-[[Bacterial toxins]]
-[[Virulence]]
-[[Pathogenesis]]
-[[food poisoning]]
-[[Foodborne Diseases]]

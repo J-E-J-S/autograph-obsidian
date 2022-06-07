@@ -1,6 +1,0 @@
-[[Phage display]]
-[[serological diagnosis]]
-[[Immunophenotyping]]
-[[Nanobody]]
-[[Immunoglobulin Igm]]
-[[Immunoassay/elisa]]

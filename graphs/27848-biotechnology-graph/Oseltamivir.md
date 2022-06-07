@@ -1,5 +1,0 @@
-[[Susceptibility]]
-[[Avian Influenza Virus]]
-[[neuraminidase inhibitor]]
-[[N294s]]
-[[A(h5n8)]]

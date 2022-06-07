@@ -1,3 +1,0 @@
-[[Camphor]]
-[[Enzymatic resolution]]
-[[Racemate]]

@@ -1,5 +1,0 @@
-[[Renewable energy]]
-[[labor]]
-[[Capital]]
-[[Economic Growth]]
-[[Non-renewable Energy]]

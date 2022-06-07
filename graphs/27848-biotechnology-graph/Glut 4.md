@@ -1,6 +1,0 @@
-[[HPLC]]
-[[Antioxidant]]
-[[GC-MS]]
-[[Ginger]]
-[[Diabetes]]
-[[Active Compounds]]

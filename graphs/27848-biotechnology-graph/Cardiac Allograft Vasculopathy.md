@@ -1,3 +1,0 @@
-[[Transplantation]]
-[[fibrosis]]
-[[Hmgb1]]

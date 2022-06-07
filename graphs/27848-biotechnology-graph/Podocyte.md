@@ -1,5 +1,0 @@
-[[Insulin resistance]]
-[[Autophagy]]
-[[Glucose uptake]]
-[[Ampk]]
-[[Albumin Permeability]]

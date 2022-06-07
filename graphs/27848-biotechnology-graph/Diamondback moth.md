@@ -1,7 +1,0 @@
-[[IPM]]
-[[Molecular characterization]]
-[[Farnesol Dehydrogenase]]
-[[Scanning electron microscopy]]
-[[Entomopathogenic fungi]]
-[[Infection process]]
-[[Metabolomic Analysis]]

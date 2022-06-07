@@ -1,5 +1,0 @@
-[[Polyunsaturated fatty acids]]
-[[Docosahexaenoic acid]]
-[[Fish oil]]
-[[Beef cattle]]
-[[N6:n3 Ratio]]

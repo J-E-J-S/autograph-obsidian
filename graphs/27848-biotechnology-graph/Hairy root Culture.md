@@ -1,5 +1,0 @@
-[[heterologous expression]]
-[[Synthetic Biology]]
-[[Atropa Belladonna]]
-[[Curcumin & Curcumin Monoglucoside]]
-[[Curcuminoid Synthases]]

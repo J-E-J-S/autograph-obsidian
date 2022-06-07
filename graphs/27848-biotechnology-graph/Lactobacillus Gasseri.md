@@ -1,5 +1,0 @@
-[[Lactate dehydrogenase]]
-[[Gene disruption]]
-[[Bioplastics]]
-[[Wheat Straw Hydrolysate]]
-[[Optically Pure Lactate]]

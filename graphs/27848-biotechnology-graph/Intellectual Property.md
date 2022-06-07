@@ -1,3 +1,0 @@
-[[Biotechnology]]
-[[Filamentous fungi]]
-[[Patents]]

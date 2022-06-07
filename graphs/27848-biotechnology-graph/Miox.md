@@ -1,5 +1,0 @@
-[[Arabidopsis thaliana]]
-[[Wheat]]
-[[Abiotic stress]]
-[[Myo-inositol]]
-[[Inducible promoter]]

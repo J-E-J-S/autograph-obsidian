@@ -1,5 +1,0 @@
-[[Rice]]
-[[QTL]]
-[[T-DNA]]
-[[Crispr-cas9]]
-[[Sgrna]]

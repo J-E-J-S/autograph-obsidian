@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Genetic engineering]]
-[[metabolic engineering]]
-[[Acetogen]]
-[[Fuels And Chemicals]]

@@ -1,6 +1,0 @@
-[[Methanol]]
-[[Inducer]]
-[[Formate]]
-[[Komagataella Phaffii (Pichia Pastoris)]]
-[[Methanol Uptake]]
-[[Mut Phenotype]]

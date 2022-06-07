@@ -1,8 +1,0 @@
-[[Yeast]]
-[[Autophagy]]
-[[Intracellular Trafficking]]
-[[fluorescent microscopy]]
-[[Atg8]]
-[[Atg9]]
-[[Cvt Pathway]]
-[[Pulse-chase]]

@@ -1,3 +1,0 @@
-[[Fungi]]
-[[Sugar transporters]]
-[[Metatranscriptomics]]

@@ -1,5 +1,0 @@
-[[Fluorescence polarization]]
-[[Surface plasmon resonance]]
-[[Protein-peptide Interactions]]
-[[Biolaye Interferometry]]
-[[Set1/mll Proteins]]

@@ -1,5 +1,0 @@
-[[Mitochondria]]
-[[Neurodegenerative diseases]]
-[[Mitochondrial Dynamics]]
-[[Miro]]
-[[Ca(2+) Homeostasis]]

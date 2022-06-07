@@ -1,5 +1,0 @@
-[[Clinical Trials]]
-[[Cancer Therapeutics]]
-[[In Silico Study]]
-[[Ethnomedicinal Uses]]
-[[Mushroom Extracts]]

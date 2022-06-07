@@ -1,5 +1,0 @@
-[[Surface display]]
-[[Pharmaceuticals]]
-[[Droplet Cell Sorting]]
-[[Rare Cell Isolation]]
-[[Flow Cytometry Sorting]]

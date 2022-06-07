@@ -1,2 +1,0 @@
-[[Chitosan]]
-[[Mixed Species Biofilm]]

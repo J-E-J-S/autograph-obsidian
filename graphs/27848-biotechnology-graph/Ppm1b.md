@@ -1,5 +1,0 @@
-[[Phosphatase]]
-[[Tau]]
-[[Alzheimer’s disease]]
-[[kinase]]
-[[Dyrk1a]]

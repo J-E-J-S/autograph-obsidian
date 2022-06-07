@@ -1,6 +1,0 @@
-[[Cell death]]
-[[Vinculin]]
-[[Adherens Junction]]
-[[Entosis]]
-[[Cell-in-cell Structures]]
-[[Mechanical Ring]]

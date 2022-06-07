@@ -1,5 +1,0 @@
-[[Tubulin]]
-[[Microtubule]]
-[[Antitumor]]
-[[Virtual Screening]]
-[[Crystal Structure Of Complex]]

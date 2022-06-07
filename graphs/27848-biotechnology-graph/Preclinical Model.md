@@ -1,6 +1,0 @@
-[[Protein kinase activity]]
-[[Genetic Fingerprint]]
-[[Kinome]]
-[[Non–small Cell Lung Cancer]]
-[[Peptide Microarray]]
-[[Patient-derived Tumour Xenograft]]

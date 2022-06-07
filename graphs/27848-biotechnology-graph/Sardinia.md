@@ -1,2 +1,0 @@
-[[Tick]]
-[[Amblyomma Variegatum]]

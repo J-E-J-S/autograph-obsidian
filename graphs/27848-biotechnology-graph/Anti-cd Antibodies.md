@@ -1,3 +1,0 @@
-[[Tams]]
-[[Tme]]
-[[Hipscs]]

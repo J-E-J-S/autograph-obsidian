@@ -1,5 +1,0 @@
-[[Genetic diversity]]
-[[SNP]]
-[[Leptin gene]]
-[[haplotype]]
-[[Ethiopia]]

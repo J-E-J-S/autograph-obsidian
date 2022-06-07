@@ -1,8 +1,0 @@
-[[ELISA]]
-[[Neuraminidase]]
-[[Sialic acid]]
-[[Ella]]
-[[Lectin-based Assay]]
-[[Rabies]]
-[[nucleoprotein]]
-[[Phylogenetic Analysis And The Time To Most Recent Common Ancestor]]

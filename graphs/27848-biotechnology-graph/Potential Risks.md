@@ -1,5 +1,0 @@
-[[Mechanism]]
-[[Strategy]]
-[[Probiotics]]
-[[Intrinsic Antibiotic Resistance]]
-[[Acquired Antibiotic Resistance]]

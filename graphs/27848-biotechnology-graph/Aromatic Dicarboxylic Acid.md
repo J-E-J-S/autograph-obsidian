@@ -1,2 +1,0 @@
-[[Microbial Screening]]
-[[Reversible Decarboxylase]]

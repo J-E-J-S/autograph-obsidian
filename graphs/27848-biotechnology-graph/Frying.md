@@ -1,6 +1,0 @@
-[[FISH]]
-[[Nutritional value]]
-[[Artificial neural Network]]
-[[genetic algorithm]]
-[[Multi-objective Genetic Algorithm]]
-[[Particle Swarm Optimization]]

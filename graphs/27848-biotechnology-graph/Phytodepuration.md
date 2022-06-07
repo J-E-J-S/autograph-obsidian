@@ -1,7 +1,0 @@
-[[Biomineralization]]
-[[Bioremediation]]
-[[Horizontal gene transfer]]
-[[Antibiotic Resistance]]
-[[calcification]]
-[[Marine Microrganisms]]
-[[Stone Artwork Consolidation]]

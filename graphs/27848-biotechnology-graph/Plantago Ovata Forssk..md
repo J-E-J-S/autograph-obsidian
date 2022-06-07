@@ -1,5 +1,0 @@
-[[Seeds]]
-[[Chemotaxonomy]]
-[[Plantaginaceae]]
-[[Phytochemical Analysis]]
-[[New Population]]

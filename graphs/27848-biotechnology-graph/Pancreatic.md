@@ -1,6 +1,0 @@
-[[Oxidative stress]]
-[[Parameters]]
-[[Diabetic rats]]
-[[Streptozotocin]]
-[[Gene Expression]]
-[[Sterculia Tragacantha]]

@@ -1,6 +1,0 @@
-[[Diabetes]]
-[[Food science]]
-[[Metabolomics]]
-[[Phytomedicine]]
-[[Ayurvedic Medicine]]
-[[Cassia Auriculata]]

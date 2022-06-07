@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Cytotoxicity]]
-[[Vinegar]]
-[[Anti-inflammatory]]
-[[Acetic Acid Bacteria]]

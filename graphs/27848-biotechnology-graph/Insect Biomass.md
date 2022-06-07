@@ -1,5 +1,0 @@
-[[Hermetia Illucens]]
-[[Novel Food]]
-[[Black Soldier Fly]]
-[[Alternative Sources Of Food Protein]]
-[[Non-traditional Sources Of Food Raw Materials]]

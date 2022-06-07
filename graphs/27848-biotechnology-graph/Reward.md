@@ -1,5 +1,0 @@
-[[Operant conditioning]]
-[[Synaptic plasticity]]
-[[histone methylation]]
-[[Intracranial Self-stimulation]]
-[[Lateral Hypothalamus]]

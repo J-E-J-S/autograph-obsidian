@@ -1,2 +1,0 @@
-[[Homeopathy]]
-[[Magen-darm-entoxin®]]

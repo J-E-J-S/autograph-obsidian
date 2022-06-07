@@ -1,2 +1,0 @@
-[[Apolipophorin-iii]]
-[[Staphylococcus Spp.]]

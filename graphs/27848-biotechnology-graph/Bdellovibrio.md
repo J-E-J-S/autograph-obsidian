@@ -1,5 +1,0 @@
-[[Biological control]]
-[[phytopathogens]]
-[[Lytic Activity]]
-[[Exo-biopolymer]]
-[[Pathogenicity Tests]]

@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Drosophila]]
-[[FRET]]
-[[Pb(2+) Biosensor]]
-[[Intracellular Pb(2+) Contents]]

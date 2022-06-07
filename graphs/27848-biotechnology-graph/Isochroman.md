@@ -1,7 +1,0 @@
-[[Antitumor]]
-[[Antimicrobial]]
-[[SAR]]
-[[Derivatives]]
-[[CNS]]
-[[Anti-inflammatory]]
-[[antihypertensive]]

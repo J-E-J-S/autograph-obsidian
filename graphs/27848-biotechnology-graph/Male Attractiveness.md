@@ -1,5 +1,0 @@
-[[Senescence]]
-[[Parental Age]]
-[[Transgenerational Effect]]
-[[Trivers-willard Hypothesis]]
-[[Good Genes Hypothesis]]

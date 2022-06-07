@@ -1,5 +1,0 @@
-[[Preservation]]
-[[Degradation]]
-[[Composition]]
-[[Bioenergy]]
-[[Self-heating]]

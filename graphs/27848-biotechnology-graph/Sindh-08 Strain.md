@@ -1,5 +1,0 @@
-[[Phylogeny]]
-[[Epitope]]
-[[Docking]]
-[[Multiepitope Vaccine]]
-[[Serotype Asia-1]]

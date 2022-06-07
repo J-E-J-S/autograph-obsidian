@@ -1,5 +1,0 @@
-[[Yarrowia lipolytica]]
-[[Biofuel]]
-[[Bio-fertilizer]]
-[[remediation]]
-[[Ecological Ubiquity]]

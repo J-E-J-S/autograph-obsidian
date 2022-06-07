@@ -1,5 +1,0 @@
-[[Development]]
-[[Sporophyte]]
-[[Starch accumulation]]
-[[RNA helicase]]
-[[Physcomitrium Patens]]

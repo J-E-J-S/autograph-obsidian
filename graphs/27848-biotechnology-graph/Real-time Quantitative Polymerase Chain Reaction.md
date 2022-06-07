@@ -1,5 +1,0 @@
-[[Shoot]]
-[[Root]]
-[[Rice]]
-[[Reference Gene]]
-[[Heavy Metal Stresses]]

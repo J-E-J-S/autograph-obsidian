@@ -1,5 +1,0 @@
-[[Microbial community]]
-[[Seagrass Bed]]
-[[Zostera Marina]]
-[[Zostera Japonica]]
-[[Vertical Organization]]

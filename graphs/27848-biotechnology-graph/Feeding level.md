@@ -1,3 +1,0 @@
-[[Genes]]
-[[Apoptosis]]
-[[Autophagy]]

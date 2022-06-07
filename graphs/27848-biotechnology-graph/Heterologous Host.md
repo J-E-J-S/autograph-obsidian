@@ -1,6 +1,0 @@
-[[Camptothecin]]
-[[Paclitaxel]]
-[[Elicitation]]
-[[In vitro Culture]]
-[[podophyllotoxin]]
-[[Biosynthetic Pathways]]

@@ -1,5 +1,0 @@
-[[Biotechnology]]
-[[Natural resources]]
-[[Innovation]]
-[[Public Perception]]
-[[Bioeconomy]]

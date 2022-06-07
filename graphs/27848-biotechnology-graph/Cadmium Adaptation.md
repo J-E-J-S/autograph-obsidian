@@ -1,5 +1,0 @@
-[[Toxicity]]
-[[synergy]]
-[[Gene Expression]]
-[[Efflux Pump Inhibitors]]
-[[Ethidium Bromide Assay]]

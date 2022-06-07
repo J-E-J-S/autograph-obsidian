@@ -1,5 +1,0 @@
-[[Germination]]
-[[Nitric oxide]]
-[[Nitrate reductase]]
-[[UV-B]]
-[[Nitric Oxide Synthase]]

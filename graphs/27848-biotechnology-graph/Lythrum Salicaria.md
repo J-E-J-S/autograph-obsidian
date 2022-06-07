@@ -1,3 +1,0 @@
-[[Physiological]]
-[[Phytotoxicity]]
-[[Decabromodiphenyl Ether]]

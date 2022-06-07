@@ -1,3 +1,0 @@
-[[Cytotoxicity]]
-[[Antioxidant]]
-[[Bioactive compounds]]

@@ -1,5 +1,0 @@
-[[Aloe vera]]
-[[Extraction process]]
-[[Bioactive compounds]]
-[[Leonotis Leonurus]]
-[[Santalum Album.]]

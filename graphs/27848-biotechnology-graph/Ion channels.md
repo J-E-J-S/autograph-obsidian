@@ -1,7 +1,0 @@
-[[Insecticides]]
-[[G protein-coupled receptors]]
-[[Octopamine Receptor]]
-[[Apoptosis]]
-[[Autophagy]]
-[[Supramolecular Chemistry]]
-[[Enzyme Responsive]]

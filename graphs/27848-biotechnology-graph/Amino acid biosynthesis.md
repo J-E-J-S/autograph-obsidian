@@ -1,5 +1,0 @@
-[[Methanol]]
-[[Escherichia Coli]]
-[[Adaptive Laboratory Evolution]]
-[[Synthetic Methylotrophy]]
-[[13C-labeling Analysis]]

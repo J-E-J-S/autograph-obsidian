@@ -1,5 +1,0 @@
-[[Thyroid hormone receptor]]
-[[Liquid-chromatography Mass-spectrometry]]
-[[Gas-chromatography Mass-spectrometry]]
-[[S9 Fraction]]
-[[In-silico Prediction]]

@@ -1,5 +1,0 @@
-[[Organic amendments]]
-[[Ecotoxicity]]
-[[Phytomanagement]]
-[[Soil Functionality]]
-[[Mine Wastes]]

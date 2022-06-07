@@ -1,5 +1,0 @@
-[[arecoline]]
-[[Cardiac toxicity]]
-[[Betel Nut]]
-[[Areca Nut]]
-[[Fas/fas Ligand]]

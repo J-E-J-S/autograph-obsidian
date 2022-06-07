@@ -1,7 +1,0 @@
-[[Inhibitors]]
-[[Hemolysin]]
-[[Intimin]]
-[[adhesion]]
-[[Nanobody]]
-[[Stec]]
-[[Enterohemorrhagic E. Coli]]

@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Western blotting]]
-[[Colorectal Cancer]]
-[[Bcl2/bclxl Inhibitors]]
-[[Isatin-indole]]

@@ -1,5 +1,0 @@
-[[Bacillus]]
-[[Biodegradation]]
-[[Nitrilase]]
-[[Biocatalysis]]
-[[Cyanide]]

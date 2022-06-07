@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Caspase]]
-[[Combination therapy]]
-[[Smac]]
-[[PLGA]]
-[[Targeted Drug Delivery]]
-[[Muc1 Aptamer]]

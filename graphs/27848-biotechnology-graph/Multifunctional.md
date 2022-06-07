@@ -1,5 +1,0 @@
-[[Cytocompatibility]]
-[[Spray-drying]]
-[[Eco-friendly]]
-[[Superhydrophilic]]
-[[Polyester Fabrics]]

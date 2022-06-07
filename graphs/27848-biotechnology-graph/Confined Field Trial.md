@@ -1,7 +1,0 @@
-[[Comparative studies]]
-[[Environmental risk assessment]]
-[[Criteria]]
-[[risk assessment]]
-[[Food/Feed Risk Assessment]]
-[[Transgenic Bean]]
-[[Transportability Of Conclusions]]

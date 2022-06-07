@@ -1,8 +1,0 @@
-[[Microencapsulation]]
-[[Temperature Dependency]]
-[[Microbial Tti]]
-[[Ca-alginate Microbead]]
-[[Regulation]]
-[[Modeling]]
-[[Uptake]]
-[[Bioreactor]]

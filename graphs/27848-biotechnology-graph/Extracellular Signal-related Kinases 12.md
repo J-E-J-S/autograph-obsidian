@@ -1,5 +1,0 @@
-[[Survival]]
-[[Metformin]]
-[[B cells]]
-[[B-cell Activating Factor]]
-[[Extracellular Signal-related Kinases 1/2]]

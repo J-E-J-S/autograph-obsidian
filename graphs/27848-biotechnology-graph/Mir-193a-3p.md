@@ -1,2 +1,0 @@
-[[PTEN]]
-[[Fracture Healing]]

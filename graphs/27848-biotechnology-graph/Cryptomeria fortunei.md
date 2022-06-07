@@ -1,5 +1,0 @@
-[[Cold resistance]]
-[[Functional analysis]]
-[[Transgenic Arabidopsis Thaliana]]
-[[Qrt-pcr Assay]]
-[[Cfice1]]

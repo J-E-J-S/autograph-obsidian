@@ -1,5 +1,0 @@
-[[Ethanol]]
-[[Gluconobacter oxydans]]
-[[Fnr]]
-[[Transcriptional Regulator]]
-[[Transhydrogenase]]

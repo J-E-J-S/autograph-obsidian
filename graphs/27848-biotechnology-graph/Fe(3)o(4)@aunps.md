@@ -1,5 +1,0 @@
-[[PTT]]
-[[MCF-7]]
-[[Mr Imaging]]
-[[Theranostic Agent]]
-[[Sonochemical]]

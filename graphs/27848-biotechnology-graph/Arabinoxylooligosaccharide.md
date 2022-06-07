@@ -1,5 +1,0 @@
-[[Glycoside Hydrolase Family 39]]
-[[Glycoside Hydrolase Family 8]]
-[[Aldouronic Acid]]
-[[Glycoside Hydrolase Family 52]]
-[[Glucronoxylooligosaccharide]]

@@ -1,5 +1,0 @@
-[[mRNA expression]]
-[[Gastric cancer]]
-[[Survival analysis]]
-[[Bmp1]]
-[[Pathways Analysis]]

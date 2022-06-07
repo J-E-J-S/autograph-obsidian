@@ -1,5 +1,0 @@
-[[Algae]]
-[[Immobilization]]
-[[Decolorization]]
-[[Biodegradation]]
-[[biosorption]]

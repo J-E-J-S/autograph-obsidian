@@ -1,3 +1,0 @@
-[[Inflammation]]
-[[Zerumbone]]
-[[Activated Fibroblasts]]

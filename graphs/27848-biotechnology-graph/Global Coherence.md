@@ -1,7 +1,0 @@
-[[EEG]]
-[[Variability]]
-[[perception]]
-[[Mcgurk Effect]]
-[[Multisensory]]
-[[Large-scale Networks]]
-[[Source Connectivity]]

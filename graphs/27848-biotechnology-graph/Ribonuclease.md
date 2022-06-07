@@ -1,4 +1,0 @@
-[[Bacteria]]
-[[Translation]]
-[[tRNA]]
-[[Toxin]]

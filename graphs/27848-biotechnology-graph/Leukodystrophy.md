@@ -1,7 +1,0 @@
-[[Neurons]]
-[[Gene therapy]]
-[[Senescence]]
-[[Pluripotent stem cells]]
-[[Neural progenitors]]
-[[Oligodendrocytes]]
-[[Krabbe Disease]]

@@ -1,7 +1,0 @@
-[[Bacillus subtilis]]
-[[Subtilisin E]]
-[[Bioinformatics]]
-[[keratinase]]
-[[Solid state fermentation]]
-[[biochemical properties]]
-[[Industrial Applications]]

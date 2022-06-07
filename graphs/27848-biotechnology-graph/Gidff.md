@@ -1,6 +1,0 @@
-[[Bifidobacterium]]
-[[Scfa]]
-[[Cheonggukjang]]
-[[Fecal Microbiome]]
-[[Coprococcus]]
-[[Personal Microbiota]]

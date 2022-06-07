@@ -1,5 +1,0 @@
-[[signaling pathways]]
-[[Anti-oxidants]]
-[[renal ischemia/reperfusion]]
-[[Gavage]]
-[[Gamma-oryzanol]]

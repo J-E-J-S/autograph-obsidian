@@ -1,5 +1,0 @@
-[[Leguminosae]]
-[[Nodulation]]
-[[Lotus Japonicus]]
-[[Glycogen-synthase Kinase 3]]
-[[Shaggy-like Kinase]]

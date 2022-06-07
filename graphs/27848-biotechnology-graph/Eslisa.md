@@ -1,5 +1,0 @@
-[[Serology]]
-[[CLIA]]
-[[Lfia]]
-[[Covid-19]]
-[[Sars-cov-2]]

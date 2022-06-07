@@ -1,5 +1,0 @@
-[[Binding constant]]
-[[dissociation constant]]
-[[Confidence Intervals]]
-[[Isothermal Titration Calorimetry]]
-[[Standard Error]]

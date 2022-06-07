@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Photosynthesis]]
-[[Redox Regulation]]
-[[Electrochromic Shift]]
-[[Chloroplast Atp Synthase]]

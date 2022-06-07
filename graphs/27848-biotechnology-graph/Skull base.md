@@ -1,5 +1,0 @@
-[[Quality of life]]
-[[Pediatrics]]
-[[Encephalocele]]
-[[Cerebrospinal Fluid Leak]]
-[[Expanded Endonasal Approach]]

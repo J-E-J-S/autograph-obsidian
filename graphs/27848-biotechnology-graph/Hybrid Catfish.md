@@ -1,5 +1,0 @@
-[[Monoclonal antibody]]
-[[Nile tilapia]]
-[[Glyphosate]]
-[[Acetylcholinesterase (AChE)]]
-[[Climbing Perch]]

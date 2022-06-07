@@ -1,4 +1,0 @@
-[[Complex]]
-[[Immunoregulation]]
-[[Vaccine]]
-[[Adjuvant]]

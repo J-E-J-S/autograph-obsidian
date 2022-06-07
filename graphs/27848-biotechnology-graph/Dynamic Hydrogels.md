@@ -1,4 +1,0 @@
-[[Heparin]]
-[[biopolymers]]
-[[Biomaterials]]
-[[Gels]]

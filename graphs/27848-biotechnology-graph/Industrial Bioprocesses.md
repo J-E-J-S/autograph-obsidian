@@ -1,2 +1,0 @@
-[[Enzyme immobilization]]
-[[Magnetic Supports]]

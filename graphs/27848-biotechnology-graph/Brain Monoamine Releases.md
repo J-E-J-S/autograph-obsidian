@@ -1,3 +1,0 @@
-[[Ischemia]]
-[[Alcohol Behavior]]
-[[Occlussion]]

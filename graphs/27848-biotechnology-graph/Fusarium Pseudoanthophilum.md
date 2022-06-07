@@ -1,5 +1,0 @@
-[[Biological control]]
-[[Coumarins]]
-[[In silico]]
-[[Fusarium Foetens]]
-[[Fusarium Fujikori]]

@@ -1,8 +1,0 @@
-[[Hepatitis viruses]]
-[[Cytomegalovirus]]
-[[Coxsackievirus]]
-[[Parvovirus B19]]
-[[Echovirus]]
-[[Cardiovirus]]
-[[Covid-19]]
-[[Influenza Viruses.]]

@@ -1,8 +1,0 @@
-[[Copy number]]
-[[rDNA]]
-[[Flavonoids]]
-[[Feedback inhibition]]
-[[Genetic stability]]
-[[Strain improvement]]
-[[Fidaxomicin]]
-[[Combinatorial Engineering Strategy]]

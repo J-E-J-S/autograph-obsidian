@@ -1,8 +1,0 @@
-[[P-glycoprotein]]
-[[Anticancer]]
-[[HL60 cells]]
-[[Mdr Modulators]]
-[[Acinetobacter]]
-[[Antibiotic Resistance]]
-[[Fitness Cost]]
-[[Collateral Resistance]]

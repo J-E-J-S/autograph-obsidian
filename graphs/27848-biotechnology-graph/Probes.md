@@ -1,5 +1,0 @@
-[[Hybridization]]
-[[Microorganism]]
-[[FISH]]
-[[Detection]]
-[[Single-cell Microbiology]]

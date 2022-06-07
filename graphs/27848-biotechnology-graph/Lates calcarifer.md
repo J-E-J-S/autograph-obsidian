@@ -1,5 +1,0 @@
-[[Antibody response]]
-[[Inactivated vaccines]]
-[[Streptococcus Agalactiae]]
-[[Streptococcus Iniae]]
-[[Asian Seabass]]

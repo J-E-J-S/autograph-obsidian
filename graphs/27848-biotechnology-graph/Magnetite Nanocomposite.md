@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Antioxidant Assay]]
-[[Reusability]]
-[[Propargylamines]]
-[[Anticancer Study]]
-[[Biguanidine-chitosan]]

@@ -1,5 +1,0 @@
-[[Plant Biotechnology]]
-[[Responsible Research And Innovation]]
-[[Public And Political Engagement]]
-[[Bioethics Education]]
-[[Ethical Reasoning]]

@@ -1,5 +1,0 @@
-[[mRNA]]
-[[Meta-analysis]]
-[[Cervical cancer]]
-[[miRNA]]
-[[Cervical Cytology]]

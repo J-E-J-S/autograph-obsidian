@@ -1,7 +1,0 @@
-[[Identification]]
-[[Listeria monocytogenes]]
-[[MALDI-TOF MS]]
-[[Subtyping]]
-[[Simca]]
-[[Axima® Performance]]
-[[Saramis]]

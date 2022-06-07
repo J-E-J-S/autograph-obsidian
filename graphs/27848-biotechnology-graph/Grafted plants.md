@@ -1,4 +1,0 @@
-[[Yield]]
-[[Metabolites]]
-[[Hormone]]
-[[SAP]]

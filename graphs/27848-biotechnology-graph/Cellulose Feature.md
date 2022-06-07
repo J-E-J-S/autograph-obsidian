@@ -1,5 +1,0 @@
-[[Starch]]
-[[Bioethanol]]
-[[Polyploidization]]
-[[Biomass Pretreatment]]
-[[Potato Straw]]

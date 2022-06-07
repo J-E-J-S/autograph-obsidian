@@ -1,5 +1,0 @@
-[[Comparative genomics]]
-[[Biological nitrogen fixation]]
-[[Klebsiella]]
-[[root elongation]]
-[[Pgpr Genes]]

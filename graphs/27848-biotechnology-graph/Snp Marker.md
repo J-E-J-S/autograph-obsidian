@@ -1,5 +1,0 @@
-[[Chloroplast DNA]]
-[[Trichomes]]
-[[Chrysanthemum indicum]]
-[[Multiplex Allele-specific Pcr]]
-[[Rpoc2]]

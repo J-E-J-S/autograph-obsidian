@@ -1,6 +1,0 @@
-[[Stability]]
-[[Liposomes]]
-[[Encapsulation]]
-[[biopolymers]]
-[[Bioactives]]
-[[Synergistic Efficiencies]]

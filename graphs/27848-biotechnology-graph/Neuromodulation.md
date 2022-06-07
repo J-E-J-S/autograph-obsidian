@@ -1,5 +1,0 @@
-[[Ethics]]
-[[Mental health]]
-[[bioengineering]]
-[[Happiness]]
-[[Mood]]

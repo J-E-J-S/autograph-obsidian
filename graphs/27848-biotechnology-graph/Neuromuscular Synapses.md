@@ -1,6 +1,0 @@
-[[Drosophila melanogaster]]
-[[Electrophysiology]]
-[[Immunocytochemistry]]
-[[Neurological Disorders]]
-[[Third Instar Larvae]]
-[[Synaptic Boutons]]

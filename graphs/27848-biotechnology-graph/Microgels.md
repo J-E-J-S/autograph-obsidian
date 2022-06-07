@@ -1,5 +1,0 @@
-[[Near-surface]]
-[[Microrheology]]
-[[Poly(n-isopropylacrylamide) (Pnipam)]]
-[[Effective Volume Fraction]]
-[[Total Internal Reflection Microscopy (Tirm)]]

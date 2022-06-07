@@ -1,5 +1,0 @@
-[[Enniatin]]
-[[LC-MS/MS]]
-[[Beauvericin]]
-[[Molecular Networking]]
-[[Untargeted Mass Spectrometric Approach]]

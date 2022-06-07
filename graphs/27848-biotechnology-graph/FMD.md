@@ -1,3 +1,0 @@
-[[Does]]
-[[Folliculogenesis]]
-[[Ovarian Activity]]

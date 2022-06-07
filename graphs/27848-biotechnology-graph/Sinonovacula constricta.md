@@ -1,3 +1,0 @@
-[[Metamorphosis]]
-[[MicroRNA]]
-[[Developmental Transcriptome]]

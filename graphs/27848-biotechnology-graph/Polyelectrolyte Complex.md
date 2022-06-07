@@ -1,6 +1,0 @@
-[[Macrophages]]
-[[Chitosan]]
-[[Gene Expression]]
-[[Cellular Uptake]]
-[[Curdlan Sulphate]]
-[[Endocytotic Inhibitors]]

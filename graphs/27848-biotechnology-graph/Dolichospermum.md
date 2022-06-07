@@ -1,8 +1,0 @@
-[[Microcystins]]
-[[Functional genes]]
-[[Cyanobacterial Blooms]]
-[[Attached Bacteria]]
-[[Microcystin]]
-[[Microcystis]]
-[[Erhai Lake]]
-[[Pseudanabaena]]

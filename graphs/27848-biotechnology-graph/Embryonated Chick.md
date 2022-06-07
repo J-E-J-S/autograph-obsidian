@@ -1,5 +1,0 @@
-[[Japanese encephalitis virus]]
-[[Interferons]]
-[[Toll-like receptors]]
-[[Scopolamine hydrobromide]]
-[[signaling pathways]]

@@ -1,5 +1,0 @@
-[[Capillary electrophoresis]]
-[[DNA polymerase]]
-[[High throughput]]
-[[Dna And Rna Analysis]]
-[[Sanger Sequencer]]

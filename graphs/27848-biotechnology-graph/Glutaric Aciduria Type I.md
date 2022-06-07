@@ -1,5 +1,0 @@
-[[Microglial Activation]]
-[[Hyperammonemia]]
-[[Astrogliosis]]
-[[Lysine Degradation]]
-[[Cerebral Organic Aciduria]]

@@ -1,5 +1,0 @@
-[[Immunohistochemistry]]
-[[Wistar rats]]
-[[Pulmonary fibrosis]]
-[[terpenes]]
-[[Histological Labelling]]

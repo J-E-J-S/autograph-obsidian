@@ -1,5 +1,0 @@
-[[Expression regulation]]
-[[Zinc transporter]]
-[[Protein Trafficking]]
-[[Zinc Homeostasis]]
-[[Komagataella Phaffii]]

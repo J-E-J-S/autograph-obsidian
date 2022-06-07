@@ -1,5 +1,0 @@
-[[Rice]]
-[[Ethidium bromide]]
-[[resistant genes]]
-[[LAMP]]
-[[Hydroxynaphthol Blue]]

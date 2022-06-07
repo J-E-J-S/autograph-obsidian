@@ -1,4 +1,0 @@
-[[Photosynthesis]]
-[[Chlorophyll]]
-[[Cyanobacteria]]
-[[Cyclase]]

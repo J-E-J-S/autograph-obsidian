@@ -1,5 +1,0 @@
-[[Bioremediation]]
-[[PCBs]]
-[[Transcriptome]]
-[[Marine-derived fungi]]
-[[Multicopper Oxidases]]

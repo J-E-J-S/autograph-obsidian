@@ -1,7 +1,0 @@
-[[Antibacterial effect]]
-[[Corrosion]]
-[[Polyurea]]
-[[Copper]]
-[[RSM]]
-[[Sorption]]
-[[Halimeda Gracilis]]

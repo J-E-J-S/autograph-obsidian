@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[Isotherm]]
-[[thermodynamics]]
-[[Exothermic]]
-[[Toxic Pollutants]]

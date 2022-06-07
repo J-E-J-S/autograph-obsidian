@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Rice]]
-[[Abiotic stress]]
-[[Phylogenetic analysis]]
-[[Expression analysis]]

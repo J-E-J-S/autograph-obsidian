@@ -1,5 +1,0 @@
-[[Collagen]]
-[[Mucin]]
-[[Alkaline phosphatase]]
-[[Polyethylene Glycol Dimethacrylate]]
-[[Double Network Scaffolds]]

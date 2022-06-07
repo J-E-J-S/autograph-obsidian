@@ -1,5 +1,0 @@
-[[Extracellular matrix]]
-[[Skeletal muscle]]
-[[myogenesis]]
-[[Iglon5]]
-[[Muscle Stem (Satellite) Cell]]

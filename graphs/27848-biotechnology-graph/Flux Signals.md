@@ -1,5 +1,0 @@
-[[Ace Operon]]
-[[Acetate-diauxic Switch]]
-[[Acetogenic Metabolism]]
-[[Gluconeogenic Metabolism]]
-[[Succinyl Coa Synthetase]]

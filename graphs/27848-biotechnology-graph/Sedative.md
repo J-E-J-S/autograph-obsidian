@@ -1,6 +1,0 @@
-[[Antioxidant]]
-[[Antibacterial]]
-[[Analgesic]]
-[[Green Synthesis]]
-[[Aunps]]
-[[Agnps]]

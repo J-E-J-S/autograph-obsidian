@@ -1,6 +1,0 @@
-[[Phosphorylation]]
-[[Ubiquitination]]
-[[Glycosylation]]
-[[Biopharmaceuticals]]
-[[Chinese Hamster Ovary (Cho) Cells]]
-[[Post-translational Modification (Ptm)]]

@@ -1,5 +1,0 @@
-[[Gender]]
-[[muscarinic receptors]]
-[[spatial memory]]
-[[D2 Receptors]]
-[[Fear Memory]]

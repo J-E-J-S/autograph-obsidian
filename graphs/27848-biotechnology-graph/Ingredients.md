@@ -1,7 +1,0 @@
-[[Ethanol]]
-[[Lactic acid]]
-[[Lactic acid bacteria]]
-[[Diacetyl]]
-[[Starter cultures]]
-[[yeasts]]
-[[Sourdough]]

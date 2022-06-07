@@ -1,6 +1,0 @@
-[[DNA replication]]
-[[Yeast]]
-[[Cyclin-dependent Kinase]]
-[[Mutation Rates]]
-[[Leading Strand]]
-[[Illegitimate Mating]]

@@ -1,8 +1,0 @@
-[[HR]]
-[[Pamps]]
-[[Necrotrophs]]
-[[Biotrophs]]
-[[Effectors]]
-[[Hemibiotrophs]]
-[[Eti]]
-[[Pti]]

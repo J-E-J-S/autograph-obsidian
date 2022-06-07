@@ -1,5 +1,0 @@
-[[Aspergillus niger]]
-[[Citric acid]]
-[[Glucoamylase]]
-[[Secondary metabolite]]
-[[Macromorphology]]

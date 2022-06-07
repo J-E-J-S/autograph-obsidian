@@ -1,5 +1,0 @@
-[[Plant breeding]]
-[[Emission control]]
-[[Synthetic Biology]]
-[[Medical Biotechnology]]
-[[Fermented Food]]

@@ -1,2 +1,0 @@
-[[Bone regeneration]]
-[[Nanocomposite]]

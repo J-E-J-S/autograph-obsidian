@@ -1,6 +1,0 @@
-[[Synthesis]]
-[[Antitubercular Activity]]
-[[N-(amino)piperazine]]
-[[Synthesis]]
-[[Antimycobacterial Activity]]
-[[N-((methylene)amino)piperazine]]

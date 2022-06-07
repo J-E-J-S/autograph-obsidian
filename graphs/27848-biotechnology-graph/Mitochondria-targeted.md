@@ -1,5 +1,0 @@
-[[Photothermal Therapy]]
-[[Hyperpyrexia]]
-[[Thiazole Orange]]
-[[Organic Small Molecules]]
-[[Phototheranostic Agents]]

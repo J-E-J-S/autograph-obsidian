@@ -1,7 +1,0 @@
-[[Isoorientin]]
-[[Metastasis]]
-[[Claudin-1]]
-[[Let-7a]]
-[[Withaferin A]]
-[[Proliferation]]
-[[Invasion]]

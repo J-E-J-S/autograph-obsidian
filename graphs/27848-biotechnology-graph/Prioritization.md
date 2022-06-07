@@ -1,5 +1,0 @@
-[[Streptococcus mutans]]
-[[Biofilm]]
-[[Quantum Mechanical]]
-[[D-acarbose]]
-[[Glycosyltransferase C]]

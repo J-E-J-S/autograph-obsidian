@@ -1,5 +1,0 @@
-[[Inhibitors]]
-[[Leishmania]]
-[[Fda]]
-[[Drug Repurposing]]
-[[Sterol C-24 Methyltransferase]]

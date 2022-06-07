@@ -1,2 +1,0 @@
-[[Muscular dystrophy]]
-[[Lama2]]

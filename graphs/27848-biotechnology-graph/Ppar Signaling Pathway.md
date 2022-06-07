@@ -1,7 +1,0 @@
-[[Transcription factor]]
-[[Transcriptome]]
-[[lipid metabolism]]
-[[goldfish]]
-[[Phototransduction]]
-[[Ocular Disease]]
-[[Dragon-eye]]

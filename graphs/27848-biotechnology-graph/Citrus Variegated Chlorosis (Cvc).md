@@ -1,5 +1,0 @@
-[[Broad-spectrum disease resistance]]
-[[Pattern Recognition Receptor]]
-[[Citrus Canker]]
-[[Pathogen-associated Molecular Pattern (Pamp)]]
-[[Outer Membrane Vesicle (Omv)]]

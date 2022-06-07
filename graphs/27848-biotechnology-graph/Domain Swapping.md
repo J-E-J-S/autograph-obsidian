@@ -1,3 +1,0 @@
-[[Structure]]
-[[Antibody]]
-[[Fab]]

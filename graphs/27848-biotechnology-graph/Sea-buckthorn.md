@@ -1,4 +1,0 @@
-[[Apoptosis]]
-[[Cytotoxicity]]
-[[Cancer]]
-[[Genotoxicity]]

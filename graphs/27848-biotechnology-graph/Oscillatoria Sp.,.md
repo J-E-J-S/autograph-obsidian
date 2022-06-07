@@ -1,5 +1,0 @@
-[[Phycocyanin]]
-[[Molecular dynamics simulation]]
-[[Lipoxygenase]]
-[[Protein-protein interaction]]
-[[Molecular docking]]

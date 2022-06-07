@@ -1,6 +1,0 @@
-[[Helicobacter Pylori]]
-[[Infection]]
-[[Mice]]
-[[Antimicrobial]]
-[[Antibiotic Resistance]]
-[[Synergistic]]

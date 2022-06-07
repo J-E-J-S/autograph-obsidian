@@ -1,5 +1,0 @@
-[[Vaccines]]
-[[Cancer]]
-[[Chronic disease]]
-[[Socialism]]
-[[Cuba]]

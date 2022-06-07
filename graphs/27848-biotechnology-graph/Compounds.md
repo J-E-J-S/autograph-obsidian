@@ -1,8 +1,0 @@
-[[Vitex negundo]]
-[[Molecular dynamics]]
-[[Plpro]]
-[[Sars Cov-2]]
-[[Plants]]
-[[Type 2 diabetes mellitus]]
-[[Therapeutic effects]]
-[[Clinical Trials]]

@@ -1,6 +1,0 @@
-[[ATP]]
-[[Molecular docking]]
-[[Cardiomyopathy]]
-[[phosphofructokinase]]
-[[glycolysis]]
-[[adriamycin]]

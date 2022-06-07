@@ -1,6 +1,0 @@
-[[Antimicrobial]]
-[[Fos]]
-[[Probiotic]]
-[[Prebiotic]]
-[[Xos]]
-[[Lactiplantibacillus]]

@@ -1,5 +1,0 @@
-[[Secondary metabolites]]
-[[Nematode resistance]]
-[[Transcriptome]]
-[[Meloidogyne Graminicola]]
-[[Rice Mutant]]

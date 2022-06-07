@@ -1,6 +1,0 @@
-[[Arabidopsis]]
-[[Oxidative stress]]
-[[High light]]
-[[Non-photochemical quenching]]
-[[Ascorbate peroxidase]]
-[[Proton Gradient Regulation 5]]

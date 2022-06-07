@@ -1,2 +1,0 @@
-[[Pullulan]]
-[[Biomedical Industry]]

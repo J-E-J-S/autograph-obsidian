@@ -1,5 +1,0 @@
-[[Dairy cows]]
-[[Gene Expression]]
-[[Promoter Polymorphism]]
-[[Alpha-lactalbumin (Lalba)]]
-[[Milk Traits Association]]

@@ -1,6 +1,0 @@
-[[Autophagy]]
-[[P62]]
-[[Autophagosome]]
-[[Nucleic Acid Detection]]
-[[On-site Detection]]
-[[Crispr-cas13a]]

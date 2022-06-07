@@ -1,3 +1,0 @@
-[[Cloning]]
-[[Sequencing]]
-[[Genetic characterization]]

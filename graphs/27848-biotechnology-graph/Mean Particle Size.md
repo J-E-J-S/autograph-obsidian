@@ -1,5 +1,0 @@
-[[Digestive tract]]
-[[Psammomys Obesus]]
-[[Chewing Efficiency]]
-[[Faecal Particle Size]]
-[[Chenopod]]

@@ -1,3 +1,0 @@
-[[Stabilization]]
-[[Antimicrobial Effect;]]
-[[Nanocombination;]]

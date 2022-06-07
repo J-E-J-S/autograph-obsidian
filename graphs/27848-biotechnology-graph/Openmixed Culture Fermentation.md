@@ -1,5 +1,0 @@
-[[Ethanol]]
-[[Granular sludge]]
-[[VFA]]
-[[Resource Recovery]]
-[[Open/mixed Culture Fermentation]]

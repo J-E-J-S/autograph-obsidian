@@ -1,8 +1,0 @@
-[[Testosterone]]
-[[resource availability]]
-[[Facial Attractiveness]]
-[[Facial Asymmetry]]
-[[Fermentation]]
-[[Gamma-aminobutyric acid]]
-[[Lactobacillus Brevis]]
-[[Date Residue]]

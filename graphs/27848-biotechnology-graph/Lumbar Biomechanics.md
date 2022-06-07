@@ -1,5 +1,0 @@
-[[Finite element]]
-[[Whole Body Vibration]]
-[[Anterior Lumbar Interbody Fusion]]
-[[Cage Subsidence]]
-[[Supplementary Fixation]]

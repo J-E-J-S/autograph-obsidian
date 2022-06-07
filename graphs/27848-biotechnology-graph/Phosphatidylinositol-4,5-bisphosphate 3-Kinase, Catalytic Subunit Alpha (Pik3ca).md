@@ -1,7 +1,0 @@
-[[Chemokine Receptor 4 (Cxcr4)]]
-[[Colorectal Cancer (Crc)]]
-[[Pluripotency Genes]]
-[[Kirsten Rat Sarcoma Viral Oncogene Homolog (Kras)]]
-[[Rgd-peptide]]
-[[Fragacea Toxin C (Frac)]]
-[[Colorectal Cancer Stem Cells (Crcscs)]]

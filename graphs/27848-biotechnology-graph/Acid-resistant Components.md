@@ -1,5 +1,0 @@
-[[Proton efflux]]
-[[Biofilms Formation]]
-[[Intracellular Buffering]]
-[[Bioleaching Microorganisms]]
-[[Reversal Of Membrane Potential]]

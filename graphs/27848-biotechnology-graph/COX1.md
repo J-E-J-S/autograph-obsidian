@@ -1,2 +1,0 @@
-[[Curcumin]]
-[[COX2]]

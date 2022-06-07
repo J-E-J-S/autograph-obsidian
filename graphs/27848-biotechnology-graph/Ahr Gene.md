@@ -1,3 +1,0 @@
-[[Polymorphism]]
-[[Sheep]]
-[[Litter size]]

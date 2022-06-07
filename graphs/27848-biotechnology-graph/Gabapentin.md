@@ -1,5 +1,0 @@
-[[Stability; Drug Release.]]
-[[Transdermal Patches; Pharmacokinetics Parameters; Neuropathic Pain]]
-[[Rat]]
-[[Experimental colitis]]
-[[Pro-inflammatory Cytokines]]

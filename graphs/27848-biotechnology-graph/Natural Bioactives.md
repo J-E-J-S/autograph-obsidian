@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Molecular dynamics]]
-[[MEK]]
-[[Prime Mm-gbsa]]
-[[Mm-pbsa]]

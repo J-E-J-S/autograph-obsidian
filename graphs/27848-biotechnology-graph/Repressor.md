@@ -1,5 +1,0 @@
-[[Triticum aestivum]]
-[[Seed storage protein]]
-[[Triticum urartu]]
-[[Transcriptional Regulator]]
-[[Bread-making]]

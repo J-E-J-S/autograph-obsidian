@@ -1,8 +1,0 @@
-[[Taxonomy]]
-[[Phylogeny]]
-[[psbA]]
-[[rbcL]]
-[[Corallinapetra Gabrielii]]
-[[Corallinapetraceae]]
-[[Corallinapetrales]]
-[[Corallinophycidae]]

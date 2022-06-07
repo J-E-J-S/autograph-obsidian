@@ -1,5 +1,0 @@
-[[Cartilage]]
-[[Rheumatoid arthritis]]
-[[Anti-oxidant]]
-[[Gc–ms]]
-[[Piper Betle]]

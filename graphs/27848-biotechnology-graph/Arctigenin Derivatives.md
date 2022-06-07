@@ -1,3 +1,0 @@
-[[Antiviral Activity]]
-[[Autophagy]]
-[[Ihnv]]

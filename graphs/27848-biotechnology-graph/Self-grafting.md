@@ -1,6 +1,0 @@
-[[Heat shock proteins]]
-[[Proline]]
-[[Ascorbate peroxidase]]
-[[Total Carbohydrates]]
-[[Total Chlorophyll Content]]
-[[Maximum Quantum Efficiency Of Photosystem Ii (F(v)/f(m))]]

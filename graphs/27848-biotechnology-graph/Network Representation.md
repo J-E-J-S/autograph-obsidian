@@ -1,5 +1,0 @@
-[[Gene function]]
-[[Function prediction]]
-[[computational biology]]
-[[Network Integration]]
-[[Network-based Methods]]

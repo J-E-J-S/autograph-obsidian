@@ -1,5 +1,0 @@
-[[Antibacterial]]
-[[silk fibroin]]
-[[Alginate Hydrogel]]
-[[Hemolysis Assay]]
-[[Poly Vinyl Alcohol]]

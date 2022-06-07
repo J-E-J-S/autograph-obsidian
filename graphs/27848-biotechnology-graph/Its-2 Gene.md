@@ -1,5 +1,0 @@
-[[Molecular]]
-[[Epidemiological]]
-[[Egypt]]
-[[Herring]]
-[[Anisakis Simplex]]

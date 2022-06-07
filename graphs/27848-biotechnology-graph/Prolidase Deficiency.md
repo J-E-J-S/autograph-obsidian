@@ -1,7 +1,0 @@
-[[Proline]]
-[[Cancer]]
-[[Prolidase]]
-[[Hereditary]]
-[[protein structure]]
-[[Disorder]]
-[[Loss-of-function]]

@@ -1,5 +1,0 @@
-[[Electrical conductivity]]
-[[Q10]]
-[[Temperature Dependence]]
-[[Cell Volume]]
-[[Specific Energy Absorption (Sar)]]

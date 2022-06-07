@@ -1,5 +1,0 @@
-[[Oxidation]]
-[[Bicarbonate]]
-[[water treatment]]
-[[organic pollutant]]
-[[Peroxymonosulfate]]

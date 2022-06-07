@@ -1,5 +1,0 @@
-[[Sediment]]
-[[FT-IR]]
-[[Continental shelf]]
-[[Arabian Sea]]
-[[Andaman Sea]]

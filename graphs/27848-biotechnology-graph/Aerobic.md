@@ -1,4 +1,0 @@
-[[Lactose]]
-[[Transcriptomics]]
-[[Microaerobic]]
-[[Setb]]

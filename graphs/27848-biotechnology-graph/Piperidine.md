@@ -1,6 +1,0 @@
-[[Molecular modeling]]
-[[Antiviral Activity]]
-[[Hiv-1 Protease Inhibitors]]
-[[Enzymatic Inhibitory Activity]]
-[[Subtype C Variants]]
-[[Drv-resistant Hiv-1 Variants]]

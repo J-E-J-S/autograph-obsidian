@@ -1,5 +1,0 @@
-[[Encapsulation]]
-[[Fenugreek]]
-[[Streptococcus Iniae]]
-[[Basil Seed]]
-[[Probiotic Enterococcus Faecium]]

@@ -1,5 +1,0 @@
-[[Salicylic acid]]
-[[Abscisic acid]]
-[[Photoperiod]]
-[[Flowering]]
-[[Transcriptome Analysis]]

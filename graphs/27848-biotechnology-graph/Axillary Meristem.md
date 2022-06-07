@@ -1,5 +1,0 @@
-[[Thidiazuron]]
-[[Hypocotyl]]
-[[Chickpea]]
-[[Plumular Apex]]
-[[Seed-priming]]

@@ -1,5 +1,0 @@
-[[gene targeting]]
-[[Homologous Recombination]]
-[[Floral Organ Identity]]
-[[Positive/negative Selection]]
-[[Floral Meristem Determinacy And Maintenance]]

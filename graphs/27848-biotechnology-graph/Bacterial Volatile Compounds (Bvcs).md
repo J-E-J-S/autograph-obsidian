@@ -1,5 +1,0 @@
-[[Nutrients]]
-[[Rhizobacteria]]
-[[phytohormones]]
-[[Siderophores]]
-[[Induced Systemic Resistance (Isr)]]

@@ -1,6 +1,0 @@
-[[Obesity]]
-[[Colon cancer]]
-[[Adipokines]]
-[[Apelin]]
-[[Apj]]
-[[Apln]]

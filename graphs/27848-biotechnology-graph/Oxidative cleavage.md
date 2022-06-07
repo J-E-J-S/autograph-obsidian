@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Cellulose degradation]]
-[[Directed evolution]]
-[[Lytic Polysaccharide Monooxygenase (Lpmo)]]
-[[Cellulose Binding Module (Cbm)]]

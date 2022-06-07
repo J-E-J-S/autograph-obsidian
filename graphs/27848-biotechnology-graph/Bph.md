@@ -1,7 +1,0 @@
-[[Apoptosis]]
-[[Oxidative stress]]
-[[bcl-2]]
-[[Bax]]
-[[Neferine]]
-[[NRF2]]
-[[Keap1]]

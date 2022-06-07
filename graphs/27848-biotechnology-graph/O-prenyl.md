@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Enzyme inhibition]]
-[[O-allyl]]
-[[O-propargyl]]
-[[Tetrafluoronaphthalene]]

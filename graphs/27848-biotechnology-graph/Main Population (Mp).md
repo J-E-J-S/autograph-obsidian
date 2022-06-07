@@ -1,6 +1,0 @@
-[[Melanoma]]
-[[Abc Transporters]]
-[[Photodynamic Therapy (Pdt)]]
-[[Dacarbazine (Dtic)]]
-[[Hypericin (Hyp)]]
-[[Side Population (Sp)]]

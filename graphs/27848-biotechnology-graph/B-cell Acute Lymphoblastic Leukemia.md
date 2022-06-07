@@ -1,7 +1,0 @@
-[[Crystallization]]
-[[Purification]]
-[[Protein expression]]
-[[X-ray diffraction]]
-[[DNA binding]]
-[[Oncogenic Driver]]
-[[Mef2d-fusions]]

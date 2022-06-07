@@ -1,7 +1,0 @@
-[[Chromosomal aberrations]]
-[[Organochlorine pesticides]]
-[[risk assessment]]
-[[Genotoxic Effect]]
-[[Lethal Mutations]]
-[[Model Objects]]
-[[Short Screening Tests (Sst)]]

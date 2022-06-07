@@ -1,5 +1,0 @@
-[[Antiproliferation]]
-[[Anti-inflammation]]
-[[Deguelin]]
-[[Angiogenesis Inhibition]]
-[[Metastasis Inhibition]]

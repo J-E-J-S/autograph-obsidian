@@ -1,7 +1,0 @@
-[[Recombination]]
-[[Geminivirus]]
-[[phylogenetic relatedness]]
-[[Betasatellite]]
-[[Leaf Curl Disease]]
-[[Chilli (Bhut-jolokia)]]
-[[Cotton Leaf Curl Multan Virus]]

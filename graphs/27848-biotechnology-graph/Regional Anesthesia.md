@@ -1,2 +1,0 @@
-[[Technology]]
-[[Patient Simulation]]

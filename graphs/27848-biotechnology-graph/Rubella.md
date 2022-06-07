@@ -1,5 +1,0 @@
-[[Measles]]
-[[Mumps]]
-[[Seroprevalence]]
-[[Childhood Infection]]
-[[Maternal Antibody Transfer]]

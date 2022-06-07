@@ -1,5 +1,0 @@
-[[Phenolic compounds]]
-[[In vitro digestion]]
-[[Structural Changes]]
-[[Affinity Binding]]
-[[Non-covalent Interaction]]

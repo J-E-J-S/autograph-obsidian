@@ -1,5 +1,0 @@
-[[Bioconversion]]
-[[16S rRNA gene]]
-[[Ginsenosides]]
-[[polyphasic taxonomy]]
-[[Draft Genome Sequencing]]

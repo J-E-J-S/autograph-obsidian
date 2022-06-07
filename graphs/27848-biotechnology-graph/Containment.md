@@ -1,4 +1,0 @@
-[[Eucalyptus]]
-[[Flowering]]
-[[LEAFY]]
-[[Crispr]]

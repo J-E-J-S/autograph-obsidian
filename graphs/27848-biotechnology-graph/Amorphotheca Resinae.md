@@ -1,8 +1,0 @@
-[[Heavy metals]]
-[[biosorption]]
-[[Melanin Pigment]]
-[[Fungal Melanin]]
-[[Microbial Biosorbent]]
-[[Bioinformatics]]
-[[Fungal Melanin]]
-[[Melanin Pigments]]

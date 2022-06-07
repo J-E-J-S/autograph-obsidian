@@ -1,8 +1,0 @@
-[[Sonication]]
-[[Acid hydrolysis]]
-[[Sco]]
-[[Yeast Lipids]]
-[[Deletion]]
-[[Rhodococcus Erythropolis]]
-[[Para]]
-[[Roda]]

@@ -1,8 +1,0 @@
-[[Metabolism]]
-[[anaerobic respiration]]
-[[Geobacter]]
-[[Bioelectricity]]
-[[MFC]]
-[[Microbial fuel cell]]
-[[Overexpressing]]
-[[Eet]]

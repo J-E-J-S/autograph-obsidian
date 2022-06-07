@@ -1,5 +1,0 @@
-[[Flow cytometry]]
-[[Interleukin-24]]
-[[Auto-induction]]
-[[Immunomodulatory Cytokine]]
-[[Small Ubiquitin-like Modifier Protein (Sumo)]]

@@ -1,5 +1,0 @@
-[[Promoter]]
-[[Transcription regulation]]
-[[Mandarin fish]]
-[[IFN]]
-[[Ifn Induced Protein-35]]

@@ -1,6 +1,0 @@
-[[Benzimidazole]]
-[[Heterocycles]]
-[[Quinoxaline]]
-[[Anticancer Agents]]
-[[Nci-60]]
-[[Mda-mb-468]]

@@ -1,5 +1,0 @@
-[[Biological activity]]
-[[Medicinal plant]]
-[[Polygonum hydropiper]]
-[[Phytochemistry]]
-[[Pharmacological Properties]]

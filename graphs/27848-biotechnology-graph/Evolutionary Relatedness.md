@@ -1,6 +1,0 @@
-[[N-terminal domain]]
-[[amylomaltase]]
-[[Conserved Sequence Regions]]
-[[Starch-binding Domain]]
-[[Cbm Families]]
-[[Family Gh77]]

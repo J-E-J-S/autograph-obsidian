@@ -1,8 +1,0 @@
-[[Plasmodium]]
-[[Post-translational modifications]]
-[[Phosphatase]]
-[[Inhibition Assay]]
-[[human plasma]]
-[[Type 2 Diabetes Mellitus (T2dm)]]
-[[Dipeptidyl Peptidase 4 (Dpp4)]]
-[[Evogliptin (Da-1229) Tartrate]]

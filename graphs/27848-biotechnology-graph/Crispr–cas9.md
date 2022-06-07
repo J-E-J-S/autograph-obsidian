@@ -1,7 +1,0 @@
-[[Gene therapy]]
-[[Delivery systems]]
-[[Genome Editing]]
-[[Medicinal plants]]
-[[Secondary metabolites]]
-[[Genome Editing]]
-[[Crispr–cpf1]]

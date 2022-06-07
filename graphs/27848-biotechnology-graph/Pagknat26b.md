@@ -1,6 +1,0 @@
-[[Populus]]
-[[Gibberellin]]
-[[Drought]]
-[[Knox]]
-[[Ga20-oxidase]]
-[[Pagknat2/6b]]

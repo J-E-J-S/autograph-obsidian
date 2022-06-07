@@ -1,3 +1,0 @@
-[[Polyclonal antibody]]
-[[Casr]]
-[[Immunohistofluorescence]]

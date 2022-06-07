@@ -1,5 +1,0 @@
-[[Diabetes mellitus]]
-[[Streptozotocin]]
-[[palmatine]]
-[[2-DE]]
-[[Grp78]]

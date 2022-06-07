@@ -1,5 +1,0 @@
-[[Recombinant DNA]]
-[[Environmental safety]]
-[[risk assessment]]
-[[Food And Feed Safety]]
-[[International Harmonisation]]

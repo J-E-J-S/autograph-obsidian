@@ -1,3 +1,0 @@
-[[Seaweeds]]
-[[polymers]]
-[[Bioplastic Film]]

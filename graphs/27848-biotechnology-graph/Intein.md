@@ -1,8 +1,0 @@
-[[TA cloning]]
-[[Elp]]
-[[Iptg-induced Protein Expression]]
-[[Temperature-sensitive Promoter]]
-[[Substrate specificity]]
-[[Protein splicing]]
-[[Mutagenesis]]
-[[Protein Ligation]]

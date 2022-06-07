@@ -1,5 +1,0 @@
-[[Antibacterial activity]]
-[[Marine microorganism]]
-[[Brown Seaweed]]
-[[Sophorolipid]]
-[[Macrocystis Pyrifera]]

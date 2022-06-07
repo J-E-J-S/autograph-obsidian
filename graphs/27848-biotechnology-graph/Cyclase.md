@@ -1,6 +1,0 @@
-[[Photosynthesis]]
-[[Chlorophyll]]
-[[Cyanobacteria]]
-[[Microevolution]]
-[[Cyclopeptide]]
-[[Biocatalyst]]

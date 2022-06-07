@@ -1,5 +1,0 @@
-[[Peptide]]
-[[Substrates]]
-[[Pores]]
-[[Bilayer]]
-[[Single-channel]]

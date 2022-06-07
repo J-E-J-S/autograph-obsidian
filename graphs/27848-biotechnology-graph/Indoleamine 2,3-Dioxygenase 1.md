@@ -1,5 +1,0 @@
-[[Phenalenone Derivative]]
-[[Acetaldehyde-induced Damage]]
-[[Benzoquinone-chromanone]]
-[[Penicillium Herquei Ft729]]
-[[Soil-associated Fungus]]

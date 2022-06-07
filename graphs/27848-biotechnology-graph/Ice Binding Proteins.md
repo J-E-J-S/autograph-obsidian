@@ -1,5 +1,0 @@
-[[Secondary metabolites]]
-[[Natural products]]
-[[Climacostol]]
-[[Cold-adapted Enzymes]]
-[[Bioactive Molecules From Protists]]

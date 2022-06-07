@@ -1,3 +1,0 @@
-[[Pentoses]]
-[[Exopolysaccharides]]
-[[Microbial Polymers]]

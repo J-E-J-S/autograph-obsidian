@@ -1,4 +1,0 @@
-[[Database]]
-[[Cytogenetic]]
-[[Software]]
-[[Algorithm]]

@@ -1,6 +1,0 @@
-[[Fermentation]]
-[[Ultrasonication]]
-[[Mycophenolic acid]]
-[[Mannose]]
-[[soybean meal]]
-[[Bio-fermentation Pretreated]]

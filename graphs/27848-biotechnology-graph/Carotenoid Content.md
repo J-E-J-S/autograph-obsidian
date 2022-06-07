@@ -1,7 +1,0 @@
-[[Tomato]]
-[[Fruit ripening]]
-[[Solanum Lycopersicum]]
-[[Primary Metabolites]]
-[[Gene Editing]]
-[[Phototropins]]
-[[Protein Protection Machinery]]

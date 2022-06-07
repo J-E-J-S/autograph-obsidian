@@ -1,5 +1,0 @@
-[[Phosphorylation]]
-[[Intrinsic Disorder]]
-[[Arginine Methylation]]
-[[Co-modification]]
-[[Heavy Methyl Silac]]

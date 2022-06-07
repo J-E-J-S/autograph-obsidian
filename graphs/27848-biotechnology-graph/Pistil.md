@@ -1,6 +1,0 @@
-[[Pollination]]
-[[Fertilization]]
-[[Heat stress]]
-[[Ovule development]]
-[[Female Reproductive Organ]]
-[[Embryo Formation]]

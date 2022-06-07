@@ -1,5 +1,0 @@
-[[Infection]]
-[[Wound healing]]
-[[HBD2]]
-[[innate immunity]]
-[[Silver Nanoparticle]]

@@ -1,8 +1,0 @@
-[[Pulmonary surfactant]]
-[[Aestivation]]
-[[Water-to-land Transition]]
-[[Ancestral Karyotype]]
-[[Huge Genome Size]]
-[[Lungfishes]]
-[[Pentadactyl Limbs]]
-[[Pharyngeal Remodeling]]

@@ -1,4 +1,0 @@
-[[MMP]]
-[[Autodock]]
-[[Indigocarpan]]
-[[Mucronulatol]]

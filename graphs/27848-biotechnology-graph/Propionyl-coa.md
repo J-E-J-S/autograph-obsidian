@@ -1,5 +1,0 @@
-[[TCA cycle]]
-[[Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)]]
-[[Escherichia Coli]]
-[[Glyoxylate Shunt]]
-[[Sleeping Beauty Mutase]]

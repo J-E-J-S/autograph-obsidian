@@ -1,6 +1,0 @@
-[[Trehalose]]
-[[Maltose]]
-[[Nigerose]]
-[[Kojibiose]]
-[[Carbohydrate Active Enzyme]]
-[[Sakibiose]]

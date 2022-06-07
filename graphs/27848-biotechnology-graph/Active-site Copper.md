@@ -1,8 +1,0 @@
-[[Expression vector]]
-[[Signal peptide]]
-[[Protein expression]]
-[[Post-translational modifications]]
-[[Culture conditions]]
-[[Protein Tag]]
-[[Lpmos]]
-[[Auxiliary Activity]]

@@ -1,4 +1,0 @@
-[[Bostrichidae]]
-[[Xyleborini]]
-[[Ceratocystiopsis]]
-[[Raffaelea]]

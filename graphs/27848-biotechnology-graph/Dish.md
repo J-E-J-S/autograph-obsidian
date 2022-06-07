@@ -1,8 +1,0 @@
-[[Oryza sativa]]
-[[Tapetum]]
-[[poLLen]]
-[[Rna Fish]]
-[[Tdr]]
-[[Gamyb]]
-[[Udt1]]
-[[Bhlh142]]

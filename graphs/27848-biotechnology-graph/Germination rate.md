@@ -1,5 +1,0 @@
-[[Epidermis]]
-[[Chloroplast]]
-[[Iron oxide]]
-[[Transmission Microscope]]
-[[Radical Length]]

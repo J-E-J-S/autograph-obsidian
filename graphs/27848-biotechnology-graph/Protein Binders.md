@@ -1,5 +1,0 @@
-[[Protein engineering]]
-[[Antibody]]
-[[Scaffold]]
-[[Phage Display.]]
-[[Non-immunoglobulin]]

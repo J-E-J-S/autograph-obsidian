@@ -1,5 +1,0 @@
-[[nifH]]
-[[Arctic]]
-[[Diazotrophs]]
-[[Kongsfjorden]]
-[[Delta-proteobacteria]]

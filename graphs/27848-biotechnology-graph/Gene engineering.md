@@ -1,4 +1,0 @@
-[[Biosynthesis]]
-[[Cofactor]]
-[[Cadaverine]]
-[[Antiporter]]

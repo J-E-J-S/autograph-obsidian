@@ -1,6 +1,0 @@
-[[Genetic engineering]]
-[[Flow cytometry]]
-[[Ion channel]]
-[[Cell line]]
-[[Cell engineering]]
-[[Gpcr]]

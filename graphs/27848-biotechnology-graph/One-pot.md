@@ -1,5 +1,0 @@
-[[Amino Acid Oxidase]]
-[[Deracemization]]
-[[Amino Acid Dehydrogenase]]
-[[Enzyme Cascade]]
-[[L-phosphinothricin]]

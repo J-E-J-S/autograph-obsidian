@@ -1,6 +1,0 @@
-[[Antimicrobial activity]]
-[[Xanthone]]
-[[hydroquinone]]
-[[Marine-derived Fungus]]
-[[Benzofuranone]]
-[[Pseudopithomyces Maydicus]]

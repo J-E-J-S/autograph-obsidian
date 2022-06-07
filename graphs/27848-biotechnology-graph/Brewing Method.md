@@ -1,7 +1,0 @@
-[[Sugar]]
-[[Roasting]]
-[[Coffee]]
-[[Water type]]
-[[Mesh size]]
-[[Furan]]
-[[5-Hmf]]

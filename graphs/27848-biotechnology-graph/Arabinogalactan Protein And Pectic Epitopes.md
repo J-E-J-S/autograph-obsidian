@@ -1,5 +1,0 @@
-[[Carbohydrates]]
-[[Phenolic compounds]]
-[[Poliamines]]
-[[Elastic Modulus Of Cell Wall]]
-[[Hydraulic Conductivity Of Plasma Membranes And Turgor Pressure]]

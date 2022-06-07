@@ -1,4 +1,0 @@
-[[Absorption]]
-[[Permeability]]
-[[Bioavailability]]
-[[Barriers]]

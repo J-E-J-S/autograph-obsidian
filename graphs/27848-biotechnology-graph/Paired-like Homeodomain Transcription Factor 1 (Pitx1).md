@@ -1,8 +1,0 @@
-[[Cell differentiation]]
-[[Transcription factor]]
-[[Astrocyte]]
-[[glial cell]]
-[[Human Embryonic Stem Cell]]
-[[Gliogenesis]]
-[[Neural Stem Cell (Nsc)]]
-[[Sex-determining Region Y Box 9 (Sox9)]]

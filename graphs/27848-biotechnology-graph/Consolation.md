@@ -1,3 +1,0 @@
-[[Communication]]
-[[Hospice]]
-[[Comfort Care]]

@@ -1,5 +1,0 @@
-[[Calcium]]
-[[PTH]]
-[[Hyperparathyroidism]]
-[[TBS]]
-[[Vertebral Fractures]]

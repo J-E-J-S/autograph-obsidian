@@ -1,5 +1,0 @@
-[[Biosurfactant]]
-[[Olive Oil Mill Wastewater]]
-[[Oilfield]]
-[[Polluted Soils]]
-[[Removal Hydrocarbons]]

@@ -1,6 +1,0 @@
-[[Apoptosis]]
-[[MCF-7]]
-[[HepG2]]
-[[Antioxidant Assay]]
-[[Anti-proliferative]]
-[[Agnps]]

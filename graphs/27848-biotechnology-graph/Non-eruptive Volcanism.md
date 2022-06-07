@@ -1,6 +1,0 @@
-[[mus musculus]]
-[[biomonitoring]]
-[[Gem]]
-[[Autometallography]]
-[[Hg0]]
-[[Hydrothermal Emissions]]

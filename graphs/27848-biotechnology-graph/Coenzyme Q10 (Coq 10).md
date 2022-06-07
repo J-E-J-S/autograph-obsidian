@@ -1,5 +1,0 @@
-[[Fermentation]]
-[[Aromatic compounds]]
-[[Corynebacterium glutamicum]]
-[[Isoprenoids]]
-[[metabolic engineering]]

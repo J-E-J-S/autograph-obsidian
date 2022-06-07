@@ -1,5 +1,0 @@
-[[Dominance]]
-[[synergy]]
-[[Pleasantness]]
-[[Odor Interaction]]
-[[Partial Addition]]

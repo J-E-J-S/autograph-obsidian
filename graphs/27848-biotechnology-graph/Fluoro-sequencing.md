@@ -1,5 +1,0 @@
-[[Protein sequencing]]
-[[Aptamer]]
-[[Affinity Reagents]]
-[[N-terminal Amino Acid Binder]]
-[[Naab]]

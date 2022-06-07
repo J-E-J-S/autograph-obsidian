@@ -1,5 +1,0 @@
-[[Flavin mononucleotide]]
-[[metabolic engineering]]
-[[riboflavin]]
-[[Fmn And Fad Overproducers]]
-[[Yeast Candida Famata]]

@@ -1,5 +1,0 @@
-[[Cervical cancer]]
-[[risk factors]]
-[[Diagnostic Biomarkers]]
-[[Prognostic Biomarkers]]
-[[Therapeutic Biomarkers]]

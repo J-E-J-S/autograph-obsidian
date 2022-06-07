@@ -1,3 +1,0 @@
-[[Pseudoalteromonas]]
-[[Sspa]]
-[[Mutual Regulation]]

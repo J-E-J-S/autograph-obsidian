@@ -1,4 +1,0 @@
-[[Facilitation]]
-[[Metal]]
-[[Biochar]]
-[[Technosol]]

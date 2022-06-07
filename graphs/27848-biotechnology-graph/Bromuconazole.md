@@ -1,5 +1,0 @@
-[[Rats]]
-[[Hepatotoxicity]]
-[[Physiological]]
-[[Metabolomics]]
-[[Transcriptomic]]

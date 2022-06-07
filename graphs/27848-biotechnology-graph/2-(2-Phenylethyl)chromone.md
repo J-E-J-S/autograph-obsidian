@@ -1,2 +1,0 @@
-[[Agarwood]]
-[[Aquilaria Filaria]]

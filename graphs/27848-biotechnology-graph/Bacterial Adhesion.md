@@ -1,5 +1,0 @@
-[[Dextran]]
-[[Exopolysaccharides]]
-[[Sucrose metabolism]]
-[[Leuconostoc]]
-[[Weissella]]

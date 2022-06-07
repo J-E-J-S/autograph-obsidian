@@ -1,7 +1,0 @@
-[[DNA replication]]
-[[Yeast]]
-[[Cyclin-dependent Kinase]]
-[[Cdc28]]
-[[Mutation Rates]]
-[[Leading Strand]]
-[[Illegitimate Mating]]

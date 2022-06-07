@@ -1,4 +1,0 @@
-[[Stenosis]]
-[[Neointima]]
-[[Galectin]]
-[[hemodialysis]]

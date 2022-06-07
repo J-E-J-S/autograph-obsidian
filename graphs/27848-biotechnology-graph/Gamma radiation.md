@@ -1,3 +1,0 @@
-[[Apoptosis]]
-[[Apigenin]]
-[[Gastrointestinal Toxicity]]

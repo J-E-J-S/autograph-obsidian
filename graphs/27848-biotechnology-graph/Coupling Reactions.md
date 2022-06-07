@@ -1,5 +1,0 @@
-[[Oxidation]]
-[[Reduction]]
-[[gold nanoparticles]]
-[[Heterogeneous Catalysis]]
-[[Pollution Control.]]

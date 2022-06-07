@@ -1,7 +1,0 @@
-[[Inoculation]]
-[[Biological nitrogen fixation]]
-[[Plant-growth Promoting Bacteria]]
-[[Lactic acid bacteria]]
-[[Probiotics]]
-[[Therapeutic Proteins]]
-[[Food Fermentation]]

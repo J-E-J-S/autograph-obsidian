@@ -1,4 +1,0 @@
-[[Sensor]]
-[[Therapy]]
-[[Device]]
-[[Bioapplication]]

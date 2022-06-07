@@ -1,5 +1,0 @@
-[[Rhizobia]]
-[[Central America]]
-[[South America]]
-[[Average Nucleotide Identity]]
-[[Burkholderia Legume]]

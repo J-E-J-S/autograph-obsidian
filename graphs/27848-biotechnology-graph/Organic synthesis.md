@@ -1,7 +1,0 @@
-[[Enzyme immobilization]]
-[[Detergent]]
-[[Lipases]]
-[[Cosmetics]]
-[[Food Industry]]
-[[Textile]]
-[[Nanostructured Carriers]]

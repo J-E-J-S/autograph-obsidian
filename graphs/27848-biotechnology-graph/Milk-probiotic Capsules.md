@@ -1,2 +1,0 @@
-[[Probiotics]]
-[[Temperature-sensitive]]

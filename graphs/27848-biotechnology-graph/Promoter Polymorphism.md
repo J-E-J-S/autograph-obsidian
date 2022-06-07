@@ -1,5 +1,0 @@
-[[Dairy cows]]
-[[Gene Expression]]
-[[Milk Somatic Cells]]
-[[Alpha-lactalbumin (Lalba)]]
-[[Milk Traits Association]]

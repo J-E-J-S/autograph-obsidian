@@ -1,4 +1,0 @@
-[[Conidia]]
-[[Brla]]
-[[Abaa]]
-[[Weta]]

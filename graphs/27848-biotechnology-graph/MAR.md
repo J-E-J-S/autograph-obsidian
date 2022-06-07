@@ -1,5 +1,0 @@
-[[TSP]]
-[[Transient expression]]
-[[Terminator]]
-[[Potexvirus]]
-[[Amv]]

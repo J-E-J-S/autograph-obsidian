@@ -1,6 +1,0 @@
-[[Gastric cancer]]
-[[Photodynamic therapy]]
-[[Curcumin]]
-[[H. pylori]]
-[[Her2]]
-[[Vdac]]

@@ -1,2 +1,0 @@
-[[EPR]]
-[[Direct Digital Detection]]

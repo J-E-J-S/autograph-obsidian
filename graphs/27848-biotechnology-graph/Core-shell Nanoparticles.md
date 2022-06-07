@@ -1,6 +1,0 @@
-[[Chitosan]]
-[[Kinetic study]]
-[[Antibacterial activities]]
-[[Drug release]]
-[[alginate]]
-[[Rifaximin]]

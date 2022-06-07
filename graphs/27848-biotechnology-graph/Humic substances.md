@@ -1,5 +1,0 @@
-[[Infrared spectroscopy]]
-[[Carbon source]]
-[[Agroindustrial Residues]]
-[[Organic Compound]]
-[[Thermophilic Phase]]

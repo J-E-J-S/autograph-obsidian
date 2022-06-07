@@ -1,5 +1,0 @@
-[[Gelatin]]
-[[Fluconazole]]
-[[Amorphous Solid Dispersion]]
-[[Bioadhesive Films]]
-[[Snail Mucus Extract]]

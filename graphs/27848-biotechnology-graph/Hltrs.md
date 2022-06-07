@@ -1,5 +1,0 @@
-[[Transcription factor]]
-[[Phenotype]]
-[[Genetic]]
-[[Lymphangiogenesis]]
-[[Hlts]]

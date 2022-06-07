@@ -1,3 +1,0 @@
-[[Malaria]]
-[[Relapses]]
-[[Coronavirus Disease]]

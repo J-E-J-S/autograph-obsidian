@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Hydrolysis]]
-[[Platinum]]
-[[Heterobimetallic]]
-[[9-Methylguanine]]

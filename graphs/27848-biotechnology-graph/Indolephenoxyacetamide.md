@@ -1,2 +1,0 @@
-[[Angiogenesis]]
-[[Solid tumor]]

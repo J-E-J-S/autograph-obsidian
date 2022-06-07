@@ -1,7 +1,0 @@
-[[Sugar]]
-[[Roasting]]
-[[Coffee]]
-[[Water type]]
-[[Furan]]
-[[5-Hmf]]
-[[Brewing Method]]

@@ -1,6 +1,0 @@
-[[Mass spectrometry]]
-[[Ligand binding]]
-[[Quantification]]
-[[protein interactions]]
-[[protein structure]]
-[[cross-linking]]

@@ -1,6 +1,0 @@
-[[water deficit]]
-[[Gene Expression]]
-[[Chlorophyll Degradation]]
-[[Curcumin Productivity]]
-[[Turmeric Plants]]
-[[Water Withholding]]

@@ -1,5 +1,0 @@
-[[Bioconversion]]
-[[FeruLic acid]]
-[[4-Vinylguaiacol]]
-[[Dsm 42037]]
-[[Streptomyces Tunisiensis]]

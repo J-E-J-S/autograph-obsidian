@@ -1,2 +1,0 @@
-[[Embryogenesis]]
-[[Rna-seq]]

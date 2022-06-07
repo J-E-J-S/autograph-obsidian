@@ -1,6 +1,0 @@
-[[Staphylococcus aureus]]
-[[Complex]]
-[[Oligomer]]
-[[Amyloid Fibrils]]
-[[Formylation]]
-[[Deformylation]]

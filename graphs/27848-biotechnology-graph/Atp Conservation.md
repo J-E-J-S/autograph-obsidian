@@ -1,6 +1,0 @@
-[[Phosphorylation]]
-[[industrial biotechnology]]
-[[Bottom-up Synthetic Biology]]
-[[Biomanufacturing]]
-[[Atp Regeneration]]
-[[In vitro Synthetic Biology]]

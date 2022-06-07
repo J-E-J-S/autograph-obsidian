@@ -1,6 +1,0 @@
-[[Molecular modeling]]
-[[Antiviral Activity]]
-[[Piperidine]]
-[[Hiv-1 Protease Inhibitors]]
-[[Enzymatic Inhibitory Activity]]
-[[Subtype C Variants]]

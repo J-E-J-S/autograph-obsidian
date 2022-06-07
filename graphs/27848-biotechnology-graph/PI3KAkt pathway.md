@@ -1,8 +1,0 @@
-[[Glioma]]
-[[PI3K/Akt pathway]]
-[[Mir-140-5p]]
-[[Snhg1]]
-[[CRKl]]
-[[Hepatocarcinoma]]
-[[glucose metabolism]]
-[[PI3K/Akt pathway]]

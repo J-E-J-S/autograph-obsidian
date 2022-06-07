@@ -1,2 +1,0 @@
-[[Carotenogenesis]]
-[[Capsicum Species]]

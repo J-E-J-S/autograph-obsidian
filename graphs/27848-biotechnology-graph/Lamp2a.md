@@ -1,4 +1,0 @@
-[[Autoantibodies]]
-[[Lysosomes]]
-[[Lupus]]
-[[Autophagy]]

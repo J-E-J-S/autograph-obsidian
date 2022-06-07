@@ -1,7 +1,0 @@
-[[Sugarcane]]
-[[CRE/lox]]
-[[gene targeting]]
-[[Crispr/cas9]]
-[[Single Strand Annealing]]
-[[Site Specific Recombination]]
-[[Precision Genome Editing]]

@@ -1,6 +1,0 @@
-[[Pigments]]
-[[Medicine]]
-[[Patents]]
-[[Textiles]]
-[[Violacein]]
-[[Health.violacein]]

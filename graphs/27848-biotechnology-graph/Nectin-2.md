@@ -1,6 +1,0 @@
-[[Neuronal cell culture]]
-[[Bohv-1]]
-[[Bovine Herpesvirus-1]]
-[[Nectin-1]]
-[[Fbbc-1]]
-[[Bovine Neurons]]

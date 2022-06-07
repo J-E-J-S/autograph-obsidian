@@ -1,5 +1,0 @@
-[[Toxicity]]
-[[QTL]]
-[[Al3+]]
-[[Pak Basmati]]
-[[Pokkai]]

@@ -1,6 +1,0 @@
-[[Insects]]
-[[Lectin]]
-[[Gna]]
-[[RNAi]]
-[[Cellular Uptake]]
-[[Dsrna Delivery]]

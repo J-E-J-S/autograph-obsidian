@@ -1,3 +1,0 @@
-[[ELISA]]
-[[Vaccine]]
-[[Ileal Loop]]

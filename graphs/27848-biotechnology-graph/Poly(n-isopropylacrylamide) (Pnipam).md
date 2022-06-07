@@ -1,5 +1,0 @@
-[[Near-surface]]
-[[Microrheology]]
-[[Microgels]]
-[[Effective Volume Fraction]]
-[[Total Internal Reflection Microscopy (Tirm)]]

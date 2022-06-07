@@ -1,5 +1,0 @@
-[[Tiger]]
-[[Molecular clocks]]
-[[Species Divergence]]
-[[Dna Barcoding Marker]]
-[[Nadh Dehydrogenase Subunits]]

@@ -1,4 +1,0 @@
-[[Cotton]]
-[[Drought]]
-[[Neofunctionalization]]
-[[Lncrna]]

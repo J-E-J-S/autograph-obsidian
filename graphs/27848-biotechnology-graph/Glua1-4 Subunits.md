@@ -1,6 +1,0 @@
-[[Chronic pain]]
-[[AMPA receptors]]
-[[Ampar Trafficking]]
-[[Nociceptive Circuits]]
-[[The Dorsal Horn (Dh) Of The Spinal Cord]]
-[[Sensory Dh Neurons]]

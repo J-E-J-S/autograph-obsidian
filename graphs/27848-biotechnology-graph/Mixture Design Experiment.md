@@ -1,5 +1,0 @@
-[[Catechin]]
-[[Epicatechin]]
-[[Rutin]]
-[[Diabetes]]
-[[Simplex-centroid Design]]

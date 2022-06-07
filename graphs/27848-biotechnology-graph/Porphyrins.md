@@ -1,5 +1,0 @@
-[[Enzymes]]
-[[Methanol]]
-[[Microbes]]
-[[Greenhouse gases]]
-[[Amine Solvents]]

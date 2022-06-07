@@ -1,6 +1,0 @@
-[[Human papillomavirus]]
-[[Cervical cancer]]
-[[L1 gene]]
-[[Biopharmaceuticals]]
-[[Plant-based Vaccines]]
-[[Ethanol-inducible System]]

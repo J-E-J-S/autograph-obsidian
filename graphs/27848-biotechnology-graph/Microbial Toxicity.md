@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Dynamic model]]
-[[Sensitivity analysis]]
-[[Tetrazolium]]
-[[Formazan]]

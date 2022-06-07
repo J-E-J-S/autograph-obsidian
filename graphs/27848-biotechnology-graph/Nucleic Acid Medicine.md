@@ -1,5 +1,0 @@
-[[Antisense]]
-[[Peptide nucleic acid]]
-[[Single nucleotide polymorphism]]
-[[polyethylene glycol]]
-[[Gene Expression]]

@@ -1,7 +1,0 @@
-[[Medicinal plants]]
-[[Endophyte]]
-[[Antibacterial activity]]
-[[ethnobotany]]
-[[Nrps]]
-[[Bush Medicine]]
-[[Dharawal]]

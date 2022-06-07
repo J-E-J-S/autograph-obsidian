@@ -1,5 +1,0 @@
-[[Delivery]]
-[[Pregnancy]]
-[[Bone Marrow Transplantation]]
-[[Fanconi Anemia]]
-[[Maternal Outcome]]

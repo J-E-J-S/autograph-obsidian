@@ -1,6 +1,0 @@
-[[Endemic fish]]
-[[Complete Mitochondrial Genome]]
-[[Coreoleuciscus Aeruginos]]
-[[Oxford Nanopore Sequencing]]
-[[Labeo Catla]]
-[[Mitgenome]]

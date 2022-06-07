@@ -1,5 +1,0 @@
-[[Nutrition]]
-[[Inflammation]]
-[[Health]]
-[[Cognitive function]]
-[[Social Contact]]

@@ -1,3 +1,0 @@
-[[Fungi]]
-[[Enzymes]]
-[[Applications]]

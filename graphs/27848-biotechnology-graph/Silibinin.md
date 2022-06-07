@@ -1,6 +1,0 @@
-[[Apoptosis]]
-[[Cell cycle arrest]]
-[[Anti-angiogenesis]]
-[[Clinical Studies]]
-[[Anti-metastasis]]
-[[Flavonolignans]]

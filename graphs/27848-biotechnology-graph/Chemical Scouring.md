@@ -1,5 +1,0 @@
-[[Bleaching]]
-[[Brightness]]
-[[Bioscouring]]
-[[Whiteness]]
-[[Yellowness]]

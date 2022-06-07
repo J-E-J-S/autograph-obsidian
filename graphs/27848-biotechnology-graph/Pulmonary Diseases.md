@@ -1,6 +1,0 @@
-[[Tuberculosis]]
-[[Vitamin D]]
-[[Asthma]]
-[[COPD]]
-[[Pneumonia]]
-[[Acute Lung Injury]]

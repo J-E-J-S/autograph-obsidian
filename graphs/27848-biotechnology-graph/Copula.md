@@ -1,5 +1,0 @@
-[[Functional response model]]
-[[High-throughput Sequencing]]
-[[Semiparametric Regression]]
-[[U-statistics Based Generalized Estimating Equation (Ugee)]]
-[[Permutational Multivariate Analysis Of Variance Using Distance Matrices (Permanova)]]

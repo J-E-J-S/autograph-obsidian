@@ -1,5 +1,0 @@
-[[Antioxidant]]
-[[Corynebacterium glutamicum]]
-[[Pentose phosphate pathway]]
-[[L-histidine]]
-[[L-carnosine]]

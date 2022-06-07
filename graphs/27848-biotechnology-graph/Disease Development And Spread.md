@@ -1,6 +1,0 @@
-[[Fungi]]
-[[epidemiology]]
-[[Field Crops]]
-[[Crop Type]]
-[[Causal Agent]]
-[[Subject Areas]]

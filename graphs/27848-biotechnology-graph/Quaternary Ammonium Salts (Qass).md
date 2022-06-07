@@ -1,4 +1,0 @@
-[[Resistance]]
-[[Microorganism]]
-[[eradication]]
-[[adhesion]]

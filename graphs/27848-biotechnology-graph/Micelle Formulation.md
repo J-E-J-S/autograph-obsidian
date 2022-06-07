@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Paclitaxel]]
-[[Transdermal Delivery]]
-[[Skin Permeation]]
-[[Surface-active Ionic Liquid]]

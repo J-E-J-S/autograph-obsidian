@@ -1,8 +1,0 @@
-[[Phylogeny]]
-[[Genomics]]
-[[Escherichia Coli]]
-[[Pathogenicity Islands]]
-[[Polyketide Synthase]]
-[[Genotoxins]]
-[[Pks Island]]
-[[Escherichia Toxins]]

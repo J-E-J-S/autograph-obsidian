@@ -1,5 +1,0 @@
-[[Kinetics]]
-[[mass spectrometry (MS)]]
-[[Forced Conditions]]
-[[Degradation Product(s)]]
-[[Peptide(s)]]

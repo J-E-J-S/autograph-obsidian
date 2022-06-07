@@ -1,5 +1,0 @@
-[[Sensors]]
-[[Point-of-care Testing]]
-[[Internet Of Things]]
-[[Wearables]]
-[[Blockchain]]

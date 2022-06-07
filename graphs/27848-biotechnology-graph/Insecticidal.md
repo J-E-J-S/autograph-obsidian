@@ -1,5 +1,0 @@
-[[Extracts]]
-[[Leishmaniasis]]
-[[Phytochemicals]]
-[[Ajuga Bracteosa]]
-[[Cytotoxic Potential]]

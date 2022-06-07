@@ -1,5 +1,0 @@
-[[Mitochondrial DNA]]
-[[Nd2]]
-[[Elasmobranch]]
-[[Indian River Lagoon]]
-[[American Cownose Ray]]

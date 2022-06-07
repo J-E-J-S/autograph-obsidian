@@ -1,7 +1,0 @@
-[[biocontrol efficacy]]
-[[lipopeptide]]
-[[Cotton Rhizoctoniosis]]
-[[Specific activity]]
-[[Graphene Oxide]]
-[[D-optimal Design]]
-[[Lipase Immobilization]]

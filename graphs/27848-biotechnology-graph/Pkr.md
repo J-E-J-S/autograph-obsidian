@@ -1,8 +1,0 @@
-[[Oreochromis niloticus]]
-[[Antiviral Activity]]
-[[Type I interferons]]
-[[Translation Inhibition Activity]]
-[[Double-stranded RNA]]
-[[innate immunity]]
-[[Orf Virus]]
-[[Ov20.0]]

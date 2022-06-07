@@ -1,5 +1,0 @@
-[[Light]]
-[[Salicylic acid]]
-[[Photoreceptors]]
-[[Necrotrophs]]
-[[Biotrophs]]

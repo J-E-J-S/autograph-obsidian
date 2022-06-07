@@ -1,5 +1,0 @@
-[[Biological activity]]
-[[Animal feed]]
-[[Probiotic]]
-[[Spore-forming Bacteria]]
-[[Industrial Requirements]]

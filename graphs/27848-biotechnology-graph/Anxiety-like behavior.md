@@ -1,5 +1,0 @@
-[[BDNF]]
-[[Hypothalamic–pituitary–adrenal Axis]]
-[[Ethanol Withdrawal]]
-[[Depression-like Behavior]]
-[[Puerariae Flos Extract]]

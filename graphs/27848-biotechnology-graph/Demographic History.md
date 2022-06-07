@@ -1,6 +1,0 @@
-[[Genetic diversity]]
-[[Next-generation Sequencing]]
-[[Clams]]
-[[Y-chromosome]]
-[[Abc Modeling]]
-[[Social-cultural Isolates]]

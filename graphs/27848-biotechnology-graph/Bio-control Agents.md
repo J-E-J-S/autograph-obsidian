@@ -1,5 +1,0 @@
-[[Plant extracts]]
-[[Antagonistic bacteria]]
-[[Natural resistance]]
-[[Beneficial Microbes]]
-[[Antifungal Secondary Metabolites]]

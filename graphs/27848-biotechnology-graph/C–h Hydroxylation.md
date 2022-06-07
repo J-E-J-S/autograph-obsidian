@@ -1,3 +1,0 @@
-[[Oxidation]]
-[[Terpenoid]]
-[[P450]]

@@ -1,5 +1,0 @@
-[[Permeability]]
-[[membrane translocation]]
-[[Machine Learning]]
-[[Macrocycle]]
-[[Nuclear Magnetic Resonance (Nmr) Spectroscopy]]

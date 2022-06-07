@@ -1,5 +1,0 @@
-[[Chitosan]]
-[[Botrytis cinerea]]
-[[Antifungal activity]]
-[[Metabolic activity]]
-[[Synthetic Fungicides]]

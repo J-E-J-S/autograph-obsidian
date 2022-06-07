@@ -1,5 +1,0 @@
-[[Phosphorus]]
-[[Nitrogen]]
-[[Cadmium]]
-[[Heavy metal]]
-[[Ochromonas]]

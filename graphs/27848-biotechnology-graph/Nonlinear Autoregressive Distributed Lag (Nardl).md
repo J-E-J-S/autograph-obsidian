@@ -1,5 +1,0 @@
-[[Biomass]]
-[[Biotechnology]]
-[[Sustainability]]
-[[Economic Growth]]
-[[Co2 Emission]]

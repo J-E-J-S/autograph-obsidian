@@ -1,5 +1,0 @@
-[[Vaccine]]
-[[Tick]]
-[[Omics]]
-[[Paratransgenesis]]
-[[Translational Biotechnology]]

@@ -1,5 +1,0 @@
-[[FTIR]]
-[[Glycolipid]]
-[[Foam flotation]]
-[[Copper Sulfide]]
-[[Bipolar Surfactant]]

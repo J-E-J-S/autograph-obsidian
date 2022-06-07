@@ -1,5 +1,0 @@
-[[Potassium]]
-[[Sodium]]
-[[Tomato]]
-[[Antioxidant]]
-[[Salt stress]]

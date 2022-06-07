@@ -1,5 +1,0 @@
-[[Heparin]]
-[[Capillary electrophoresis]]
-[[Mass spectrometry]]
-[[Antithrombin III]]
-[[Filter Trapping]]

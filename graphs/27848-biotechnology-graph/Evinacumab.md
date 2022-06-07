@@ -1,5 +1,0 @@
-[[Lipids]]
-[[Ldl-cholesterol]]
-[[Pcsk9 Antibodies]]
-[[Volanesorsen]]
-[[Apo(a) Antisense Oligonucleotides]]

@@ -1,3 +1,0 @@
-[[Autoantibodies]]
-[[Systemic]]
-[[Lupus nephritis]]

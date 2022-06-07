@@ -1,3 +1,0 @@
-[[Biosynthesis]]
-[[Cytotoxicity]]
-[[Rosemary]]

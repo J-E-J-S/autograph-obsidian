@@ -1,3 +1,0 @@
-[[Sensitivity]]
-[[Nanogels]]
-[[Triggered Release]]

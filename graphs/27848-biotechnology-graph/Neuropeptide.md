@@ -1,5 +1,0 @@
-[[Diabetes]]
-[[Multi-function]]
-[[Orcokinin]]
-[[Neuroregulation]]
-[[Pedal Peptide]]

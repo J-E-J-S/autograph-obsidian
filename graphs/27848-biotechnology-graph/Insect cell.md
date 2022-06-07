@@ -1,5 +1,0 @@
-[[Cell cycle]]
-[[Aggregation]]
-[[Phosphatase]]
-[[Plant lectin]]
-[[Orysata]]

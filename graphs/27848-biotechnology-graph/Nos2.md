@@ -1,5 +1,0 @@
-[[MICA]]
-[[Triple Negative Breast Cancer]]
-[[Micb]]
-[[Lncrna Heih]]
-[[Mir-939-5p]]

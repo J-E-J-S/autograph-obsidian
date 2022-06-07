@@ -1,3 +1,0 @@
-[[Polysaccharides]]
-[[Biological activities]]
-[[Mushrooms]]

@@ -1,5 +1,0 @@
-[[Trachea]]
-[[mucus]]
-[[Cystic Fibrosis]]
-[[Obstructive Lung Diseases]]
-[[Sodium/proton Exchanger]]

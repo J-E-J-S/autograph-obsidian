@@ -1,5 +1,0 @@
-[[Apoptosis]]
-[[Gastric cancer]]
-[[Autophagy]]
-[[gold nanoparticles]]
-[[Phyllanthus Emblica Fruit]]

@@ -1,6 +1,0 @@
-[[High temperature]]
-[[Root architecture]]
-[[brassinosteroids]]
-[[auxin]]
-[[Thermomorphogenesis]]
-[[Root-soil Interactions]]

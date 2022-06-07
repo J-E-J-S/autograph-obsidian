@@ -1,4 +1,0 @@
-[[Cryopreservation]]
-[[Oocyte]]
-[[Vitrification]]
-[[Bovine]]

@@ -1,5 +1,0 @@
-[[Gelatin]]
-[[Fluconazole]]
-[[Skin Penetration]]
-[[Bioadhesive Films]]
-[[Snail Mucus Extract]]

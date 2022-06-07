@@ -1,3 +1,0 @@
-[[Rabies]]
-[[Glycoprotein]]
-[[nucleoprotein]]

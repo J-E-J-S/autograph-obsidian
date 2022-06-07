@@ -1,7 +1,0 @@
-[[Diabetes mellitus]]
-[[TLR4]]
-[[Cardiomyopathy]]
-[[Heart]]
-[[Diabetes]]
-[[IGF1R]]
-[[hyperglycemia]]

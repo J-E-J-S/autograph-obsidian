@@ -1,5 +1,0 @@
-[[Oryza sativa]]
-[[14-3-3 protein]]
-[[Ca2+ Protection]]
-[[Oscipk]]
-[[Pm H+atpase]]

@@ -1,5 +1,0 @@
-[[Water retention]]
-[[Pumice]]
-[[Pesticide Retention]]
-[[Retention Soil Filter]]
-[[Superabsorbent Polymer (Sap)]]

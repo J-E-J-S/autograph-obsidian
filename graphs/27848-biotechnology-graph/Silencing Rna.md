@@ -1,5 +1,0 @@
-[[Monoclonal antibodies]]
-[[Recombinant Protein Production]]
-[[Cell Enrichment]]
-[[Clonal Variation]]
-[[Chinese Hamster Ovary Cells]]

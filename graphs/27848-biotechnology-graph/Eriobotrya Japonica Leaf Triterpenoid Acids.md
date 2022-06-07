@@ -1,5 +1,0 @@
-[[Molecular docking]]
-[[Insulin resistance]]
-[[metabolic syndrome]]
-[[Dyslipidemia]]
-[[High-fat diet]]

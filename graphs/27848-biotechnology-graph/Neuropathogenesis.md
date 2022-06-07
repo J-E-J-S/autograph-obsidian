@@ -1,7 +1,0 @@
-[[Brain]]
-[[Cerebrospinal fluid]]
-[[Blood-Brain Barrier]]
-[[localization]]
-[[in situ Hybridization]]
-[[Ventricles]]
-[[Tilapia Lake Virus]]

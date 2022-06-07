@@ -1,3 +1,0 @@
-[[Biosynthesis]]
-[[Biotransformation]]
-[[Bitespiramycin]]

@@ -1,4 +1,0 @@
-[[Fluoride]]
-[[Detector]]
-[[adsorption]]
-[[Colorimetric]]

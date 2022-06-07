@@ -1,6 +1,0 @@
-[[Lipopolysaccharide]]
-[[Vibrio parahaemolyticus]]
-[[Lpxl]]
-[[Lpxm]]
-[[Lipid A Structure]]
-[[Lipid A Biosynthesis]]

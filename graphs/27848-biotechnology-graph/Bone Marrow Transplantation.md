@@ -1,5 +1,0 @@
-[[Delivery]]
-[[Pregnancy]]
-[[Fetal Outcome]]
-[[Fanconi Anemia]]
-[[Maternal Outcome]]

@@ -1,5 +1,0 @@
-[[Stroke]]
-[[neurotrophin-3]]
-[[Bone Marrow Mononuclear Cells]]
-[[Axonal Sprouting]]
-[[Telencephalic Neural Plasticity]]

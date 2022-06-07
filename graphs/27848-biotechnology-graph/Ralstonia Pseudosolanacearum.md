@@ -1,3 +1,0 @@
-[[Chemotaxis]]
-[[Bacterial wilt]]
-[[malate]]

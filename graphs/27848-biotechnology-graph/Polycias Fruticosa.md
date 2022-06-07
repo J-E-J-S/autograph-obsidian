@@ -1,5 +1,0 @@
-[[Cell suspension culture]]
-[[Saponin]]
-[[Oleanolic acid]]
-[[Cell Culture.]]
-[[Oleanane Triterpene]]

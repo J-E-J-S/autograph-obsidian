@@ -1,5 +1,0 @@
-[[Corynebacterium glutamicum]]
-[[Affinity tag]]
-[[Plasmid stability]]
-[[Gene repression]]
-[[Protein Production]]

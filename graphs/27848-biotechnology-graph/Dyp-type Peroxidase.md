@@ -1,5 +1,0 @@
-[[Genome]]
-[[Purification]]
-[[Actinobacteria]]
-[[Biocatalysis]]
-[[Streptomyces Albidoflavus]]

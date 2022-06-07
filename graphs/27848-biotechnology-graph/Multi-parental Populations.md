@@ -1,5 +1,0 @@
-[[Population structure]]
-[[linkage disequilibrium]]
-[[Association Mapping]]
-[[False Discovery Rate]]
-[[Gwas]]

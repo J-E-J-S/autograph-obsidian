@@ -1,5 +1,0 @@
-[[Calcium]]
-[[PTH]]
-[[TBS]]
-[[Vertebral Fractures]]
-[[Normocalcaemic Hyperparathyroidism]]

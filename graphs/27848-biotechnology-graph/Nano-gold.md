@@ -1,3 +1,0 @@
-[[Flavonoid]]
-[[Antimicrobial]]
-[[Quercetin]]

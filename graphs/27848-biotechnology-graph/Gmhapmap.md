@@ -1,5 +1,0 @@
-[[Soybean]]
-[[De Novo Assembly]]
-[[Pan-genome]]
-[[Genic Pav]]
-[[Long-read Sequencing]]

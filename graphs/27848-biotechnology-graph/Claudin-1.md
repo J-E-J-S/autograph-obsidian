@@ -1,8 +1,0 @@
-[[STAT1]]
-[[I/r]]
-[[Intestinal Epithelial Barrier]]
-[[Il-28a]]
-[[Metastasis]]
-[[Oral Squamous Cell Carcinoma]]
-[[Let-7a]]
-[[Withaferin A]]

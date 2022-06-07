@@ -1,5 +1,0 @@
-[[3d Culture]]
-[[Organoid]]
-[[Organ-on-chip]]
-[[Scaffold-based Cell Culture]]
-[[Mini-organ]]

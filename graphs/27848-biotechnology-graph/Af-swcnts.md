@@ -1,5 +1,0 @@
-[[Macrophages]]
-[[Confocal microscopy]]
-[[Inflammation]]
-[[BCG]]
-[[Carbon nanotubes]]

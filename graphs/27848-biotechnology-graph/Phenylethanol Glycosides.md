@@ -1,3 +1,0 @@
-[[Ultraviolet B]]
-[[Hacats]]
-[[Photodamge]]

@@ -1,4 +1,0 @@
-[[Chlorella]]
-[[Microalgae]]
-[[Harvesting]]
-[[Electrocoagulation]]

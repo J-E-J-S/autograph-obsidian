@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Fhl1]]
-[[Ifh1]]
-[[Rna Content]]
-[[Ssf2]]

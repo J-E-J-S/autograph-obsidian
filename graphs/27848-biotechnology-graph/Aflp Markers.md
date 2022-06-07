@@ -1,5 +1,0 @@
-[[Population structure]]
-[[Genetic diversity]]
-[[Kadaknath]]
-[[Black Meat Chicken]]
-[[Indigenous Poultry Breed]]

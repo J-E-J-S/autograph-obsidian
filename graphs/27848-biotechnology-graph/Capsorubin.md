@@ -1,2 +1,0 @@
-[[Sodium alginate]]
-[[Ternary Conjugate]]

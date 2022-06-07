@@ -1,5 +1,0 @@
-[[Principal component analysis]]
-[[Design Of Experiments]]
-[[Ph Effect]]
-[[Genome-scale Metabolic Model]]
-[[Regulatory-defined Medium]]

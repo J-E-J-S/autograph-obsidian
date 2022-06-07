@@ -1,5 +1,0 @@
-[[Beauveria bassiana]]
-[[Enzyme]]
-[[Metabolite]]
-[[Endophyte]]
-[[Industrial Potential]]

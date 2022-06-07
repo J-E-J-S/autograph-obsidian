@@ -1,3 +1,0 @@
-[[Atherosclerosis]]
-[[Curcumin]]
-[[Rabbit Dyslipidemia]]

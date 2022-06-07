@@ -1,2 +1,0 @@
-[[n-myc]]
-[[Sonic hedgehog]]

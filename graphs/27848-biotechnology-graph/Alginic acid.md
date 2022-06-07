@@ -1,5 +1,0 @@
-[[Inflammation]]
-[[Chelation]]
-[[SKin]]
-[[particulate matter]]
-[[Padina Boryana]]

@@ -1,2 +1,0 @@
-[[Nuclear transfer]]
-[[Bovine]]

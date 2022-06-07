@@ -1,5 +1,0 @@
-[[Candida albicans]]
-[[Cell membrane]]
-[[Permeability]]
-[[Ethidium bromide]]
-[[Dph]]

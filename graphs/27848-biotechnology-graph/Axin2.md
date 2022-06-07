@@ -1,3 +1,0 @@
-[[Mechanism]]
-[[Curcumin]]
-[[Colorectal Cancer]]

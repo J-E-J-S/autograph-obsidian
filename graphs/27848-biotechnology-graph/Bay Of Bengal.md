@@ -1,5 +1,0 @@
-[[Taxonomy]]
-[[Okadaic acid]]
-[[Growth Rate]]
-[[Prorocentrum Lima]]
-[[North Indian Ocean]]

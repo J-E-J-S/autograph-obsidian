@@ -1,5 +1,0 @@
-[[Vibrio cholerae]]
-[[Antimicrobial resistance]]
-[[Co-resistance]]
-[[Adaptive Laboratory Evolution]]
-[[Rpsj]]

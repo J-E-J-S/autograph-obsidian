@@ -1,6 +1,0 @@
-[[Cell division]]
-[[Cell growth]]
-[[Zymomonas mobilis]]
-[[Alphaproteobacteria]]
-[[Chromosome Organization]]
-[[Cellular Heterogeneity]]

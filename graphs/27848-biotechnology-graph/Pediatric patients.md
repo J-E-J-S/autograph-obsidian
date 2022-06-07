@@ -1,5 +1,0 @@
-[[Multidrug resistance]]
-[[Dysbiosis]]
-[[Superbug]]
-[[Shotgun Metagenomic Sequencing]]
-[[Resistome Diversities]]

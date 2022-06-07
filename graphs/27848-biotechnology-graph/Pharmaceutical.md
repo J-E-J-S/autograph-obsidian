@@ -1,5 +1,0 @@
-[[Fusion protein]]
-[[Enzyme]]
-[[Directed evolution]]
-[[Metagenomics]]
-[[Cosmetic]]

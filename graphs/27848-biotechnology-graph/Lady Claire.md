@@ -1,5 +1,0 @@
-[[Polyphenols]]
-[[Acrylamide]]
-[[Sugars]]
-[[Birgit]]
-[[Minimally Processed Potato]]

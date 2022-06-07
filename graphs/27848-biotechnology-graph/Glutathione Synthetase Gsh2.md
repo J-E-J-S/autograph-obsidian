@@ -1,5 +1,0 @@
-[[Tolerance]]
-[[Candida glycerinogenes]]
-[[2-Phenylethanol]]
-[[Genome-scale Screen]]
-[[Transcription Factor Hap5]]

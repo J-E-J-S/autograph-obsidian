@@ -1,5 +1,0 @@
-[[Sesquiterpene lactone]]
-[[WRKY]]
-[[bHLH]]
-[[Costunolide]]
-[[Diphosphomevalonate Decarboxylase]]

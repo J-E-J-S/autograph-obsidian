@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Virucidal]]
-[[Bactericidal]]
-[[Fungicidal]]
-[[Agnps]]
-[[Lysinibacillus Sphaericus]]

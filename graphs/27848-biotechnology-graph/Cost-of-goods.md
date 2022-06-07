@@ -1,5 +1,0 @@
-[[Immobilization]]
-[[Growth factor]]
-[[Stem cell factor]]
-[[Cell therapy]]
-[[Cell Product Manufacturing]]

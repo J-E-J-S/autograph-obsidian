@@ -1,4 +1,0 @@
-[[Apoptosis]]
-[[cardiogenesis]]
-[[teratogenicity]]
-[[chlorpyrifos]]

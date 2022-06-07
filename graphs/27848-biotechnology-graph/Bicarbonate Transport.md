@@ -1,6 +1,0 @@
-[[Biomass]]
-[[Promoter]]
-[[Cyanobacteria]]
-[[Rbs]]
-[[Feedstock]]
-[[Glycogen Stores]]

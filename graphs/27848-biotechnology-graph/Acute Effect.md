@@ -1,6 +1,0 @@
-[[Neurotransmitters]]
-[[Anxiety]]
-[[Cognitive impairment]]
-[[total body irradiation]]
-[[Low-dose irradiation]]
-[[Memory Loss]]

@@ -1,2 +1,0 @@
-[[Gastric cancer]]
-[[Metastasis]]

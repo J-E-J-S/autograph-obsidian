@@ -1,6 +1,0 @@
-[[Interleukin-6]]
-[[Hepcidin]]
-[[Black pepper]]
-[[BALB/C Mice]]
-[[piperine]]
-[[Anemia Of Inflammation]]

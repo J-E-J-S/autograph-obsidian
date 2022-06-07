@@ -1,6 +1,0 @@
-[[DNA]]
-[[Protein]]
-[[Anti-inflammatory]]
-[[Schinus Terebinthifolius]]
-[[Schinus Molle]]
-[[Hplc–dad–esi–ms/ms]]

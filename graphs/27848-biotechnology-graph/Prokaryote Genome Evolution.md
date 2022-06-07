@@ -1,5 +1,0 @@
-[[Metagenomics]]
-[[Phylogenetic Trees]]
-[[Pangenome]]
-[[Single-cell Genomics]]
-[[Gene Gain And Loss]]

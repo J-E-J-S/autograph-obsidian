@@ -1,6 +1,0 @@
-[[Cytotoxicity]]
-[[Atomic force microscopy]]
-[[Bispecific antibody]]
-[[T cell]]
-[[cancer cell]]
-[[Cup-chip]]

@@ -1,3 +1,0 @@
-[[Plants]]
-[[Microgravity]]
-[[Spaceflight]]

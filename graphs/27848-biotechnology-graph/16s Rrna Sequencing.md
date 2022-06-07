@@ -1,5 +1,0 @@
-[[Lactic acid bacteria]]
-[[Aluminum toxicity]]
-[[Probiotic]]
-[[Gut Microbiota]]
-[[Short-chain Fatty Acids]]

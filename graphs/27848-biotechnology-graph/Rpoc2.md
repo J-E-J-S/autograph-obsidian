@@ -1,5 +1,0 @@
-[[Chloroplast DNA]]
-[[Trichomes]]
-[[Chrysanthemum indicum]]
-[[Snp Marker]]
-[[Multiplex Allele-specific Pcr]]

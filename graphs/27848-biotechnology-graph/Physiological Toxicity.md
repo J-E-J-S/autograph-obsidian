@@ -1,5 +1,0 @@
-[[Bacillus subtilis]]
-[[Proliferation]]
-[[HepG2]]
-[[Immune Microenvironment]]
-[[Iturin A]]

@@ -1,6 +1,0 @@
-[[mass spectrometry analysis]]
-[[Elaeis Guineensis]]
-[[Arecaceae]]
-[[Fatty Acid Phytyl Ester]]
-[[Esterase/lipase/thioesterase-like Acyltransferases]]
-[[Fatty Acid Geranylgeranyl Ester]]

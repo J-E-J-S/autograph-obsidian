@@ -1,7 +1,0 @@
-[[Lignin]]
-[[Arabidopsis]]
-[[Roots]]
-[[Metabolomics]]
-[[auxin]]
-[[Phenylpropanoids]]
-[[Cis-cinnamic Acid]]

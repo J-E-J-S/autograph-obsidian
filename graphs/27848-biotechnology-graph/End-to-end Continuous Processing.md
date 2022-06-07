@@ -1,5 +1,0 @@
-[[Process Economics]]
-[[Cost Of Goods]]
-[[Chemistry, Manufacturing And Controls]]
-[[Cost Of Development]]
-[[Monoclonal Antibody Manufacture]]

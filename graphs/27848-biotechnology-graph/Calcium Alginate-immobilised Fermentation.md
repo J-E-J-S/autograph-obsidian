@@ -1,5 +1,0 @@
-[[Saccharomyces cerevisiae]]
-[[Cell cycle progression]]
-[[industry application]]
-[[Rim15]]
-[[Biofilm-based Fermentation]]

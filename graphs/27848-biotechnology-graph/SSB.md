@@ -1,5 +1,0 @@
-[[Protein-protein interaction]]
-[[miRNA]]
-[[Let-7]]
-[[Lin28]]
-[[Heterochronic Signaling]]

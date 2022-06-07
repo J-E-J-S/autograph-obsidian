@@ -1,5 +1,0 @@
-[[Diabetes]]
-[[Monocyte]]
-[[Dyslipidemia]]
-[[Atherogenesis]]
-[[Cvd]]

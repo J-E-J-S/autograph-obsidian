@@ -1,5 +1,0 @@
-[[Carbon source]]
-[[Polysaccharide synthesis]]
-[[Structural properties]]
-[[Inonotus obliquus]]
-[[liquid fermentation]]

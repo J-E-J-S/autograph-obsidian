@@ -1,5 +1,0 @@
-[[Sucrose]]
-[[Reactive oxygen species]]
-[[Sugar transporter]]
-[[Fiber elongation]]
-[[Fiber Initiation]]

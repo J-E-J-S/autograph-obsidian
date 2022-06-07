@@ -1,8 +1,0 @@
-[[Organophosphate]]
-[[Covalent Immobilization]]
-[[Mph-gst]]
-[[Sensing Microplate]]
-[[Pichia pastoris]]
-[[high-density fermentation]]
-[[Enzyme Immobilisation]]
-[[Multi-copy Strains]]

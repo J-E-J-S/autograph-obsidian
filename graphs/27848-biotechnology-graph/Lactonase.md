@@ -1,8 +1,0 @@
-[[Coral-associated Bacteria]]
-[[Red Sea]]
-[[Anti-biofilm]]
-[[Quorum Quenching Bacteria]]
-[[Biofilm]]
-[[Microbial community]]
-[[Quorum sensing]]
-[[Silica Encapsulation]]

@@ -1,5 +1,0 @@
-[[Image processing]]
-[[immuno-gold labeling]]
-[[Quantification]]
-[[Background Subtraction]]
-[[Sub-chloroplast Compartment]]

@@ -1,3 +1,0 @@
-[[Endophytes]]
-[[Microbiome]]
-[[Holobiont]]

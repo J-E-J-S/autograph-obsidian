@@ -1,7 +1,0 @@
-[[Gut]]
-[[Microbiota]]
-[[Probiotic]]
-[[anandamide]]
-[[Intestinal barrier]]
-[[2-arachidonoylglycerol]]
-[[Endocannabinoid System]]

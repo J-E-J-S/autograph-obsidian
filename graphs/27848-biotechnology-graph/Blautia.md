@@ -1,7 +1,0 @@
-[[Lactulose]]
-[[Dose]]
-[[Fecal Microbiota]]
-[[Diabetes]]
-[[Anemarrhena asphodeloides]]
-[[Gut Microbiota]]
-[[Peroxiredoxin 4]]

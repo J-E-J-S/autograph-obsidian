@@ -1,6 +1,0 @@
-[[Neuropathic pain]]
-[[Decompression]]
-[[neuroinflammation]]
-[[Chronic Constriction Injury]]
-[[Compressive Neuropathy]]
-[[Nerve Release]]

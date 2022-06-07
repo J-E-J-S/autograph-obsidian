@@ -1,8 +1,0 @@
-[[Leguminosae]]
-[[Population structure]]
-[[Genetic diversity]]
-[[Phenolic compounds]]
-[[Glycyrrhizin]]
-[[licorice]]
-[[Linkage Disequilibrium Mapping]]
-[[Glycyrrhiza Glabra]]

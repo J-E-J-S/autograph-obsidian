@@ -1,7 +1,0 @@
-[[Corynebacterium]]
-[[DNA replication]]
-[[Protein-DNA interaction]]
-[[ATP hydrolysis]]
-[[Bacteriophage]]
-[[Dna Unwinding]]
-[[Replication Protein]]

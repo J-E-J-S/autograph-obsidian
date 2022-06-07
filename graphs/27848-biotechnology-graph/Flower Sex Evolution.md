@@ -1,3 +1,0 @@
-[[Recombination]]
-[[Hermaphroditism]]
-[[Grapevine Domestication]]

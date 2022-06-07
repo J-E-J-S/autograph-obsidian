@@ -1,5 +1,0 @@
-[[Programmed cell death]]
-[[Muscle]]
-[[myogenesis]]
-[[Necroptosis]]
-[[C2c12]]

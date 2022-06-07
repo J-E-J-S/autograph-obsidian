@@ -1,4 +1,0 @@
-[[Nutrients]]
-[[Protein]]
-[[Sugar]]
-[[Anthropometrics]]

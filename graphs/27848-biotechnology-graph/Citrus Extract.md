@@ -1,5 +1,0 @@
-[[Mass spectrometry]]
-[[Hesperidin]]
-[[Fluorescence Resonance Energy Transfer Assay]]
-[[Hepatitis C Virus Genotype 3a]]
-[[Non-Structural Protein 3 Protease]]

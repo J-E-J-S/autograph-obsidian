@@ -1,5 +1,0 @@
-[[Polyamines]]
-[[Ornithine decarboxylase]]
-[[antizyme]]
-[[Peptidylarginine Deiminase]]
-[[Protein Citrullination]]

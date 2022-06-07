@@ -1,7 +1,0 @@
-[[Environment]]
-[[Bacteriocin]]
-[[Biofilm]]
-[[Antibiotic Resistance]]
-[[Medical]]
-[[Antimicrobial peptides]]
-[[Food Industries]]

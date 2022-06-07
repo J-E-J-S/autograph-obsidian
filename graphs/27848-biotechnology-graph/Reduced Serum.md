@@ -1,5 +1,0 @@
-[[Coculture]]
-[[Fibroblasts]]
-[[Keratinocytes]]
-[[fetal bovine serum]]
-[[Wound Bed]]

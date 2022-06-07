@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Rice]]
-[[Salt stress]]
-[[Glutaredoxin]]
-[[Na(+)transporters]]

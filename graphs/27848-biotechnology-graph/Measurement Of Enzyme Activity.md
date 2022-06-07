@@ -1,3 +1,0 @@
-[[Cellulase]]
-[[Xylanase]]
-[[Lignocellulosic Biomass]]

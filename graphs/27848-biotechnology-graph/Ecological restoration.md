@@ -1,5 +1,0 @@
-[[Exotic species]]
-[[forest management]]
-[[ecosystem services]]
-[[Plant Ecological Strategy]]
-[[Community Functional Structure]]

@@ -1,5 +1,0 @@
-[[Fatty acid synthase]]
-[[Molecular docking]]
-[[Antiproliferative Activity]]
-[[Molecular Dynamics (Md) Simulation]]
-[[Structure-based Virtual Screening]]

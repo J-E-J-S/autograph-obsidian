@@ -1,5 +1,0 @@
-[[Stress tolerance]]
-[[Phytoliths]]
-[[Xylem Loading]]
-[[Silicon Transport]]
-[[Specialized Cells]]

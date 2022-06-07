@@ -1,2 +1,0 @@
-[[Mosquito]]
-[[Aminopeptidase N1]]

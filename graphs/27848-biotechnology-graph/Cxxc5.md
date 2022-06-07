@@ -1,5 +1,0 @@
-[[Stem Cells]]
-[[growth factors]]
-[[Regenerative Wound Healing]]
-[[Dermal papilla cells]]
-[[Neogenesis]]

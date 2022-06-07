@@ -1,5 +1,0 @@
-[[Artificial intelligence]]
-[[Cardiovascular diseases]]
-[[Hypertension Management]]
-[[Pharmacological Approaches]]
-[[Biotechnology Interference]]

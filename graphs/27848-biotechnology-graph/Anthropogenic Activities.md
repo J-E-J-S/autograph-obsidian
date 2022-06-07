@@ -1,5 +1,0 @@
-[[Heavy metals]]
-[[Marine sediment]]
-[[Bacterial community]]
-[[Pollution Indices]]
-[[Predicted Functions]]

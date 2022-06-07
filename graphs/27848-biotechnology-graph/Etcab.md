@@ -1,3 +1,0 @@
-[[Eimeria tenella]]
-[[Invasion]]
-[[adhesion]]

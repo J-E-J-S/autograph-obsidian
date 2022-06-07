@@ -1,5 +1,0 @@
-[[Label-free]]
-[[Cellular Thermal Shift Assay]]
-[[Stability Of Proteins From Rates Of Oxidation]]
-[[Thermal Proteome Profiling]]
-[[Drug Affinity Responsive Target Stability]]

@@ -1,3 +1,0 @@
-[[Stress]]
-[[Reptiles]]
-[[Anolis Carolinensis]]

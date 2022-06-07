@@ -1,7 +1,0 @@
-[[Drugs]]
-[[Food]]
-[[marine biotechnology]]
-[[Horizon 2020]]
-[[Trl]]
-[[Blue Growth]]
-[[Market Trend]]

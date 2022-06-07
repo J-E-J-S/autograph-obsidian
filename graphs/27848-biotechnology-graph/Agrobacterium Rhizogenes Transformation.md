@@ -1,5 +1,0 @@
-[[Hairy root]]
-[[Trigonella foenum-graecum]]
-[[Fenugreek]]
-[[Tsar]]
-[[Triterpene Saponin Activating Regulator]]

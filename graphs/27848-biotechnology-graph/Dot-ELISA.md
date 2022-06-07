@@ -1,5 +1,0 @@
-[[Monoclonal antibody]]
-[[TAS-ELISA]]
-[[Dickeya Dadantii]]
-[[Stem And Root Rot Of Sweet Potato]]
-[[Tissue-print-elisa]]

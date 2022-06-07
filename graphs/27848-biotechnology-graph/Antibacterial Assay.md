@@ -1,5 +1,0 @@
-[[Cytotoxicity]]
-[[Essential oils]]
-[[Gas chromatography]]
-[[Antioxidant activity]]
-[[Stachys Pilifera Benth]]

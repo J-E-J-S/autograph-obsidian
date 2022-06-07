@@ -1,5 +1,0 @@
-[[Hirudin]]
-[[Recombinant Proteins]]
-[[Wolffia Arrhiza]]
-[[Transgene Expression System]]
-[[Transgenic Duckweed]]

@@ -1,5 +1,0 @@
-[[Fungi]]
-[[Bacteria]]
-[[Angiosperms]]
-[[Metal Nanoparticles]]
-[[Lower Plants]]

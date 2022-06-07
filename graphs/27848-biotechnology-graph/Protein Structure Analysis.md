@@ -1,6 +1,0 @@
-[[Molecular dynamic simulation]]
-[[High pressure processing]]
-[[Lag Time]]
-[[Adsorption Rate]]
-[[Pendant Drop]]
-[[Oil/water-interface]]

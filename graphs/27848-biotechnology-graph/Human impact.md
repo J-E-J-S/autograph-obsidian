@@ -1,5 +1,0 @@
-[[Activated sludge]]
-[[PCR]]
-[[Horizontal gene transfer]]
-[[Antibiotic Resistance]]
-[[Livestock Feces]]

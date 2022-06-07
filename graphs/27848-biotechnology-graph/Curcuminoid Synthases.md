@@ -1,5 +1,0 @@
-[[Hairy root Culture]]
-[[heterologous expression]]
-[[Synthetic Biology]]
-[[Atropa Belladonna]]
-[[Curcumin & Curcumin Monoglucoside]]

@@ -1,6 +1,0 @@
-[[Plasmid]]
-[[Transposon]]
-[[Horizontal Transfer]]
-[[Bacterial Genome]]
-[[Sake Brewing]]
-[[Kocuria]]

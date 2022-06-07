@@ -1,5 +1,0 @@
-[[Ulcer]]
-[[Diabetes]]
-[[Wound]]
-[[Nanotechnology]]
-[[nanomaterials]]

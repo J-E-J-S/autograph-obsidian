@@ -1,8 +1,0 @@
-[[Euthanasia]]
-[[End-of-life]]
-[[Predictive Genetic Testing]]
-[[Suicide/assisted Suicide]]
-[[Cooperation]]
-[[Participation]]
-[[Conscientious Objection]]
-[[Canon Law]]

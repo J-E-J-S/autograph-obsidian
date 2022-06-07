@@ -1,5 +1,0 @@
-[[Broiler]]
-[[Meat quality]]
-[[Growth performance]]
-[[Selenium yeast]]
-[[Algae-based Antioxidant]]

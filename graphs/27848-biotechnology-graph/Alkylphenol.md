@@ -1,5 +1,0 @@
-[[Liposomes]]
-[[Cancer]]
-[[Docetaxel]]
-[[Taxanes]]
-[[Drug Delivery]]

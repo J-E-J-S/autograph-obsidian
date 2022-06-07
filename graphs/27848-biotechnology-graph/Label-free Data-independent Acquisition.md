@@ -1,5 +1,0 @@
-[[protein extraction]]
-[[Ffpe]]
-[[LC-MS/MS]]
-[[Fasp]]
-[[Rapigest]]

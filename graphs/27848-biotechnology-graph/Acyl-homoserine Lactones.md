@@ -1,3 +1,0 @@
-[[Pseudomonas aeruginosa]]
-[[Apoptosis]]
-[[Platelet]]

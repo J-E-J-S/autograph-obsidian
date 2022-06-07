@@ -1,5 +1,0 @@
-[[Infection]]
-[[Mycobacterium tuberculosis]]
-[[Intracellular Survival]]
-[[Biofilm Formation]]
-[[Acidic Stress]]

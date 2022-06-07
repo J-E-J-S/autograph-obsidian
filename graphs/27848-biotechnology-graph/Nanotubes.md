@@ -1,7 +1,0 @@
-[[Glycolipids]]
-[[Gels]]
-[[Supramolecular Assembly]]
-[[Soft Materials]]
-[[Renewable Resource]]
-[[12-Hydroxystearic Acid]]
-[[Structuring Agent]]

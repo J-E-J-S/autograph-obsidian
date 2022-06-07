@@ -1,3 +1,0 @@
-[[Biosynthesis]]
-[[Antibiotic]]
-[[heterologous expression]]

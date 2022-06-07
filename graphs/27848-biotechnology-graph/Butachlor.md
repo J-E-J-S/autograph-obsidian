@@ -1,5 +1,0 @@
-[[Resistance]]
-[[Toxicity]]
-[[Mechanism]]
-[[Biodegradation]]
-[[pathway]]

@@ -1,5 +1,0 @@
-[[Gene regulation]]
-[[Transcriptome]]
-[[Noncoding RNA]]
-[[microRNAs]]
-[[Long Noncoding Rnas]]

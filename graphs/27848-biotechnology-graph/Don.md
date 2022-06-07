@@ -1,5 +1,0 @@
-[[Pathogenicity]]
-[[Fusarium graminearum]]
-[[Gtpase-activating Protein]]
-[[Fungal Development]]
-[[Fggyp1]]

@@ -1,3 +1,0 @@
-[[Pharmacokinetics]]
-[[Bootstrap]]
-[[Linear Systems]]

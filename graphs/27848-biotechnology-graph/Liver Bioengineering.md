@@ -1,2 +1,0 @@
-[[Decellularization]]
-[[Cell Sheet Technology]]

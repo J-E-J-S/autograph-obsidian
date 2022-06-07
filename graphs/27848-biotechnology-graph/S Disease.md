@@ -1,5 +1,0 @@
-[[Acetylation]]
-[[human brain]]
-[[Alzheimer]]
-[[Pyruvate Dehydrogenase Complex]]
-[[Ketoglutarate Dehydrogenase Complex]]

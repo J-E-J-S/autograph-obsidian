@@ -1,5 +1,0 @@
-[[Tiger]]
-[[Species Divergence]]
-[[Dna Barcoding Marker]]
-[[Nadh Dehydrogenase Subunit 4 (Nd4)]]
-[[Nadh Dehydrogenase Subunits]]

@@ -1,5 +1,0 @@
-[[China]]
-[[Hepatitis E virus]]
-[[Pregnant women]]
-[[risk factors]]
-[[Outcomes]]

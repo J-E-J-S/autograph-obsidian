@@ -1,7 +1,0 @@
-[[Fermentation]]
-[[Insulin]]
-[[Glucose]]
-[[Inflammation]]
-[[bread]]
-[[Postprandial]]
-[[Sourdough]]

@@ -1,6 +1,0 @@
-[[Azadirachta indica]]
-[[MD simulation]]
-[[active site]]
-[[Virtual Screening]]
-[[Admet]]
-[[In Silico Screening]]

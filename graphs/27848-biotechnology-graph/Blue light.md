@@ -1,5 +1,0 @@
-[[Arabidopsis]]
-[[Phototropism]]
-[[sumoylation]]
-[[Phototropin]]
-[[Chloroplast Movements]]

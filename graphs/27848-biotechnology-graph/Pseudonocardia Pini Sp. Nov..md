@@ -1,1 +1,0 @@
-[[An Endophytic Actinobacterium]]
