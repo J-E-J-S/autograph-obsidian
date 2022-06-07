@@ -29,50 +29,55 @@ def getpapersWrapper(query, mineFolderPath, limit):
 
 def generateKeywords(paperScrapePath):
 
-    # This function generates a list of articles with keyword data from literature scrape, in format [[keyword1_article1, keyword2_article1 ], [keyword1_article2, keyword2_article2], ...  ]
+    # This function generates a dictionary of articles with keyword data from literature scrape, in format {title_1: [keyword1_article1, keyword2_article1 ], title_2 :[keyword1_article2, keyword2_article2], ...  }
 
     with open(paperScrapePath, encoding='utf-8') as f:
         data = json.load(f)
 
-    keywords = [] # Holds list of lists for keywords per article
+    keywordsDic = {} # Holds { title_1 : [keyword1, keyword 2], title_2 : [keyword_1, .. , ]}
     count = 0
     for article in data:
-        count += 1
         # Ignore items that don't have explicit keywords
         try:
-            keywords.append(article['keywordList'][0]['keyword']) # Appends list object
+            title = article['title'][0]
+            keywordsDic[title] = article['keywordList'][0]['keyword']
         except:
             continue
+        count += 1
 
-    return keywords
+    return keywordsDic
 
 def buildGraph(minedKeywords, outPath):
 
     try:
         os.mkdir(outPath)
     except:
+        print('WARNING: Outpath already exists.')
         pass
 
     invalidChars = '<>:/"/\|?*'
-    for article in minedKeywords:
-        for keyword in article:
+    for title, keywords in minedKeywords.items():
+        for keyword in keywords:
             # Clean keyword
             keyword = keyword.replace('\n', '')
             for char in invalidChars:
                 keyword = keyword.replace(char, '')
+            # See if keyword index file already exists, make index file if does not exist
             try:
                 f = open(os.path.join(outPath, keyword + '.md'), 'x')
             except:
                 pass
+            # Add links to the index file
             try:
                 f = open(os.path.join(outPath, keyword + '.md'), 'a')
-                for link in article:
+                f.write(title + '\n')
+                for link in keywords:
                     if link != keyword:
                         try:
                             f.write('[[' + link + ']]\n')
                         except:
                             pass
-                            f.close()
+                f.close()
             except:
                 pass
     return
