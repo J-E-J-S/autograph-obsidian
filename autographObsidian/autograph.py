@@ -56,10 +56,14 @@ def buildGraph(minedKeywords, outPath):
         pass
 
     invalidChars = '<>:/"/\|?*'
+    fontStyles = ['<i>', '</i>', '<sub>', '</sub>', '<b>', '</b>', '<sup>', '</sup>' ]
     for title, keywords in minedKeywords.items():
         for keyword in keywords:
-            # Clean keyword
+            # Clean keyword, handle some weird symbol edge cases
             keyword = keyword.replace('\n', '')
+            keyword = keyword.replace('–', '-')
+            keyword = keyword.replace('‘',"'")
+            keyword= keyword.replace('’', "'")
             for char in invalidChars:
                 keyword = keyword.replace(char, '')
             # See if keyword index file already exists, make index file if does not exist
@@ -67,12 +71,17 @@ def buildGraph(minedKeywords, outPath):
                 f = open(os.path.join(outPath, keyword + '.md'), 'x')
             except:
                 pass
-            # Add links to the index file
+            # Add links to the index file and the title at the start of the links
             try:
                 f = open(os.path.join(outPath, keyword + '.md'), 'a')
+                for html in fontStyles:
+                        title = title.replace(html, '')
                 f.write(title + '\n')
                 for link in keywords:
                     if link != keyword:
+                        link = link.replace('–', '-')
+                        link = link.replace('‘',"'")
+                        link = link.replace('’', "'")
                         try:
                             f.write('[[' + link + ']]\n')
                         except:
