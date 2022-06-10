@@ -3,6 +3,7 @@ import sys
 import subprocess
 import json
 import shutil
+import click
 
 def getpapersWrapper(query, mineFolderPath, limit):
 
@@ -60,14 +61,19 @@ def buildGraph(minedKeywords, outPath):
     for title, keywords in minedKeywords.items():
 
         for keyword in keywords:
-            # Clean keyword, handle some weird symbol edge cases
-            keyword = keyword.replace('\n', '')
-            keyword = keyword.replace('–', '-')
-            keyword = keyword.replace('‘',"'")
-            keyword= keyword.replace('’', "'")
+            try:
+                # Clean keyword, handle some weird symbol edge cases
+                keyword = keyword.replace('\n', '')
+                keyword = keyword.replace('–', '-')
+                keyword = keyword.replace('‘',"'")
+                keyword= keyword.replace('’', "'")
+            except:
+                pass
             for char in invalidChars:
-                keyword = keyword.replace(char, '')
-
+                try:
+                    keyword = keyword.replace(char, '')
+                except:
+                    pass
             # Add links to the index file and the title at the start of the links
             try:
                 f = open(os.path.join(outPath, keyword + '.md'), 'a')
@@ -77,11 +83,14 @@ def buildGraph(minedKeywords, outPath):
                     f.write(title + '\n')
                 except:
                     print('Warning: title was unwritable for', keyword)
+                # NEED TO REFACTOR SO THIS ONLY OCCURS ONCE
                 for link in keywords:
                     if link != keyword:
                         link = link.replace('–', '-')
                         link = link.replace('‘',"'")
                         link = link.replace('’', "'")
+                        for char in invalidChars:
+                            link = link.replace(char, '')
                         try:
                             f.write('[[' + link + ']]\n')
                         except:
@@ -91,7 +100,10 @@ def buildGraph(minedKeywords, outPath):
                 pass
     return
 
-def main(query, limit):
+@click.command()
+@click.argument('query')
+@click.option('-l', '--limit', default = 500, type=int, help = 'Number of papers to mine. Default = 500')
+def cli(query, limit):
 
     pathQuery = query.replace(' ', '-') # Format for multi-word query strings
     mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit)
@@ -99,8 +111,7 @@ def main(query, limit):
     getpapersWrapper(query, mineFolderPath, limit)
     minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
     buildGraph(minedKeywords, 'vault')
-    #shutil.rmtree(mineFolderPath)
+    shutil.rmtree(mineFolderPath)
 
 if __name__ == '__main__':
-
-    main('genetic code expansion', 500)
+    cli()
