@@ -58,6 +58,7 @@ def buildGraph(minedKeywords, outPath):
     invalidChars = '<>:/"/\|?*'
     fontStyles = ['<i>', '</i>', '<sub>', '</sub>', '<b>', '</b>', '<sup>', '</sup>' ]
     for title, keywords in minedKeywords.items():
+
         for keyword in keywords:
             # Clean keyword, handle some weird symbol edge cases
             keyword = keyword.replace('\n', '')
@@ -66,17 +67,16 @@ def buildGraph(minedKeywords, outPath):
             keyword= keyword.replace('’', "'")
             for char in invalidChars:
                 keyword = keyword.replace(char, '')
-            # See if keyword index file already exists, make index file if does not exist
-            try:
-                f = open(os.path.join(outPath, keyword + '.md'), 'x')
-            except:
-                pass
+
             # Add links to the index file and the title at the start of the links
             try:
                 f = open(os.path.join(outPath, keyword + '.md'), 'a')
                 for html in fontStyles:
                         title = title.replace(html, '')
-                f.write(title + '\n')
+                try:
+                    f.write(title + '\n')
+                except:
+                    print('Warning: title was unwritable for', keyword)
                 for link in keywords:
                     if link != keyword:
                         link = link.replace('–', '-')
@@ -99,7 +99,7 @@ def main(query, limit):
     getpapersWrapper(query, mineFolderPath, limit)
     minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
     buildGraph(minedKeywords, 'vault')
-    shutil.rmtree(mineFolderPath)
+    #shutil.rmtree(mineFolderPath)
 
 if __name__ == '__main__':
 
