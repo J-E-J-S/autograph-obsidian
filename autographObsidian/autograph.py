@@ -4,6 +4,7 @@ import subprocess
 import json
 import shutil
 import click
+import signal
 
 def getpapersWrapper(query, mineFolderPath, limit):
 
@@ -100,18 +101,32 @@ def buildGraph(minedKeywords, outPath):
                 pass
     return
 
+def signalHandler(signum, frame, mineFolderPath):
+    # Removes local resources if mining interrupted
+    print('Process interrupted.')
+    shutil.rmtree(mineFolderPath)
+    print('Exiting...')
+    sys.exit()
+
 @click.command()
 @click.argument('query')
 @click.option('-l', '--limit', default = 500, type=int, help = 'Number of papers to mine. Default = 500')
 def cli(query, limit):
 
+    """Arguments:\n
+    QUERY The main search string.
+    """
+
     pathQuery = query.replace(' ', '-') # Format for multi-word query strings
     mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit)
 
-    getpapersWrapper(query, mineFolderPath, limit)
-    minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
-    buildGraph(minedKeywords, 'vault')
-    shutil.rmtree(mineFolderPath)
+    signal.signal(signal.SIGINT, lambda signum, frame: signalHandler(signum, frame, mineFolderPath))
+    while True:
+        getpapersWrapper(query, mineFolderPath, limit)
+        minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
+        buildGraph(minedKeywords, 'vault')
+        shutil.rmtree(mineFolderPath)
+        sys.exit()
 
 if __name__ == '__main__':
     cli()
