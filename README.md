@@ -1,8 +1,9 @@
 # AutoGraph-Obsidian: Automated Knowledge Graph Generation 🦾  
 
 ## Prerequisites:  
-* Python >= 3.6  
-* Nodejs >= 14.0  
+* [Python](https://www.python.org/downloads/) >= 3.6  
+* [Node.js](https://nodejs.org/en/) >= 14.0  
+* [Obsidian.md](https://obsidian.md/)
 
 ## Quickstart:
 ```
