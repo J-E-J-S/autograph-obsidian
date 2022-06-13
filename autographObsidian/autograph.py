@@ -135,13 +135,29 @@ def cli(query, limit):
     """
 
     pathQuery = query.replace(' ', '-') # Format for multi-word query strings
-    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine' + str(limit)) # Mine will be made in working directory of execution in form: query_mine500 (or limit)
+
+    # Getting bug when chaning directory as this is fed to shell in getpapersWrapper fn 
+    mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine-' + str(limit)) # Mine will be made in working directory
+    if os.path.exists(mineFolderPath):
+        print('WARNING: Directory destination for journal mine: ' + mineFolderPath + ', already exists! ')
+        print('Please rename or move this directory.')
+        print('Exiting...')
+        sys.exit()
+
+
+    # Check folder doesn't already exit, create unique ID if it does
+    vaultName = pathQuery + '-vault-' + str(limit)
+    if os.path.exists(vaultName):
+        count = 1
+        while os.path.exists(vaultName):
+            vaultName = pathQuery + '-vault-' + str(limit) + ' (' + str(count) + ')'
+            count += 1
 
     signal.signal(signal.SIGINT, lambda signum, frame: signalHandler(signum, frame, mineFolderPath))
     while True:
         getpapersWrapper(query, mineFolderPath, limit)
         minedKeywords = generateKeywords(os.path.join(mineFolderPath, 'eupmc_results.json'))
-        buildGraph(minedKeywords, 'vault')
+        buildGraph(minedKeywords, vaultName)
         shutil.rmtree(mineFolderPath)
         sys.exit()
 
