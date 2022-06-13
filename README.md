@@ -1,4 +1,4 @@
-# AutoGraph-Obsidian: Automated Knowledge Graph Generation 🦾  
+# AutoGraph-Obsidian: Automated Knowledge Graph Synthesis 🦾  
 
 ## Prerequisites:  
 * [Python](https://www.python.org/downloads/) >= 3.6  
