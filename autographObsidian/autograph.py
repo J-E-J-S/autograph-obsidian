@@ -136,7 +136,7 @@ def cli(query, limit):
 
     pathQuery = query.replace(' ', '-') # Format for multi-word query strings
 
-    # Getting bug when chaning directory as this is fed to shell in getpapersWrapper fn 
+    # Getting bug when chaning directory as this is fed to shell in getpapersWrapper fn
     mineFolderPath =  os.path.join(os.getcwd(), pathQuery + '-mine-' + str(limit)) # Mine will be made in working directory
     if os.path.exists(mineFolderPath):
         print('WARNING: Directory destination for journal mine: ' + mineFolderPath + ', already exists! ')
