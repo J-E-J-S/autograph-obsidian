@@ -32,7 +32,7 @@ e.g.
 autograph 'Genetic Code Expansion' -l 100
 ```
 ## Case Study  
-Generating the graph with autograph.  
+Generating the graph with autograph  
 
 ![](/assets/autograph.gif)
 
