@@ -40,3 +40,6 @@ Viewing the graph with Obsidian.md
 
 
 ![](/assets/case_study.gif)
+
+## Acknowledgements  
+The mining of scientific literature is handled by the [getpapers](https://github.com/ContentMine/getpapers) package developed by [ContentMine](https://contentmine.github.io/). 
