@@ -1,7 +1,7 @@
 # AutoGraph-Obsidian: Automated Knowledge Graph Generation.   
 
 ## Introduction  
-AutoGraph is a tool that enables rapid, automated knowledge graph generation. AutoGraph does this by mining scientific literature against a search query for keywords. From this data, an Obsidian vault is made where each mined keyword has its own markdown file containing: i) the name of the paper the keyword was scraped from and ii) links to other keywords from that paper. When two papers share a keyword, a link is established between those papers through those terms. Over many papers, this allows a network of interactions between articles in a field to be visualized. The purpose of this tool is not only to establish graph-based summaries of topics, but also to identify hidden links between divergent fields - largely inspired by the works of [Manfred Kochen](https://dblp.org/pid/31/4553.html).
+AutoGraph is a tool that enables rapid, automated knowledge graph generation. AutoGraph does this by mining scientific literature against a search query for keywords. From this data, an Obsidian vault is made where each mined keyword has its own markdown file containing: i) the name of the paper the keyword was scraped from and ii) links to other keywords from that paper. When two papers share a keyword, a link is established between those articles through that term. Over many papers, this allows a network of interactions between articles in a field to be visualized. The purpose of this tool is not only to establish graph-based summaries of topics, but also to identify hidden links between divergent fields - largely inspired by the works of [Manfred Kochen](https://dblp.org/pid/31/4553.html).
 
 
 ## Prerequisites:  
