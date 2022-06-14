@@ -1,4 +1,4 @@
-# AutoGraph-Obsidian: Automated Knowledge Graph Synthesis 🦾  
+# AutoGraph-Obsidian: Automated Knowledge Graph Construction.   
 
 ## Prerequisites:  
 * [Python](https://www.python.org/downloads/) >= 3.6  
@@ -27,3 +27,12 @@ e.g.
 ```
 autograph 'Genetic Code Expansion' -l 100
 ```
+## Case Study  
+Generating the graph with autograph.  
+
+![](/assets/autograph.gif)
+
+Viewing the graph with Obsidian.md
+
+
+![](/assets/case_study.gif)
