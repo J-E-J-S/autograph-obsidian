@@ -9,24 +9,27 @@ import signal
 def getpapersWrapper(query, mineFolderPath, limit):
 
     # This function will search EUPMC based on query and return eupmc_results.json with collated results
-
-    base = 'cmd /c getpapers -q ' # base of getpapers request
-    query = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
-    output_dir = ('{}' + mineFolderPath).format(' -o ') # spacing and option
-    limit = ('{}' + str(limit)).format(' -k ')
-    command = base + query + output_dir + limit + ' -x -a' # get xml and search all papers not just open-access
-    # Try to see if getpapers is installed
+    stringedQuery = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     try:
-        subprocess.run(command, check = True)
-    except subprocess.CalledProcessError:
+        subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True) # get xml and search all papers not just open-access
+    except:
         print('getpapers not found, begining install with npm.')
         try:
             os.system('npm install -g getpapers')
-            print('getpapers installed.')
-            os.system(command)
+            # Try to repeat command 
+            try: 
+                subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True)
+            except: 
+                print('Process Failed:')
+                print('Try run autograph with admin permissions OR')
+                print('Try download getpapers independently from: https://www.npmjs.com/package/getpapers')
+                return sys.exit(1)
+                
         except:
-            print('npm not found, please install npm.')
-
+            print('Process Failed:')
+            print('Ensure npm is installed or install from: https://www.npmjs.com/')
+            print('Ensure autograph is run with admin permissions or download getpapers independently from https://www.npmjs.com/package/getpapers')
+            return sys.exit(1)
     return
 
 def generateKeywords(paperScrapePath):
