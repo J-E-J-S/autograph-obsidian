@@ -23,7 +23,7 @@ Usage: autograph [OPTIONS] QUERY
   QUERY The main search string.
 
 Options:
-  -l, --limit INTEGER  Number of papers to mine. Default = 500
+  -l, --limit INTEGER  Number of papers to mine. Default = 500.
   -v, --version        Show version number and exit.
   --help               Show this message and exit.
 ```
