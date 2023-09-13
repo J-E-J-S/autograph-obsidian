@@ -51,8 +51,6 @@ def generateKeywords(paperScrapePath):
             keywordsDic[title] = data['papers'][article]['keywordList']['keyword']
         except:
             continue
-
-
     return keywordsDic
 
 def buildGraph(minedKeywords, outPath):
@@ -149,7 +147,6 @@ def cli(query, limit):
         print('Please rename or move this directory.')
         print('Exiting...')
         sys.exit()
-
 
     # Check folder doesn't already exit, create unique ID if it does
     vaultName = pathQuery + '-vault-' + str(limit)
