@@ -6,12 +6,11 @@ AutoGraph is a tool that enables rapid, automated knowledge graph generation. Au
 
 ## Prerequisites:  
 * [Python](https://www.python.org/downloads/) >= 3.6  
-* [Node.js](https://nodejs.org/en/) >= 14.0  
 * [Obsidian.md](https://obsidian.md/)
 
 ## Quickstart:
 ```
-pip install autograph-obsidian
+pip3 install autograph-obsidian
 ```
 
 ## Usage:  
@@ -42,4 +41,4 @@ Viewing the graph with Obsidian.md
 ![](/assets/case_study.gif)
 
 ## Acknowledgements  
-The mining of scientific literature is handled by the [getpapers](https://github.com/ContentMine/getpapers) package developed by [ContentMine](https://contentmine.github.io/).
+The mining of scientific literature is handled by the [pygetpapers](https://github.com/petermr/pygetpapers) package developed by [ContentMine](https://contentmine.github.io/).
