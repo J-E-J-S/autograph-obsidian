@@ -15,7 +15,8 @@ setup(
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
         install_requires=[
-            'click==7.1.2'
+            'click==7.1.2', 
+            'pygetpapers==1.2.5'
         ],
         entry_points = {
             'console_scripts':['autograph=autographObsidian.autograph:cli']

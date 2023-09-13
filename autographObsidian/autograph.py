@@ -11,26 +11,28 @@ def getpapersWrapper(query, mineFolderPath, limit):
     # This function will search EUPMC based on query and return eupmc_results.json with collated results
     stringedQuery = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     try:
-        subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True) # get xml and search all papers not just open-access
+        subprocess.run(['pygetpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit)], check = True)
+    # Add conditional handling for if pygetpapers not installed. 
     except:
-        print('getpapers not found, begining install with npm.')
-        try:
-            os.system('npm install -g getpapers')
-            # Try to repeat command 
-            try: 
-                subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True)
+        install = input('pygetpapers not found. Attempt to install? [Y/N]')
+        if install == 'Y' or install == 'y' or install == 'yes':
+            try:
+                os.system('pip3 install pygetpapers')
+                # Try to repeat command 
+                try: 
+                    subprocess.run(['pygetpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit)], check = True)
+                except: 
+                    print('Process Failed:')
+                    print('Try run autograph with admin permissions OR')
+                    print('Try download pygetpapers manually: https://pypi.org/project/pygetpapers/')
             except: 
                 print('Process Failed:')
-                print('Try run autograph with admin permissions OR')
-                print('Try download getpapers independently from: https://www.npmjs.com/package/getpapers')
-                return sys.exit(1)
-                
-        except:
-            print('Process Failed:')
-            print('Ensure npm is installed or install from: https://www.npmjs.com/')
-            print('Ensure autograph is run with admin permissions or download getpapers independently from https://www.npmjs.com/package/getpapers')
-            return sys.exit(1)
-    return
+                print('Ensure autograph is run with admin permissions or download pygetpapers independently from https://pypi.org/project/pygetpapers/')
+                return sys.exit(1) 
+        else:
+            print('Process Failed.')
+            return sys.exit(1) 
+    return 
 
 def generateKeywords(paperScrapePath):
 
@@ -40,16 +42,15 @@ def generateKeywords(paperScrapePath):
         data = json.load(f)
 
     keywordsDic = {} # Holds { title_1 : [keyword1, keyword 2], title_2 : [keyword_1, .. , ]}
-    count = 0
-    for article in data:
+    for article in data['papers']:
         # Ignore items that don't have explicit keywords
         try:
-            title = article['title'][0]
-            keywordsDic[title] = article['keywordList'][0]['keyword']
+            title = data['papers'][article]['title']
+            date = data['papers'][article]['journalInfo']['yearOfPublication']
+            title = title + ' (' + date + ')'
+            keywordsDic[title] = data['papers'][article]['keywordList']['keyword']
         except:
             continue
-        count += 1
-
     return keywordsDic
 
 def buildGraph(minedKeywords, outPath):
@@ -146,7 +147,6 @@ def cli(query, limit):
         print('Please rename or move this directory.')
         print('Exiting...')
         sys.exit()
-
 
     # Check folder doesn't already exit, create unique ID if it does
     vaultName = pathQuery + '-vault-' + str(limit)
