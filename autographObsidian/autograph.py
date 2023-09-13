@@ -12,11 +12,27 @@ def getpapersWrapper(query, mineFolderPath, limit):
     stringedQuery = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     try:
         subprocess.run(['pygetpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit)], check = True)
-                    
+    # Add conditional handling for if pygetpapers not installed. 
     except:
-        print('Process Failed:')
-
-    return
+        install = input('pygetpapers not found. Attempt to install? [Y/N]')
+        if install == 'Y' or install == 'y' or install == 'yes':
+            try:
+                os.system('pip3 install pygetpapers')
+                # Try to repeat command 
+                try: 
+                    subprocess.run(['pygetpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit)], check = True)
+                except: 
+                    print('Process Failed:')
+                    print('Try run autograph with admin permissions OR')
+                    print('Try download pygetpapers manually: https://pypi.org/project/pygetpapers/')
+            except: 
+                print('Process Failed:')
+                print('Ensure autograph is run with admin permissions or download pygetpapers independently from https://pypi.org/project/pygetpapers/')
+                return sys.exit(1) 
+        else:
+            print('Process Failed.')
+            return sys.exit(1) 
+    return 
 
 def generateKeywords(paperScrapePath):
 
