@@ -11,25 +11,11 @@ def getpapersWrapper(query, mineFolderPath, limit):
     # This function will search EUPMC based on query and return eupmc_results.json with collated results
     stringedQuery = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     try:
-        subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True) # get xml and search all papers not just open-access
+        subprocess.run(['pygetpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit)], check = True)
+                    
     except:
-        print('getpapers not found, begining install with npm.')
-        try:
-            os.system('npm install -g getpapers')
-            # Try to repeat command 
-            try: 
-                subprocess.run(['getpapers', '-q', stringedQuery, '-o', mineFolderPath, '-k', str(limit), '-x', 'a'], check = True)
-            except: 
-                print('Process Failed:')
-                print('Try run autograph with admin permissions OR')
-                print('Try download getpapers independently from: https://www.npmjs.com/package/getpapers')
-                return sys.exit(1)
-                
-        except:
-            print('Process Failed:')
-            print('Ensure npm is installed or install from: https://www.npmjs.com/')
-            print('Ensure autograph is run with admin permissions or download getpapers independently from https://www.npmjs.com/package/getpapers')
-            return sys.exit(1)
+        print('Process Failed:')
+
     return
 
 def generateKeywords(paperScrapePath):
@@ -40,15 +26,16 @@ def generateKeywords(paperScrapePath):
         data = json.load(f)
 
     keywordsDic = {} # Holds { title_1 : [keyword1, keyword 2], title_2 : [keyword_1, .. , ]}
-    count = 0
-    for article in data:
+    for article in data['papers']:
         # Ignore items that don't have explicit keywords
         try:
-            title = article['title'][0]
-            keywordsDic[title] = article['keywordList'][0]['keyword']
+            title = data['papers'][article]['title']
+            date = data['papers'][article]['journalInfo']['yearOfPublication']
+            title = title + ' (' + date + ')'
+            keywordsDic[title] = data['papers'][article]['keywordList']['keyword']
         except:
             continue
-        count += 1
+
 
     return keywordsDic
 
